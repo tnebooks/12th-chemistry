@@ -3,8 +3,6 @@ title: 'Concentration of ores'
 weight: 2
 ---
 
-TODO
-
 
 ## Concentration of ores
  Generally, the ores are associated with nonmetallic impurities, rocky materials and siliceous
