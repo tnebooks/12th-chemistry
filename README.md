@@ -4,5 +4,5 @@ Materails
 
 ## Dev
 ```sh
-hugo server --themesDir ../
+hugo server --themesDir ../h
 ```
