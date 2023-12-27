@@ -1,50 +1,33 @@
 ---
-title: 'Adsorption and Absorption'
+title: "Adsorption and Absorption"
 weight: 1
 ---
 
+Solid surfaces have the ability to attract the contacting species due to free valency or residual force on them.
 
+**For example:** charcoal adsorbs ammonia, silica gel adsorbs water., charcoal adsorbs colorants from sugar.
 
+These examples prove that adsorption is a surface phenomenon. In contrast to adsorption, absorption is a bulk phenomenon i.e. the adsorbate molecules are distributed throughout the adsorbent.
 
-## Adsorption and Absorption
- Solid surfaces have the ability to attract the contacting species due to free valency or
+- Adsorbent is the material on which adsorption takes place.
 
-residual force on them. **For example:** charcoal adsorbs ammonia, silica gel adsorbs water., charcoal adsorbs
+- Adsorbed substance is called an adsorbate.
 
-colorants from sugar. These examples prove that adsorption is a surface phenomenon. In contrast to adsorption,
+* The surface of separation of the two phases where the concentration of adsorbed molecule is high is known as interface.
 
-absorption is a bulk phenomenon i.e. the adsorbate molecules are distributed throughout the adsorbent.
+* In adsorption, if the concentration of a substance in the interface is high, then it is called positive adsorption. If it is less, then it is called negative adsorption.
 
-’ Adsorbent is the material on which adsorption takes place.
+* The process of removing an adsorbed substance from the surface is called desorption.
 
-’ Adsorbed substance is called an adsorbate.
+* The gaseous molecules like He, Ne, O<sub>2</sub>, N<sub>2</sub>, SO<sub>2</sub> and NH<sub>3</sub> and solutions of NaCl or KCl can be adsorbed by suitable adsorbents. These are referred as adsorbates.
 
-’ The surface of separation of the two phases where the concentration of adsorbed molecule is high is known as interface.
-
-’ In adsorption, if the concentration of a substance in the interface is high, then it is called positive adsorption. If it is less, then it is called negative adsorption.
-
-’ The process of removing an adsorbed substance from the surface is called desorption.
-
-’ The gaseous molecules like He, Ne,O ,N ,SO and NH2 2 2 3 and solutions of NaCl or KCl can be adsorbed by suitable adsorbents. These are referred as adsorbates.
-
-’ Silica gel and metals like Ni,Cu, Pt, Ag and Pd and certain colloids can act as adsorbents.
-
-XII U10-Surface Chemistry.indd 70 2/19/2020 5:11:51 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-71
+* Silica gel and metals like Ni, Cu, Pt, Ag and Pd and certain colloids can act as adsorbents.
 
 **Characteristics of adsorption**
 
 1\. Adsorption can occur in all interfacial surfaces i.e. the adsorption can occur in between gas-solid, liquid solid, liquid-liquid, solid- solid and gas-liquid.
 
-2\. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When DG reaches zero, the equilibrium is attained.
+2\. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When $\Delta$ G reaches zero, the equilibrium is attained.
 
 We know, D D DG = H - T S where DG is Change in Free energy.
 
@@ -56,12 +39,9 @@ ie., ∆S<0, and T∆S is negative. Hence, adsorption is exothermic.
 
 Adsorption is a quick process whereas absorption is a slow process.
 
-M.C. Bain introduced a term ‘sorption’ to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of
-
-gases on metal surfaces.
+M.C. Bain introduced a term ‘sorption’ to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
 
 ### Types of adsorption
-
 
 Adsorption is classified as physical adsorption and chemical adsorption, depending on the nature of forces acting between adsorbent and adsorbate. In chemical adsorption, gas molecules are held to the surface by formation of chemical bonds. Since strong bond is formed, nearly 400 KJ / mole is given out as heat of adsorption.
 
@@ -75,63 +55,29 @@ The following table 10.1 illustrates the distinction between chemical and physic
 
 **Table 10.1 Distinction between chemical and physical adsorption**
 
-**Chemical adsorption or Chemisorption or Activated adsorption**
-
-**Physical adsorption or van der waals adsorption or Physisorption**
-
-1\. It is very slow 1. It is instantaneous
-
-2\. It is very specific depends on nature of adsorbent and adsorbate.
-
-2\. It is non-specific
-
-XII U10-Surface Chemistry.indd 71 2/19/2020 5:11:58 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Chemical ads orption or C hemisorption or Activated adsorption |Physical  adsorption  or  van  der  waals adsorption or Physisorption |
-|------|------|
-| 1. It is ver y slow |1. It is instantaneous |
-| 2. It  is  ver y  specic  depends o n  nature  of adsorbent and adsorbate. |2. It is non-specic |
-  
-
-72
-
-3\. Chemical adsorption is fast with increase pressure, it can not alter the amount.
-
-3\. In Physisorption, when pressure increases the extent of adsorption increases.
-
-4\. When temperature is raised chemisorption first increases and then decreases.
-
-4\. Physisorption decreases with increase in temperature.
-
-5\. Chemisorption involves transfer of electrons between the adsorbent and adsorbate.
-
-5\. No transfer of electrons
-
-6\. Heat of adsorption is high i.e., from 40- 400kJ/mole.
-
-6\. Heat of adsorption is low in the order of 40kJ/mole.
-
-7\. Monolayer of the adsorbate is formed. 7. Multilayer of the adsorbate is formed on the adsorbent.
-
-8\. Adsorption occurs at fixed sites called active centres. It depends on surface area
-
-8\. It occurs on all sides.
-
-9\. Chemisorption involves the formation of activated complex with appreciable activation energy.
-
-9\. Activation energy is insignificant.
+| Chemical ads orption or C hemisorption or Activated adsorption                                   | Physical adsorption or van der waals adsorption or Physisorption                 |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| 1. It is ver y slow                                                                              | 1. It is instantaneous                                                           |
+| 2. It is ver y specic depends o n nature of adsorbent and adsorbate.                            | 2. It is non-specic                                                             |
+| 3. Chemical adsorption is fast with increase pressure, it can not alter the amount.              | 3. In Physisorption, when pressure increases the extent of adsorption increases. |
+| 4. When temperature is raised chemisorption first increases and then decreases.                  | 4. Physisorption decreases with increase in temperature.                         |
+| 5. Chemisorption involves transfer of electrons between the adsorbent and adsorbate.             | 5. No transfer of electrons                                                      |
+| 6. Heat of adsorption is high i.e., from 40- 400kJ/mole.                                         | 6. Heat of adsorption is low in the order of 40kJ/mole.                          |
+| 7. Monolayer of the adsorbate is formed.                                                         | 7. Multilayer of the adsorbate is formed on the adsorbent.                       |
+| 8. Adsorption occurs at fixed sites called active centres. It depends on surface area            | 8. It occurs on all sides.                                                       |
+| 9. Chemisorption involves the formation of activated complex with appreciable activation energy. | 9. Activation energy is insignificant.                                           |
 
 ### Factors affecting adsorption
- The adsorption is well understood by considering the various factors affecting it. Qualitatively, the extent of surface adsorption depends on the following factors
 
-(i) Nature of adsorbent (ii) Nature of adsorbate (iii) Pressure (iv) Concentration at a given temperature.
+The adsorption is well understood by considering the various factors affecting it. Qualitatively, the extent of surface adsorption depends on the following factors
+
+(i) Nature of adsorbent
+
+(ii) Nature of adsorbate
+
+(iii) Pressure
+
+(iv) Concentration at a given temperature.
 
 1\. **Surface area of adsorbent:**
 
@@ -139,34 +85,7 @@ As the adsorption is a surface phenomenon it depends on the surface area of adso
 
 2\. **Nature of adsorbate**
 
-The nature of adsorbate can influence the adsorption. Gases like SO ,NH ,HCl and CO2 3 2
-
-are easily liquefiable as they have greater van der waal’s force of attraction. On the other hand, permanent gases like H ,N and O
-
-2 2 2 can not be liquefied easily. These permanent gases are
-
-having low critical temperature and adsorbed slowly, while gases with high critical temperature are adsorbed readily.
-
-XII U10-Surface Chemistry.indd 72 2/19/2020 5:11:59 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| 3. Chemical adsorption is fast with increase pressure, it can not alter the amount. |3. In Physisorption, when pressure increases the extent of  adsorption increases. |
-|------|------|
-| 4. When t emperature i s ra ised chemisorption r st in creases a nd t hen decreases. |4. Physisorption  decreases  with  increase  in temperature. |
-| 5. Chemisorption in volves t ransfer o f electrons b etween t he ad sorbent a nd adsorbate. |5. No transfer of electrons |
-| 6. Heat o f ad sorption i s hig h i .e., f rom 40-400kJ/mole. |6. Heat  of  adsorption  is  low  in  the  order  of 40kJ/mole. |
-| 7. Monolayer of the adsorbate is formed. |7. Multilayer of the  adsorbate is formed on the adsorbent. |
-| 8. Adsorption o ccurs a t x ed si tes c alled active centres. It depends on surface area |8. It occurs on all sides. |
-| 9. Chemisorption in volves t he f ormation of ac tivated co mplex w ith a ppreciable activation energ y. |9. Activation energ y is insignicant. |
-  
-
-73
+The nature of adsorbate can influence the adsorption. Gases like SO ,NH ,HCl and CO2 3 2 are easily liquefiable as they have greater van der waal’s force of attraction. On the other hand, permanent gases like H<sub>2</sub> ,N<sub>2</sub> and O<sub>2</sub> can not be liquefied easily. These permanent gases are having low critical temperature and adsorbed slowly, while gases with high critical temperature are adsorbed readily.
 
 3\. **Effect of temperature**
 
@@ -177,35 +96,18 @@ When temperature is raised chemisorption first increases and then decreases. whe
 chemical adsorption is fast with increase in pressure, it can not alter the amount of adsorption. In Physisorption the extent of adsorption increases with increase in pressure.
 
 ### Adsorption isotherms and isobars.
- Adsorption isotherms represents the variation of adsorption at constant temperature. When amount of adsorption is plotted versus temperature at constant pressure it is called
 
-adsorption isobar. Adsorption isobars of physisorption and chemisorption are different as represented in the
+Adsorption isotherms represents the variation of adsorption at constant temperature.
 
-graphs.
+When amount of adsorption is plotted versus temperature at constant pressure it is called adsorption isobar.
+
+Adsorption isobars of physisorption and chemisorption are different as represented in the graphs.
 
 **Figure 10.1 (a) Physical Adsorption Figure 10.1 (b) Chemical Adsorption**
 
-Temp
-
-m x
-
-Temp
-
-m x
-
 x is the amount of adsorbate adsorbed on ‘m’ g of adsorbent.
 
-In physical adsorption, x m
-
-decreases with increase in Temprature, But in chemical
-
-adsorption, x m
-
-increases with rise in temperature and then decreases. The increase illustrates
-
-the requirement of activation of the surface for adsorption is due to fact that formation of
-
-activated complex requires certain energy. The decrease at high temperature is due to desorption, as the kinetic energy of the
+In physical adsorption, x m decreases with increase in Temprature, But in chemical adsorption, x m increases with rise in temperature and then decreases. The increase illustrates the requirement of activation of the surface for adsorption is due to fact that formation of activated complex requires certain energy. The decrease at high temperature is due to desorption, as the kinetic energy of the
 
 adsorbate increases.
 
@@ -214,17 +116,6 @@ adsorbate increases.
 adsorbate adsorbed and pressure (or concentration of adsorbate) at constant temperature is called adsorption isotherms.
 
 In order to explain these isotherms various equations were suggested as follows:
-
-XII U10-Surface Chemistry.indd 73 2/19/2020 5:12:02 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-74
 
 (i) Freundlich adsorption isotherm. According to Freundlich,
 
@@ -274,11 +165,11 @@ Freundhich adsorption isothermi plot of _x/m_ against _p_
 
 _x/m_
 
-_x_ _p_1_m x_ _p_0_m_
+_x_ *p_1_m x* *p_0_m*
 
 _x_ _p_1/n
 
-_p_
+*p*
 
 _m_
 
@@ -300,35 +191,7 @@ This equation is purely empirical and valid over a limited pressure range.
 
 The values of constants k and n also found vary with temperature. No theoretical explanations were given.
 
-XII U10-Surface Chemistry.indd 74 2/19/2020 5:12:08 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-| slop |
-
-
-
-
-| m p mx |
-|------|------|------|------|
-
-
-
-| mp1/n |
-
-  
-
-75
-
 ### Applications of adsorption
-
 
 Though we have innumerable applications for adsorption, we consider few of them
 
@@ -375,17 +238,6 @@ Sugar prepared from molasses is decolourised to remove coloured impurities by ad
 7\. **Chromatography**
 
 The chromatographic technique is applied for separation of components in a mixture. It is mainly based on adsorption of components on the surface of adsorbents. This method is very effective and used for identification, detection and estimation of many substances even if they are contained in micro quantities.
-
-XII U10-Surface Chemistry.indd 75 2/19/2020 5:12:09 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-76
 
 8\. **Catalysed reaction**
 
