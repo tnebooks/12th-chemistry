@@ -2,6 +2,10 @@
 title: 'Rate of a chemical reaction'
 weight: 1
 ---
+
+
+
+
 ## Rate of a chemical reaction:
  A rate is a change in a particular
 
@@ -9,43 +13,30 @@ variable per unit time. You have already learnt in physics that change in the di
 
 Let us consider a simple general reaction
 
-_A B_  → The concentration of the reactant
+A → B
+The concentration of the reactant
 
-(\[A\]) can be measured at different time intervals. Let the concentration of A at two different times 2t and 2t , (t2>t1) be \[A1\] and \[A2\] respectively. The rate of the reaction can be expressed as
+(\[A\]) can be measured at different time intervals. Let the concentration of A at two different times 2t and 2t , (t&#x2082;>t&#x2081;) be \[A&#x2081;\] and \[A&#x2082;\] respectively. The rate of the reaction can be expressed as
 
 Rate=
 
-– \[Change in the concentration of the reactants\] (Change in time)
+– \[Change in the concentration of the reactants\] /(Change in time)
 
-i.e., Rate A A
-
-t -t - \[A\]
-
-t 2 1
-
-2 1
-
-\= =  
-
- 
-
-**\-** (\[ \] \[ \]) ( )
-
-_\-_ ∆ ∆  
+i.e., Rate -(\[A&#x2082;\]-\[A&#x2081;\])t&#x2082;-t&#x2081;= -( ∆\[A\]/ ∆t)
 
 ...(7.1)
 
-During the reaction, the concentration of the reactant decreases i.e. \[A \]2 < \[A \]1 and hence the change in concentration \[A \] \[A \]2 1- gives a negative value. By convention the reaction rate is a positive one and hence a negative sign is introduced in the rate expression (equation 7.1)
+During the reaction, the concentration of the reactant decreases i.e. \[A&#x2082; \] < \[A&#x2081; \] and hence the change in concentration \[A&#x2082; \]- \[A&#x2081; \] gives a negative value. By convention the reaction rate is a positive one and hence a negative sign is introduced in the rate expression (equation 7.1)
 
 If the reaction is followed by measuring
 
 the product concentration, the rate is given
 
-by ∆ ∆ \[B\]
+by 
+( ∆\[B\]/ ∆t)
 
-t  
 
-  since \[B \]>\[B \]2 1 , no minus sign
+since \[B&#x2082; \]>\[B&#x2081; \] , no minus sign
 
 is required here.
 
@@ -71,45 +62,32 @@ For a gas phase reaction, the concentration of the gaseous species is usually ex
 ### Stoichiometry and rate of a reaction:
 
 
-In a reaction A B  → , the stoichiometry of both reactant and product are same, and hence the rate of disappearance of reactant (A) and the rate of appearance of product (B) are same.
+In a reaction A →B , the stoichiometry of both reactant and product are same, and hence the rate of disappearance of reactant (A) and the rate of appearance of product (B) are same.
 
 Now, let us consider a different reaction
 
-A 2B  →
+A→2B
 
 In this case, for every mole of A, that disappears two moles of B appear, i.e., the rate of formation of B is twice as fast as the rate of disappearance of A. therefore, the rate of the reaction can be expressed as below
 
-Rate = + d\[B\] dt
+Rate = + d\[B\]/ dt
 
-\-d\[A\] dt
+2(\-d\[A\]/dt)
 
-\=  
-
- 
-
-2
 
 In other words,
 
-Rate = -d\[A\] dt
+Rate = -d\[A\] dt=
 
-d\[B\] dt
+1(d\[B\]) /2(dt)
 
-\= 1 2
+
 
 For a general reaction, the rate of the reaction is equal to the rate of consumption of a reactant (or formation of a product) divided by its coefficient in the balanced equation
 
-_x y l m_A + B C + D  →
+xA + yB  →lC +mD
 
-Rate - d\[A\] dt
-
-\- d\[B\] dt
-
-d\[C\] dt
-
-d\[D\] dt
-
-\= = = =1 1 1 1 _x y l m_
+Rate =- 1(d\[A\])/x (dt)= \- 1d\[B\]/ y dt=1 d\[C\]/ ldt = 1d\[D\]/ mdt
 
 0
 
