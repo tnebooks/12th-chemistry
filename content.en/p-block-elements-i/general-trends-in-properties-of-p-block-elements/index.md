@@ -27,6 +27,7 @@ www.tntextbooks.in
 28
 
 **Table 2.1 General electronic configurations and oxidation states of p-block elements**
+![alt Text](../Table2.1.png)
 
 **Group No. 13 14 15 16 17 18** Group Name
 
@@ -50,6 +51,8 @@ Other observed oxidation states
 
 
 The tendency of an element to form a cation by loosing electrons is known as electropositive or metallic character. This character depends on the ionisation energy. Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
+
+![alt text](../Fig2.1-p-block.png)
 
 13 14 15 16 17
 
@@ -194,6 +197,8 @@ www.tntextbooks.in
 31
 
 **Table 2.2 : Some of common allotropes of p-block elements**
+
+![alt text](../Table2.2.png)
 
 **Element Most common allotropes**
 
