@@ -2197,7 +2197,7 @@ ONa
 
 **c)** **From aniline**
 
-Aniline is diazotized with nitrous acid ( NaNO +HCl2 ) at 273-278K to give benzene diazonium chloride which on further treatment with hot water in the presence of mineral acid gives phenol.
+Aniline is diazotized with nitrous acid ( NaNO<sub>2</sub> +HCl ) at 273-278K to give benzene diazonium chloride which on further treatment with hot water in the presence of mineral acid gives phenol.
 ![Alt text](126-aniline.png)
 <!-- Aniline
 
@@ -2217,7 +2217,7 @@ H2O N2 ++ HCl -->
 
 **d)** **From cumene**
 
-A mixture of benzene and propene is heated at 523K in a closed vessel in presence of H PO3 4 catalyst gives cumene (isopropylbenzene). On passing air to a mixture of cumene and 5% aqueous sodium carbonate solution, cumene hydro peroxide is formed by oxidation. It is treated with dilute acid to get phenol and acetone. Acetone is also an important byproduct in this reaction.
+A mixture of benzene and propene is heated at 523K in a closed vessel in presence of H<sub>3</sub>PO<sub>4</sub> catalyst gives cumene (isopropylbenzene). On passing air to a mixture of cumene and 5% aqueous sodium carbonate solution, cumene hydro peroxide is formed by oxidation. It is treated with dilute acid to get phenol and acetone. Acetone is also an important byproduct in this reaction.
 
 
 
@@ -2287,7 +2287,7 @@ group which is attached to the aromatic ring is eliminated.
 
 phenol benzene -->
 
-**b)** **Reaction with ammonia:** Phenol on heating with ammonia in presence of anhydrous ZnCl2 gives aniline.
+**b)** **Reaction with ammonia:** Phenol on heating with ammonia in presence of anhydrous ZnCl<sub>2</sub> gives aniline.
 ![Alt text](127-ammonia.png)
 <!-- \+ NH3 anhydrous ZnCl2
 
@@ -2345,7 +2345,7 @@ Phenol Sodium Phenoxide Anisole methoxybenzene( ) -->
 
 **d)** **Oxidation:**
 
-Phenol undergoes oxidation with air or acidified K2Cr2O7 with conc. H SO2 4 to form 1,4-benzoquinone.
+Phenol undergoes oxidation with air or acidified K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> with conc. H<sub>2</sub>SO<sub>4</sub> to form 1,4-benzoquinone.
 ![Alt text](128-oxidation.png)
 <!-- Phenol
 
@@ -2385,7 +2385,7 @@ We have already learnt in XI standard that the groups like -OH, -NH2, etc., whic
 
 **Common electrophilic aromatic substitutions are as follows:**
 
-**i)** **Nitrosation:** Phenol can be readily nitrosoated at low temperature with HNO2.
+**i)** **Nitrosation:** Phenol can be readily nitrosoated at low temperature with HNO<sub>2</sub>.
 
 ![Alt text](128-nitrosation.png)
 
@@ -2436,7 +2436,7 @@ paranitrophenol -->
 
 The ortho and para isomers are separated by steam distillation, as o-nitro phenol is slightly soluble in water and more volatile due to intra molecular hydrogen bonding, whereas p-nitro phenol is more soluble in water and less volatile due to intermolecular hydrogen bonding.
 
-Nitration with Conc. HNO +con.H SO3 2 4 gives picric acid.
+Nitration with Conc. HNO<sub>3</sub> +con.H<sub>2</sub>SO<sub>4</sub> gives picric acid.
 ![Alt text](129-nitration-2.png)
 <!-- Conc. HNO3
 
@@ -2462,7 +2462,7 @@ NO2S -->
 
 **iii)** **Sulphonation:**
 
-Phenol reacts with con.H SO2 4 at 280K to form o-phenol sulphonic acid as the major product. When the reaction is carried out at 373K the major product is p-phenol sulphonic acid.
+Phenol reacts with con.H<sub>2</sub>SO<sub>4</sub> at 280K to form o-phenol sulphonic acid as the major product. When the reaction is carried out at 373K the major product is p-phenol sulphonic acid.
 
 ![Alt text](129-sulphonation.png)
 
@@ -2532,7 +2532,7 @@ Br2 CCl4, -->
 
 **v)** **Kolbe’s (or) Kolbe’s Schmit reaction:** In this reaction, phenol is first converted into sodium phenoxide which is more reactive
 
-than phenol towards electrophilic substitution reaction with CO2 . Treatment of sodium phenoxide with CO2 at 400K, 4-7 bar pressure followed by acid hydrolysis gives salicylic acid.
+than phenol towards electrophilic substitution reaction with CO<sub>2</sub> . Treatment of sodium phenoxide with CO<sub>2</sub> at 400K, 4-7 bar pressure followed by acid hydrolysis gives salicylic acid.
 ![Alt text](130-kolbes.png)
 <!-- NaOH 400K H+/H2O+CO2 4-7 bar
 
@@ -2546,7 +2546,7 @@ COOH
 
 phenol sodium phenoxide sodium salicylate -->
 
-**vi)** **Riemer – Tiemann Reaction:** On treating phenol with CHCl /NaOH, a -CHO 3 group is introduced at ortho position.
+**vi)** **Riemer – Tiemann Reaction:** On treating phenol with CHCl<sub>3</sub> /NaOH, a -CHO  group is introduced at ortho position.
 
 This reaction proceeds through the formation of substituted benzal chloride intermediate.
 ![Alt text](130-riemer.png)
@@ -2581,7 +2581,7 @@ www.tntextbooks.in
 
 131
 
-**vii)** **Phthalein reaction:** On heating phenol with phthalic anhydride in presence of con.H SO2 4 , phenolphthalein
+**vii)** **Phthalein reaction:** On heating phenol with phthalic anhydride in presence of con.H<sub>2</sub>SO<sub>4</sub> , phenolphthalein
 
 is obtained.
 
@@ -2635,7 +2635,7 @@ Phenol -->
 
 i) Phenol react with benzene diazonium chloride to form a red orange dye, but ethanol has no reaction with it.
 
-ii) Phenol gives purple colouration with neutral ferric chloride solution, alcohols do not give such coloration with FeCl3 .
+ii) Phenol gives purple colouration with neutral ferric chloride solution, alcohols do not give such coloration with FeCl<sub>3</sub> .
 
 iii) Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not react with NaOH .
 
@@ -2647,7 +2647,7 @@ iii) Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not re
 
 3) It is used as an antiseptic-carbolic lotion and carbolic soaps.
 
-XII U11-Hydroxy compounds.indd 131 2/19/2020 5:14:13 PM
+
 
 www.tntextbooks.in
 
@@ -2659,8 +2659,9 @@ www.tntextbooks.in
 132
 
 **Evaluate Yourself**
+![Alt text](132-evaluate.png)
 
-1\. Which of the following set of reactants will give 1-methoxy-4-nitrobenzene.
+<!-- 1\. Which of the following set of reactants will give 1-methoxy-4-nitrobenzene.
 
 \+ CH3ONa(i) BrO2N
 
@@ -2668,14 +2669,15 @@ www.tntextbooks.in
 
 2\. what happens when m-cresol is treated with acidic solution of sodium dichromate?
 
-3\. when phenol is treated with propan-2-ol in the presence of HF, Friedel-Craft reaction takes place . Identify the products.
+3\. when phenol is treated with propan-2-ol in the presence of HF, Friedel-Craft reaction takes place . Identify the products. -->
 
 **Ethers:**
 
-Ethers are a class of organic compound in which an oxygen atom is connected to two alkyl/aryl groups ( R - O - R ) . Ethers can be considered as the derivatives of hydrocarbon in which one hydrogen atom is replaced by an alkoxy ( -OR ) or an aryloxy( -OAr ) group. The general formula of aliphatic ether is C H On 2n+2 .
+Ethers are a class of organic compound in which an oxygen atom is connected to two alkyl/aryl groups ( R - O - R ) . Ethers can be considered as the derivatives of hydrocarbon in which one hydrogen atom is replaced by an alkoxy ( -OR ) or an aryloxy( -OAr ) group. The general formula of aliphatic ether is C<sub>n</sub>H<sub>2n+2</sub>O.
 
 **Classification:**
-
+![Alt text](132-classification.png)
+<!-- 
 Ethers
 
 Simple ethers Mixed ethers (both alkyl or aryl groups attached to oxygen atom are same
@@ -2702,9 +2704,8 @@ methoxy benzene
 
 CH3
 
-of
+of -->
 
-XII U11-Hydroxy compounds.indd 132 2/19/2020 5:14:16 PM
 
 www.tntextbooks.in
 
@@ -2717,11 +2718,13 @@ www.tntextbooks.in
 
 **Structure of functional group**
 
-The structure of ethereal oxygen which is attached to two alkyl groups is similar to the structure of -O-H group of alcohol. The oxygen atom is sp3 hybridized. Two sp3 hybridized orbitals of oxygen linearly overlap with two sp3 hybrid orbitals of the carbon which are directly attached to the oxygen forming two C-O 'σ ' bonds. The C-O-C bond angle is slightly greater than the tetrahedral bond angle due to the repulsive interaction between the two bulkier alkyl groups.
+The structure of ethereal oxygen which is attached to two alkyl groups is similar to the structure of -O-H group of alcohol. The oxygen atom is sp<sup>3</sup> hybridized. Two sp<sup>3</sup> hybridized orbitals of oxygen linearly overlap with two sp<sup>3</sup> hybrid orbitals of the carbon which are directly attached to the oxygen forming two C-O 'σ ' bonds. The C-O-C bond angle is slightly greater than the tetrahedral bond angle due to the repulsive interaction between the two bulkier alkyl groups.
+![Alt text](133-functional-group.png)
 
 **IUPAC System:** Let us recall the naming of ethers according to IUPAC nomenclature.
+![Alt text](133-iupac-system.png)
 
-**Compound (Common Name, Structural**
+<!-- **Compound (Common Name, Structural**
 
 **formula, IUPAC Name)**
 
@@ -2804,12 +2807,12 @@ www.tntextbooks.in
 | t-butylmethyl etherCHCH OC CH3CH2-met3 hoxy-2-methyl propane3 |2-methoxy2-methyl |prop |ane |– |
 | Methylphenylether(Anisole)C H O CHMethoxybenzene6 5 3 |Methoxy |benzene |– |– |
 | Ethylphenylether(phenetole)C EHthoxy OCbenzenH CHe6 5 2 3 |Ethoxy |benzene |– |– |
-| Diphenylether or phenyletherPChenH oxy ObenzenC H e6 5 6 5 |Phenoxy |benzene |– |– |
+| Diphenylether or phenyletherPChenH oxy ObenzenC H e6 5 6 5 |Phenoxy |benzene |– |– | -->
   
 
 134
 
-n-heptyl phenyl ether C6H5 O (CH2)6CH3
+<!-- n-heptyl phenyl ether C6H5 O (CH2)6CH3
 
 1-phenoxyheptane 1-phenoxy hept ane –
 
@@ -2823,11 +2826,12 @@ CH3
 
 Dimethylglycolate CH3 O CH2 CH2 OCH3
 
-1,2-dimethoxyethane. 1,2-dimethoxy eth ane –
+1,2-dimethoxyethane. 1,2-dimethoxy eth ane – -->
 
 **Evaluate yourself**
+![Alt text](134-evaluate.png)
 
-Give the IUPAC name for the following ethers and classify them as simple or mixed. (i) CH3 CH3OCH2 (CH2)3 (ii)
+<!-- Give the IUPAC name for the following ethers and classify them as simple or mixed. (i) CH3 CH3OCH2 (CH2)3 (ii)
 
 OCH3
 
@@ -2845,17 +2849,19 @@ OC2H5
 
 (vi) dibenzyl ether
 
-(vii) vinyl allyl ether
+(vii) vinyl allyl ether -->
 
 **Preparation of ethers: 1. Inter molecular dehydration of alcohol.**
 
-We have already learnt that when ethanol is treated with con.H SO2 4 at 443K, elimination takes place to form ethene. If the same reaction is carried out at 413K, substitution competes over elimination to form ethers.
+We have already learnt that when ethanol is treated with con.H<sub>2</sub>SO<sub>4</sub> at 443K, elimination takes place to form ethene. If the same reaction is carried out at 413K, substitution competes over elimination to form ethers.
 
-2CH -CH -OH CH -CH -O-CH -CH ethanol
+$\ce{2CH3-CH2-OH ->[{H2SO4}][{413K}] CH3-CH2-O-CH2-CH3}$
 
-3 2 3 2 2 3 H SO2 4 413K →
+<!-- 2CH -CH -OH CH -CH -O-CH -CH ethanol
 
-diethylether
+3 2 3 2 2 3 H SO2 4 413K → -->
+
+<!-- diethylether -->
 
 **Mechanism:**
 
@@ -2869,7 +2875,7 @@ www.tntextbooks.in
 
 
 
-
+<!-- 
 | n-heptyl phenyl etherC 1-pH henO(oxy CHhept )anCHe6 5 2 6 |1-phenoxy |hept |ane |– |
 |------|------|------|------|------|
 | IsopentylphenyletherC H -O -C H -CCH - H- CH3-methyl-1-butoxy bCHenzene6 5 2 23 |3-methyl-1-butoxy |benzene |– |– |
@@ -2877,7 +2883,7 @@ www.tntextbooks.in
 
 
 
-|------|------|------|------|
+|------|------|------|------| -->
 
 
   
