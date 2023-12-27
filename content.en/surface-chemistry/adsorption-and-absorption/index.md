@@ -107,11 +107,11 @@ When amount of adsorption is plotted versus temperature at constant pressure it 
 
 Adsorption isobars of physisorption and chemisorption are different as represented in the graphs.
 
-**Figure 10.1 (a) Physical Adsorption Figure 10.1 (b) Chemical Adsorption**
 ![Alt text](graph1.png)
+
 x is the amount of adsorbate adsorbed on ‘m’ g of adsorbent.
 
-In physical adsorption,{{< katex display>}} \small\frac{x}{m} {{< /katex >}} decreases with increase in Temprature, But in chemical adsorption, x m increases with rise in temperature and then decreases. The increase illustrates the requirement of activation of the surface for adsorption is due to fact that formation of activated complex requires certain energy.
+In physical adsorption, \( \frac{x}{m} \) (where \(x\) decreases with increase in Temprature, But in chemical adsorption, x m increases with rise in temperature and then decreases. The increase illustrates the requirement of activation of the surface for adsorption is due to fact that formation of activated complex requires certain energy.
 
 The decrease at high temperature is due to desorption, as the kinetic energy of the adsorbate increases.
 
