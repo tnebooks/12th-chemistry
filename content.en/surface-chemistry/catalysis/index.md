@@ -1,26 +1,13 @@
 ---
-title: 'Catalysis'
+title: "Catalysis"
 weight: 2
 ---
 
-
-
-
 ## Catalysis
- In 1836 Berzelius identified certain substances loosen the bond in the reacting molecules
+
+In 1836 Berzelius identified certain substances loosen the bond in the reacting molecules
 
 and increased the rate of the reaction. But he also found these substances didn’t undergo any change chemically. In order to indicate the property, he gave them the name catalyst. (In greek, kata-wholly, lein-to loosen).
-
-XII U10-Surface Chemistry.indd 76 2/19/2020 5:12:11 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-77
 
 Later it was identified that there were many substances which retarded the speed of a reaction.
 
@@ -42,7 +29,7 @@ In this reaction the catalyst NO, reactants, SO2 and 2O , and product, SO3 are p
 
 In the decomposition of acetaldehyde by I2 catalyst, the reactants and products are all present in the vapour phase.
 
-CH CHO +\[I \] CH +CO +\[I \]3 2 4 2( ) ( ) ( ) ( ) ( )_g g g g g_→
+CH CHO +\[I \] CH +CO +\[I \]3 2 4 2( ) ( ) ( ) ( ) ( )*g g g g g*→
 
 Let us consider some examples in which the reactants, products and catalyst are present in aqueous solution.
 
@@ -70,17 +57,6 @@ In a reaction, the catalyst is present in a different phase i.e. it is not prese
 
 (i) In the manufacture of sulphuric acid by contact process SO3 is prepared by the action of SO2 and O2 in the presence of Pt or V2O5 as a catalyst.
 
-XII U10-Surface Chemistry.indd 77 2/19/2020 5:12:14 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-78
-
 ( )
 
 (s) (s) ( ) ( )
@@ -93,19 +69,19 @@ ii) In the Haber’s process for the manufacture of ammonia, iron is used as a c
 
 N +3H Fe 2NH2 2 3 (s)
 
-( ) ( ) ( )_g g g_ →
+( ) ( ) ( )*g g g* →
 
 iii) Oxidation of ammonia is carried out in presence of platinum gauze
 
 4NH +5O 4NO +6H O3 2 2 Pt(s)
 
-( ) ( ) ( ) ( )_g g g g_ →
+( ) ( ) ( ) ( )*g g g g* →
 
 iv) The hydrogenation of unsaturated organic compounds is carried out using finely divided nickel as a catalyst.
 
 CH =CH +H CH -CH2 2 2 3 3 Ni(s)
 
-( ) ( ) ( )_g g g_ →
+( ) ( ) ( )*g g g* →
 
 v) Decomposition of H2O2 occurs in the presence of the Pt catalyst
 
@@ -113,7 +89,7 @@ v) Decomposition of H2O2 occurs in the presence of the Pt catalyst
 
 vi) In the presence of anhydrous AlCl3, benzene reacts with ethanoyl chloride to produce acetophenone
 
-AlCl3_anhydrous_  →+ CH3 C Cl
+AlCl3*anhydrous*  →+ CH3 C Cl
 
 O
 
@@ -128,7 +104,8 @@ acetophenone
 (s)
 
 ### Characteristics of catalysts
- 1\. For a chemical reaction, catalyst is needed in very small quantity. Generally, a pinch of
+
+1\. For a chemical reaction, catalyst is needed in very small quantity. Generally, a pinch of
 
 catalyst is enough for a reaction in bulk. 2. There may be some physical changes, but the catalyst remains unchanged in mass and
 
@@ -143,17 +120,6 @@ equilibrium and hence it does not affect the position of equilibrium and the val
 7\. A catalyst is highly effective at a particular temperature called as optimum temperature. 8. Presence of a catalyst generally does not change the nature of products For example. 2SO +O 2SO2 2 3→ This reaction is slow in the absence of a catalyst, but fast in the presence of Pt catalyst
 
 **Promoters and catalyst poison**
-
-XII U10-Surface Chemistry.indd 78 2/19/2020 5:12:21 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-79
 
 In a catalysed reaction the presence of a certain substance increases the activity of a catalyst. Such a substance is called a promoter.
 
@@ -203,18 +169,6 @@ In the decomposition of hydrogen peroxide, dilute acid or glycerol acts as a neg
 
 ### Theories of Catalysis
 
-
-XII U10-Surface Chemistry.indd 79 2/19/2020 5:12:28 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-80
-
 For a chemical reaction to occur, the reactants are to be activated to form the activated complex. The energy required for the reactants to reach the activated complex is called the activation energy. The activation energy can be decreased by increasing the reaction temperature. In the presence of a catalyst, the reactants are activated at reduced temperatures in otherwords, the activation energy is lowered. The catalyst adsorbs the reactants activates them by weakening the bonds and allows them to react to form the products.
 
 As activation energy is lowered in presence of a catalyst, more molecules take part in the reaction and hence the rate of the reaction increases.
@@ -260,17 +214,6 @@ C H +\[CH +\]\[AlCl - C H CH +AlCl +HCl6 6 3 4 6 5 3 3\] →
 2 proceeds as follows.
 
 Steps in the reaction 2KClO 2KCl+3O 3 2 → can be given as
-
-XII U10-Surface Chemistry.indd 80 2/19/2020 5:12:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-81
 
 3 2 32KClO +6MnO 6MnO +2KCl→
 
@@ -334,17 +277,6 @@ The various steps involved in a heterogeneous catalysed reaction are given as fo
 
 decomposed to form the products. 4. The product molecules are desorbed. 5. The product diffuse away from the surface of the catalyst.
 
-XII U10-Surface Chemistry.indd 81 2/19/2020 5:12:36 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-82
-
 Ni surface
 
 Ethylene
@@ -404,14 +336,3 @@ i. Increase in the surface area of metals and metal oxides by reducing the parti
 ii. The action of catalytic poison occurs when the poison blocks the active centres of the catalyst.
 
 iii. A promoter or activator increases the number of active centres on the surfaces.
-
-XII U10-Surface Chemistry.indd 82 2/19/2020 5:12:38 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-83
