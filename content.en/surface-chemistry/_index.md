@@ -3,7 +3,7 @@ title: "Surface  Chemistry"
 weight: 10
 ---
 
-![Alt text](./Langmuir.jpg)
+![Alt text](Langmuir.jpg)
 
 Irving Langmuir was an American
 Chemist and Physicist. He was
