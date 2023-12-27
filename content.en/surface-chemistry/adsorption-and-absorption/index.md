@@ -123,6 +123,8 @@ In order to explain these isotherms various equations were suggested as follows:
 
 (i) Freundlich adsorption isotherm. According to Freundlich,
 
+$\int_{a}^{b} u v^\prime \ \mathrm{d}x = [ uv ]a^b - \int{a}^{b} u^\prime v \ \mathrm{d}x$
+
 where x is the amount of adsorbate, adsorbed on ‘m’ gm of adsorbent at a pressure of p. K and n are constant introduced by freundlich.
 
 Value n is always less than unity.
