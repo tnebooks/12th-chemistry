@@ -4,175 +4,24 @@ weight: 2
 ---
 
 ## Amines - clasification
+<!-- $\ce{R-X+NaOH(aq) ->[\Delta] R-OH+NaX}$ -->
 
+![](1.png)
 
-Amines
-
-Aliphatic amines Aromatic amines
-
-Primary
-
-Secondary
-
-Tertiary
-
-simple
-
-simple
-
-mixed
-
-mixed
-
-CH3 CH2 NH2 ethanamine
-
-C6H5 NH2 benzenamine(aniline)
-
-CH3 NH CH3
-
-N-methylmethanamine C6H5NHC6H5
-
-N-phenylbenzenamine
-
-CH3 NH CH2 CH3
-
-N-methylethanamine
-
-C6H5 NH CH3 N-phenylmethanamine
-
-CH3N CH3
-
-CH3
-
-N,N-dimethylmethanamine N,N-diphenylbenzenamine
-
-CH3
-
-N
-
-CH3
-
-C6H5 C6H5
-
-C6H5
-
-N CH2
-
-H3C CH
-
-CH3 NC6H5 CH2
-
-CH3 CH3
-
-(N-ethyl-N-methyl) N-methyl-N-phenylethanaminepropan–2–amine
-
-XII U13-Organic Nitrogen Compounds.indd 205 2/19/2020 5:17:16 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| si mple |CH NH CHN-methylmethanamin e3 3 |
-|------|------|
-| mixed |CH NH CH CHN-methylethanamine3 2 3 |
-| simple |CHCH N CH3N,N-dimethylmethanamin e3 3 |
-  
 
 206
 
-### Nomenclature a) Common system:
+### Nomenclature 
+a) Common system:
 
+In common system, an aliphatic amine is named by prefixing alkyl group to amine. The prefixes di-,tri-, and tetra-, are used to describe two, three(or) four same substituent’s.
 
-In common system, an aliphatic amine is named by prefixing alkyl group to amine. The prefixes di-,tri-, and tetra-, are used to describe two, three(or) four same substituent’s. **b) IUPAC System:**
+**b) IUPAC System:**
+![](2.png)
 
-**Compound (common name, Structural**
+![](3.png)
 
-**formula, IUPAC Name)**
-
-**IUPAC Name**
-
-**Prefix with position number Root used Primary**
-
-**suffix Secondary**
-
-**Suffix**
-
-Isopropylamine CH3 CH CH3
-
-NH2**..** Propan – 2- amine
-
-– prop ane/ 2- amine
-
-Allylamine
-
-3CH2 = 2CH 1CH2 NH2 **..**
-
-Prop-2-en-1-amine
-
-– prop 2-en -1-amine
-
-Hexamethylene diamine
-
-H2N **..**
-
-(CH2)6 NH2 **..**
-
-Hexane – 1, 6 – diamine
-
-– Hex ane – 1, 6 – diamine
-
-Methyl isopropyl amine
-
-CH3 NH **..**
-
-CH CH3
-
-CH3
-
-N – methyl propan – 2- amine
-
-N – methyl prop ane/ – 2- amine
-
-Diethyl butylamine
-
-C2H5 N **..**
-
-CH2CH2CH2CH3
-
-C2H5
-
-N, N – Diethyl butan-1-amine
-
-N, N – Diethyl but ane/ -1-amine
-
-Ethyl methyl isopropylamine
-
-CH3 N **..**
-
-CH
-
-C2H5 CH3
-
-CH3
-
-N – ethyl – N- methyl propan – 2 – amine
-
-N – ethyl – N- methyl
-
-prop ane/ -2-amine
-
-XII U13-Organic Nitrogen Compounds.indd 206 2/19/2020 5:17:18 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
+<!-- 
 | C ompound(common name, Structural formula, IUPAC Name) |IUPAC Name |
 |------|------|------|------|------|
 | Prex with position number |Root used |Primar y sux |Secondar ySux |
@@ -182,94 +31,23 @@ www.tntextbooks.in
 | ..Methyl isopropyl amineCH NH CH CHN – meth3 yl prop CaHn – 2- a3 mine3 |N – methyl |prop |ane/ |– 2- amine |
 | ..Diethyl butylamineC H N CH CH CH CHC HN, N – Diet2 5 hyl b 2 uta 2n-1-a2 min3 e2 5 |N, N – Diethyl |but |ane/ |-1-amine |
 | ..Ethyl methyl isopropylamineCH N CH CHC H CH3 3N – ethyl – N- methyl propan – 2 – a2 min5 e3 |N – ethyl – N- methyl |prop |ane/ |-2-amine |
-  
+   -->
 
 207
 
-N,N – Dimethyl aniline
-
-N (CH3)2
-
-**..**
-
-N,N – Dimethylbenzenamine
-
-N,N – Dimethyl benzena e/ – amine
-
-Benzylamine
-
-CH2 NH2 **..**
-
-Phenyl methanamine
-
-Phenyl meth ane/ amine
-
-N – methyl benzylamine CH2NH CH3
-
-N – methyl phenyl methanamine
-
-N – methyl phenyl
-
-meth ane/ amine
-
-**Evaluate yourself** Draw the structure of the following compounds i. Neopentylamine ii. Tert – butylamine iii. α- amino propionaldehyde iv. Tribenzylamine v. N – ethyl – N – methylhexan – 3- amine 8) Give the correct IUPAC names for the following amines
-
-i) CH3 - CH2 - CH2 - CH - CH3
-
-NH2
-
-ii) CH3 - CH2 - CH - CH3
-
-NH CH3
-
-iii) NH2 iv)
-
-OH
-
-NH2 v)
-
-N
 
 XII U13-Organic Nitrogen Compounds.indd 207 2/19/2020 5:17:18 PM
 
 www.tntextbooks.in
 
-
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|------|------|
-
-
-
-
+<!-- 
 | N,N – Dimethyl aniline..N (CH )3 2N,N – Dimethylbenzenamine |N,N – Dimethyl |benzenne/ |– |amine |
 |------|------|------|------|------|
 | B enzylamine..CH NH2 2Phenyl methanamine |Phenyl |meth |ane/ |amine |
 | N – methyl benzylamineCH NH CH2 3N – methyl phenyl methanamine |N – methyl phenyl |meth |ane/ |amine |
+ -->
 
 
-| N |
-|------|------|------|------|------|------|
-
-
-
-
-  
 
 208
 
@@ -277,59 +55,22 @@ www.tntextbooks.in
 
 
 Like, ammonia, nitrogen atom of amines is trivalent and carries a lone pair of electron and sp3 hybridised, out of the four sp3 hybridised orbitals of nitrogen, three sp3 orbitals overlap with orbitals of hydrogen (or) alkyl groups of carbon, the fourth sp3 orbital contains a lone pair of electron. Hence, amines posses pyramidal geometry. Due to presence of lone pair of electron C- N- H (or) C- N- C bond angle is less than the normal tetrahedral bond angle 109.50. For example, the C- N- C bond angle of trimethylamine is 1080 which is lower than tetrahedral angle and higher than the H- N- H bond angle of 107˚ . This increase is due to the repulsion between the bulky methyl groups.
-
-N 10
-
-1P m
-
-H
-
-H
-
-H
-
-N 10
-
-1P m
-
-CH3
-
-CH3
-
-CH3
-
-107 0 1080
-
-Lone pair of electon
-
-sp3 hybrid
-
-sp3 - sp3
+![](4.png)
 
 ### General methods of preparation Amines
  Aliphatic and aromatic amines are prepared by the following methods.
 
-**1) From nitro compounds** Reduction of Nitro compounds using H / Ni (or) Sn / HCl or Pd/H2 2 gives primary
+**1) From nitro compounds** 
+Reduction of Nitro compounds using H / Ni (or) Sn / HCl or Pd/H2 2 gives primary amines.
 
-amines.
+$\ce{CH3CH2-NO2->[{3H2/ Ni(or)}][Fe/HCl,6[H]]CH3CH2-NH2+2H2O}$
 
-CH3CH2 NO2 3H2 / Ni (or)
 
-Fe / HCl, 6 \[H\] CH3CH2 NH2 + 2 H2O
+$\ce{C6H5-NO2->[3H2/ Pt, 680 K][(or) Sn / HCl]C6H5-NH2+2H2O}$
 
-Nitroethane ethanamine
 
-C6H5 NO2 3H2 / Pt, 680 K
-
-(or) Sn / HCl
-
-Nitrobenzene
-
-C6H5 NH2 + 2 H2O
-
-Aniline
-
-**2) From nitriles a)** Reduction of alkyl or aryl cyanides with 2H /Ni (or) LiAlH (or) Na / C H OH4 2 5 gives
+**2) From nitriles a)** 
+Reduction of alkyl or aryl cyanides with 2H /Ni (or) LiAlH (or) Na / C H OH4 2 5 gives
 
 primary amines. The reduction reaction in which Na / C H OH2 5 is used as a reducing agent is called mendius reaction
 
@@ -388,59 +129,12 @@ amide R = Alkyl (or) Aryl
 
 Primary amine
 
-**4) From alkyl halides a) Gabriel phthalimide synthesis**
+**4) From alkyl halides**
+
+**a) Gabriel phthalimide synthesis**
 
 Gabriel synthesis is used for the preparation of Aliphatic primary amines. Phthalimide on treatment with ethanolic KOH forms potassium salt of phthalimide which on heating with alkyl halide followed by alkaline hydrolysis gives primary amine. Aniline cannot be prepared by this method because the arylhalides do not undergo nucleophilic substitution with the anion formed by phthalimide
-
-C
-
-C NH
-
-alcoholic O
-
-O
-
-C
-
-C NK
-
-O
-
-O
-
-R - X
-
-(SN2)
-
-C
-
-C N
-
-O
-
-O
-
-R C
-
-C
-
-O
-
-O
-
-aqueous
-
-KOH OK
-
-OK + R NH2
-
-(10 amine)
-
-Phthalimide Potassium phthalimide N - alkyl phthalimide
-
-KOH –H2O
-
-Potassium pthalati
+![](5.png)
 
 **b) Hoffmann’s ammonolysis**
 
@@ -580,17 +274,17 @@ Amines have lower boiling point than alcohols because nitrogen has lower electro
 
 **Table Boiling points of amines, alcohols and alkanes of comparable molecular weight.**
 
-**S.NO. Compound Molecular mass Boiling point (K)**
 
-**1\.** CH (CH ) NH3 2 2 2 59 321
+| S.NO. |C ompound |Molecular mass |Boiling point (K) |
+|------|------|------|------|
+| 1. |CH3(CH2)2NH2 |59 |321 |
+| 2. |C2H5-NH-CH3 |59 |308 |
+| 3. |(CH3)3N|59 |277 |
+| 4. |CH CH3(OH)CH3 |60 |355 |
+| 5. |CH3CH2CH2CH3 |58 |272.5 |
+  
 
-**2\.** C H -NH-CH2 5 3 59 308
 
-**3\.** (CH ) N3 3 59 277
-
-**4\.** CH CH(OH)CH3 3 60 355
-
-**5\.** CH CH CH CH3 2 2 3 58 272.5
 
 **3) Solubility**
 
@@ -620,16 +314,6 @@ www.tntextbooks.in
 
 
 
-
-
-| S.NO. |C ompound |Molecular mass |Boiling point (K) |
-|------|------|------|------|
-| 1. |CH (CH) NH32 22 |59 |321 |
-| 2. |CH -NH-CH25 3 |59 |308 |
-| 3. |(CH) N33 |59 |277 |
-| 4. |CH CH(OH)CH33 |60 |355 |
-| 5. |CH CH CH CH3 223 |58 |272.5 |
-  
 
 212
 
@@ -661,27 +345,13 @@ Larger the value of Kb or smaller the value of pKb, stronger is the base.
 
 **Table :** pKb **values of Amines in Aqueous solution. (pKb for NH3 is 4.74)**
 
-**Amines** pKb **Amines** pKb **Amines** pKb
 
-NH2 **. .**
-
-CH3 3.38 C2H5NH2 3.29 C6H5CH2 NH2 **. .**
-
-4.70
-
-(CH3)2 NH **. .**
-
-3.28 (C2H5)2 NH **. .**
-
-3.00 C6H5 NH **. .**
-
-CH3 9.30
-
-(CH3 3) N **. .**
-
-4.22 (C2H5)3 **. .** N 3.25 C6H5N (CH3)2
-
-**. .** 8.92
+| Amines |pKb |Amines |pKb |Amines |pKb |
+|------|------|------|------|------|------|
+| . .CH NH23 |3.38 |C H NH2 5 2 |3.29 |. .C H CH NH6 5 2 2 |4.70 |
+| . .(CH ) NH3 2 |3.28 |. .(C H ) NH2 5 2 |3.00 |. .C H NH CH6 5 3 |9.30 |
+| ..(CH )N3 3 |4.22 |. .(C H ) N2 5 3 |3.25 |. .C H N (CH )6 5 3 2 |8.92 |
+  
 
 **Influence of structure on basic character of amines**
 
@@ -689,55 +359,8 @@ The factors which increase the availability of electron pair on nitrogen for sha
 
 a) Hence alkyl amines are stronger bases than ammonia.
 
-Consider the reaction of an alkyl amine (R- N H )
-
-. .
-
-2 with a proton
-
-R N**:**
-
-H
-
-\+ H+
-
-H
-
-\> R N**+**
-
-H
-
-H
-
-H
-
-\>
-
-Base
-
-Acid
-
-Alkylammonium ion
-
-ammonium ion
-
-H N**:**
-
-H
-
-\+ H+
-
-H Base
-
-Acid H N
-
-H
-
-H
-
-H Acid
-
-+
+Consider the reaction of an alkyl amine (R- N H ). .2 with a proton
+![](6.png)
 
 XII U13-Organic Nitrogen Compounds.indd 212 2/19/2020 5:17:30 PM
 
@@ -746,14 +369,6 @@ www.tntextbooks.in
 
 
 
-
-
-| Amines |pKb |Amines |pKb |Amines |pKb |
-|------|------|------|------|------|------|
-| . .CH NH23 |3.38 |C H NH2 5 2 |3.29 |. .C H CH NH6 5 2 2 |4.70 |
-| . .(CH ) NH3 2 |3.28 |. .(C H ) NH2 5 2 |3.00 |. .C H NH CH6 5 3 |9.30 |
-| ..(CH )N3 3 |4.22 |. .(C H ) N2 5 3 |3.25 |. .C H N (CH )6 5 3 2 |8.92 |
-  
 
 213
 
@@ -846,31 +461,22 @@ www.tntextbooks.in
 
 **Table pKb’s of substituted anilines (pKb value of aniline is 9.376)**
 
-**Substituent** pKb **Substituent** pKb
 
-**Substituent** pKb
+| Substituent |pKb |Substituent |pKb |Substituent |pKb |
+|------|------|------|------|------|------|
+| o - CH3 |9.60 |m - CH3 |9.31 |p - CH3 |8.92 |
+| o - NH2 |9.52 |m - NH2 |9.00 |P - NH2 |7.83 |
+| o - OC H3 |9.52 |m - OCH3 |9.70 |p - OC H3 |8.70 |
+| o - NO2 |14.30 |m - NO2 |11.52 |p - NO2 |13.00 |
+| o - Cl |11.25 |m - Cl |10.52 |p - Cl |10.00 |
+  
 
-o - CH3 9.60 m - CH3
-
-9.31 p - CH3 8.92
-
-o - NH2 9.52 m - NH2
-
-9.00 P - NH2 7.83
-
-o - OCH3 9.52 m - OCH3
-
-9.70 p - OCH3 8.70
-
-o - NO2 14.30 m - NO2
-
-11.52 p - NO2 13.00
-
-o - Cl 11.25 m - Cl 10.52 p - Cl 10.00
 
 The relative basicity of amines follows the below mentioned order
 
-Alkyl amines > Aralkyl amines > Ammonia > N – Aralkyl amines > Aryl amines ### Chemical properties of amines
+Alkyl amines > Aralkyl amines > Ammonia > N – Aralkyl amines > Aryl amines 
+
+### Chemical properties of amines
 
 
 **1) Alkylation**
@@ -923,16 +529,6 @@ www.tntextbooks.in
 
 
 
-
-| Substituent |pKb |Substituent |pKb |Substituent |pKb |
-|------|------|------|------|------|------|
-| o - CH3 |9.60 |m - CH3 |9.31 |p - CH3 |8.92 |
-| o - NH2 |9.52 |m - NH2 |9.00 |P - NH2 |7.83 |
-| o - OC H3 |9.52 |m - OCH3 |9.70 |p - OC H3 |8.70 |
-| o - NO2 |14.30 |m - NO2 |11.52 |p - NO2 |13.00 |
-| o - Cl |11.25 |m - Cl |10.52 |p - Cl |10.00 |
-  
-
 215
 
 C6H5 NH2 + C6H5 C
@@ -951,7 +547,9 @@ Aniline Benzoylchloride N - phenyl benzamide
 
 **4) Reaction with nitrous acid**
 
-Three classes of amines react differently with nitrous acid which is prepared in situ from a mixture of NaNO and HCl 2 . **a) primary amines**
+Three classes of amines react differently with nitrous acid which is prepared in situ from a mixture of NaNO and HCl 2 . 
+
+**a) primary amines**
 
 i) Ethylamine reacts with nitrous acid to give ethyl diazonium chloride, which is unstable and it is converted to ethanol by liberating N2 .
 
@@ -976,24 +574,7 @@ Aniline Benzenediazonium chloride
 **b) secondary amines**
 
 Alkyl and aryl secondary amines react with nitrous acid to give N – nitroso amine as yellow oily liquid which is insoluble in water.
-
-\+ HON = O
-
-NH
-
-N - methylaniline
-
-CH3
-
-NaNO2
-
-Conc .HCl - H2O
-
-N - N = O
-
-N - Nitroso methyl phenyl amine (yellow oil)
-
-CH3
+![](7.png)
 
 This reaction is known as Libermann’s nitroso test,
 
@@ -1059,27 +640,7 @@ N - methyl dithiocarbamic acid
 Methyl isothiocyanate (Mustard oil smell)
 
 ii) When aniline is treated with carbon disulphide, or heated together, S- diphenylthio urea is formed, which on boiling with strong HCl , phenyl isothiocyanate (phenyl mustard oil), is formed.
-
-NH
-
-NH
-
-H
-
-H +S C S
-
-\-H2S
-
-NH
-
-NH C =S
-
-Con.HCl N = C = S
-
-Aniline S - diphenyl thiourea
-
-Phenyl isothiocyanate
-
+![Alt text](8.png)
 These reactions are known as Hofmann – Mustard oil reaction. This test is used to identify the primary amines.
 
 XII U13-Organic Nitrogen Compounds.indd 216 2/19/2020 5:17:37 PM
@@ -1251,25 +812,7 @@ p-nitro anilineP-nitroacetanilide
 
 Aniline reacts with Conc. H SO2 4 to form anilinium hydrogen sulphate which on heating with H SO2 4 at 453 – 473K gives p- aminobenzene sulphonic acid, commonly known as sulphanilic acid, as the major product.
 
-Conc. H2SO4
-
-Pyridine
-
-Anilinium
-
-HNO3
-
-hydrogensulphate Sulphanilic acid Zwitter ion
-
-NH2 NH3HSO4 NH2
-
-..
-
-SO3H
-
-NH3
-
-SO3
+![Alt text](9.png)
 
 **iv) Aniline** It does not under go Friedel – Crafts reaction (alkylation and acetylation) we know aniline
 
