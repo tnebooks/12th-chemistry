@@ -135,10 +135,10 @@ Propane – 1,2,3 – triol
 **Evaluate Yourself:**
 
 
+![Alt text](107-evalute-yourself.png)
 
 
-
-1\. Classify the following alcohols as 1**∞**, 2**∞**, and 3**∞** and give their IUPAC Names.
+<!-- 1\. Classify the following alcohols as 1**∞**, 2**∞**, and 3**∞** and give their IUPAC Names.
 
 a) CH3
 
@@ -164,35 +164,35 @@ CH2 CH(OH) CH2 C(CH3)2
 108.9 H
 
 
-2\. Write all the possible isomers of an alcohol having the molecular formula C<sub>5</sub>H<sub>12</sub>O<sub>5</sub> and give their IUPAC names.
-
-
-
-
-
-www.tntextbooks.in
+2\. Write all the possible isomers of an alcohol having the molecular formula C<sub>5</sub>H<sub>12</sub>O<sub>5</sub> and give their IUPAC names. -->
 
 
 
 
 
 
-| B enzyl alcoholCH  - OH2Phenyl methanol |Phenyl |Meth |ane/ |ol |
+
+
+
+
+
+<!-- | B enzyl alcoholCH  - OH2Phenyl methanol |Phenyl |Meth |ane/ |ol |
 |------|------|------|------|------|
 | Allyl alcoholCH CH - CH  - OHPr3 op-2-en-1-ol2 2 1 2 |- |Prop |2-ene/ |1-ol |
 | Cyclohexyl alcoholOHCyclohexan ol |- |Cyclohex |ane/ |ol |
 | Glycerol HO CH CH (OH) CH OHPr2opane – 1,2,3 – triol  2 |- |Prop |ane |1,2,3 – triol |
 
 
-| CH) COH25 3 |CH(OH) CH C(CH )d)2 3 2 HOC |
+| CH) COH25 3 |CH(OH) CH C(CH )d)2 3 2 HOC | -->
 
  **Structure of the functional group of alcohol.** The structure of -O-H group which is
 
 attached to a sp<sup>3</sup> hybridised carbon is similar to the structure of -O-H group attached to a hydrogen in water. i.e., ‘V’ shaped. In such alcohols, one of the sp<sup>3</sup> hybridised orbital of
 
+![Alt text](107-sp3-hybridised-carbon.png)
 
 
-sp<sup>3</sup>hybidised carbon 
+www.tntextbooks.in
 
 108
 
@@ -204,26 +204,28 @@ oxygen linearly overlap with the sp<sup>3</sup> hybridised orbital of carbon to 
 **Preparation of alcohols:** We have already learnt that the nucleophilic substitution reactions of alkyl halides with
 
 dilute alkali, conversion of alkenes to alcohols by hydration and the preparation of alcohols using Grignard reagent in XI standard. These reactions are summarised below. 1. **From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by SN<sup>2</sup> reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by SN<sup>1</sup> mechanism.
-
-R-X+NaOH(aq) → R-OH+NaX
+$\ce{R-X+NaOH(aq) ->[\Delta] R-OH+NaX}$
+<!-- R-X+NaOH(aq) → R-OH+NaX -->
 
 If R =t-butyl, the reaction proceeds through the formation of t-butyl carbocation
 
 2\. **From alkenes:** Addition of water across the double bond of an alkene in presence of concentrated sulphuric acid gives alcohols. This addition reaction follows Markownikoff ’s rule.
 
 
-**Example:** CH<sub>3</sub>-CH=CH<sub>2</sub> +H<sub>2</sub>O ->CH -CH(OH)-CH propylene
-
-3 2 2 Conc.H SO
+**Example:** 
+<!-- CH<sub>3</sub>-CH=CH<sub>2</sub> +H<sub>2</sub>O ->CH -CH(OH)-CH propylene -->
+$\ce{CH3-CH=CH2 + H2O ->[{Conc. H2SO4}] CH-CH(OH)-CH}$
+<!-- 3 2 2 Conc.H SO
 
 3 3 2 4 →
 
-propan-2-ol
+propan-2-ol -->
 
 3\. **From Grignard reagent:** Nucleophilic addition of Grignard reagent to aldehydes/ketones in presence of dry ether followed by the acid hydrolysis gives alcohols. Formaldehyde gives primary alcohol and other aldehydes give secondary alcohols. Ketones give tertiary alcohols.
 
 **Examples**
-
+![Alt text](108-grignard-example.png)
+<!-- 
 C6H5MgBr + HCHO C6H5 OMgBr H2O + Mg(OH) Br
 
 \+ Mg(OH) Br
@@ -305,8 +307,8 @@ H+
 H+
 
 H+
+ -->
 
-XII U11-Hydroxy compounds.indd 108 2/19/2020 5:12:33 PM
 
 www.tntextbooks.in
 
@@ -410,15 +412,6 @@ www.tntextbooks.in
 We have already learnt that the hydroxylation of ethylene using cold alkaline solution of potassium permanganate (Baeyer’s reagent) gives ethylene glycol.
 
 
-$\ce{A ->[{text above}][{text below}] B}$
-
-\[
-\mathrm{CH_2=CH_2 + H_2O \xrightarrow[\text{Cold alkaline } KMnO_4]{\text{CH_2-CH_2}} \overset{\text{OH}}{\underset{\text{OH}}{\mathrm{|\ |}}} ethene \quad \overset{\text{OH}}{\underset{\text{OH}}{\mathrm{|\ |}}} \quad ethane-1,2-diol}
-\]
-
-\[
-\chemfig{*6(=-=-=-)}
-\]
 
 
 Cold alkaline KMnO4
