@@ -3498,7 +3498,7 @@ a) $\ce{(H3C)3C-O-CH3}$
 
 c) $\ce{CH3(CH2)3-O-CH3}$
 
-  d)$\ce{CH3-CH2-CH-O-CH3}$
+d) $\ce{CH3-CH2-CH-O-CH3}$
 
 
 
@@ -3657,7 +3657,7 @@ HCHO / H3O+ D -->
 
 22\. What will be the product (X and A)for the following reaction 
 
-$\ce{acetylchloride -> [{CH3MgBr}][{H2O+}]X -> [{acid K2Cr2O7}]A}$
+$\ce{acetylchloride ->[{CH3MgBr}][{H2O+}]X ->[{acid K2Cr2O7}]A}$
 
 <!-- acetylchloride X Ai) CH3MgBr
 
