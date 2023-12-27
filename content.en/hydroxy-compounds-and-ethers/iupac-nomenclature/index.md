@@ -1957,7 +1957,7 @@ www.tntextbooks.in
 
 sodium hydroxide to form sodium phenoxide. This explains the acidic behaviour of phenol.let us consider the aqueous solution of phenol in which the following equilibrium exists.
 
-$\ce{C6H5OH + H2O &-> C6H5O- + H3O+}$
+$\ce{C6H5OH + H.OH -> C6H5O- + H3O+}$
 
 
 <!-- C6H5 OH + H.OH C6H5 O + H3O -->
