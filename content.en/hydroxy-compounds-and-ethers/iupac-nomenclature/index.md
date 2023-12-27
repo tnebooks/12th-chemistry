@@ -192,7 +192,7 @@ attached to a sp<sup>3</sup> hybridised carbon is similar to the structure of -O
 ![Alt text](107-sp3-hybridised-carbon.png)
 
 
-www.tntextbooks.in
+
 
 108
 
@@ -310,7 +310,6 @@ H+
  -->
 
 
-www.tntextbooks.in
 
 
 
@@ -402,7 +401,6 @@ NaBH4 H O
 
 
 
-www.tntextbooks.in
 
 
 
@@ -488,7 +486,6 @@ ZnCl<sub>2</sub> ) at room temperature, tertiary alcohols react immediately to f
 
 
 
-www.tntextbooks.in
 
 
 
@@ -557,7 +554,6 @@ ii) Nitro alkanes are finally treated with HNO<sub>2</sub> (mixture of NaNO HCl<
 
 
 
-www.tntextbooks.in
 
 
 
@@ -853,7 +849,7 @@ iii. Among isomeric alcohols primary alcohols have higher boiling point and the 
 
 
 
-www.tntextbooks.in
+
 
 
 
@@ -940,7 +936,6 @@ Nucleophilic attack of Br− and leaving of H O2 takes place simultaneously. -->
 
 
 
-www.tntextbooks.in
 
 
 
@@ -1080,7 +1075,7 @@ This reaction also follows the SN i mechanism in the presence of pyridine.
 
 <!-- XII U11-Hydroxy compounds.indd 114 2/19/2020 5:13:02 PM -->
 
-www.tntextbooks.in
+
 
 
 
@@ -1180,7 +1175,7 @@ primary < secondary < tertiary
 
 
 
-www.tntextbooks.in
+
 
 
 
@@ -1313,7 +1308,6 @@ CH (CH3)2
 
 
 
-www.tntextbooks.in
 
 
 
@@ -1390,7 +1384,6 @@ Et3N -->
 
 
 
-www.tntextbooks.in
 
 
 
@@ -1775,7 +1768,7 @@ e) On oxidation with HIO<sub>4</sub> or Lead tetra acetate (LTA) it gives formal
 f) Acidified KMnO4 oxidises glycerol into oxalicacid.
 
 
-www.tntextbooks.in
+
 
 
 
@@ -1869,9 +1862,7 @@ a) Paints and varnishes. b) Organic compounds like ether, chloroform, iodoform, 
 
 china clay
 
-XII U11-Hydroxy compounds.indd 122 2/19/2020 5:13:28 PM
 
-www.tntextbooks.in
 
 
 
@@ -1938,7 +1929,7 @@ H
  -->
 
 
-www.tntextbooks.in
+
 
 
 
@@ -1991,7 +1982,6 @@ enhances the acidic nature of phenol especially when they are present at ortho a
 
 
 
-www.tntextbooks.in
 
 
 
@@ -2135,7 +2125,7 @@ toluene (salicylaldehyde)
  -->
 
 
-www.tntextbooks.in
+
 
 
 
@@ -2221,7 +2211,7 @@ A mixture of benzene and propene is heated at 523K in a closed vessel in presenc
 
 
 
-www.tntextbooks.in
+
 
 
 
@@ -2322,7 +2312,7 @@ phenyl benzoate - COOC H + HCl -->
 An alkaline solution of phenol reacts with alkyl halide to form phenyl ethers. The alkyl halide undergoes nucleophilic substitution by the phenoxide ion in the presence of alkali.
 
 
-www.tntextbooks.in
+
 
 
 
@@ -2399,7 +2389,6 @@ NO p-nitroso phenolphenol
  -->
 
 
-www.tntextbooks.in
 
 
 
@@ -2484,7 +2473,6 @@ SO3H -->
 
 
 
-www.tntextbooks.in
 
 
 
@@ -2572,7 +2560,6 @@ Na
  -->
 
 
-www.tntextbooks.in
 
 
 
@@ -2649,7 +2636,6 @@ iii) Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not re
 
 
 
-www.tntextbooks.in
 
 
 
@@ -2707,7 +2693,6 @@ CH3
 of -->
 
 
-www.tntextbooks.in
 
 
 
@@ -2867,9 +2852,9 @@ $\ce{2CH3-CH2-OH ->[{H2SO4}][{413K}] CH3-CH2-O-CH2-CH3}$
 
 This method is useful for the preparation of simple ethers and not suitable for preparing mixed ethers. If a mixture of two different alcohols is used, mixture of different ethers will be formed and they are difficult to separate.
 
-XII U11-Hydroxy compounds.indd 134 2/19/2020 5:14:24 PM
 
-www.tntextbooks.in
+
+
 
 
 
@@ -2889,8 +2874,9 @@ www.tntextbooks.in
   
 
 135
+![Alt text](135-inter-molecular-dehydration.png)
 
-CH3CH2 O .. .. H
+<!-- CH3CH2 O .. .. H
 
 CH2CH3O .. ..H
 
@@ -2912,25 +2898,32 @@ CH3 CH2 CH2CH3O H3-O
 
 +
 
-H3O + +
+H3O + + -->
 
 **2\. Williamsons synthesis:** When an alkyl halide is heated with an alcoholic solution of sodium alkoxide, the
 
 corresponding ethers are obtained. The reaction involves SN2 mechanism.
 
-CH -ONa + Br-C H CH -O-C H + NaBr3 2 5 3 2 5 D →
+$\ce{CH3-ONa + Br-C2H5 ->[\Delta] CH2-O-CH5 + NaBr}$
+
+
+<!-- CH -ONa + Br-C H CH -O-C H + NaBr3 2 5 3 2 5 D → -->
 
 **Mechanism:**
+$\ce{CH3O-Na+ + CH3CH2Br ->[{-NaBr}][\Delta] CH3CH2OCH3}$
+<!-- \ce{CH3O-Na+ + CH3CH2Br -> CH3CH2OCH3 + NaBr} -->
 
-CH3 O-Na+ + CH3 CH2 Br -NaBr
+
+<!-- CH3 O-Na+ + CH3 CH2 Br -NaBr
 
 CH3 CH2 O CH3
 
-methoxyethane
+methoxyethane -->
 
 We know that primary alkyl halides are more susceptible for SN2 reaction. Hence for the preparation of mixed ether having primary and tertiary alkyl group, primary alkyl halide and tertiary alkoxide are used. On the other hand, if we use tertiary alkyl halide and primary alkoxide, elimination dominates and succeeds over substitution to form an an alkene.
+![Alt text](135-williamsons-synthesis.png)
 
-H3C C O Na + CH3 Br
+<!-- H3C C O Na + CH3 Br
 
 bromomethane -NaBr
 
@@ -2964,33 +2957,36 @@ CH3 + CH3OH + NaBr
 
 2-methyl prop-1-ene
 
-β H
+β H -->
 
 **Methylation of alcohol**
 
 Methyl ethers can be prepared by treating an alcohol with diazomethane in presence of catalyst, fluoroboric acid.
+$\ce{CH3-CH2-OH + CH2N2 ->[{HBF3}][\Delta] CH3-CH2-O-CH3+N2}$
 
-CH -CH -OH+CH N CH -CH -O-CH +N3 2 2 2 HBF
+<!-- \ce{CH3CH2OH + CH2N2 -> CH3CH2OCH2CH2N + HBF3} -->
+
+<!-- CH -CH -OH+CH N CH -CH -O-CH +N3 2 2 2 HBF
 
 3 2 3 2 4
 
-D  →
+D  → -->
 
-XII U11-Hydroxy compounds.indd 135 2/19/2020 5:14:27 PM
-
-www.tntextbooks.in
+<!-- XII U11-Hydroxy compounds.indd 135 2/19/2020 5:14:27 PM -->
 
 
 
 
 
 
-| H |
+
+
+<!-- | H |
 |------|------|
 | O+ |
 | ..CH CH O3 2 |
 
-| ..H |
+| ..H | -->
   
 
 136
@@ -3006,8 +3002,13 @@ a) 4-nitro-1-bromobenzene + sodium methoxide. b) 4-nitrosodium phenoxide+bromome
 C-O bonds with significant contribution from two lone pairs of electrons. For example, the dipole moment of diethyl ether is 1.18D. Boiling point of ethers are slightly higher than that of alkanes and lower than that of alcohols of comparable masses.
 
 **Compound Molar Mass Boiling point**
+| Compound |Molar Mass |Boiling point |
+|------|------|------|
+| CH n-h(CepH t)ane CH3 2 5 |100.21 |371K |
+| CH1-met O ho (xypCH en) tan CeH3 2 4 3 |102.17 |373K |
+| CH hexa(C n-1-oH ) l OH3 2 5 |102.16 |430K |
 
-CH3 (CH2)5 CH3
+<!-- CH3 (CH2)5 CH3
 
 n-heptane 100.21 371K
 
@@ -3017,11 +3018,11 @@ CH3 (CH2)4 CH3O
 
 CH3 (CH2)5 OH
 
-hexan-1-ol 102.16 430K
+hexan-1-ol 102.16 430K -->
 
 Oxygen of ether can also form Hydrogen bond with water and hence they are miscible with water. Ethers dissolve wide range of polar and non-polar substances.
-
-O R
+![Alt text](136-physical-properties.png)
+<!-- O R
 
 O
 
@@ -3029,21 +3030,21 @@ R
 
 H H O
 
-H H
+H H -->
 
 **Chemical Properties of ethers: 1. Nucleophilic substitution reactions of ethers.**
 
 Ethers can undergo nucleophilic substitution reactions with HBr or HI . HI is more reactive than HBr .
-
-CH -O-CH -CH + HI CH I + CH -CH -OH
+$\ce{CH3-O-CH2-CH3 + HI  ->[\Delta] CH3I + CH3-CH2-OH}$
+<!-- CH -O-CH -CH + HI CH I + CH -CH -OH
 
 me
 
 3 2 3 3 3 2
 
-D → thoxy ethane iodo methane ethanol
-
-C H -O-CH + HI C H -OH + 6 5 3 6 5
+D → thoxy ethane iodo methane ethanol -->
+$\ce{C6H5-O-CH3 + HI -> C6H5-OH + CH3I }$
+<!-- C H -O-CH + HI C H -OH + 6 5 3 6 5
 
 → CH I
 
@@ -3051,17 +3052,16 @@ methoxy benzene Phenol
 
 3
 
-iodomethane
-
-XII U11-Hydroxy compounds.indd 136 2/19/2020 5:14:32 PM
-
-www.tntextbooks.in
+iodomethane -->
 
 
 
 
 
 
+
+
+<!-- 
 | Compound |Molar Mass |Boiling point |
 |------|------|------|
 | CH n-h(CepH t)ane CH3 2 5 |100.21 |371K |
@@ -3073,7 +3073,7 @@ www.tntextbooks.in
 |------|------|------|------|------|------|------|------|------|------|------|------|
 | OH H |
 | O |
-| H |
+| H | -->
 
   
 
@@ -3084,8 +3084,8 @@ www.tntextbooks.in
 2 reaction while tertiary alkyl ether undergo SN
 
 1 reaction.Protonation of ether is followed by the attack of halide ion.The halide ion preferentially attacks the less sterically hindered of the two alkyl groups which are attached to etherial oxygen.
-
-CH3 O CH2 CH2CH3 + H I CH3 O CH3
+![Alt text](137-nucleopolic-substitution.png)
+<!-- CH3 O CH2 CH2CH3 + H I CH3 O CH3
 
 H
 
@@ -3093,11 +3093,11 @@ I-
 
 CH3I + HO CH2 CH3
 
-iodomethane ethanol
+iodomethane ethanol -->
 
 When excess HBr or HI is used, the alcohol formed will further react with HBr or HI to form alkyl halides.
-
-CH -CH -OH CH -CH -Br
+$\ce{CH3-CH2-OH ->[{excessHBr}] CH3-CH2-Br}$
+<!-- CH3-CH2-OH CH -CH -Br
 
 ethanol
 
@@ -3107,7 +3107,7 @@ excessHBr
 
 3 2  →
 
-bromoethane
+bromoethane -->
 
 **Evaluate Yourself:**
 
@@ -3116,15 +3116,16 @@ bromoethane
 **Autooxidation of ethers:** When ethers are stored in the presence of atmospheric oxygen, they slowly oxidise to
 
 form hydroperoxides and dialkylperoxides. These are explosive in nature. Such a spontaneous oxidation by atmospheric oxygen is called autooxidation.
-
-O O H
+    ![Alt text](137-autooxidation.png)
+<!-- O O H
 
 1-ethoxyethyl hydroethoxyethane peroxide diethylperoxide
 
-2excessO 3 2 2 3 3 2 3 3 2 2 3slowCH -CH -O-CH -CH CH -CH -O-CH-CH +CH -CH -O-O-CH -CH
+2excessO 3 2 2 3 3 2 3 3 2 2 3slowCH -CH -O-CH -CH CH -CH -O-CH-CH +CH -CH -O-O-CH -CH -->
 
 **Some of the reaction of diethyl ether.**
-
+![Alt text](137-diethyl-ether.png)
+<!-- 
 CCl3CCl2 O CCl2 CCl3 10 Cl2
 
 light CH3 CH2 O CH2 CH3
@@ -3143,15 +3144,14 @@ CH3 CH2 Cl CH3COOCH2CH3+
 
 CH3COCl
 
-\- POCl3
+\- POCl3 -->
 
 **Aromatic electrophilic substitution reactions:** The alkoxy group ( -OR ) is an ortho, para directing group as well as activating group.It
 
 activates the aromatic ring towards electrophilic substitution.
 
-XII U11-Hydroxy compounds.indd 137 2/19/2020 5:14:38 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -3163,14 +3163,17 @@ www.tntextbooks.in
 **i)** **Halogenation:**
 
 Anisole undergoes bromination with bromine in acetic acid even in the absence of a catalyst, para isomer is obtained as the major product.
+![Alt text](138-halogenation.png)
 
 **ii)** **Nitration:** Anisole reacts with a mixture
 
 of conc. H2SO4/Conc.HNO3 to yield a mixture of ortho nitro anisole and para nitro anisole.
+![Alt text](138-nitration.png)
 
 **iii) Friedel Craft’s reaction:** Anisole undergoes Fridel Craft’s reaction in presence of anhydrous AlCl
+![Alt text](138-friedel-crafts-reaction.png)
 
-3 as a catalyst.
+<!-- 3 as a catalyst.
 
 2-methoxy acetophenone (minor)
 
@@ -3206,7 +3209,7 @@ OCH3 COCH3
 
 COCH3
 
-OCH3
+OCH3 -->
 
 **Uses of ethers**
 
@@ -3216,7 +3219,7 @@ OCH3
 
 2\. It is a good solvent for organic reactions and extraction.
 
-OCH3
+<!-- OCH3
 
 Br2 in
 
@@ -3246,11 +3249,10 @@ H2SO4
 
 HNO3
 
-OCH3 OCH3
+OCH3 OCH3 -->
 
-XII U11-Hydroxy compounds.indd 138 2/19/2020 5:14:41 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -3275,15 +3277,16 @@ www.tntextbooks.in
 
 1\. An alcohol (x) gives blue colour in Victormeyer’s test and 3.7g of X when treated with metallic sodium liberates 560 mL of hydrogen at 273 K and 1 atm pressure what will be the possible structure of X?
 
-a) CH3 CH (OH) CH2CH3 b) CH3 – CH (OH) – CH3
+a) $\ce{CH3 CH (OH) CH2CH3}$     b) $\ce{CH3 – CH (OH) – CH3}$
 
-b) CH3 C (OH) (CH3)2 d) CH3- CH2 –CH (OH) – CH2 – CH3
+b) $\ce{CH3 C (OH) (CH3)2 }$     d) $\ce{CH3- CH2 –CH (OH) – CH2 – CH3}$
 
 2\. Which of the following compounds on reaction with methyl magnesium bromide will give tertiary alcohol.
 
 a) benzaldehyde b) propanoic acid c) methyl propanoate d) acetaldehyde
 
-3\. i) BH3 / THF
+3\. ![Alt text](139-3.png)
+<!-- i) BH3 / THF
 
 ii) H2O2 / OH- 'X'
 
@@ -3331,23 +3334,19 @@ CH2
 
 OHOH
 
-d) None of these
+d) None of these -->
+$\ce{Ethene ->[{HOCL}] A ->[{x}]}ethan -1, 2 - diol$
+4\. In the reaction sequence, $\ce{Ethene ->[{HOCL}] A ->[{x}]}ethan -1, 2 - diol$. A and X respectively are
 
-4\. In the reaction sequence, Ethene A ethan -1, 2 - diol HOCl X → → . A and X respectively are
+a) Chloroethane and NaOH b) ethanol and H<sub>2</sub>SO<sub>4</sub>
 
-a) Chloroethane and NaOH b) ethanol and H SO2 4
-
-c) 2 – chloroethan -1-ol and NaHCO3 d) ethanol and 2H O
+c) 2 – chloroethan -1-ol and NaHCO<sub>3</sub> d) ethanol and 2H O
 
 5\. Which one of the following is the strongest acid
 
 a) 2 - nitrophenol b) 4 – chlorophenol c) 4 – nitrophenol d) 3 – nitrophenol
 
-6\. CH2 OH on treatment with Con H SO2 4 , predominately gives
-
-XII U11-Hydroxy compounds.indd 139 2/19/2020 5:14:46 PM
-
-www.tntextbooks.in
+<!-- 6\. CH<sub>2</sub>OH on treatment with Con H<sub>2</sub>SO<sub>4</sub>, predominately gives -->
 
 
 
@@ -3355,14 +3354,17 @@ www.tntextbooks.in
 
 
 
-|------|------|------|
+
+
+
+<!-- |------|------|------| -->
 
 
   
 
 140
 
-CH2
+<!-- CH2
 
 a) b)
 
@@ -3372,7 +3374,7 @@ CH3
 
 c) d)
 
-CH3
+CH3 -->
 
 7\. Carbolic acid is
 
@@ -3382,13 +3384,15 @@ a) Phenol b) Picric acid d) benzoic acid d) phenylacetic acid
 
 a) Dichloro methane b) trichloroethane c) trichloro methane d) CO2
 
-9\. (CH ) - C - CH(OH) CH X (major product)3 3 3 Con H SO2 4 →
+9\. $\ce{(CH3)3 - C - CH(OH) CH ->[{con H2SO4}] X}$ (major product)
 
-a) (CH ) CCH = CH3 3 2 b) (CH ) C = C (CH3 2 3 2)
+a) $\ce{(CH3)3CCH=CH}$     b) $\ce{(CH3)2C=C(CH3)2}$
 
-c) CH = C(CH )CH - CH - CH2 3 2 2 3 d) CH = C (CH ) - CH - CH - CH2 3 2 2 3
+c) $\ce{CH2=C(CH3)CH2-CH2-CH3}$ d) $\ce{CH2=C(CH3)-CH2-CH2-CH3}$
 
-10\. The correct IUPAC name of the compound, H3C CH CH CH CH2
+10\. The correct IUPAC name of the compound,
+![Alt text](140-10.png)
+ <!-- H3C CH CH CH CH2
 
 Cl
 
@@ -3396,7 +3400,7 @@ CH3
 
 CH3
 
-OH
+OH -->
 
 a) 4 – chloro – 2,3 – dimethyl pentan – 1-ol
 
@@ -3418,27 +3422,23 @@ c) assertion is true but reason is false
 
 d) both assertion and reason are false.
 
-12\. In the reaction Ethanol X Y Z.PCl alc.KOH H SO /H O 298K
-
-5 2 4 2 →  →  → The ‘Z’ is
+12\. In the reaction $\ce{Ethanol-> [{PCl2}]X->[{alc. KOH}] Y->[{H2SO4.H20}][{298K}] Z}$.
+The ‘Z’ is
 
 a) ethane b) ethoxyethane c) ethylbisulphite d) ethanol
 
 13\. The reaction
-
-OH
+![Alt text](140-13.png)
+<!-- OH
 
 NaH ONa
 
 CH3 - I O
 
-CH3
+CH3 -->
 
 Can be classified as a) dehydration b) Williamson alcoholsynthesis c) Williamson ether synthesis d) dehydrogenation of alcohol
 
-XII U11-Hydroxy compounds.indd 140 2/19/2020 5:14:51 PM
-
-www.tntextbooks.in
 
 
 
@@ -3446,33 +3446,7 @@ www.tntextbooks.in
 
 
 
-|------|------|
 
-
-
-
-
-|------|------|------|
-
-
-
-
-|------|------|
-
-
-
-
-|------|------|------|
-
-
-
-
-|------|------|
-
-
-
-
-|------|------|
 
   
 
@@ -3480,21 +3454,23 @@ www.tntextbooks.in
 
 14\. Isopropylbenzene on air oxidation in the presence of dilute acid gives
 
-a) C H COOH6 5 b) C H COCH6 5 3 c) C H COC H6 5 6 5 d) C H - OH6 5
+a)$\ce{C6H5COOH}$  b) $\ce{C6H5COCH3}$ 3 c) $\ce{C6H5COC6H5}$ d) $\ce{C6H5-OH}$
 
 15\. Assertion : Phenol is more reactive than benzene towards electrophilic substitution reaction Reason : In the case of phenol, the intermediate arenium ion is more stabilized by resonance. a) if both assertion and reason are true and reason is the correct explanation of assertion. b) if both assertion and reason are true but reason is not the correct explanation of
 
 assertion. c) assertion is true but reason is false d) both assertion and reason are false.
 
-16\. HO CH2 CH2 – OH on heating with periodic acid gives
+16\. HO CH<sub>2</sub> CH<sub>2</sub> – OH on heating with periodic acid gives
 
-a) methanoic acid b) Glyoxal c) methanal d) CO2
+a) methanoic acid b) Glyoxal c) methanal d) CO<sub>2</sub>
 
 17\. Which of the following compound can be used as artifreeze in automobile radiators?
 
 a) methanol b) ethanol c) Neopentyl alcohol d) ethan -1, 2-diol
 
-18\. The reactions OH
+18\. The reactions 
+![Alt text](141-18.png)
+<!-- OH
 
 OH
 
@@ -3504,35 +3480,33 @@ O
 
 CH2
 
-O
+O -->
 
 is an example of
 
 a) Wurtz reaction b) cyclic reaction c) Williamson reaction d) Kolbe reactions
 
-19\. One mole of an organic compound (A) with the formula C H O3 8 reacts completely with two moles of HI to form X and Y. When Y is boiled with aqueous alkali it forms Z. Z answers the iodoform test. The compound (A) is
+19\. One mole of an organic compound (A) with the formula C<sub>3</sub>H<sub>8</sub>O reacts completely with two moles of HI to form X and Y. When Y is boiled with aqueous alkali it forms Z. Z answers the iodoform test. The compound (A) is
 
 a) propan – 2-ol b) propan -1-ol c) ethoxy ethane d) methoxy ehane
 
 20\. Among the following ethers which one will produce methyl alcohol on treatment with hot HI?
 
-H3C C O CH3) 3
+a) $\ce{(H3C)3C-O-CH3}$
 
-(a) b) (CH3 ) 2
+ b) $\ce{(CH3)2-CH-CH2-O-CH3}$
 
-CH CH2 O CH3
+c) $\ce{CH3(CH2)3-O-CH3}$
 
-) 3
+  d)$\ce{CH3-CH2-CH-O-CH3}$
 
-CH2 OCH3 ( CH3 d) CH3 CH2 CH O CH3
 
-CH3
 
-c)
+
 
 21\. Williamson synthesis of preparing dimethyl ether is a / an /
 
-a) SN1 reactions b) SN2 reaction
+a) SN<sup>1</sup> reactions b) SN<sup>2</sup> reaction
 
 c) electrophilic addition d) electrophilic substitution
 
@@ -3540,9 +3514,9 @@ c) electrophilic addition d) electrophilic substitution
 
 a) red colour b) violet colour c) dark green colour d) no colouration.
 
-XII U11-Hydroxy compounds.indd 141 2/19/2020 5:14:53 PM
 
-www.tntextbooks.in
+
+
 
 
 
@@ -3579,7 +3553,7 @@ www.tntextbooks.in
 
 (ii.) Propan -1-ol, propan -1,2,3-triol, propan -1,3 – diol, propan -2-ol
 
-7\. Can we use nucelophiles such as NH ,CH O3 3 - for the Nucleophilic substitution of alcohols
+7\. Can we use nucelophiles such as NH<sub>3</sub>,CH<sub>3</sub>O - for the Nucleophilic substitution of alcohols
 
 8\. Is it possible to oxidise t – butyl alcohol using acidified dichromate to form a carbonyl compound.
 
@@ -3605,9 +3579,7 @@ i) benzylchloride to benzylalcohol ii) benzyl alcohol to benzoic acid
 
 17\. Complete the following reactions
 
-XII U11-Hydroxy compounds.indd 142 2/19/2020 5:14:54 PM
 
-www.tntextbooks.in
 
 
 
@@ -3615,8 +3587,8 @@ www.tntextbooks.in
   
 
 143
-
-i) CH - CH - OH A B C3 2 P Br aq.NaOH Na3 →  →  →
+![Alt text](142-17.png)
+<!-- i) CH - CH - OH A B C3 2 P Br aq.NaOH Na3 →  →  →
 
 ii) C H - OH A B 6 5
 
@@ -3646,13 +3618,14 @@ H+
 
 A i) O3
 
-ii) H2O B
+ii) H2O B -->
 
 18\. 0.44g of a monohydric alcohol when added to methyl magnesium iodide in ether liberates at STP 112 cm3 of methane with PCC the same alcohol form a carbonyl compound that answers silver mirror test. Identify the compound.
 
 19\. Complete the following reactions
+![Alt text](143-19.png)
 
-i) OH
+<!-- i) OH
 
 C6H5COCl
 
@@ -3662,11 +3635,13 @@ Nitration B
 
 (major product)
 
-ii) C H -CHCH(OH)CH(CH )6 5 3 2 ConH SO2 4 →
+ii) C H -CHCH(OH)CH(CH )6 5 3 2 ConH SO2 4 → -->
 
 20\. Phenol is distilled with Zn dust followed by friedel – crafts alkylation with propyl chloride to give a compound B, B on oxidation gives (c) Identify A,B and C.
 
-21\. CH3MgBr+
+21\. 
+![Alt text](143-21.png)
+<!-- CH3MgBr+
 
 O
 
@@ -3678,21 +3653,25 @@ Identify A,B,C,D and write the complete equation
 
 Mg / ether C
 
-HCHO / H3O+ D
+HCHO / H3O+ D -->
 
-22\. What will be the product (X and A)for the following reaction acetylchloride X Ai) CH MgBr
+22\. What will be the product (X and A)for the following reaction 
+
+$\ce{acetylchloride -> [{CH3MgBr}][{H2O+}]X -> [{acid K2Cr2O7}]A}$
+
+<!-- acetylchloride X Ai) CH3MgBr
 
 ii) H O acid K Cr O3
 
 3 +
 
-2 2 7 →  →
+2 2 7 →  → -->
 
 23\. How will you convert acetylene into n-butyl alcohol.
 
 24\. Predict the product A,B,X and Y in the following sequence of reaction
-
-butan - 2- ol SOCl2 A
+![Alt text](143-24.png)
+<!-- butan - 2- ol SOCl2 A
 
 Mg ether
 
@@ -3700,13 +3679,10 @@ B
 
 X Y
 
-XCu / 573K
+XCu / 573K -->
 
 25\. 3,3 – dimethylbutan -2-ol on treatment with conc. 2 4H SO to give tetramethyl ethylene as a major product. Suggest a suitable mechanism
 
-XII U11-Hydroxy compounds.indd 143 2/19/2020 5:14:59 PM
-
-www.tntextbooks.in
 
 
 
@@ -3714,18 +3690,16 @@ www.tntextbooks.in
 
 
 
-|------|------|------|------|
 
 
 
 
-|------|------|
 
   
 
 144
 
-R - CH = CH2
+<!-- R - CH = CH2
 
 R - CH = CH2
 
@@ -3857,13 +3831,13 @@ O
 
 ( alcohol)
 
-30
+30 -->
 
 **ALCOHOL**
 
-XII U11-Hydroxy compounds.indd 144 2/19/2020 5:15:01 PM
+![Alt text](144-alcohol.png)
 
-www.tntextbooks.in
+
 
 
 
