@@ -13,8 +13,10 @@ The boron occurs mostly as borates and its important ores are borax - Na2\[B4O5(
 Some of the physical properties of the group 13 elements are listed below
 
 **Table 2.3 Physical properties of group 13 elements**
+![alt Text](../Table2.3.png)
+![alt Text](../Table2.3-1.png)
 
-**Property Boron Aluminum Gallium Indium Thallium** Physical state at
+<!-- **Property Boron Aluminum Gallium Indium Thallium** Physical state at
 
 293 K Solid Solid Solid Solid Solid
 
@@ -70,7 +72,7 @@ Atomic radius (Å) 1.92 1.84 1.87 1.93 1.96 Density (g.cm-3 at
 
 293 K) 2.34 2.70 5.91 7.31 11.80
 
-Melting point (K) 2350 933 302.76 429 577 Boiling point (K) 4273 2792 2502 2300 1746
+Melting point (K) 2350 933 302.76 429 577 Boiling point (K) 4273 2792 2502 2300 1746 -->
 
 ### Chemical properties of boron:
 
@@ -83,13 +85,17 @@ Many metals except alkali metals form borides with a general formula MxBy (x ran
 
 **Direct combination of metals with boron:**
 
-Cr + nB 1500 K CrBn
+<!-- Cr + nB 1500 K CrBn -->
+<!-- $\ce{A ->[{text above}][{text below}] B}$ -->
+
+$\ce{Cr + nB ->[{1500 K}] CrB<sub>n</sub>}$
 
 **Reduction of borontrihalides:**
 
 Reduction of borontrichloride with a metal assisted by dihydrogen gives metal borides.
 
-2BCl 3 + 2W 1500 K 2WB + 2Cl 2+2HCl H2
+<!-- 2BCl 3 + 2W 1500 K 2WB + 2Cl 2+2HCl H2 -->
+$\ce{2BCl3 + 2W ->[{1500 K}][{H2}] 2WB + 2Cl2 + 2HCl}$
 
 **Formation of hydrides:**
 
@@ -267,6 +273,7 @@ Boric acid when heated with soda ash it gives borax Na2CO3 + 4B(OH)3 Na2B4O7 + C
 Boric acid has a two dimensional layered structure. It consists of \[BO3\]
 
 3- unit and these are linked to each other by hydrogen bonds as shown in the Figure 2.2.
+![alt Text](../Fig2.2.png)
 
 **Uses of boric acid:**
 
@@ -364,33 +371,7 @@ Boranes are colourless diamagnetic compounds with low thermal stability. Diboran
 
 At high temperatures it forms higher boranes liberating hydrogen.
 
-388 K
-
-198 - 373 K
-
-373 K
-
-473 - 523 K
-
-523 K
-
-sealed tube
-
-U - tube
-
-Red hot
-
-5B2H6 2B5H11 + 4H2
-
-2B2H6 B4H10 + H2
-
-5B2H6 B10H14 + 8H2
-
-5B2H6 2B5H9 + 6H2
-
-10B2H6 2B5H9 + 2B 5H10 + 11H2
-
-B2H6 2B + 3H2
+![Alt Text](../fig(Diboranes).png)
 
 Diboranes reacts with water and alkali to give boric acid and metaborates respectively.
 
@@ -500,6 +481,8 @@ High temp Clossed vessel
 +12H2
 
 **Structure of diborane:**
+
+![alt Text](../Fig2.3.png)
 
 In diborane two BH2 units are linked by two bridged hydrogens. Therefore, it has eight B-H bonds. However, diborane has only 12 valance electrons and are not sufficient to form normal covalent bonds. The four terminal B-H bonds are normal covalent bonds (two centre - two electron bond or 2c-2e bond). The remaining four electrons have to be used for the bridged bonds. i.e. two three centred B-H-B bonds utilise two electrons each. Hence, these bonds are three centre- two electron bonds (3c-2e). The bridging hydrogen atoms are in a plane as shown in the figure 2.3. In diborane, the boron is sp3 hybridised.
 

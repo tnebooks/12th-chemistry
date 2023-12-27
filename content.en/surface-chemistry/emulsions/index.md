@@ -1,19 +1,29 @@
 ---
-title: 'Emulsions'
+title: "Emulsions"
 weight: 6
 ---
-## Emulsions
- Emulsions are colloidal solution in which a liquid is dispersed in an another liquid. Generally there are two types of emulsions. **(i) Oil in water (O/W) (ii) Water in oil (W/O)**
+
+Emulsions are colloidal solution in which a liquid is dispersed in an another liquid. Generally there are two types of emulsions.
+
+**(i) Oil in water (O/W) (ii) Water in oil (W/O)**
 
 **Example:**
 
-Milk is example of the oil in water type emulsion. Stiff greases are emulsion of water in oil i.e. water dispersed in lubricating oil. The process of preparation of emulsion by the dispersal of one liquid in another liquid is
+Milk is example of the oil in water type emulsion.
 
-called Emulsification. A colloid mill can be used as a homogeniser to mix the two liquid. To have a stable
+Stiff greases are emulsion of water in oil i.e. water dispersed in lubricating oil.
 
-emulsion a small amount of emulsifier or emulsification agent is added. Several types of emulsifiers are known.
+The process of preparation of emulsion by the dispersal of one liquid in another liquid is called Emulsification.
 
-i. Most of the lyophillic colloids also act as emulsifiers. Example: glue, gelatine. ii. Long chain compounds with polar groups like soap and sulphonic acids. iii. Insoluble powders like clay and lamp black also act as emulsifiers.
+A colloid mill can be used as a homogeniser to mix the two liquid. To have a stable emulsion a small amount of emulsifier or emulsification agent is added.
+
+Several types of emulsifiers are known.
+
+i. Most of the lyophillic colloids also act as emulsifiers. Example: glue, gelatine.
+
+ii. Long chain compounds with polar groups like soap and sulphonic acids.
+
+iii. Insoluble powders like clay and lamp black also act as emulsifiers.
 
 **Identification of types of emulsion**
 
@@ -37,26 +47,30 @@ Oily emulsions spread readily than aqueous emulsion when spread on an oily surfa
 
 ### Deemulsification:
 
-
 Emulsion can be separated into two separate layers. The process is called Deemulsification.
 
-**Various deemulsification techniques are given below** 1\. Distilling of one component 2. Adding an electrolyte to destroy the charge. 3. Destroying the emulsifier using chemical methods.
+**Various deemulsification techniques are given below**
 
-XII U10-Surface Chemistry.indd 97 2/19/2020 5:13:32 PM
+1\. Distilling of one component
 
-www.tntextbooks.in
+2\. Adding an electrolyte to destroy the charge.
 
+3\. Destroying the emulsifier using chemical methods.
 
+4\. Using solvent extraction to remove one component.
 
+5\. By freezing one of the components.
 
-  
+6\. By applying centrifugal force.
 
-98
+7\. Adding dehydrating agents for water in oil (W/O) type. 8. Using ultrasonic waves.
 
-4\. Using solvent extraction to remove one component. 5. By freezing one of the components. 6. By applying centrifugal force. 7. Adding dehydrating agents for water in oil (W/O) type. 8. Using ultrasonic waves. 9. Heating at high pressures.
+9\. Heating at high pressures.
 
-**Inversion of Phase:** The change of W/O emulsion into O/W emulsion is called inversion of phases.
+**Inversion of Phase:**
 
-**For example:** An oil in water emulsion containing potassium soap as emulsifying agent can be converted
+The change of W/O emulsion into O/W emulsion is called inversion of phases.
 
-into water in oil emulsion by adding CaCl2 or AlCl3. The mechanism of inversion is in the recent developments of research.
+**For example:**
+
+An oil in water emulsion containing potassium soap as emulsifying agent can be converted into water in oil emulsion by adding CaCl<sub>2</sub> or AlCl<sub>3</sub>. The mechanism of inversion is in the recent developments of research.
