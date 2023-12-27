@@ -30,7 +30,7 @@ After studying this unit, the students will be able to
 * explain various factors which aff ect the rate of a reaction.
 
 
-![alt text](Svante.png)
+![alt text](./Svante.png)
 
 **Svante August Arrhenius (1859 –1927)**
 

@@ -6,11 +6,9 @@ weight: 1
 
 
 ## Classification of alcohols:
- Alcohols can be classified based on the number of hydroxyl groups and the nature of the
-
-carbon to which the functional group (–OH) is attached.
-
-Alcohols
+ Alcohols can be classified based on the number of hydroxyl groups and the nature of the carbon to which the functional group (–OH) is attached.
+![Alt text](classification-flowchart.png)
+<!-- Alcohols
 
 (Monohydric alcohols) containing only one - OH group CH3 - CH2 - OH(ethanol)
 
@@ -109,4 +107,4 @@ www.tntextbooks.in
 
   
 
-106
+106 -->
