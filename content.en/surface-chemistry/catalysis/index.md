@@ -3,8 +3,6 @@ title: "Catalysis"
 weight: 2
 ---
 
-## Catalysis
-
 In 1836 Berzelius identified certain substances loosen the bond in the reacting molecules and increased the rate of the reaction. But he also found these substances didn’t undergo any change chemically. In order to indicate the property, he gave them the name catalyst. (In greek, kata-wholly, lein-to loosen).
 
 Later it was identified that there were many substances which retarded the speed of a reaction.
