@@ -1,28 +1,31 @@
 ---
-title: 'Enzyme Catalysis'
+title: "Enzyme Catalysis"
 weight: 3
 ---
 
-
-
-
 ## Enzyme Catalysis
- Enzymes are complex protein molecules with three dimensional structures. They catalyse
 
-the chemical reaction in living organism. They are often present in colloidal state and extremely specific in catalytic action. Each enzyme produced in a particular living cell can catalyse a particular reaction in the cell.
+Enzymes are complex protein molecules with three dimensional structures. They catalyse the chemical reaction in living organism. They are often present in colloidal state and extremely specific in catalytic action. Each enzyme produced in a particular living cell can catalyse a particular reaction in the cell.
 
-Some common examples for enzyme catalysis 1) The peptide glycyl L-glutamyl L-tyrosin is hydrolysed by an enzyme called pepsin. 2) The enzyme diastase hydrolyses starch into maltose
+Some common examples for enzyme catalysis
 
-2(C H O5) +nH O nC H O6 10 n 2 12 22 11→ 3) The yeast contains the enzyme zymase which converts glucose into ethanol.
+1\. The peptide glycyl L-glutamyl L-tyrosin is hydrolysed by an enzyme called pepsin.
 
-C H O 2C H OH+2CO6 12 6 2 5 2→ 4) The enzyme micoderma aceti oxidises alcohol into acetic acid.
+2\. The enzyme diastase hydrolyses starch into maltose
 
-C H OH+O CH COOH+H O2 5 2 3 2→
+2(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>) <sub>n</sub>+nH<sub>2</sub>O → nC<sub>12</sub>H<sub>22</sub>O<sub>11</sub>
 
-5) The enzyme urease present in soya beans hydrolyses the urea. NH -CO-NH +H O 2NH +CO2 2 2 3 2→
+3\. The yeast contains the enzyme zymase which converts glucose into ethanol.
+
+C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> → 2C<sub>2</sub>H<sub>5</sub>OH+2CO<sub>2</sub>
+
+4\. The enzyme micoderma aceti oxidises alcohol into acetic acid.
+
+C<sub>2</sub>H<sub>5</sub>OH+O<sub>2</sub> → CH<sub>3</sub>COOH+H<sub>2</sub>O
+
+5\. The enzyme urease present in soya beans hydrolyses the urea. NH -CO-NH +H O 2NH +CO2 2 2 3 2→
 
 ### Mechanism of enzyme catalysed reaction
-
 
 The following mechanism is proposed for the enzyme catalysis
 
@@ -43,11 +46,6 @@ With colloidal platinum as a catalyst the activation energy is 11.7kcal /mole
 XII U10-Surface Chemistry.indd 83 2/19/2020 5:12:42 PM
 
 www.tntextbooks.in
-
-
-
-
-  
 
 84
 
