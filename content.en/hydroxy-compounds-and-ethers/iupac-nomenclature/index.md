@@ -204,7 +204,7 @@ oxygen linearly overlap with the sp<sup>3</sup> hybridised orbital of carbon to 
 **Preparation of alcohols:** We have already learnt that the nucleophilic substitution reactions of alkyl halides with
 
 dilute alkali, conversion of alkenes to alcohols by hydration and the preparation of alcohols using Grignard reagent in XI standard. These reactions are summarised below. 1. **From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by SN<sup>2</sup> reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by SN<sup>1</sup> mechanism.
-$\ce{R-X+NaOH(aq) ->[\Delta] R-OH+NaX}$
+$\ce{R-X + NaOH(aq) ->[\Delta] R-OH + NaX}$
 <!-- R-X+NaOH(aq) → R-OH+NaX -->
 
 If R =t-butyl, the reaction proceeds through the formation of t-butyl carbocation
@@ -216,7 +216,7 @@ If R =t-butyl, the reaction proceeds through the formation of t-butyl carbocatio
 <!-- CH<sub>3</sub>-CH=CH<sub>2</sub> +H<sub>2</sub>O ->CH -CH(OH)-CH propylene -->
 $\ce{CH3-CH=CH2 + H2O ->[{Conc. H2SO4}] CH-CH(OH)-CH}$
 <!-- 3 2 2 Conc.H SO
-
+^
 3 3 2 4 →
 
 propan-2-ol -->
@@ -329,12 +329,13 @@ Diborane reacts with an alkene to form trialkyl borane which on treatment with H
 
 
 
+$\ce{(CH3-CH2-CH2)3B + 3H2O2 ->[{OH^-}]3CH3-CH2-CH2-OH + B(OH)3 }$
 
-(CH3 CH2 CH2)3B + 3H2O2 OH-
+<!-- (CH3 CH2 CH2)3B + 3H2O2 OH-
 
 3CH3 CH2 CH2 OH propan-1-ol
 
-\+ B (OH)3
+\+ B (OH)3 -->
 
 5\. **Reduction of carbonyl compounds:**
 
@@ -342,6 +343,9 @@ Reduction of aldehydes/ketones with LiAlH4 in the presence of solvents like THF 
 
 **Examples**
 
+![Alt text](109-carbonyl-redyction.png)
+
+<!-- 
 CH3 - C = O i) LiAlH4
 
 ii) H2O
@@ -394,9 +398,9 @@ NaBH4 H O
 
  →
 
-4-alkyl- 4- hydroxybutanoic acid
+4-alkyl- 4- hydroxybutanoic acid -->
 
-XII U11-Hydroxy compounds.indd 109 2/19/2020 5:12:39 PM
+
 
 www.tntextbooks.in
 
@@ -411,22 +415,24 @@ www.tntextbooks.in
 
 We have already learnt that the hydroxylation of ethylene using cold alkaline solution of potassium permanganate (Baeyer’s reagent) gives ethylene glycol.
 
+![Alt text](110-glycol-example.png)
 
 
-
-Cold alkaline KMnO4
+<!-- Cold alkaline KMnO4
 
 CH2 CH2
 
 OH OHethene ethane-1,2-diol
 
-\[O\]
+\[O\] -->
 
 **Preparation of glycerol** Glycerol occurs in many natural fats and it is also found in long chain fatty acids in
 
 the form of glyceryl esters (Triglycerides). The alkaline hydrolysis of these fats gives glycerol and the reaction is known as saponification.
 
-CH2 O C (CH2)14 CH3
+![Alt text](110-glycerol-preparation.png)
+
+<!-- CH2 O C (CH2)14 CH3
 
 O
 
@@ -464,23 +470,23 @@ Sodiumhexadeconoate
 
 Glycerylpalmitate (a
 
-**D**
+**D** -->
 
-**Evaluate Yourself?** 1\. Suggest a suitable carbonyl compound for the preparation of pent-2-en-1-ol using
+**Evaluate Yourself?** 1\. Suggest a suitable carbonyl compound for the preparation of pent-2-en-1-ol using LiAlH<sub>4</sub> .
 
-LiAlH4 .
+2. $\ce{ 2-methylpropene ->[{H2SO4/H2O}] }$
 
-2\. 2-methylpropene H SO /H O2 4 2 → ? 3. How will you prepare the following using Grignard reagent.
+3. How will you prepare the following using Grignard reagent.
 
 i) t-butyl alcohol ii) allyl alcohol
 
-**Methods to differentiate primary, secondary and tertiary alcohols.** The following tests are used to distinguish between 1 , 2 and 3° ° ° alcohols.
+**Methods to differentiate primary, secondary and tertiary alcohols.** The following tests are used to distinguish between 1° , 2° and 3°  alcohols.
 
 **a) Lucas test:** When alcohols are treated with Lucas agent (a mixture of concentrated HCl and anhydrous
 
-ZnCl2 ) at room temperature, tertiary alcohols react immediately to form a turbidity due to the formation of alkyl chloride which is insoluble in the medium. Secondary alcohols react within 10 minutes to form a turbidity of alkyl chloride where primary alcohols do not react at room temperature.
+ZnCl<sub>2</sub> ) at room temperature, tertiary alcohols react immediately to form a turbidity due to the formation of alkyl chloride which is insoluble in the medium. Secondary alcohols react within 10 minutes to form a turbidity of alkyl chloride where primary alcohols do not react at room temperature.
 
-XII U11-Hydroxy compounds.indd 110 2/19/2020 5:12:43 PM
+
 
 www.tntextbooks.in
 
@@ -491,7 +497,9 @@ www.tntextbooks.in
 
 111
 
-CH3 - C - OH + HCl CH3 -C - Cl + H2O
+![Alt text](111-lucas-test.png)
+
+<!-- CH3 - C - OH + HCl CH3 -C - Cl + H2O
 
 CH3
 
@@ -529,17 +537,17 @@ ethanol
 
 Cl
 
-( )
+( ) -->
 
 **b) Victor Meyer’s test:**
 
 This test is based on the behaviour of the different nitro alkanes formed by the three types of alcohols with nitrous acid and it consists of the following steps.
 
-i) Alcohols are converted into alkyl iodide by treating it with I /P2 .
+i) Alcohols are converted into alkyl iodide by treating it with I<sub>2</sub>/P .
 
-ii) Alkyl iodide so formed is then treated with AgNO2 to form nitro alkanes.
+ii) Alkyl iodide so formed is then treated with AgNO<sub>2</sub> to form nitro alkanes.
 
-ii) Nitro alkanes are finally treated with HNO2 (mixture of NaNO HCl2 / ) and the resultant solution is made alkaline with KOH.
+ii) Nitro alkanes are finally treated with HNO<sub>2</sub> (mixture of NaNO HCl<sub>2</sub> / ) and the resultant solution is made alkaline with KOH.
 
 **Result:**
 
@@ -547,7 +555,7 @@ ii) Nitro alkanes are finally treated with HNO2 (mixture of NaNO HCl2 / ) and th
 
 • No colouration will be observed in case of tertiary alcohol.
 
-XII U11-Hydroxy compounds.indd 111 2/19/2020 5:12:46 PM
+
 
 www.tntextbooks.in
 
@@ -557,8 +565,9 @@ www.tntextbooks.in
   
 
 112
+![Alt text](112-alcohols.png)
 
-CH3 CH2 OH
+<!-- CH3 CH2 OH
 
 Ethanol
 
@@ -832,7 +841,7 @@ CH3 C NO2
 
 N OK
 
-OHK OHK
+OHK OHK -->
 
 **Properties of alcohols Physical properties**
 
@@ -842,7 +851,7 @@ ii. They have higher boiling points than the corresponding other organic compoun
 
 iii. Among isomeric alcohols primary alcohols have higher boiling point and the tertiary alcohols have lower boiling points.
 
-XII U11-Hydroxy compounds.indd 112 2/19/2020 5:12:47 PM
+
 
 www.tntextbooks.in
 
@@ -851,14 +860,15 @@ www.tntextbooks.in
 
 
 
-| 1 alcoholCH CH OH3 2Ethano lP/I2CH CH I3 2Iodoethan eAgNO2CH CH NO3 2 2NitroethaneHONOCH C NO3 N 2OHK OHCH C NO3 N 2OKRed Colour |22 al alcohocohol  l CHCH CHCH CHCH3 3 OHOH 3 3propan-2-olpropan-2-olP/P/I I2 2CHCH CHCH CHCH3 3 I I 3 32-Iodopropane2-IodopropaneAgNOAgNO2 2CHCH CHCH CHCHNONO3 3 3 32-nitropropane2-nitropropane2 2HONOHONONONOCHCH C C CHCH3 3 NONO 3 32-nitro-2-nitros2-nitro-2-nitros2 2 o opropanepropaneKKOHOHBlueBlue Colour Colour |33  al3  alcoho  alcohocohol l lCHCHCHCHCHCH C CCOHOHOH3 3 3CHCHCH3 3 32-methylpropan-2-ol2-methylpropan-2-ol2-methylpropan-2-ol3 3 3P/P/I P/I ICHCHCH2 2 2CHCHCH C CCI I I3 3 3CHCHCH3 3 32-Iodo-2-methylpropane2-Iodo-2-methylpropane2-Iodo-2-methylpropane3 3 3AgNOAgNOAgNO2 2 2CHCHCHCHCHCH C CCNONONO3 3 3CHCHCH3 3 32-methyl-2-nitropropane2-methyl-2-nitropropane2-methyl-2-nitropropane3 3 3 2 2 2HONOHONOHONONo reactionNo reactionNo reaction(No colouration with KOH)(No colouration with KOH)(No colouration with KOH) |
+<!-- | 1 alcoholCH CH OH3 2Ethano lP/I2CH CH I3 2Iodoethan eAgNO2CH CH NO3 2 2NitroethaneHONOCH C NO3 N 2OHK OHCH C NO3 N 2OKRed Colour |22 al alcohocohol  l CHCH CHCH CHCH3 3 OHOH 3 3propan-2-olpropan-2-olP/P/I I2 2CHCH CHCH CHCH3 3 I I 3 32-Iodopropane2-IodopropaneAgNOAgNO2 2CHCH CHCH CHCHNONO3 3 3 32-nitropropane2-nitropropane2 2HONOHONONONOCHCH C C CHCH3 3 NONO 3 32-nitro-2-nitros2-nitro-2-nitros2 2 o opropanepropaneKKOHOHBlueBlue Colour Colour |33  al3  alcoho  alcohocohol l lCHCHCHCHCHCH C CCOHOHOH3 3 3CHCHCH3 3 32-methylpropan-2-ol2-methylpropan-2-ol2-methylpropan-2-ol3 3 3P/P/I P/I ICHCHCH2 2 2CHCHCH C CCI I I3 3 3CHCHCH3 3 32-Iodo-2-methylpropane2-Iodo-2-methylpropane2-Iodo-2-methylpropane3 3 3AgNOAgNOAgNO2 2 2CHCHCHCHCHCH C CCNONONO3 3 3CHCHCH3 3 32-methyl-2-nitropropane2-methyl-2-nitropropane2-methyl-2-nitropropane3 3 3 2 2 2HONOHONOHONONo reactionNo reactionNo reaction(No colouration with KOH)(No colouration with KOH)(No colouration with KOH) | -->
   
 
 113
 
 iv. The lower members are highly soluble in water due to the formation of intermolecular hydrogen bonding with water.
 
-R δ-
+![Alt text](113-hydrogen-bonding.png)
+<!-- R δ-
 
 O δ- δ-
 
@@ -874,7 +884,7 @@ HR
 
 H
 
-H
+H -->
 
 **Table : Boiling point of alcohols in comparision with other organic compounds.**
 
@@ -891,29 +901,32 @@ H
 
 **Chemical properties of alcohols Nucleophilic substitution reactions of alcohols**
 
-Alcohol has a strong basic leaving group (OH–). So, –OH group is first converted into
+Alcohol has a strong basic leaving group (OH<sup>-</sup>). So, –OH group is first converted into
 
-− +
 
-OH2 group by adding an acid. The − +
 
-OH2 group in the protonated alcohol can be easily
+OH<sub>2</sub> group by adding an acid. The 
 
-displaced by a nucleophile such as Br- to give alkyl halides. **Example**: Alcohols undergo nucleophilic substitution reaction with hydro halic acids to form
+OH<sub>2</sub> group in the protonated alcohol can be easily
+
+displaced by a nucleophile such as Br<sup>-</sup> to give alkyl halides. **Example**: Alcohols undergo nucleophilic substitution reaction with hydro halic acids to form
 
 alkyl halides. In case of tertiary alcohols heating is required.
 
-CH3 CH2 OH HBr - H2O
+$\ce{CH3-CH2-OH ->[{HBr}][{H2O}] CH3-CH2-Br}$
+
+<!-- CH3 CH2 OH HBr - H2O
 
 CH3 CH2 Br
 
-Ethanol Bromoethane
+Ethanol Bromoethane -->
 
-**Alkyl halide formation from primary alcohols follow** SN 2 **mechanism**
+**Alkyl halide formation from primary alcohols follow** SN<sup>2</sup> **mechanism**
 
 **Example**
+![Alt text](113-alkyl-halide-sn2.png)
 
-CH3 CH2 O H H - Br -Br-
+<!-- CH3 CH2 O H H - Br -Br-
 
 CH3 CH2 O H CH3
 
@@ -923,9 +936,9 @@ CH2 Br + H2O
 
 Brethanol bromoethane
 
-Nucleophilic attack of Br− and leaving of H O2 takes place simultaneously.
+Nucleophilic attack of Br− and leaving of H O2 takes place simultaneously. -->
 
-XII U11-Hydroxy compounds.indd 113 2/19/2020 5:12:57 PM
+
 
 www.tntextbooks.in
 
@@ -934,25 +947,26 @@ www.tntextbooks.in
 
 
 
-| δ- |δ- |
+<!-- | δ- |δ- | -->
 
 
-| S.No. |C ompound |Mole cule formula |Molar mass |( )Boiling point  K |
+<!-- | S.No. |C ompound |Mole cule formula |Molar mass |( )Boiling point  K |
 |------|------|------|------|------|
 | 1 |Butane |CH -CH -CH -CH3 2 2 3 |58 |272.5 |
 | 2 |Propanal |CH -CH -CHO3 2 |58 |322 |
 | 3 |Methoxyethane |CH -O-CH -CH3 2 3 |60 |283.8 |
 | 4 |Prapan – 1- ol |CH -CH -CH -OH3 2 2 |60 |370.4 |
-| 5 |Propan – 2- ol |CH -CH(OH)-CH3 3 |60 |355.5 |
+| 5 |Propan – 2- ol |CH -CH(OH)-CH3 3 |60 |355.5 | -->
   
 
 114
 
-**Alkyl halide formation of tertiary alcohols follow** SN1**mechanism.**
+**Alkyl halide formation of tertiary alcohols follow** SN<sup>1</sup>**mechanism.**
 
 **Example**
+![Alt text](114-alkyl-halide-sn1.png)
 
-C
+<!-- C
 
 CH3
 
@@ -1048,21 +1062,23 @@ N..
 
 +
 
-chloroethane
+chloroethane -->
 
 The conversion of an alcohol to alkyl halide can also be effected using thionyl chloride
 
-CH3 OH + SOCl2 Pyridine
+$\ce{CH3-OH[{Methanol}] + SOCl2[{Thionyl chloride}] ->[{Pyridine}] CH3-Cl[{chloromethane}] + HCl + SO2}$
+
+<!-- CH3 OH + SOCl2 Pyridine
 
 CH3 Cl HCl ++ SO2
 
 Methanol Thionyl chloride
 
-chloromethane
+chloromethane -->
 
 This reaction also follows the SN i mechanism in the presence of pyridine.
 
-XII U11-Hydroxy compounds.indd 114 2/19/2020 5:13:02 PM
+<!-- XII U11-Hydroxy compounds.indd 114 2/19/2020 5:13:02 PM -->
 
 www.tntextbooks.in
 
@@ -1071,7 +1087,7 @@ www.tntextbooks.in
 
 
 
-| 3(e l imination)–H+ |
+<!-- | 3(e l imination)–H+ | -->
   
 
 115
