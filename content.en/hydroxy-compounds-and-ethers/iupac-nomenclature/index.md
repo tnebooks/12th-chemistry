@@ -412,6 +412,14 @@ We have already learnt that the hydroxylation of ethylene using cold alkaline so
 
 $\ce{A ->[{text above}][{text below}] B}$
 
+\[
+\mathrm{CH_2=CH_2 + H_2O \xrightarrow[\text{Cold alkaline } KMnO_4]{\text{CH_2-CH_2}} \overset{\text{OH}}{\underset{\text{OH}}{\mathrm{|\ |}}} ethene \quad \overset{\text{OH}}{\underset{\text{OH}}{\mathrm{|\ |}}} \quad ethane-1,2-diol}
+\]
+
+\[
+\chemfig{*6(=-=-=-)}
+\]
+
 
 Cold alkaline KMnO4
 
