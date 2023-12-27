@@ -5,6 +5,7 @@ weight: 2
 
 
 
+
 ## IUPAC Nomenclature
  We have already learnt about naming the organic compounds according to IUPAC
 
@@ -16,6 +17,13 @@ lowest possible number. 3. Name the substituent (if any) 4. Write the name of th
 
 Prefix + Root word + Primary suffix + Secondary suffix (substituents) (longest chain) (Saturation /unsaturation) (ol)
 
+**The following table illustrates the IUPAC nomenclature of alcohols.**
+
+![Alt text](IUPAC-Alcohols.png)
+
+
+
+<!-- 
 **The following table illustrates the IUPAC nomenclature of alcohols.**
 
 **Compound (common name, Structural**
@@ -122,9 +130,13 @@ Glycerol HO CH2 CH (OH) CH2 OH
 
 Propane – 1,2,3 – triol
 
-\- Prop ane 1,2,3 – triol
+\- Prop ane 1,2,3 – triol -->
 
 **Evaluate Yourself:**
+
+
+
+
 
 1\. Classify the following alcohols as 1**∞**, 2**∞**, and 3**∞** and give their IUPAC Names.
 
@@ -132,9 +144,9 @@ a) CH3
 
 Br
 
-b) (C2H5)3COH
+b) (C<sub>2</sub>H<sub>5</sub>)<sub>3</sub>COH
 
-c) CH2 = C(Cl)
+c) CH<sub>2</sub> = C(Cl)-CH(OH)CH<sub>3</sub>
 
 d)
 
@@ -149,22 +161,14 @@ HO
 OH Br
 
 CH2 CH(OH) CH2 C(CH3)2
-
-CH (OH) CH3
-
-2\. Write all the possible isomers of an alcohol having the molecular formula C H O125 and give their IUPAC names.
-
-**Structure of the functional group of alcohol.** The structure of -O-H group which is
-
-attached to a sp3 hybridised carbon is similar to the structure of -O-H group attached to a hydrogen in water. i.e., ‘V’ shaped. In such alcohols, one of the sp3 hybridised orbital of
-
-C
-
-sp3hybidised carbon
-
 108.9 H
 
-XII U11-Hydroxy compounds.indd 107 2/19/2020 5:12:23 PM
+
+2\. Write all the possible isomers of an alcohol having the molecular formula C<sub>5</sub>H<sub>12</sub>O<sub>5</sub> and give their IUPAC names.
+
+
+
+
 
 www.tntextbooks.in
 
@@ -181,21 +185,34 @@ www.tntextbooks.in
 
 
 | CH) COH25 3 |CH(OH) CH C(CH )d)2 3 2 HOC |
-  
+
+ **Structure of the functional group of alcohol.** The structure of -O-H group which is
+
+attached to a sp<sup>3</sup> hybridised carbon is similar to the structure of -O-H group attached to a hydrogen in water. i.e., ‘V’ shaped. In such alcohols, one of the sp<sup>3</sup> hybridised orbital of
+
+
+
+sp<sup>3</sup>hybidised carbon 
 
 108
 
-oxygen linearly overlap with the sp3 hybridised orbital of carbon to form a C-O , 'σ ' bond and another sp3 hybridised orbital linearly overlap with 1s orbital of hydrogen to form a O-H 'σ ' bond. The remaining two sp3 hybridised orbitals of oxygen are occupied by two lone pairs of electrons. Due to the lone pair – lone pair repulsion, the C-O-H bond angle in methanol is reduced to 108 9. ° from the regular tetrahedral bond angle of 109 5. ° .
+
+
+
+oxygen linearly overlap with the sp<sup>3</sup> hybridised orbital of carbon to form a C-O , 'σ ' bond and another sp<sup>3</sup> hybridised orbital linearly overlap with 1s orbital of hydrogen to form a O-H 'σ ' bond. The remaining two sp<sup>3</sup> hybridised orbitals of oxygen are occupied by two lone pairs of electrons. Due to the lone pair – lone pair repulsion, the C-O-H bond angle in methanol is reduced to 108 9. ° from the regular tetrahedral bond angle of 109 5. ° .
 
 **Preparation of alcohols:** We have already learnt that the nucleophilic substitution reactions of alkyl halides with
 
-dilute alkali, conversion of alkenes to alcohols by hydration and the preparation of alcohols using Grignard reagent in XI standard. These reactions are summarised below. 1. **From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by SN2 reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by SN1 mechanism.
+dilute alkali, conversion of alkenes to alcohols by hydration and the preparation of alcohols using Grignard reagent in XI standard. These reactions are summarised below. 1. **From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by SN<sup>2</sup> reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by SN<sup>1</sup> mechanism.
 
-R-X+NaOH(aq) R-OH+NaXD → If R =t-butyl, the reaction proceeds through the formation of t-butyl carbocation
+R-X+NaOH(aq) → R-OH+NaX
+
+If R =t-butyl, the reaction proceeds through the formation of t-butyl carbocation
 
 2\. **From alkenes:** Addition of water across the double bond of an alkene in presence of concentrated sulphuric acid gives alcohols. This addition reaction follows Markownikoff ’s rule.
 
-**Example:** CH -CH=CH +H O CH -CH(OH)-CH propylene
+
+**Example:** CH<sub>3</sub>-CH=CH<sub>2</sub> +H<sub>2</sub>O ->CH -CH(OH)-CH propylene
 
 3 2 2 Conc.H SO
 
@@ -304,7 +321,12 @@ www.tntextbooks.in
 
 Diborane reacts with an alkene to form trialkyl borane which on treatment with H O2 2 in presence of NaOH gives an alcohol. (Refer reactions of diborane) The overall reaction is hydration of an alkene. This reaction yields an anti-Markownikoff 's product.
 
-6CH3 CH = CH2 + B2H6 2(CH3 CH2 CH2)3B Tripropylborane
+
+
+6CH<sub>3</sub> - CH = CH<sub>2</sub> + B<sub>2</sub>H<sub>6</sub> -> 2(CH<sub>3</sub> CH<sub>2</sub> CH<sub>2</sub>)<sub>3</sub>B    Tripropylborane
+
+
+
 
 (CH3 CH2 CH2)3B + 3H2O2 OH-
 
@@ -387,7 +409,9 @@ www.tntextbooks.in
 
 We have already learnt that the hydroxylation of ethylene using cold alkaline solution of potassium permanganate (Baeyer’s reagent) gives ethylene glycol.
 
-CH2 = CH2 + H2O
+
+$\ce{A ->[{text above}][{text below}] B}$
+
 
 Cold alkaline KMnO4
 
@@ -853,17 +877,16 @@ H
 
 **Table : Boiling point of alcohols in comparision with other organic compounds.**
 
-**S.No. Compound Molecule formula Molar mass Boiling point** ( )K
 
-1 Butane CH3-CH2-CH2-CH3 58 272.5
+| S.No. | Compound         | Molecule Formula   | Molar Mass | Boiling Point (K) |
+|-------|------------------|--------------------|------------|-------------------|
+| 1     | Butane           | CH3-CH2-CH2-CH3    | 58         | 272.5             |
+| 2     | Propanal         | CH3-CH2-CHO        | 58         | 322               |
+| 3     | Methoxyethane    | CH3-O-CH2-CH3      | 60         | 283.8             |
+| 4     | Propan-1-ol       | CH3-CH2-CH2-OH     | 60         | 370.4             |
+| 5     | Propan-2-ol       | CH3-CH(OH)-CH3     | 60         | 355.5             |
 
-2 Propanal CH3-CH2-CHO 58 322
 
-3 Methoxyethane CH3-O-CH2-CH3 60 283.8
-
-4 Prapan – 1- ol CH3-CH2-CH2-OH 60 370.4
-
-5 Propan – 2- ol CH3-CH(OH)-CH3 60 355.5
 
 **Chemical properties of alcohols Nucleophilic substitution reactions of alcohols**
 
@@ -1907,33 +1930,22 @@ enhances the acidic nature of phenol especially when they are present at ortho a
 
 **Table: pKaValues of some alcohols and phenols**
 
-**S.No. Compound** pK a
+| **S.No.** | **Compound**          | **pKa Value** |
+|-----------|------------------------|---------------|
+| 1         | methanol               | 15.5          |
+| 2         | ethanol                | 15.9          |
+| 3         | propan – 2- ol         | 16.5          |
+| 4         | 2 – methyl propan 2 - ol| 18.0          |
+| 5         | Cyclohexanol           | 18.0          |
+| 6         | Phenol                 | 10.0          |
+| 7         | o – nitrophenol        | 7.2           |
+| 8         | p – nitrophenol        | 7.1           |
+| 9         | m - nitrophenol        | 8.3           |
+| 10        | o – cresol             | 10.2          |
+| 11        | m – cresol             | 10.1          |
+| 12        | p – cresol             | 10.2          |
 
-**Value**
 
-1 methanol 15.5
-
-2 ethanol 15.9
-
-3 propan – 2- ol 16.5
-
-4 2 – methyl propan 2 - ol 18.0
-
-5 Cyclohexanol 18.0
-
-6 Phenol 10.0
-
-7 o – nitrophenol 7.2
-
-8 p – nitrophenol 7.1
-
-9 m - nitrophenol 8.3
-
-10 o – cresol 10.2
-
-11 m – cresol 10.1
-
-12 p – cresol 10.2
 
 XII U11-Hydroxy compounds.indd 124 2/19/2020 5:13:41 PM
 
@@ -2993,7 +3005,7 @@ www.tntextbooks.in
 
 
 
-| C ompound |Molar Mass |Boiling point |
+| Compound |Molar Mass |Boiling point |
 |------|------|------|
 | CH n-h(CepH t)ane CH3 2 5 |100.21 |371K |
 | CH1-met O ho (xypCH en) tan CeH3 2 4 3 |102.17 |373K |
