@@ -111,7 +111,7 @@ Adsorption isobars of physisorption and chemisorption are different as represent
 
 x is the amount of adsorbate adsorbed on ‘m’ g of adsorbent.
 
-In physical adsorption, <sup>x</sup>&frasl;<sub>m</sub> decreases with increase in Temprature, But in chemical adsorption, <sup>x</sup>&frasl;<sub>m</sub> increases with rise in temperature and then decreases. The increase illustrates the requirement of activation of the surface for adsorption is due to fact that formation of activated complex requires certain energy.
+In physical adsorption, $$\frac{x}{m}$$ decreases with increase in Temprature, But in chemical adsorption, $$\frac{x}{m}$$ increases with rise in temperature and then decreases. The increase illustrates the requirement of activation of the surface for adsorption is due to fact that formation of activated complex requires certain energy.
 
 The decrease at high temperature is due to desorption, as the kinetic energy of the adsorbate increases.
 
@@ -122,8 +122,6 @@ Adsorption isotherm can be studied quantitatively. A plot between the amount of 
 In order to explain these isotherms various equations were suggested as follows:
 
 (i) Freundlich adsorption isotherm. According to Freundlich,
-
-$\int_{a}^{b} u v^\prime \ \mathrm{d}x = [ uv ]a^b - \int{a}^{b} u^\prime v \ \mathrm{d}x$
 
 where x is the amount of adsorbate, adsorbed on ‘m’ gm of adsorbent at a pressure of p. K and n are constant introduced by freundlich.
 
