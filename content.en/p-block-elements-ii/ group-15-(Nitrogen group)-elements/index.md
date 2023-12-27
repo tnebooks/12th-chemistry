@@ -2,6 +2,11 @@
 title: ' Group 15 (Nitrogen group) elements'
 weight: 1
 ---
+
+We have already learnt the general characteristics of p-block elements and the first two
+group namely icosagens (boron group) and tetragens (carbon group) in the previous unit. In
+this unit we learn the remaining p-block groups, pnictogens, chalcogens, halogens and inert
+gases
 ## Group 15 (Nitrogen group) elements: 3.1.1 Occurrence:
 
 
@@ -14,7 +19,7 @@ Some of the physical properties of the group 15 elements are listed below
 
 **Table 3.1 Physical properties of group 15 elements**
 
-**Property Nitrogen Phosphorus Arsenic Antimony Bismuth** Physical state at 293 K
+<!-- **Property Nitrogen Phosphorus Arsenic Antimony Bismuth** Physical state at 293 K
 
 Gas Solid Solid Solid Solid
 
@@ -38,26 +43,9 @@ Atomic radius (Å) 1.55 1.80 1.85 2.06 2.07 Density (g.cm-3 at 293 K)
 
 Melting point (K) 63 317 Sublimes at 889
 
-904 544 Boiling point (K) 77 554 1860 1837
+904 544 Boiling point (K) 77 554 1860 1837 -->
 
-### Nitrogen:
-
-
-**Preparation:**
-
-Nitrogen, the principal gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
-
-Pure nitrogen gas can be obtained by the thermal decomposition of sodium azide about 575 K
-
-2NaN3 2 Na + 3N2
-
-XII U3-P-block.indd 57 2/19/2020 4:39:46 PM
-
-www.tntextbooks.in
-
-
-
-
+<!-- ![Alt text](nitrogen-table.png) -->
 
 
 | Property |Nitrogen |Phosphorus |Arsenic |Antimony |Bismuth |
@@ -70,14 +58,49 @@ www.tntextbooks.in
 | Atomic radius (Å) |1.55 |1.80 |1.85 |2.06 |2.07 |
 | Density (g.cm  at293 K)-3 |1.14 x 10-3 |1.82 (white phosphorus) |5.75 |6.68 |9.79 |
 | Melting point (K) |63 |317 |Sublimes at 889 |904 |544 |
-| B oiling point (K) |77 |554 |1860 |1837 |
+| B oiling point (K) |77 |554 |Sublimes at 889|1860 |1837 |
+
+### Nitrogen:
+
+
+**Preparation:**
+
+Nitrogen, the principal gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
+
+Pure nitrogen gas can be obtained by the thermal decomposition of sodium azide about 575 K
+
+
+
+<
+2NaN<sub>3</sub>→2 Na+3N<sub>2</sub>
+
+<!-- XII U3-P-block.indd 57 2/19/2020 4:39:46 PM
+
+www.tntextbooks.in -->
+
+
+
+
+
+<!-- 
+| Property |Nitrogen |Phosphorus |Arsenic |Antimony |Bismuth |
+|------|------|------|------|------|------|
+| Physical state  at 293 K |Gas |Solid |Solid |Solid |Solid |
+| Atomic Number |7 |15 |33 |51 |83 |
+| Isotopes |N,  N14 15 |P31 |As75 |Sb121 |Bi209 |
+| Atomic Mass (g.mol  at 293 K)-1 |14 |30.97 |74.92 |121.76 |209.98 |
+| Electronic conguration |[He]2s  2p2 3 |[Ne]3s  3p2 3 |[Ar]3d  4s4p10 23 |[Kr]4d  5s5p10 23 |[Xe] 4f5d  6s  6p1410 2 3 |
+| Atomic radius (Å) |1.55 |1.80 |1.85 |2.06 |2.07 |
+| Density (g.cm  at293 K)-3 |1.14 x 10-3 |1.82 (white phosphorus) |5.75 |6.68 |9.79 |
+| Melting point (K) |63 |317 |Sublimes at 889 |904 |544 |
+| B oiling point (K) |77 |554 |1860 |1837 | -->
   
 
-58
+
 
 It can also be obtained by oxidising ammonia using bromine water
 
-8NH3 + 3Br2 6NH4Br + N2
+8NH<sub>3</sub>+ 3Br<sub>2</sub> → 6NH<sub>4</sub>Br + N<sub>2</sub>
 
 **Properties**
 
@@ -85,17 +108,27 @@ Nitrogen gas is rather inert. Terrestrial nitrogen contains 14.5% and 0.4% of ni
 
 The only reaction of nitrogen at room temperature is with lithium forming Li3N. With other elements, nitrogen combines only at elevated temperatures. Group 2 metals and Th forms ionic nitrides.
 
-6Li + N 2Li N2
+6Li + N <sub>2</sub> → 2Li<sub>3</sub>N
 
-3→
 
-3 2 3 2Ca N Ca N red hot +  →
+3Ca + N<sub>2</sub> → Ca<sub>3</sub>N<sub>2</sub>  ^ red hot
 
-2 2_B_ N 2BNbright red hot+  →
+
+
+2B+N<sub>2</sub> →2BN ^ bright red hot
+
+
 
 Direct reaction with hydrogen gives ammonia. This reaction is favoured by high pressures and at optimum temperature in presence of iron catalyst. This reaction is the basis of Haber’s process for the synthesis of ammonia.
 
-1
+
+
+1/2N<sub>2</sub>+3/2H<sub>2</sub>⇌ NH<sub>3</sub>  ΔH<sub>f</sub>=-46.2kJ mol<sup>-1</sup>
+
+
+
+<!-- 1/2N<sub>2</sub>+3/2H<sub>2</sub><=> NH<sub>3</sub> -->
+<!-- 1
 
 2
 
@@ -107,11 +140,11 @@ Direct reaction with hydrogen gives ammonia. This reaction is favoured by high p
 
 1 N H NH H kJ mol
 
-\+ ∆ = − − ⇀↽  _f_ .
+\+ ∆ = − − ⇀↽  _f_ . -->
 
 With oxygen, nitrogen produces nitrous oxide at high temperatures. Even at 3473 K nitrous oxide yield is only 4.4%.
 
-2N O 2N O2 2 2+ →
+2N <sub> 2</sub>+ O<sub>2</sub>  → 2N<sub>2</sub>O
 
 **Uses of nitrogen**
 
@@ -119,41 +152,32 @@ With oxygen, nitrogen produces nitrous oxide at high temperatures. Even at 3473 
 
 2\. Liquid nitrogen is used for producing low temperature required in cryosurgery, and so in biological preservation .
 
-### Ammonia (NH3)
+### Ammonia (NH<sub>3</sub>)
 
 
 **Preparation:**
 
-Ammonia is formed by the hydrolysis of urea. NH2CONH2 +H2O 2NH3 +CO2
+Ammonia is formed by the hydrolysis of urea.<br>
+ NH<sub>2</sub>CONH<sub>2</sub> +H<sub>2</sub>O →2NH<sub>3</sub>+CO<sub>2</sub>
+
 
 Ammonia is prepared in the laboratory by heating an ammonium salt with a base.
 
-2 2 4 3
+NH<sub>4</sub><sup>+</sup>+OH<sup>-</sup>→<sub></sub> NH<sub>3</sub>+H<sub>2</sub>O
 
-NH OH NH H O +
+2NH<sub>4</sub>Cl+CaO →CaCl<sub>2</sub>+2NH<sub>3</sub>+H<sub>2</sub>0
 
-2 +  → +−
-
-2NH Cl CaO CaCl + 2NH + H O 4
-
-2 3 2 +  →
-
-XII U3-P-block.indd 58 2/19/2020 4:39:49 PM
-
-www.tntextbooks.in
 
 
 
 
   
 
-59
+
 
 It can also be prepared by heating a metal nitrides such as magnesium nitride with water. Mg N 6H O 3Mg(OH) + 2NH
 
-3 2 2
-
-2 3 +  →
+Mg<sub>3</sub>N<sub>2</sub>+6H<sub>2</sub>0 →3Mg(OH)<sub>2</sub>+2NH<sub>3</sub>
 
 It is industrially manufactured by passing nitrogen and hydrogen over iron catalyst (a small amount of K2O and Al2O3 is also used to increase the rate of attainment of equilibrium) at 750 K at 200 atm pressure. In the actual process the hydrogen required is obtained from water gas and nitrogen from fractional distillation of liquid air.
 
@@ -163,15 +187,26 @@ Ammonia is a pungent smelling gas and is lighter than air. It can readily liquef
 
 At low temperatures two soluble hydrate NH3.H2O and 2NH3.H2O are isolated. In these molecules ammonia and water are linked by hydrogen bonds. In aqueous solutions also ammonia may be hydrated in a similar manner and we call the same as (NH3.H2O)
 
-NH H O NH OH 2
 
-+
+NH<sub>3</sub>+H<sub>2</sub>0 ⇌ NH<sub>4</sub><sup>+</sup>+OH<sup>-</sup>
 
-3 4 + + − ⇀↽ 
+
+
 
 The dielectric constant of ammonia is considerably high to make it a fairly good ionising solvent like water.
 
- ⇀↽  +
+2NH<sub>3</sub> ⇌ NH<sub>4</sub><sup>+</sup>+NH<sub>2</sub><sup>-</sup>
+
+K<sub>-50<sup>o</sup><sub>C =[NH<sub>4</sub><sup>+</sup>][NH<sub>2</sub><sup>-</sup>]=10<sup>-30</sup>
+
+
+2H<sub>2</sub>0 ⇌ H<sub>3</sub>0<sup>+</sup>+OH<sup>-</sup>
+
+K<sub>25<sup>o</sup><sub>C =[H<sub>3</sub>0<sup>+</sup>][OH<sup>-</sup>]=10<sup>-14</sup>
+
+
+
+<!--  ⇀↽  +
 
 \= =
 
@@ -225,150 +260,87 @@ C 3
 
 − − \[ \]\[ \]
 
-4
+4 -->
 
 **Chemical Properties**
 
 **Action of heat: Above 500°C ammonia decomposes into its elements. The decomposition may** be accelerated by metallic catalysts like Nickel, Iron. Almost complete dissociation occurs on continuous sparking.
 
-2NH N 3H 2 23
+2NH<sub> 3</sub> → N<sub>2</sub> +3H<sub>2</sub>   (>500°C)
 
-500 0> → +_C_
+
 
 **Reaction with air/oxygen:** Ammonia does not burn in air but burns freely in free oxygen with a yellowish flame to give nitrogen and steam.
 
-4NH O N 6H O
+4NH<sub>3</sub>+3O<sub>2</sub> ⇌ 2N<sub>2</sub>+6H<sub>2</sub>O
 
-2 23 2 3+ + ⇀↽ 
 
 In presence of catalyst like platinum, it burns to produce nitric oxide. This process is used for the manufacture of nitric acid and is known as ostwalds process.
 
-4NH O 4NO 6H O
-
-23 2 5+ + ⇀↽ 
+4NH<sub>3</sub>+5O<sub>2</sub> ⇌ 4N0+6H<sub>2</sub>O
 
 **Reducing property:** Ammonia acts as a reducing agent. It reduces the metal oxides to metal when passed over heated metallic oxide.
 
-XII U3-P-block.indd 59 2/19/2020 4:39:53 PM
-
-www.tntextbooks.in
+3PbO + 2NH <sub>3</sub>  → 3Pb + N<sub>2</sub> +3H<sub>2</sub>O 
 
 
-
-
-  
-
-60
-
-3PbO + 2NH 3Pb + N 3H O 3
-
-2 2  → +
 
 **Reaction with acids: When treated with acids it forms ammonium salts. This reaction shows** that the affinity of ammonia for proton is greater than that of water.
 
 **Reaction with chlorine and chlorides:** Ammonia reacts with chlorine and chlorides to give ammonium chloride as a final product. The reactions are different under different conditions as given below.
 
-With excess ammonia 2 NH + 3 Cl N + 6 HCl
+With excess ammonia 
 
-6 HCl + 6 NH 6 NH Cl
+2NH <sub>3</sub> + 3 Cl<sub>2</sub>  → N<sub>2</sub>+ 6 HCl
 
-3 2
+6HCl + 6NH<sub>3</sub> → 6 NH<sub>4</sub>Cl
 
-2
 
-3
-
-4
-
- →
-
- →
 
 With excess of chlorine ammonia reacts to give nitrogen trichloride, an explosive substance.
 
-2NH + 6Cl 2NCl + 6 HCl 3 2
+2NH <sub>3</sub> + 6 Cl<sub>2</sub> → 2NCl<sub>3</sub>+6HCl
 
-3  →
+2NH <sub>3</sub>(g)+HCl(g) → NH<sub>4</sub>cl(s)
 
- →_g_2NH ( ) + HCl(g) NH Cl (s) 3
+![Alt text](ammonia-hcl.png)
 
-4
 
 **Formation of amides and nitrides:** With strong electro positive metals such as sodium, ammonia forms amides while it forms nitrides with metals like magnesium.
 
-2Na + 2NH 2NaNH + H 3
+2Na + 2NH<sub>3</sub> → 2NaNH<sub>2</sub>+ H<sub>2</sub>
 
-2 2  →
-
-3Mg + 2NH Mg N + 3H 3
-
-3 2 2  →
+3Mg+ 2NH<sub>3</sub> → Mg<sub>3</sub>N<sub>2</sub>+3H<sub>2</sub>
 
 **With metallic salts:** Ammonia reacts with metallic salts to give metal hydroxides (in case of Fe) or forming complexes (in case Cu)
 
-Fe + 3NH Fe(OH) 3NH 3+ 3 OH
+Fe<sup>3+</sup>+ 3NH<sub>4</sub><sup>+</sup>+3OH<sup>-</sup> → Fe(OH)<sub>3</sub>+3NH<sub>4</sub><sup>+</sup>
 
-3 44
+Cu<sup>2+</sup>+4NH<sub>3</sub> →[Cu(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup>
 
-\+ +−
+          Tetraamminecopper(II)ion
 
- → +
+          (a coordination complex)
 
-Cu + 4NH \[Cu(NH ) \]
+**Formation of amines:** Ammonia forms ammonated compounds by ion dipole attraction. Eg. \[CaCl<sub>2</sub>.8NH<sub>3</sub>\]. In this, the negative ends of ammonia dipole is attracted to Ca<sup>2+</sup> ion.
 
-Tetra
-
-2+
-
-3 4
-
-2+
-
-3  →
-
-amminecopper(II)ion
-
-(a coordination complex)
-
-**Formation of amines:** Ammonia forms ammonated compounds by ion dipole attraction. Eg. \[CaCl2.8NH3\]. In this, the negative ends of ammonia dipole is attracted to Ca2+ ion.
-
-It can also act as a ligand and form coordination compounds such as \[Co(NH3)6\] 3+, \[Ag(NH3)2\]
+It can also act as a ligand and form coordination compounds such as \[Co(NH<sub>3</sub>)<sub>6</sub>\] <sup>3+</sup>, \[Ag(NH<sub>3</sub>)<sub>2</sub>\]<sup>+</sup>
 
 +.
 
-For example when excess ammonia is added to aqueous solution copper sulphate a deep blue colour compound \[Cu(NH3)4\]
-
-2+ is formed.
+For example when excess ammonia is added to aqueous solution copper sulphate a deep blue colour compound \[Cu(NH<sub>3</sub>)<sub>4</sub>\]<sup>2+</sup> is formed.
 
 **Structure of ammonia**
 
 Ammonia molecule is pyramidal in shape N-H bond distance is 1.016 Å and H-H bond distance is 1.645 Å with a bond angle 107°. The structure of ammonia may be regarded as a tetrahedral with
 
-1070
 
-1.016 Å sp3
-
-H
-
-N
 
 **Figure 3.1 Structure of ammonia**
 
-**Reaction of ammonia with HCL**
-
-XII U3-P-block.indd 60 2/19/2020 4:39:58 PM
-
-www.tntextbooks.in
+![Alt text](formation-amides.png)
 
 
-
-
-
-
-| 1.016 Å |
-  
-
-61
 
 one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
 
@@ -379,41 +351,38 @@ one lone pair of electrons in one tetrahedral position hence it has a pyramidal 
 
 Nitric acid is prepared by heating equal amounts of potassium or sodium nitrate with concentrated sulphuric acid.
 
-KNO + H SO KHSO + HNO 3 2 4
+KNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub>  →  KHSO<sub>4</sub>+ HNO<sub>3</sub>
 
-4 3  →
 
 The temperature is kept as low as possible to avoid decomposition of nitric acid. The acid condenses to a fuming liquid which is coloured brown by the presence of a little nitrogen dioxide which is formed due to the decomposition of nitric acid.
 
-4HNO 4NO + 2H O + O 3
+4HNO<sub>3</sub>   → 4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub>
 
-2 2 2  →
+
 
 **Commercial method of preparation**
 
 Nitric acid prepared in large scales using Ostwald's process. In this method ammonia from Haber’s process is mixed about 10 times of air. This mixture is preheated and passed into the catalyst chamber where they come in contact with platinum gauze. The temperature rises to about 1275 K and the metallic gauze brings about the rapid catalytic oxidation of ammonia resulting in the formation of NO, which then oxidised to nitrogen dioxide.
 
-4NH + 5O 4NO + 6H O + 120 kJ 3 2
+4NH<sub>3</sub> + 5O<sub>2</sub> →  4NO + 6H<sub>2</sub>O + 120 kJ 
 
-2  →
 
-2NO + O 2NO 2
+2NO + O<sub>2</sub> →  2NO<sub>2</sub>
 
-2  →
+
 
 The nitrogen dioxide produced is passed through a series of adsorption towers. It reacts with water to give nitric acid. Nitric oxide formed is bleached by blowing air.
 
-3NO + H O 2HNO + NO2 2
+3NO<sub>2</sub> + H<sub>2</sub> O →  2HNO<sub>3</sub>
++NO
 
-3 →
 
 **Properties**
 
 Pure nitric acid is colourless. It boils at 86 °C. The acid is completely miscible with water forming a constant boiling mixture (98% HNO3, Boiling point 120.5 °C). Fuming nitric acid contains oxides of nitrogen. It decomposes on exposure to sunlight or on being heated, into nitrogen dioxide, water and oxygen.
 
-4HNO 4NO + 2H O + O 3
+4HNO<sub>3</sub>  →  4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub>
 
-2 2 2  →
 
 Due to this reaction pure acid or its concentrated solution becomes yellow on standing.
 
@@ -421,66 +390,51 @@ In most of the reactions, nitric acid acts as an oxidising agent. Hence the oxid
 
 **As an acid:** Like other acids it reacts with bases and basic oxides to form salts and water
 
-ZnO + 2HNO Zn(NO ) + H O 3
+ZnO + 2HNO<sub>3</sub>  → Zn(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O 
 
-3 2 2  →
 
-3FeO + 10HNO 3Fe(NO ) + NO + 5 H O 3
 
-3 3 2  →
-
-XII U3-P-block.indd 61 2/19/2020 4:40:03 PM
-
-www.tntextbooks.in
+3FeO + 10HNO<sub>3</sub>  → 3Fe(NO<sub>3</sub>)<sub>3</sub> + NO + 5H<sub>2</sub>O 
 
 
 
 
-  
-
-62
 
 **As an oxidising agent: The nonmetals like carbon, sulphur, phosphorus and iodine are** oxidised by nitric acid.
 
-C + 4HNO 2H O + 4NO + CO 3
+C + 4HNO<sub>3</sub>  → 2H<sub>2</sub>O + 4NO<sub>3</sub> + CO<sub>2</sub>
 
-2 2 2  →
 
-S + 2HNO H SO + 2NO 3
+S + 2HNO<sub>3</sub> → H<sub>2</sub>SO<sub>4</sub> + 2NO 
 
-2 4  →
 
-P + 20HNO 4H PO + 4H O + 20NO 4 3
 
-3 4 2 2  →
+P<sub>4</sub> + 20HNO<sub>3</sub> →   4H<sub>3</sub>PO<sub>4</sub> + 4H<sub>2</sub>O + 20NO<sub>2</sub>
 
-3I + 10HNO 6HIO + 10NO + 2H O 2 3
 
-3 2  →
 
-HNO + F HF + NO F 3 2
+3I<sub>2</sub> + 10HNO<sub>3</sub> →   6HIO<sub>3</sub> + 10NO + 2H<sub>2</sub>O 
 
-3  →
 
-3H S + 2HNO 3S + 2NO + 4H O 2 3
+HNO<sub>3</sub> + F<sub>2</sub> →  HF + NO<sub>3</sub>F
 
-2  →
+
+
+3H<sub>2</sub>S + 2HNO<sub>3</sub> →  3S + 2NO + 4H<sub>2</sub>O 
+
+
 
 **As an nitrating agent: In organic compounds replacement of a –H atom with –NO2 is often** referred as nitration. For example.
 
-C H + HNO C H NO + H O 6 6 3
+C<sub>2</sub>H<sub>2</sub>+ HNO<sub>3</sub> → C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + H<sub>2</sub>O  (∆ H<sub>2</sub>SO<sub>4</sub>)
 
-H SO
 
-6 5 2 2
 
-2 4 → Nitration takes place due to the formation of nitronium ion
+ Nitration takes place due to the formation of nitronium ion
 
-HNO + H SO NO + H O + HSO 3 2 4
+HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> →  NO<sub>2</sub><sup>+</sup> + H<sub>2</sub>O + HSO<sub>4</sub><sup>-</sup>
 
-2 +
 
-4 → − 2
 
 **Action of nitric acid on metals**
 
@@ -488,160 +442,74 @@ All metals with the exception of gold, platinum, rhodium, iridium and tantalum r
 
 With weak electropositive metals like tin, arsenic, antimony, tungsten and molybdenum, nitric acid gives metal oxides in which the metal is in the higher oxidation state and the acid is reduced to a lower oxidation state. The most common products evolved when nitric acid reacts with a metal are gases NO2, NO and H2O. Occasionally N2, NH2OH and NH3 are also formed.
 
-HNO NO HNO NO N O 3
+                  
+  HNO<sub>3</sub>   NO<sub>2</sub> HNO<sub>2</sub> NO N<sub>2</sub>O
+N<sub>2</sub> NH<sub>3</sub>
 
-2
 
-2
-
-+2
-
-2
-
-+5 +4 +3 +1
-
-2
-
-3
-
-N NH
-
-0 3 −
 
 The reactions of metals with nitric acid are explained in 3 steps as follows:
 
 **Primary reaction:** Metal nitrate is formed with the release of nascent hydrogen
 
-M + HNO MNO + (H) 3
+M + HNO<sub>3</sub>  → MNO<sub>3</sub>+ (H) 
 
-3  →
+
 
 **Secondary reaction:** Nascent hydrogen produces the reduction products of nitric acid.
 
-HNO + 2H HNO + H O
 
-HNO + 6H NH O
+HNO<sub>3</sub> + 2(H) → HNO<sub>2</sub>  + H<sub>3</sub>O   |Nitrous acid
+                          
+  HNO<sub>3</sub> + 6(H) →  NH<sub>2</sub> OH +2H<sub>2</sub> O     | Hydroxylamine             
+                          
+HNO<sub>3</sub>+ 8(H)  → NH<sub>3</sub> +3H<sub>2</sub>O   | Ammonia
 
-3
+ 2HNO<sub>3</sub>+8(H)  →    H<sub>2</sub>N<sub>2</sub>O<sub>2</sub>+4H<sub>2</sub>O  |Hypo nitrous acid
 
-2
 
-Nitrous acid
 
-2
-
-3
-
-2
-
- →
-
- → H + 2H O
-
-HNO + 8H NH + 3H O
-
-Hydroxylamine
-
-2
-
-3
-
-3
-
-Ammonia
-
-2  →
-
-2HNO + 8H H N O + 4H O 3
-
-2 2 2
-
-Hypo nitrous acid
-
-2  →
-
-XII U3-P-block.indd 62 2/19/2020 4:40:10 PM
-
-www.tntextbooks.in
 
 
 
 
   
 
-63
 
 **Tertiary reaction: The secondary products either decompose or react to give final products**
 
 **Decomposition of the secondary:**
 
-3 HNO HNO + 2 NO 2
+3 HNO<sub>2</sub> → HNO<sub>3</sub> +       2NO+       H<sub>2</sub>O
 
-Nitrous acid
 
-3
 
-Nitric acid Nitric oxide
 
- → + H O
 
-2 HNO N O + H
+2 HNO<sub>2</sub> → N<sub>2</sub>O<sub>3</sub> + H<sub>2</sub>O
 
-2
 
-2
 
-Nitrous acid
+H<sub>2</sub>N<sub>2</sub>O<sub>2</sub> → N<sub>2</sub>O + H<sub>2</sub>O 
 
-2 3
-
-Dinitrogentrioxide
-
-2  → O
-
-H N O N O + H O 2 2 2
-
-Hypo nitrous acid
-
-2
-
-Nitrous oxide
-
-2  →
 
 **Reaction of secondary products:**
 
-HNO NH N + 2H O
+HNO<sub>2</sub> + NH<sub>3</sub> → N<sub>2</sub> + 2H<sub>2</sub>O
 
-HNO NH OH N O + 2H O
+HNO<sub>2</sub>+  NH<sub>2</sub>OH → N<sub>2</sub>+2H<sub>2</sub>O
 
-HNO HNO
+HNO<sub>2</sub>+HNO<sub>3</sub>  → 2NO<sub>2</sub>+H<sub>2</sub>O
 
-2 3
 
-2 2
-
-2 2
-
-2 2
-
-2
-
-\+  →
-
-\+  →
-
-\+ 3
-
-2 2 2NO + H O →
 
 **Examples:**
 
 Copper reacts with nitric acid in the following manner
 
-3Cu + 6HNO 3Cu(NO ) + 6(H)
+3Cu + 6HNO<sub>3</sub> → Cu(NO<sub>3</sub> )<sub>2</sub> + 6(H)
 
-6(H) + 3HNO 3HNO + 3 3
+6(H) + 3HNO<sub>3</sub> → 3HNO<sub>2</sub> + 3H<sub>2</sub>O
 
 3 2
 
