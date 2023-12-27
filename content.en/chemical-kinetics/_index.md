@@ -3,31 +3,34 @@ title: 'Chemical  Kinetics'
 weight: 7
 ---
 
+**CHEMICAL KINETICS**
+
+**UNIT**
+
+**7**
   
 
 204
 
 **Learning Objectives**
 
-Aft er studying this unit, the students will be able to
 
- defi ne the rate and order of a reaction,
+After studying this unit, the students will be able to
 
- derive the integrated rate equations for zero and fi rst order reactions,
+* define the rate and order of a reaction,
 
- describe the half life period,
+* derive the integrated rate equations for zero and fi rst order reactions,
 
- describe the collision theory,
+* describe the half life period,
 
- discuss the temperature dependence of the rate of a reaction, and
+* describe the collision theory,
 
- explain various factors which aff ect the rate of a reaction.
+* discuss the temperature dependence of the rate of a reaction, and
 
-**CHEMICAL KINETICS**
+* explain various factors which aff ect the rate of a reaction.
 
-**UNIT**
 
-**7**
+![alt text](./Svante.png)
 
 **Svante August Arrhenius (1859 –1927)**
 
