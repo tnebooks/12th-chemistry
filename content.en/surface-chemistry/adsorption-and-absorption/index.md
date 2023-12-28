@@ -85,7 +85,7 @@ The adsorption is well understood by considering the various factors affecting i
 
 4. Concentration at a given temperature.
 
-5. **Surface area of adsorbent:**
+1. **Surface area of adsorbent:**
 
 As the adsorption is a surface phenomenon it depends on the surface area of adsorbent. i.e., higher the surface area, higher is the amount adsorbed.
 
