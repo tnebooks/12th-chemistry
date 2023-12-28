@@ -78,26 +78,23 @@ The following table 10.1 illustrates the distinction between chemical and physic
 The adsorption is well understood by considering the various factors affecting it. Qualitatively, the extent of surface adsorption depends on the following factors
 
 1. Nature of adsorbent
-
 2. Nature of adsorbate
-
 3. Pressure
-
 4. Concentration at a given temperature.
 
-5. **Surface area of adsorbent:**
+**1. Surface area of adsorbent:**
 
 As the adsorption is a surface phenomenon it depends on the surface area of adsorbent. i.e., higher the surface area, higher is the amount adsorbed.
 
-2. **Nature of adsorbate**
+**2. Nature of adsorbate**
 
 The nature of adsorbate can influence the adsorption. Gases like SO<sub>2</sub>, NH<sub>3</sub>, HCl and CO<sub>2</sub> are easily liquefiable as they have greater van der waal’s force of attraction. On the other hand, permanent gases like H<sub>2</sub> ,N<sub>2</sub> and O<sub>2</sub> can not be liquefied easily. These permanent gases are having low critical temperature and adsorbed slowly, while gases with high critical temperature are adsorbed readily.
 
-3. **Effect of temperature**
+**3. Effect of temperature**
 
 When temperature is raised chemisorption first increases and then decreases. whereas physisorption decreases with increase in temperature.
 
-4. **Effect of pressure:**
+**4. Effect of pressure:**
 
 chemical adsorption is fast with increase in pressure, it can not alter the amount of adsorption. In Physisorption the extent of adsorption increases with increase in pressure.
 

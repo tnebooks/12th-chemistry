@@ -5,9 +5,7 @@ weight: 5
 
 # Colloid, Dispersion phase and dispersion medium
 
-Origin of study of colloid starts with Thomas Graham who observed diffusion of that a
-
-solution of sugar, urea or sodium chloride through a membrane but not glue, gelatine or gum. He called the former substances as crystalloids and the latter as colloids ( In Greek, kola as gum, eidos-like).
+Origin of study of colloid starts with Thomas Graham who observed diffusion of that a solution of sugar, urea or sodium chloride through a membrane but not glue, gelatine or gum. He called the former substances as crystalloids and the latter as colloids ( In Greek, kola as gum, eidos-like).
 
 Later it was realised that any substance can be converted into a colloid by reducing its particle size to 1-200nm.
 
@@ -17,17 +15,15 @@ In a colloid, the substance present in larger amount is called dispersing medium
 
 # Classifications of Colloidal solution
 
-Probably the most important colloidal systems have dispersed phase as solid and the
+Probably the most important colloidal systems have dispersed phase as solid and the dispersion medium as liquid.
 
-dispersion medium as liquid. If the dispersion medium considered is water, then the colloids are referred as hydrosols
+If the dispersion medium considered is water, then the colloids are referred as hydrosols or aquasols.
 
-or aquasols. If the dispersion medium is an alcohol, the colloid is termed as alcosol, and if benzene is
+If the dispersion medium is an alcohol, the colloid is termed as alcosol, and if benzene is the dispersion medium, it is called as benzosol.
 
-the dispersion medium, it is called as benzosol. One more type of classification is based on the forces acting between the dispersal phase
+One more type of classification is based on the forces acting between the dispersal phase and dispersion medium.
 
-and dispersion medium. In lyophillic colloids definite attractive force or affinity exists between dispersion medium
-
-and dispersed phase. Examples: sols of protein and starch. They are more stable and will not get precipitated easily. They can be brought back to colloidal solution even after the precipitation by addition of the dispersion medium.
+In lyophillic colloids definite attractive force or affinity exists between dispersion medium and dispersed phase. Examples: sols of protein and starch. They are more stable and will not get precipitated easily. They can be brought back to colloidal solution even after the precipitation by addition of the dispersion medium.
 
 In a lyophobic colloids, no attractive force exists between the dispersed phase and dispersion medium. They are less stable and precipitated readily, but can not be produced again by just adding the dispersion medium. They themselves undergo coagulation after a span of characteristic life time.
 
@@ -39,32 +35,6 @@ The following table lists the types of colloids based on the physical states of 
 
 **Classification of colloids based on the physical state of dispersed phase and dispersion medium.**
 
-**S.No. Dispersion**
-
-**medium Dispersed phase**
-
-**Name of the colloid**
-
-**Examples**
-
-1\. Gas Liquid Liquid Aerosol Fog
-
-Aerosol spray
-
-2\. Gas Solid Solid Aerosol Smoke, Air
-
-pollutants like fumes, dust.
-
-3\. Liquid Gas Foam Whipped cream, Shaving cream,
-
-Soda water, Froth.
-
-4\. Liquid Liquid Emulsion Milk, Cream, Mayonnaise
-
-5\. Liquid Solid Sol Inks, Paints,
-
-colloidal gold.
-
 | S.No. | Dispersion medium | Dispersed phase | Name of the colloid | Examples                                         |
 | ----- | ----------------- | --------------- | ------------------- | ------------------------------------------------ |
 | 1.    | Gas               | Liquid          | Liquid Aerosol      | FogAerosol spray                                 |
@@ -73,287 +43,211 @@ colloidal gold.
 | 4.    | Liquid            | Liquid          | Emulsion            | Milk, Cream, Mayonnaise                          |
 | 5.    | Liquid            | Solid           | Sol                 | Inks, Paints, colloidal gold.                    |
 
-88
-
-6\. Solid Gas Solid foam Pumice stone, Foam
-
-rubber bread. 7. Solid Liquid Gel Butter, cheese
-
-8\. Solid Solid Solid sol
-
-Pearls, opals coloured glass alloys colloidal
-
-dispersed eutetics.
-
 # Preparation of Colloids
 
-Many lyophillic substances are made in their colloidal form by warming with water.
+Many lyophillic substances are made in their colloidal form by warming with water. Rubber forms colloidal solution with benzene. Soap spontaneously forms a colloidal solution by just mixing with water.
 
-Rubber forms colloidal solution with benzene. Soap spontaneously forms a colloidal solution by just mixing with water.
+In general, colloidal are prepared by the following methods.
 
-In general, colloidal are prepared by the following methods. i. Dispersion methods: In this method larger particles are broken to colloidal dimension. ii. Condensation method: In this method, smaller atom or molecules are converted into
+1. Dispersion methods: In this method larger particles are broken to colloidal dimension.
+2. Condensation method: In this method, smaller atom or molecules are converted into larger colloidal sized particles.
 
-larger colloidal sized particles. **1) Dispersion methods**
+**1) Dispersion methods**
 
-**(i) Mechanical Dispersion:** Using a colloid mill, the solid is ground to colloidal dimension. The colloid mill
+**(i) Mechanical Dispersion:**
 
-consists of two metal plates rotating in opposite direction at very high speed of nearly 7000 revolution / minute.
+Using a colloid mill, the solid is ground to colloidal dimension. The colloid mill consists of two metal plates rotating in opposite direction at very high speed of nearly 7000 revolution / minute.
 
-**Colloid mill**
-
-**Coarse dispersion**
-
-**Figure 10.8 Colloid mill**
+![colloid mill](colloid-mill.jpg)
 
 The colloidal particles of required colloidal size is obtained by adjusting the distance between two plates.
 
 By this method, colloidal solutions of ink and graphite are prepared.
 
-| 6.  | Solid | Gas    | Solid foam | Pumice stone, Foam rubber bread.                                  |
-| --- | ----- | ------ | ---------- | ----------------------------------------------------------------- |
-| 7.  | Solid | Liquid | Gel        | Butter, cheese                                                    |
-| 8.  | Solid | Solid  | Solid sol  | Pearls, opals coloured glass alloys colloidal dispersed eutetics. |
+**(ii) Electro Dispersion:**
 
-|------|------|------|
+![Bredig's are method](Bredig's-are-method.jpg)
 
-|------|------|------|
-
-89
-
-**(ii) Electro Dispersion:** A brown colloidal solution
-
-of platinum was first prepared by George Bredig in 1898. An electrical arc is struck between electrodes dispersed in water surrounded by ice. When a current of 1 amp /100 V is passed an arc produced forms vapours of metal which immediately condense to form colloidal solution. By this method colloidal solution of many metals like copper, silver, gold, platinum, etc. can be prepared Alkali hydroxide is added as an stabilising agent for the colloidal solution.
+A brown colloidal solution of platinum was first prepared by George Bredig in 1898. An electrical arc is struck between electrodes dispersed in water surrounded by ice. When a current of 1 amp /100 V is passed an arc produced forms vapours of metal which immediately condense to form colloidal solution. By this method colloidal solution of many metals like copper, silver, gold, platinum, etc. can be prepared Alkali hydroxide is added as an stabilising agent for the colloidal solution.
 
 Svedberg modified this method for the preparation of non aqueous inflammable liquids like pentane, ether and benzene, etc using high frequency alternating current which prevents the decomposition of liquid.
 
-**(iii) Ultrasonic dispersion** Sound waves of frequency more than 20kHz (audible limit) could cause transformation of
+**(iii) Ultrasonic dispersion**
 
-coarse suspension to colloidal dimensions.
+Sound waves of frequency more than 20kHz (audible limit) could cause transformation of coarse suspension to colloidal dimensions.
 
-**Water Oil**
-
-**Mercury**
-
-**Quartz generator**
-
-**Electrical oscillator**
-
-**Figure : 10.10 Ultrasonic dispersion**
+![Ultrasonic dispersion](Ultrasonic-dispersion.jpg)
 
 Claus obtained mercury sol by subjecting mercury to sufficiently high frequency ultrasonic vibrations.
 
-Metal electrodes
-
-Arc Water
-
-+–
-
-Ice
-
-**Figure 10.9 Bredig’s are method**
-
 The ultrasonic vibrations produced by generator spread the oil and transfer the vibration to the vessel with mercury in water.
 
-**(iv) Peptisation:** By addition of suitable electrolytes, precipitated particles can be brought into colloidal
+**(iv) Peptisation:**
+
+By addition of suitable electrolytes, precipitated particles can be brought into colloidal
 
 state. The process is termed as peptisation and the electrolyte added is called peptising or dispersing agent.
 
-AgCl AgCl Precipitate Colloid
+{{< katex display >}}
 
-HCl → **2) Condensation Methods:**
+\underset{\text{particitpate}}{AgCl} \xrightarrow{HCl} \underset{\text{Colloid}}{AgCl}
+
+{{< /katex >}}
+
+**2) Condensation Methods:**
 
 When the substance for colloidal particle is present as small sized particle, molecule or ion, they are brought to the colloidal dimension by condensation methods. Here care should be taken to produce the particle with colloidal size otherwise precipitation will occur. Various chemical methods for the formation of colloidal particles.
 
-**(i) Oxidation:** Sols of some non metals are prepared by this method.
+**(1) Oxidation:**
 
-(a) When hydroiodic acid is treated with iodic acid, I2 sol is obtained. HIO +5HI 3H O+I (Sol)3 2 2→
+Sols of some non metals are prepared by this method.
 
-(b) When O2 is passed through H2Se, a sol of selenium is obtained. H Se+O 2H O+Se(sol)2 2 2→
+(a) When hydroiodic acid is treated with iodic acid, I2 sol is obtained.
 
-**(ii) Reduction:** Many organic reagents like phenyl hydrazine, formaldehyde, etc are used for the formation
+HIO<sub>3</sub> +5HI → 3H<sub>2</sub>O+I<sub>2</sub>(Sol)
 
-of sols. For example: Gold sol is prepared by reduction of auric chloride using formaldehyde. 2AuCl +3HCHO+3H O 2Au(sol)+6HCl+3HCOOH3 2 →
+(b) When O2 is passed through H2Se, a sol of selenium is obtained.
 
-**(iii) Hydrolysis** Sols of hydroxides of metals like chromium and aluminium can be produced by this
+H<sub>2</sub>Se +O<sub>2</sub> → 2H<sub>2</sub>O+Se(Sol)
 
-method. **For Example,**
+**(2) Reduction:**
 
-FeCl +3H O Fe(OH) +3HCl3 2 3→
+Many organic reagents like phenyl hydrazine, formaldehyde, etc are used for the formation
+of sols. For example: Gold sol is prepared by reduction of auric chloride using formaldehyde.
 
-**(iv) Double decomposition** For the preparation of water insoluble sols this method can be used. When hydrogen sulphide gas is passed through a solution of arsenic oxide, a yellow
+2AuCl<sub>3</sub> +3HCHO+3H<sub>2</sub>O → 2Au(sol)+6HCl+3HCOOH
 
-coloured arsenic sulphide is obtained as a colloidal solution. As O +3H S As S +3H O2 3 2 2 3 2→
+**(3) Hydrolysis** Sols of hydroxides of metals like chromium and aluminium can be produced by this method.
 
-**(v) Decomposition** When few drops of an acid is added to a dilute solution of sodium thiosulphate, the
+**For Example,**
 
-insoluble free sulphur produced by decomposition of sodium thiosulphate accumulates into small, clusters which impart various colours blue, yellow and even red to the system depending on their growth within the size of colloidal dimensions.
+FeCl<sub>3</sub>+3H<sub>2</sub>O → Fe(OH)<sub>3</sub> +3HCl
 
-2- + 2 3 2 2S O +2H S+H O+SO
+**(4) Double decomposition**
 
-sol
+For the preparation of water insoluble sols this method can be used. When hydrogen sulphide gas is passed through a solution of arsenic oxide, a yellow coloured arsenic sulphide is obtained as a colloidal solution.
 
-**3) By exchange of solvent:** Colloidal solution of few substances like phosphorous or sulphur is obtained by preparing
+As<sub>2</sub>O<sub>3</sub>+3H<sub>2</sub>S → As<sub>2</sub>S<sub>3</sub>+3H<sub>2</sub>O
 
-the solutions in alcohol and pouring them into water. As they are insoluble in water, they form colloidal solution.
+**(5) Decomposition**
 
-P in alcohol + water→Psol. # Purification of colloids
+When few drops of an acid is added to a dilute solution of sodium thiosulphate, the insoluble free sulphur produced by decomposition of sodium thiosulphate accumulates into small, clusters which impart various colours blue, yellow and even red to the system depending on their growth within the size of colloidal dimensions.
+
+S<sub>2</sub>O<sub>3</sub><sup>2-</sup>+2H<sup>+</sup> → S+H<sub>2</sub>O+SO<sub>2</sub>
+
+**3) By exchange of solvent:**
+
+Colloidal solution of few substances like phosphorous or sulphur is obtained by preparing the solutions in alcohol and pouring them into water. As they are insoluble in water, they form colloidal solution.
+
+P in alcohol + water → P<sub>sol</sub>.
+
+### Purification of colloids
 
 The colloidal solutions due to their different methods of preparation may contain impurities. If they are not removed, they may destablise and precipitate the colloidal solution. This is called coagulation. Hence the impurities mainly electrolytes should be removed to increase the stabilisation of colloid. Purification of colloidal solution can be done by the following methods.
 
-(i) Dialysis (ii) Electrodialysis (iii) Ultrafilteration. **(i) Dialysis**
+(1) Dialysis (2) Electrodialysis (3) Ultrafilteration.
+
+**(1) Dialysis**
 
 In 1861, T. Graham separated the electrolyte from a colloid using a semipermeable membrane (dialyser). In this method, the colloidal solution is taken in a bag made up of semipermeable membrane. It is suspended in a trough of flowing water, the electrolytes diffuse out of the membrane and they are carried away by water.
 
+```
+Do you Know? Kidney malfunction results in the building up of electrolyte concentration within the blood to toxic levels.
+ In the Dialysis, recycling of patient’s blood is done through considerable length of seimpermeable tube in an isotonic saline solution.
+```
+
+**2) Electrodialysis**
+
+The presence of electric field increases the speed of removal of electrolytes from colloidal solution. The colloidal solution containing an electrolyte as impurity is placed between two dialysing membranes enclosed into two compartments filled with water. When current is passed, the impurities pass into water compartment and get removed periodically. This process is faster than dialysis, as the rate of diffusion of electrolytes is increased by the application of electricity.
+
+![Electrodialysis](Elecro-Dialysis.jpg)
+
+**3) Ultrafiltration**
+
+The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter,
+colloidal particles are separated on the filter and the impurities are removed as washings. This process is quickened by application of pressure. The separation of sol particles from electrolyte by filteration through an ultrafilter is called ultrafiltration. Collodion is 4% solution of nitrocellulose in a mixture of alcohol and water.
+
+# Purification of colloids
+
+The colloidal solutions due to their different methods of preparation may contain impurities. If they are not removed, they may destablise and precipitate the colloidal solution. This is called coagulation. Hence the impurities mainly electrolytes should be removed to increase the stabilisation of colloid. Purification of colloidal solution can be done by the following methods.
+
+(i) Dialysis (ii) Electrodialysis (iii) Ultrafilteration.
+
+**(i) Dialysis**
+
+In 1861, T. Graham separated the electrolyte from a colloid using a semipermeable membrane (dialyser). In this method, the colloidal solution is taken in a bag made up of semipermeable membrane. It is suspended in a trough of flowing water, the electrolytes diffuse out of the membrane and they are carried away by water.
+
+<blockquote>
 **Do you Know?** Kidney malfunction results in the building up of electrolyte concentration within the blood to toxic levels.
 
 In the Dialysis, recycling of patient’s blood is done through considerable length of seimpermeable tube in an isotonic saline solution.
 
+</blockquote>
+
 **ii) Electrodialysis**
+
+![Elecro Dialysis](Elecro-Dialysis.jpg)
 
 The presence of electric field increases the speed of removal of electrolytes from colloidal solution. The colloidal solution containing an electrolyte as impurity is placed between two dialysing membranes enclosed into two compartments filled with water. When current is passed, the impurities pass into water compartment and get removed periodically. This process is faster than dialysis, as the rate of diffusion of electrolytes is increased by the application of electricity.
 
 **iii) Ultrafiltration**
 
-The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter,
-
-Cl–
-
-Pure waterSolution Solution
-
-Cation-transfer membrane
-
-**Cathode Anode**
-
-Anion-transer membrane
-
-–
-
-–
-
-–
-
-–
-
-–
-
-–
-
--
-
--
-
--
-
--
-
--
-
--
-
-Cl–
-
-Cl–
-
-Cl– Cl–Na+Na+
-
-Na+Na+
-
-Na+
-
-Na+
-
-Na+
-
-Na+
-
-Cl–
-
-Cl– Cl–
-
-Cl–
-
-Cl–
-
-Cl–
-
-Na+
-
-Na+
-
-Cl– Na+
-
-Cl–
-
-Na+
-
-Cl–
-
-Na+
-
-**Figure 10.11 Electro Dialysis**
-
-| de     |
-| ------ | -------------------------- | --- | ------------------------- | ----------------------- |
-| So     | lutionNa+NaClNa+–NaCl+–Na+ | Pur | e waterClClCl+–NaCl +–Na+ | SolutioCl–Cl–Na Cl+ClNa |
-| +      | ––                         |
-| –––––– |
-
-| Na |
-
-|------|------|
-| ++++++ |
-
-92
-
-colloidal particles are separated on the filter and the impurities are removed as washings. This process is quickened by application of pressure. The separation of sol particles from electrolyte by filteration through an ultrafilter is called ultrafiltration. Collodion is 4% solution of nitrocellulose in a mixture of alcohol and water.
+The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter, colloidal particles are separated on the filter and the impurities are removed as washings. This process is quickened by application of pressure. The separation of sol particles from electrolyte by filteration through an ultrafilter is called ultrafiltration. Collodion is 4% solution of nitrocellulose in a mixture of alcohol and water.
 
 # Properties of Colloids
 
-**1) Colour:** The colour of a sol is not always the same as the colour of the substance in the bulk.
+**1) Colour:**
 
-For example bluish tinge is given by diluted milk in reflected light and reddish tinge in transmitted light.
+The colour of a sol is not always the same as the colour of the substance in the bulk. For example bluish tinge is given by diluted milk in reflected light and reddish tinge in transmitted light.
 
-Colour of the sol, generally depends on the following factors. (i) Method of preparation (ii) Wavelength of source of light. (iii) Size and shape of colloidal particle (iv) whether the observer views the reflected light or transmitted light.
+Colour of the sol, generally depends on the following factors.
+
+1. Method of preparation
+2. Wavelength of source of light.
+3. Size and shape of colloidal particle
+4. whether the observer views the reflected light or transmitted light.
 
 **2) Size:** The size of colloidal particles ranges from 1nm (10-9m) to 1000 nm (10-6m) diameter.
 
-**3) Colloidal solutions are heterogeneous in nature having two distinct phases.** Though experiments like dialysis, ultrafiltration and ultracentrifuging clearly show the heterogeneous nature in the recent times colloidal solution are considered as border line cases.
+**3) Colloidal solutions are heterogeneous in nature having two distinct phases.**
 
-**4) Filtrability:** As the size of pores in ordinary filter paper are large the colloidal particles easily pass
+Though experiments like dialysis, ultrafiltration and ultracentrifuging clearly show the heterogeneous nature in the recent times colloidal solution are considered as border line cases.
 
-through the ordinary filter papers.
+**4) Filtrability:**
 
-**5) Non-Setting nature** Colloidal solutions are quite stable i.e. they are not affected by gravity.
+As the size of pores in ordinary filter paper are large the colloidal particles easily pass through the ordinary filter papers.
 
-**6) Concentration and density** When the colloidal solution is dilute, it is stable. When the volume of medium is decreased
+**5) Non-Setting nature**
 
-coagulation occurs. Generally, density of sol decreases with decrease in the concentration.
+Colloidal solutions are quite stable i.e. they are not affected by gravity.
 
-**7) Diffusability** Unlike true solution, colloids diffuse less readily through membranes.
+**6) Concentration and density**
 
-**8) Colligative properties** The colloidal solutions show colligative properties i.e. elevation of boiling point, depression
+When the colloidal solution is dilute, it is stable. When the volume of medium is decreased coagulation occurs. Generally, density of sol decreases with decrease in the concentration.
 
-in freezing point and osmotic pressure. Measurements of osmotic pressure is used to find molecular weight of colloidal particle.
+**7) Diffusability**
 
-**9) Shape of colloidal particles** It is very interesting to know the various shapes of colloidal particles. Here are some
+Unlike true solution, colloids diffuse less readily through membranes.
 
-examples
+**8) Colligative properties**
 
-**Colloidal Particles Shapes**
+The colloidal solutions show colligative properties i.e. elevation of boiling point, depression in freezing point and osmotic pressure. Measurements of osmotic pressure is used to find molecular weight of colloidal particle.
 
-As S2 3 Spherical
+**9) Shape of colloidal particles**
 
-Fe (OH) sol 3
+It is very interesting to know the various shapes of colloidal particles. Here are some examples
 
-(blue gold sol) Disc or plate like
-
-W O sol3 5 (tungstic acid sol) Rod like
+| C olloidal Particles         | Shapes             |
+| ---------------------------- | ------------------ |
+| As S23                       | Spherical          |
+| (blue gold sol)Fe (OH) sol3  | Disc or plate like |
+| WO sol (tungstic acid sol)35 | Rod like           |
 
 **10) Optical property**
 
 Colloids have optical property. When a homogeneous solution is seen in the direction of light, it appears clear but it appears dark, in a perpendicular direction.
 
-**Figure 10.12 Tyndall effect**
+![Tyndall Effect](TyndallEffect.jpg)
 
 But when light passes through colloidal solution, it is scattered in all directions. This effect was first observed by Faraday, but investigations are made by Tyndall in detail, hence called as Tyndall effect.
 
@@ -368,12 +262,6 @@ This is called Brownian movement of colloidal particles.
 This can be explained as follows
 
 The colloidal sol particles are continuously bombarded with the molecules of the dispersion medium and hence they follow a zigzag, random, continuous movement.
-
-| C olloidal Particles         | Shapes             |
-| ---------------------------- | ------------------ |
-| As S23                       | Spherical          |
-| (blue gold sol)Fe (OH) sol3  | Disc or plate like |
-| WO sol (tungstic acid sol)35 | Rod like           |
 
 **Brownian movement enables us,**
 
