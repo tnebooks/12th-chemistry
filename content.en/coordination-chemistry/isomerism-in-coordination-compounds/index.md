@@ -3,6 +3,7 @@ title: 'Isomerism in coordination compounds'
 weight: 5
 ---
 ## Isomerism in coordination compounds
+
  We have already learnt the concept of isomerism in the context of organic compounds,
 
 in the previous year chemistry classes. Similarly, coordination compounds also exhibit isomerism. Isomerism is the phenomenon in which more than one coordination compounds having the same molecular formula have different physical and chemical properties due to different arrangement of ligands around the central metal atom. The following flow chart gives an overview of the common types of isomerism observed in coordination compounds,
@@ -49,11 +50,11 @@ www.tntextbooks.in
 
   
 
-142
+
 
 **Linkage isomers:**
 
-This type of isomers arises when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms. In the below mentioned examples, the nitrite ion is bound to the central metal ion Co3+ through a nitrogen atom in one complex,and through oxygen atom in other complex. **\[Co(NH3)5(NO2)\]2+**
+This type of isomers arises when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms. In the below mentioned examples, the nitrite ion is bound to the central metal ion Co3+ through a nitrogen atom in one complex,and through oxygen atom in other complex. **\[Co(NH<sub>3</sub>)5(NO2)\]2+**
 
 2+ O O
 
