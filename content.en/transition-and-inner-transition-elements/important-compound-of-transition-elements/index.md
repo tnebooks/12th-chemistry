@@ -49,7 +49,7 @@ Na Cr O + 2KCl K Cr O2 2 7 sodium dichromate (orange red)
 
 p →
 
-otassium dichromate (orange red)
+potassium dichromate (orange red)
 
 \+ 2NaCl
 
@@ -68,6 +68,8 @@ Potassium dichromate is an orange red crystalline solid which melts at 671K and 
 2 + 2 Cr O + 3O ↑
 
 **Structure of dichromate ion:**
+
+![alt text](structure_of_dichromate_ion.png)
 
 Both chromate and dichromate ion are oxo anions of chromium and they are moderately
 
@@ -88,6 +90,8 @@ Potassium dichromate is a powerful oxidising agent in acidic medium. Its oxidisi
 Th e oxidising nature of potassium dichromate (dichromate ion) is illustrated in the following examples.
 
 **Figure 4.8 (a) Structure of chromate ion**
+
+![alt text](structure_of_dichromate_ion.png)
 
 **Figure 4.8 (b) Structure of dichromate ion**
 
@@ -293,6 +297,8 @@ XII U4-D-Block-Jerald Folder.indd 115 2/19/2020 4:41:16 PM
 **Structure of permanganate ion**
 
 Permanganate ion has tetrahedral geometry in which the central Mn7+ is sp3 hybridised.
+
+![alt text](structure_of_paramagnetic_iron.png)
 
 **Chemical properties:**
 
@@ -1057,9 +1063,13 @@ p-Block
 
 f-Block
 
+
+
 **Electronic configuration of Lanthanoids:**
 
 We know that the electrons are filled in different orbitals in the order of their increasing energy in accordance with Aufbau principle. As per this rule after filling 5s,5p and 6s and 4f level begin to fill from lanthanum, and hence the expected electronic configuration of Lanthanum(La) is \[Xe\] f d s4 5 61 0 2 but the actual electronic configuration of Lanthanum is
+
+![alt text](position_of_inner_element.png)
 
 **Figure 4.10 position of inner transition elements**
 
@@ -1084,6 +1094,10 @@ XII U4-D-Block-Jerald Folder.indd 119 2/19/2020 4:41:37 PM
   
 
 \[Xe\] f d s4 5 60 1 2 and it belongs to d block. Filling of 4f orbital starts from Cerium (Ce) and its electronic configuration is \[Xe\] f d s4 5 61 1 2 . As we move from Cerium to other elements the additional electrons are progressively filled in 4f orbitals as shown in the table.
+
+![alt text](table_electronic_configuration_of_actinoids.png)
+
+![alt text](table_electronic_configuration_of_actinoids2.png)
 
 **Table : electronic configuration of Lanthanum and Lanthanoids**
 
@@ -1195,6 +1209,8 @@ As we from Ce3+ to Lu3+ , the basic character of Ln3+ ions decrease. Due to the 
 
 In the complete f - series only 10 pm decrease in atomic radii and 20 pm decrease in ionic radii is observed. because of this very small change in radii of lanthanoids, their chemical properties are quite similar.
 
+![alt text](variation_of_atomic_radii_of_lanthanoids.png)
+
 0.84
 
 0.86
@@ -1270,9 +1286,16 @@ Series Element Atomic radius
 
 The fourteen elements following actinium ,i.e., from thorium (Th) to lawrentium (Lr) are called actinoids. Unlike the lanthanoids, all the actinoids are radioactive and most of them have short half lives. Only thorium and uranium(U) occur in significant amount in nature and a trace amounts of Plutonium(Pu) is also found in Uranium ores.Neptunium(Np) and successive heavier elements are produced synthetically by the artificial transformation of naturally occuring elements by nuclear reactions.
 
-Similar to lanthanoids, they are placed at the bottom of the periodic table. **Electronic configuration:**
+Similar to lanthanoids, they are placed at the bottom of the periodic table.
+
+ **Electronic configuration:**
 
 The electronic configuration of actinoids is not definite. The general valence shell electronic configuration of 5f elements is represented as \[Rn\]5f 0-146d0-27s2. The following table show the electronic configuration of actinoids.
+
+![alt text](table_electronic_configuration_of_actinoids.png)
+![alt text](table_electronic_configuration_of_actinoids2.png)
+
+
 
 **Table : electronic configuration of actinoids**
 
@@ -1355,6 +1378,11 @@ The elements Americium(Am) and Thorium (Th) show +2 oxidation state in some comp
 +6 +6 +6 +6 +7 +7 +7
 
 **Differences between lanthanoids and actinoids:**
+
+![alt text](difference_between_lanthanoids_and_actinoids.png)
+
+![alt text](difference_between_lanthanoids_and_actinoids1.png)
+
 
 **s.no Lanthanoids Actinoids**
 
