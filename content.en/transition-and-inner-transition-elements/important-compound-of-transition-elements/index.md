@@ -2,12 +2,17 @@
 title: 'Important compound of Transition elements'
 weight: 4
 ---
-## important compound of Transition elements Oxides and Oxoanions of Metals
+## important compound of Transition elements
+**Oxides and Oxoanions of Metals**
 
 
 Generally, transition metal oxides are formed by the reaction of transition metals with molecular oxygen at high temperatures. Except the first member of 3d series, Scandium, all other transition elements form ionic metal oxides. The oxidation number of metal in metal oxides ranges from +2 to +7. As the oxidation number of a metal increases, ionic character decreases, for example, Mn2O7 is covalent. Mostly higher oxides are acidic in nature, Mn2O7 dissolves in water to give permanganic acid (HMnO4 ) , similarly CrO3 gives chromic acid (H2CrO4) and dichromic acid (H2Cr2O7). Generally lower oxides may be amphoteric or basic, for example, Chromium (III) oxide - Cr2O3, is amphoteric and Chromium(II) oxide, CrO, is basic in nature.
 
-**Potassium dichromate K2Cr2O7 Preparation:** Potassium dichromate is prepared from chromate ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
+**Potassium dichromate K2Cr2O7**
+
+ **Preparation:** 
+
+ Potassium dichromate is prepared from chromate ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
 
 4 FeCr O + 8 Na CO + 7 O 8 Na CrO 2 4 2 3 2 2 4 900 - 10000C → + 2 Fe O + 8 CO2 3 2 ↑
 
@@ -31,14 +36,12 @@ The saturated solution of sodium dichromate in water is mixed with KCl and then 
 
 XII U4-D-Block-Jerald Folder.indd 112 2/19/2020 4:41:01 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-113
 
 Na Cr O + 2KCl K Cr O2 2 7 sodium dichromate (orange red)
 
@@ -90,14 +93,12 @@ Th e oxidising nature of potassium dichromate (dichromate ion) is illustrated in
 
 XII U4-D-Block-Jerald Folder.indd 113 2/19/2020 4:41:02 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-114
 
 (i) It oxidises ferrous salts to ferric salts.
 
@@ -195,14 +196,12 @@ Some important uses of potassium dichromate are listed below.
 
 XII U4-D-Block-Jerald Folder.indd 114 2/19/2020 4:41:09 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-115
 
 **Potassium permanganate - KMnO4**
 
@@ -284,14 +283,12 @@ Potassium permanganate exists in the form of dark purple crystals which melts at
 
 XII U4-D-Block-Jerald Folder.indd 115 2/19/2020 4:41:16 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-116
 
 **Structure of permanganate ion**
 
@@ -359,14 +356,12 @@ MnO + 2H O + 3e MnO + 4OH4 2 2
 
 XII U4-D-Block-Jerald Folder.indd 116 2/19/2020 4:41:19 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-117
 
 b) In alkaline medium: In the presence of alkali metal hydroxides, the permanganate ion is converted into
 
@@ -381,8 +376,6 @@ This manganate is further reduced to MnO2 by some reducing agents.
 MnO + H O MnO + 2OH + O4 2 2
 
 2− −→ \[ \] So the overall reaction can be written as follows. MnO + 2H O + 3e MnO + 4OH4 2
-
-2
 
 − − −→
 
@@ -424,8 +417,6 @@ The oxidising nature of potassium permanganate (permanganate ion) in acid medium
 
 2MnO + COO + 16H 2Mn + 10CO + 8H O4
 
-2
-
 2+ 2 2
 
 − − +( ) →5 2
@@ -460,14 +451,12 @@ The oxidising nature of potassium permanganate (permanganate ion) in acid medium
 
 XII U4-D-Block-Jerald Folder.indd 117 2/19/2020 4:41:29 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-118
 
 **Uses of potassium permanganate:**
 
@@ -499,8 +488,6 @@ Equivalent weight of KMnO4 in acid medium =
 
 Molecular weight of KMnO no of mols of electrons transf
 
-4
-
 erred = 158
 
 5 = 31.6
@@ -509,8 +496,6 @@ Equivalent weight of KMnO4 in basic medium =
 
 Molecular weight of KMnO no of mols of electrons transfe
 
-4
-
 rred = 158
 
 1 = 158
@@ -518,8 +503,6 @@ rred = 158
 Equivalent weight of KMnO4 in neutral medium =
 
 Molecular weight of KMnO no of mols of electrons transfe
-
-4
 
 rred = 158
 
@@ -543,14 +526,12 @@ The actual position of Lanthanoids in the periodic table is at group number 3 an
 
 XII U4-D-Block-Jerald Folder.indd 118 2/19/2020 4:41:33 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-119
 
 number 6.However, in the sixth period after lanthanum, the electrons are preferentially filled in inner 4f sub shell and these fourteen elements following lanthanum show similar chemical properties. Therefore these elements are grouped together and placed at the bottom of the periodic table. This position can be justified as follows.
 
@@ -1084,7 +1065,7 @@ We know that the electrons are filled in different orbitals in the order of thei
 
 XII U4-D-Block-Jerald Folder.indd 119 2/19/2020 4:41:37 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1101,8 +1082,6 @@ www.tntextbooks.in
 | N113[286 |F114[289 |Mc11[289 |L11[293 |Ts11[294 |Og11[294 |
 
   
-
-120
 
 \[Xe\] f d s4 5 60 1 2 and it belongs to d block. Filling of 4f orbital starts from Cerium (Ce) and its electronic configuration is \[Xe\] f d s4 5 61 1 2 . As we move from Cerium to other elements the additional electrons are progressively filled in 4f orbitals as shown in the table.
 
@@ -1164,7 +1143,7 @@ _Xe f Xe f_
 
 XII U4-D-Block-Jerald Folder.indd 120 2/19/2020 4:41:53 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1189,8 +1168,6 @@ www.tntextbooks.in
 | Ytterbium |70 |Yb |[Xe] f45  d  s614 02 |
 | Lutetium |71 |Lu |[Xe] f45  d  s614 12 |
   
-
-121
 
 Similarly Cerium and terbium attain 4f0 and 4f7 configurations respectively in the +4 oxidation states. Eu2+ and Yb2+ ions have exactly half filled and completely filled f orbitals respectively.
 
@@ -1234,8 +1211,6 @@ In the complete f - series only 10 pm decrease in atomic radii and 20 pm decreas
 
 0.98
 
-1
-
 1.02
 
 1.04
@@ -1262,7 +1237,7 @@ Yb Lu
 
 XII U4-D-Block-Jerald Folder.indd 121 2/19/2020 4:41:53 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1280,8 +1255,6 @@ www.tntextbooks.in
 |------|------|
 | TbDyHoErTmYb Lu |
   
-
-122
 
 The elements of the second and third transition series resemble each other more closely than the elements of the first and second transition series. For example
 
@@ -1329,7 +1302,7 @@ Californium 98 Cf \[Rn\] 5f d s10 0 26 7
 
 XII U4-D-Block-Jerald Folder.indd 122 2/19/2020 4:42:01 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1356,8 +1329,6 @@ www.tntextbooks.in
 | B erkelium |97 |Bk |[Rn] 5f  67d  s90 2 |
 | Californium |98 |Cf |[Rn] 5f  67d  s10 02 |
   
-
-123
 
 **Name of the element Atomic number**
 
@@ -1403,7 +1374,7 @@ They show greater tendency to form complexes
 
 XII U4-D-Block-Jerald Folder.indd 123 2/19/2020 4:42:06 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1436,8 +1407,6 @@ www.tntextbooks.in
 | 3 |ey s how les s t endency t o f orm complexes |ey s how g reater t endency t o f orm complexes |
 | 4 |Most of the lanthanoids are colourless |Most o f t he ac tinoids a re co loured. F or example. U  (red), U  (green) ,  UO (yellow)3+ 4+ 2+2 |
   
-
-124
 
 **s.no Lanthanoids Actinoids**
 
@@ -1483,7 +1452,7 @@ reduction potential. i.e., elemental copper is more stable than Cu2+.
 
 XII U4-D-Block-Jerald Folder.indd 124 2/19/2020 4:42:07 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1495,8 +1464,6 @@ www.tntextbooks.in
 | 5 |ey do not form oxo cations |ey do f orm o xo c ations s uch a s UO , NpO etc2++ 22 2 |
 | 6 |B esides  +3 o xidation  states  lanthanoids show +2 a nd +4 o xidation s tates in f ew cases. |B esides +3 o xidation s tates ac tinoids show hig her oxidation states such as +4, +5, +6 and +7. |
   
-
-125
 
 „ Most of the compounds of transition elements are paramagnetic. Magnetic properties are related to the electronic configuration of atoms.
 
@@ -1540,14 +1507,12 @@ c) Pt d) none of these
 
 XII U4-D-Block-Jerald Folder.indd 125 2/19/2020 4:42:08 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-126
 
 3\. Among the transition metals of 3d series, the one that has highest negative M M
 
@@ -1625,14 +1590,12 @@ c) Mn 3+ d) MnO 2
 
 XII U4-D-Block-Jerald Folder.indd 126 2/19/2020 4:42:15 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-127
 
 11\. How many moles of I2 are liberated when 1 mole of potassium dichromate react with potassium iodide?
 
@@ -1682,14 +1645,12 @@ c) U, Th, Md d) Es, No, Lr
 
 XII U4-D-Block-Jerald Folder.indd 127 2/19/2020 4:42:15 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-128
 
 19\. Which one of the following is not correct?
 
@@ -1723,21 +1684,13 @@ a. MnO H b. C H CH
 
 c. MnO
 
-4
-
 6 5 3
-
-2
-
-4
 
 − ++ →  →
 
 ? ?_acidified_
 
 _KMnO_
-
-4
 
 4 Red hot
 
@@ -1754,10 +1707,6 @@ Fe d. KMnO e. Cr O I H
 \+ →  →
 
 \+ + →
-
-2
-
-2
 
 ? ?
 
@@ -1785,14 +1734,12 @@ transition elements with increasing atomic number.
 
 XII U4-D-Block-Jerald Folder.indd 128 2/19/2020 4:42:16 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-129
 
 15\. Compare lanthanides and actinides.
 
@@ -1826,7 +1773,7 @@ value for copper is positive. Suggest a possible reason for this.
 
 XII U4-D-Block-Jerald Folder.indd 129 2/19/2020 4:42:17 PM
 
-www.tntextbooks.in
+
 
 
 
