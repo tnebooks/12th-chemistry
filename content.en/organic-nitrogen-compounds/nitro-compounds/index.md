@@ -65,16 +65,7 @@ CH3
 
 NO2C
 
-XII U13-Organic Nitrogen Compounds.indd 197 2/19/2020 5:16:54 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-198
 
 Nitroalkanes are represented by the formula, R-NO2 where R is an alkyl group (C H -)n 2n+1 . Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis of type of carbon atom to which the nitro (-NO )2 group is attached.
 
@@ -183,16 +174,7 @@ SN2NO2 α
 
 +CO2+NaClNO2
 
-XII U13-Organic Nitrogen Compounds.indd 200 2/19/2020 5:17:07 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-201
 
 **Evaluate yourself 4) Find out the product of the following reactions.**
 
@@ -272,22 +254,7 @@ p - nitroaniline p - nitrodiazo fluoroborate
 
 p - dinitro benzene
 
-XII U13-Organic Nitrogen Compounds.indd 201 2/19/2020 5:17:09 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-
-
-
-  
-
-202
 
 Amino group can be directly converted into nitro group, using caro’s acid (H SO )2 5
 
@@ -342,9 +309,6 @@ p - diamino benzene p - dinitro benzene
 F3C C
 O
 O HO
-XII U13-Organic Nitrogen Compounds.indd 202 2/19/2020 5:17:10 PM
-
-203
 
 CH3CH2 NO2
 Nitroethane HCl / H2O Boil
@@ -424,11 +388,7 @@ alkaline medium Zn/NaOH
 Aniline
 Phenyl hydroxylamine
 Nitrosobenzene
-XII U13-Organic Nitrogen Compounds.indd 203 2/19/2020 5:17:13 PM
-www.tntextbooks.in
 
-
-204
 
 **Electrolytic reduction:**
 ![](12.png)
@@ -480,13 +440,7 @@ SO3H 3 - Nitrobenzene sulphonic acid
 O2N
 Sulphonation
 Con H2SO4 /
-XII U13-Organic Nitrogen Compounds.indd 204 2/19/2020 5:17:15 PM
 
-www.tntextbooks.in
-
-  
-
-205
 
 Nitrobenzene does not undergo Friedel – Crafts reactions due to the strong deactivating nature of -NO2 group.
 

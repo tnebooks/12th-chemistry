@@ -33,13 +33,6 @@ In common system, an aliphatic amine is named by prefixing alkyl group to amine.
 | ..Ethyl methyl isopropylamineCH N CH CHC H CH3 3N – ethyl – N- methyl propan – 2 – a2 min5 e3 |N – ethyl – N- methyl |prop |ane/ |-2-amine |
    -->
 
-207
-
-
-XII U13-Organic Nitrogen Compounds.indd 207 2/19/2020 5:17:18 PM
-
-www.tntextbooks.in
-
 <!-- 
 | N,N – Dimethyl aniline..N (CH )3 2N,N – Dimethylbenzenamine |N,N – Dimethyl |benzenne/ |– |amine |
 |------|------|------|------|------|
@@ -88,16 +81,7 @@ CH3 NC Na(Hg) / C2H5OH
 
 Methyl isocyanide N-methylmethanamine
 
-XII U13-Organic Nitrogen Compounds.indd 208 2/19/2020 5:17:24 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-209
 
 **3) From amides**
 
@@ -156,16 +140,7 @@ This is a nucleophilic substitution , the halide ion of alkyl halide is substitu
 
 group. The product primary amine so formed can also has a tendency to act as a nucleophile and hence if excess alkyl halide is taken, further nucleophilic substitution takes place leading
 
-XII U13-Organic Nitrogen Compounds.indd 209 2/19/2020 5:17:25 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-210
 
 to the formation of quarternary ammonium salt. However, if the process is carried out with excess ammonia, primary amine is obtained as the major product.
 
@@ -234,25 +209,7 @@ Aniline and other arylamines are usually colourless but when exposed to air they
 
 hydrogen bonds using their lone pair of electorn on nitrogen atom. There is no such H-bonding in tertiary amines.
 
-XII U13-Organic Nitrogen Compounds.indd 210 2/19/2020 5:17:26 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-211
 
 R N H N H N H
 
@@ -307,15 +264,7 @@ Aniline Anilinium chloride
 
 In the aqueous solutions, the following equilibrium exists and it lies far to the left, hence amines are weak bases compared to NaOH .
 
-XII U13-Organic Nitrogen Compounds.indd 211 2/19/2020 5:17:28 PM
 
-www.tntextbooks.in
-
-
-
-
-
-212
 
 R NH2 + H - OH **..**
 
@@ -362,15 +311,7 @@ a) Hence alkyl amines are stronger bases than ammonia.
 Consider the reaction of an alkyl amine (R- N H ). .2 with a proton
 ![](6.png)
 
-XII U13-Organic Nitrogen Compounds.indd 212 2/19/2020 5:17:30 PM
 
-www.tntextbooks.in
-
-
-
-
-
-213
 
 The electron – releasing alkyl group R pushes electron towards nitrogen in the amine
 
@@ -448,16 +389,7 @@ group is directly attached to the benzene ring. The lone pair of electron on nit
 
 In case of substituted aniline, electron releasing groups like -CH3,-OCH3,-NH2 increase the basic strength and electron withdrawing group like - NO2,-X,-COOH decrease the basic strength.
 
-XII U13-Organic Nitrogen Compounds.indd 213 2/19/2020 5:17:32 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-214
 
 **Table pKb’s of substituted anilines (pKb value of aniline is 9.376)**
 
@@ -521,15 +453,7 @@ Ethylamine Acetylchloride N - Ethyl acetamide
 
 Aniline reacts with benzoylchloride (C H COCl)6 5 in the presence of NaOH to give N – phenyl benzamide. This reaction is known as Schotten – Baumann reaction. The acylation and benzoylation are nucleophilic substitutions.
 
-XII U13-Organic Nitrogen Compounds.indd 214 2/19/2020 5:17:35 PM
 
-www.tntextbooks.in
-
-
-
-
-
-215
 
 C6H5 NH2 + C6H5 C
 
@@ -582,16 +506,7 @@ This reaction is known as Libermann’s nitroso test,
 
 i) Aliphatic tertiary amine reacts with nitrous acid to form trialkyl ammonium nitrite salt, which is soluble in water.
 
-XII U13-Organic Nitrogen Compounds.indd 215 2/19/2020 5:17:36 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-216
 
 (CH3)3N + HNO2 \[(CH3)3NH\] NO2
 
@@ -643,16 +558,7 @@ ii) When aniline is treated with carbon disulphide, or heated together, S- diphe
 ![Alt text](8.png)
 These reactions are known as Hofmann – Mustard oil reaction. This test is used to identify the primary amines.
 
-XII U13-Organic Nitrogen Compounds.indd 216 2/19/2020 5:17:37 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-217
 
 **7\. Electrophilic substitution reactions in Aniline**
 
@@ -732,33 +638,7 @@ NH2 δ
 
 Electrophile
 
-XII U13-Organic Nitrogen Compounds.indd 217 2/19/2020 5:17:38 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-
-
-
-|------|
-
-
-
-
-
-|------|
-
-
-  
-
-218
 
 **ii) Nitration**
 
