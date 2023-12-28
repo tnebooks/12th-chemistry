@@ -3,6 +3,16 @@ title: 'Refining process'
 weight: 6
 ---
 
+{{< katex display >}} 
+
+
+B_{n,p}(k) = {n \choose k} p^k (1-p)^{n-k} \newline
+
+It contains \ch{Na+} and \ch{SO4^2-}.
+
+
+{{< /katex >}}
+
 ## Refining process
  Generally the metal extracted from its ore contains some impurities such as unreacted
 

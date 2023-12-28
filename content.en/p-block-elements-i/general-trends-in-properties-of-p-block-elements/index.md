@@ -1,7 +1,9 @@
 ---
 title: 'General trends in properties of p-block elements'
 weight: 1
----## General trends in properties of p-block elements:
+---
+
+## General trends in properties of p-block elements:
  We already learnt that the properties of elements largely depends on their electronic
 
 configuration, size, ionisation enthalpy, electronegativity etc... Let us discuss the general trend in such properties of various p-block elements.
@@ -15,7 +17,7 @@ The p-block elements have a general electronic configuration of ns2, np1-6. The 
 
 Why group 18 elements are called inert gases? Write the general electronic configuraton of group 18 elements
 
-XII\_U2-P-Block.indd 27 2/19/2020 4:38:41 PM
+<!-- XII\_U2-P-Block.indd 27 2/19/2020 4:38:41 PM
 
 www.tntextbooks.in
 
@@ -24,11 +26,12 @@ www.tntextbooks.in
 
   
 
-28
+28 -->
 
 **Table 2.1 General electronic configurations and oxidation states of p-block elements**
+![alt Text](../Table2.1.png)
 
-**Group No. 13 14 15 16 17 18** Group Name
+<!-- **Group No. 13 14 15 16 17 18** Group Name
 
 Icosagens Tetragens Pnictogens Chalcogens Halogens Inert gases
 
@@ -44,14 +47,16 @@ Other observed oxidation states
 
 +1 +2, -4 +3, -3 +4, +2, -2 +5, +3, +1, -1
 
-+6. +4, +2
++6. +4, +2 -->
 
 ### Metallic nature:
 
 
 The tendency of an element to form a cation by loosing electrons is known as electropositive or metallic character. This character depends on the ionisation energy. Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
 
-13 14 15 16 17
+![alt text](../Fig2.1-p-block.png)
+
+<!-- 13 14 15 16 17
 
 18
 
@@ -132,7 +137,7 @@ www.tntextbooks.in
 | Other obser ved oxidation states |+1 |+2, -4 |+3, -3 |+4, +2, -2 |+5, +3, +1, -1 |+6. +4, +2 |
   
 
-29
+29 -->
 
 In p-block, the elements present in lower left part are metals while the elements in the upper right part are non metals. Elements of group 13 have metallic character except the first element boron which is a metalloid, having properties intermediate between the metal and nonmetals. The atomic radius of boron is very small and it has relatively high nuclear charge and these properties are responsible for its nonmetallic character. In the subsequent groups the non-metallic character increases. In group 14 elements, carbon is a nonmetal while silicon and germanium are metalloids. In group 15, nitrogen and phosphorus are non metals and arsenic & antimony are metalloids. In group 16, oxygen, sulphur and selenium are non metals and tellurium is a metalloid. All the elements of group 17 and 18 are non metals.
 
@@ -155,7 +160,7 @@ In p-block elements, the first member of each group differs from the other eleme
 
 The first member of the group 13, boron is a metalloid while others are reactive metals. Moreover, boron shows diagonal relationship with silicon of group 14. The oxides of boron and silicon are similar in their acidic nature. Both boron and silicon form covalent hydrides that can be easily hydrolysed. Similarly, except boron trifluoride, halides of both elements are readily hydrolysed.
 
-XII\_U2-P-Block.indd 29 2/19/2020 4:38:41 PM
+<!-- XII\_U2-P-Block.indd 29 2/19/2020 4:38:41 PM
 
 www.tntextbooks.in
 
@@ -164,7 +169,7 @@ www.tntextbooks.in
 
   
 
-30
+30 -->
 
 In group 14, the first element carbon is strictly a nonmetal while other elements are metalloids (silicon & germanium) or metals (tin & lead). Unlike other elements of the group carbon can form multiple bonds such as C=C, C=O etc... Carbon has a greater tendency to form a chain of bonds with itself or with other atoms which is known as catenation. There is considerable decrease in catenation property down the group (C>>Si>Ge≈Sn>Pb).
 
@@ -182,7 +187,7 @@ We have already learnt that the alkali and alkaline earth metals have an oxidati
 
 Some elements exist in more than one crystalline or molecular forms in the same physical state. For example, carbon exists as diamond and graphite. This phenomenon is called allotropism (in greek 'allos' means another and 'trope' means change) and the different forms of an element are called allotropes. Many p-block elements show allotropism and some of the common allotropes are listed in the table.
 
-XII\_U2-P-Block.indd 30 2/19/2020 4:38:41 PM
+<!-- XII\_U2-P-Block.indd 30 2/19/2020 4:38:41 PM
 
 www.tntextbooks.in
 
@@ -191,11 +196,13 @@ www.tntextbooks.in
 
   
 
-31
+31 -->
 
 **Table 2.2 : Some of common allotropes of p-block elements**
 
-**Element Most common allotropes**
+![alt text](../Table2.2.png)
+
+<!-- **Element Most common allotropes**
 
 Boron Amorphous boron, α-rhombohedral boron, β-rhombohedral boron, γ-orthorhombic boron, α-tetragonal boron, β-tetragonal boron
 
@@ -220,5 +227,5 @@ Sulphur Rhombus sulphur, monoclinic sulphur
 Selenium Red selenium, Gray selenium, Black selenium, Monoclinic selenium,
 
 Tellurium Amorphous & Crystalline
-
+ -->
 
