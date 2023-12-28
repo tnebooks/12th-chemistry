@@ -1195,27 +1195,15 @@ AlP + 3HCl  → PH<sub>3</sub> +AlCl<sub>3</sub>
 
 Phosphine is prepared in pure form by heating phosphorous acid.
 
-4H PO 3H PO PH 3 3
+4H<sub>3</sub>PO<sub>3</sub> → 3H<sub>3</sub>PO<sub>4</sub>+PH<sub>3</sub>
 
-Phosphorous acid
 
-3 4
-
-Ortho phosphoric acid
-
-3
-
-∆ → + ↑ Phosphine
 
 A pure sample of phosphine is prepared by heating phosphonium iodide with caustic soda solution.
 
-PH I + NaOH PH NaI + H O 4 3
+PH<sub>4</sub>I + NaOH → PH<sub>3</sub> + NaI + H<sub>2</sub>O 
 
-Phosphine
 
-2
-
-∆ → ↑ +
 
 **Physical properties:**
 
@@ -1225,102 +1213,49 @@ It is colourless, poisonous gas with rotten fish smell. It is slightly soluble i
 
 **Thermal stability: Phosphine decomposes into its elements when heated in absence of air at** 317 K or when electric current is passed through it.
 
-4PH P 6H 3
+4PH<sub>3</sub>  → P<sub>4</sub>+6H<sub>2</sub>
 
-317K
 
-4 2  → +
 
 **Combustion:** When phosphine is heated with air or oxygen it burns to give meta phosphoric acid.
 
-4PH O P O 6H O
+4PH<sub>3</sub>+8O<sub>2</sub> → P<sub>4</sub>O<sub>10</sub>+6H<sub>2</sub>O
 
-P O 6H O
+P<sub>4</sub>O<sub>10</sub> + 6H<sub>2</sub>O → 4HPO<sub>3</sub>+4H<sub>2</sub>O
 
-3 4 10
 
-Phosphorous pentoxide
-
-2
-
-4 10 2
-
-\+  → +
-
-+
-
-∆
-
-∆
-
-8 2
-
-3
-
-Meta phosphoric acid
-
-2 4HPO 4H O → +
 
 **Basic nature:** Phosphine is weakly basic and forms phosphonium salts with halogen acids.
 
-PH HI PH I
+PH<sub>3</sub> + HI  → PH <sub>4</sub>I
 
-PH I H O PH H O + I
+PH<sub>4</sub>I+H<sub>2</sub>O → PH<sub>3</sub>+H<sub>3</sub>O<sup>+</sup>+ I<sup>-</sup>
 
-3
-
-4
-
-4 2
-
-3
-
-Phosphine
-
-3
-
-+
-
-\+  →
-
-\+  → +∆ −
 
 It reacts with halogens to give phosphorus penta halides.
 
-PH 4Cl PCl + 3HCl 3 2
+PH<sub>3</sub>+ 4Cl<sub>2</sub> → PCl<sub>5</sub> + 3HCl 
 
-5 +  →
+
 
 **Reducing property :** Phosphine precipitates some metal from their salt solutions.
 
-3AgNO + PH Ag P + 3HNO 3 3
+3AgNO<sub>3</sub> + PH<sub>3</sub> → Ag<sub>3</sub>P + 3HNO<sub>3</sub>
 
-3 3  →
+
 
 It forms coordination compounds with lewis acids such as boron trichloride.
 
-BCl + PH Cl B PH 3 3
-
-3 3
-
-Coordination compound
-
- → ←\[ \]:
-
-XII U3-P-block.indd 69 2/19/2020 4:40:33 PM
-
-www.tntextbooks.in
+BCl<sub>3</sub> + PH<sub>3</sub> ↔  [Cl<sub>3</sub> B PH<sub>3</sub> ]
 
 
-
-
-  
-
-70
 
 **Structure:**
 
 In phosphine, phosphorus shows sp3 hybridisation. Three orbitals are occupied by bond pair and fourth corner is occupied by lone pair of electrons. Hence, bond angle is reduced to 93.5°. Phosphine has a pyramidal shape.
+
+**Figure 3.4 Structure of phosphine**
+![Alt text](structure-of-phosphine.png)
 
 **Uses of phosphine:**
 
@@ -1335,50 +1270,50 @@ Phosphine is used for producing smoke screen as it gives large smoke. In a ship,
 
 When a slow stream of chlorine is passed over white phosphorus, phosphorous trichloride is formed. It can also be obtained by treating white phosphorus with thionyl chloride.
 
-P4 + 8SOCl2 4PCl3 + 4SO2 + 2S2Cl2
+P<sub>4</sub> + 8SOCl<sub>2</sub> ➔ 4PCl<sub>3</sub> + 4SO<sub>2</sub> + 2S<sub>2</sub>Cl<sub>2</sub>
 
 **Properties**
 
 When phosphorous trichloride is hydrolysed with cold water it gives phosphorous acid.
 
-PCl + 3H O H PO + 3HCl 3 2
+PCl<sub>3</sub> + 3H<sub>2</sub>O ➔PCl H<sub>3</sub>PO<sub>3</sub>+ 3HCl 
 
-3 3  →
+
 
 This reaction involves the coordination of a water molecule using a vacant 3d orbital on the phosphorous atom following by elimination of HCl which is similar to hydrolysis of SiCl4.
 
-PCl3 + H2O P(OH)Cl2 + HClPCl3.H2O
+PCl<sub>3</sub> + H<sub>2</sub>O ➔ PCl<sub>3</sub>.H<sub>2</sub>O ➔ P(OH)Cl<sub>2</sub> + HCl
 
 This reaction is followed by two more steps to give P(OH)3 or H3PO3.
 
-HPOC12 + H2O H2PO2Cl + HCl H2PO2Cl + H2O H2PHO3 + HCl
+HPOC1<sub>2</sub> + H<sub>2</sub>O  ➔ H<sub>2</sub>PO<sub>2</sub>Cl + HCl 
+
+
+H<sub>2</sub>PO<sub>2</sub>Cl + H<sub>2</sub>O  ➔H<sub>3</sub>PO<sub>3</sub>+ HCl 
 
 Similar reactions occurs with other molecules that contains alcohols and carboxylic acids.
 
-3C2H5OH + PCl3 3C2H5Cl + H3PO3 3C2H5COOH + PCl3 3C2H5COCl + H3PO3
+3C<sub>2</sub>H<sub>5</sub>OH + PCl<sub>3</sub> ➔ 3C<sub>2</sub>H<sub>5</sub>Cl + H<sub>3</sub>PO<sub>3</sub>
+ 
+ 3C<sub>2</sub>H<sub>5</sub>COOH + PCl<sub>3</sub> ➔ 3C<sub>2</sub>H<sub>5</sub>COCl + H<sub>3</sub>PO<sub>3</sub>
 
-H H P
 
-H 93.50
 
-1.42 å
+<!-- **Figure 3.4 Structure of phosphine** -->
 
-**Figure 3.4 Structure of phosphine**
+<!-- XII U3-P-block.indd 70 2/19/2020 4:40:37 PM
 
-XII U3-P-block.indd 70 2/19/2020 4:40:37 PM
-
-www.tntextbooks.in
+www.tntextbooks.in -->
 
 
 
 
-  
-
-71
 
 **Uses of phosphorus trichloride:**
 
-Phosphorus trichloride is used as a chlorinating agent and for the preparation of H3PO3.
+Phosphorus trichloride is used as a chlorinating agent and for the preparation of H<sub>3</sub>PO<sub>3</sub>.
+
+![Alt text](structure-of-phosphorus-trichloride.png)
 
 **Phosphorous pentachloride:**
 
@@ -1386,55 +1321,45 @@ Phosphorus trichloride is used as a chlorinating agent and for the preparation o
 
 When PCl3 is treated with excess chlorine, phosphorous pentachloride is obtained.
 
-PCl + Cl PCl3 2
+PCl<sub>3</sub> + Cl<sub>2</sub> ➔ PCl<sub>5</sub>
 
-5→
 
 **Chemical properties**
 
 On heating phosphorous pentachloride, it decomposes into phosphorus trichloride and chlorine.
 
-PCl PCl + Cl5
+PCl<sub>5</sub>(g) ➔  PCl<sub>3</sub>(g) + Cl<sub>2</sub>(g)
 
-3 2 (Excess)
 
-(g) (g) (g)→ .
 
 Phosphorous pentachloride reacts with water to give phosphoryl chloride and orthophosphoric acid.
 
-PCl + H O POCl + 2HCl
+PCl<sub>5</sub>+ H<sub>2</sub>O ➔ POCl<sub>3</sub>+ 2HCl
 
-POCl + 3H O H PO + 3HCl
+POCl<sub>3</sub> + 3H<sub>2</sub>O  ➔  H<sub>3</sub>PO<sub>4</sub> + 3HCl
 
-5 2
+ Overall reaction :
 
-3
+PCl<sub>5</sub> + 4H<sub>2</sub>O ➔ H<sub>3</sub>PO<sub>4</sub> + 5HCl 
 
-3 2
 
-3 4
-
- →
-
- → Overall reaction
-
-PCl + 4H O H PO + 5HCl 5 2
-
-3 4  →
 
 Phosphorous pentachloride reacts with metal to give metal chlorides. It also chlorinates organic compounds similar to phosphorus trichloride.
 
-2Ag + PCl5 2AgCl + PCl3
+2Ag + PCl<sub>5</sub> ➔ 2AgCl + PCl<sub>3</sub>
 
-Sn + 2PCl5 SnCl4 + 2PCl3
+Sn + 2PCl<sub>5</sub> ➔ SnCl<sub>4</sub> + 2PCl<sub>5</sub>
 
-C2H5OH + PCl5 C2H5Cl + HCl + POCl3
+C<sub>5</sub>H<sub>5</sub>OH + PCl<sub>5</sub> ➔  C<sub>2</sub>H<sub>5</sub>Cl + HCl + POCl<sub>3</sub>
 
-C2H5COOH+ PCl5 C2H5COCl + HCl + POCl3
+C<sub>5</sub>H<sub>5</sub>COOH + PCl<sub>5</sub>  C<sub>2</sub>H<sub>5</sub>COCl + HCl + POCl<sub>3</sub>
 
 **Uses of phosphorus pentachloride**
 
 Phosphorous pentachloride is a chlorinating agent and is useful for replacing hydroxyl groups by chlorine atom.
+
+**Figure 3.6 Structure of P4O6**
+![Alt text](structure-of-P4O6.png)
 
 ### Structure of oxides and oxoacids of phosphorus
 
@@ -1443,30 +1368,7 @@ Phosphorous forms phosphorous trioxide, phosphorous tetra oxide and phosphorous 
 
 In phosphorous trioxide four phosphorous atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6
 
-O O O
 
-O O
-
-P
-
-P P P
-
-O
-
-**Figure 3.6 Structure of P4O6**
-
-**Figure 3.5 Structure of phosphorus trichloride**
-
-XII U3-P-block.indd 71 2/19/2020 4:40:42 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-72
 
 pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ bonding and results in considerable double bond character.
 
@@ -1474,175 +1376,36 @@ In P4O10 each P atoms form three bonds to oxygen atom and also an additional coo
 
 Terminal P-O bond length is 143 pm, which is less than the expected single bond distance. This may be due to lateral overlap of filled p orbitals of an oxygen atom with empty d orbital on phosphorous.
 
+**Figure 3.7 Structure of P4O10**
+![Alt text](structure-of-P4O10.png)
+
 **Oxoacids of Phosphorous-Structure:**
 
-**Name Formula Structure**
-
-Hypophosphorous acid
-
-H3PO2
-
-H
-
-P
-
-O
-
-OHH
-
-Orthophosphrous acid
-
-H3PO3
-
-O
-
-P
-
-H
-
-OHHO
-
-Hypophosphoric acid
-
-H4P2O6
-
-O
-
-P
-
-HO
-
-HO
-
-O
-
-P
-
-OH
-
-OH
-
-Orthophosphoric acid
-
-H3PO4
-
-O
-
-P
-
-OH
-
-OHHO
-
-Pyrophosphoric acid
-
-H4P2O7
-
-O
-
-P
-
-HO
-
-OHO
-
-O
-
-P
-
-OH
-
-OH
-
-O O
-
-OO O
-
-O O
-
-OO
-
-O
-
-P P
-
-P
-
-P 143 pm
-
-160 pm
-
-1020
-
-1230
-
-**Figure 3.7 Structure of P4O10**
-
-XII U3-P-block.indd 72 2/19/2020 4:40:44 PM
-
-www.tntextbooks.in
+![Alt text](oxoacids-of-phosphorous-Structure.png)
 
 
 
 
 
 
-| Name |Formula |Structure |
+
+
+<!-- | Name |Formula |Structure |
 |------|------|------|
 | Hypophosphorous acid |H PO3 2 |HH P OHO |
 | Orthophosphrous acid |H PO3 3 |OHO P OHH |
 | Hypophosphoric acid |H P O4 2 6 |O OHO P P OHHO OH |
 | Orthophosphoric acid |H PO3 4 |OHO P OHOH |
-| Pyrophosphoric acid |H P O4 2 7 |O OHO P O P OHHO OH |
+| Pyrophosphoric acid |H P O4 2 7 |O OHO P O P OHHO OH | -->
   
 
-73
+
 
 **Oxoacids of Phosphorus-Preparation:**
 
-**Name**
+![Alt text](oxoacids-of-phosphorus-preparation.png)
 
-**Fo rm**
 
-**ul a**
-
-**O xi**
-
-**da tio**
-
-**n st**
-
-**at e**
-
-**Preparation**
-
-Hypophosphorous acid
-
-H3PO2 +1 P 6H O 3H PO PH4 2
-
-3 2 3+ → +
-
-Orthophosphrous acid
-
-H3PO3 +3 P O 6H O 4H PO4 6 2
-
-3 3+ → Hypophosphoric acid
-
-H4P2O6 +4 2P 2O + 2H O H P O2 2
-
-4 2 6+ →
-
-Orthophosphoric acid
-
-H3PO4 +5 P O 6H O 4H PO4 10 2
-
-3 4+ →
-
-Pyrophosphoric acid
-
-H4P2O7 +5 2H PO H P O H O3 4
-
-4 2 7 2→ +
 
 **Group 16 (Oxygen group) elements:**
 
@@ -1656,7 +1419,11 @@ The common physical properties of the group 16 elements are listed in the Table.
 
 **Table 3.2 Physical properties of group 16 elements**
 
-**Property Oxygen Sulphur Selenium Tellurium Polonium**
+![Alt text](physical-properties-of-group-16-elements.png)
+
+![Alt text](physical-properties-of-group-16-elements-1.png)
+
+<!-- **Property Oxygen Sulphur Selenium Tellurium Polonium**
 
 Physical state at 293 K Gas Solid Solid Solid Solid
 
@@ -1711,4 +1478,4 @@ Density (g.cm-3 at 293 K)
 
 Melting point (K) 54 388 494 723 527
 
-Boiling point (K) 90 718 958 1261 1235
+Boiling point (K) 90 718 958 1261 1235 -->
