@@ -41,11 +41,13 @@ Adsorption is a quick process whereas absorption is a slow process.
 
 M.C. Bain introduced a term ‘sorption’ to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
 
-### Types of adsorption
+# Types of adsorption
 
 Adsorption is classified as physical adsorption and chemical adsorption, depending on the nature of forces acting between adsorbent and adsorbate. In chemical adsorption, gas molecules are held to the surface by formation of chemical bonds. Since strong bond is formed, nearly 400 KJ / mole is given out as heat of adsorption.
 
-**Examples** • Adsorption of O<sub>2</sub> on tungsten, Adsorption of H<sub>2</sub> on nickel, Adsorption of ethyl alcohol vapours on nickel.
+**Examples**
+
+• Adsorption of O<sub>2</sub> on tungsten, Adsorption of H<sub>2</sub> on nickel, Adsorption of ethyl alcohol vapours on nickel.
 
 In physical adsorption, physical forces such as van der waals force of attraction, dipole - dipole interaction, dispersion forces etc., exist between adsorbent and adsorbate. As these forces are weak, heat of adsorption is low, hence physical adsorption occurs at low temperatures.
 
@@ -71,7 +73,7 @@ The following table 10.1 illustrates the distinction between chemical and physic
 | 8. Adsorption occurs at fixed sites called active centres. It depends on surface area            | 8. It occurs on all sides.                                                       |
 | 9. Chemisorption involves the formation of activated complex with appreciable activation energy. | 9. Activation energy is insignificant.                                           |
 
-### Factors affecting adsorption
+# Factors affecting adsorption
 
 The adsorption is well understood by considering the various factors affecting it. Qualitatively, the extent of surface adsorption depends on the following factors
 
@@ -99,7 +101,7 @@ When temperature is raised chemisorption first increases and then decreases. whe
 
 chemical adsorption is fast with increase in pressure, it can not alter the amount of adsorption. In Physisorption the extent of adsorption increases with increase in pressure.
 
-### Adsorption isotherms and isobars.
+# Adsorption isotherms and isobars.
 
 Adsorption isotherms represents the variation of adsorption at constant temperature.
 
@@ -149,7 +151,7 @@ This equation is purely empirical and valid over a limited pressure range.
 
 The values of constants k and n also found vary with temperature. No theoretical explanations were given.
 
-### Applications of adsorption
+# Applications of adsorption
 
 Though we have innumerable applications for adsorption, we consider few of them
 
