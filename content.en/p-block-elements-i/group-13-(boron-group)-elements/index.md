@@ -85,13 +85,17 @@ Many metals except alkali metals form borides with a general formula MxBy (x ran
 
 **Direct combination of metals with boron:**
 
-Cr + nB 1500 K CrBn
+<!-- Cr + nB 1500 K CrBn -->
+<!-- $\ce{A ->[{text above}][{text below}] B}$ -->
+
+$\ce{Cr + nB ->[{1500 K}] CrB<sub>n</sub>}$
 
 **Reduction of borontrihalides:**
 
 Reduction of borontrichloride with a metal assisted by dihydrogen gives metal borides.
 
-2BCl 3 + 2W 1500 K 2WB + 2Cl 2+2HCl H2
+<!-- 2BCl 3 + 2W 1500 K 2WB + 2Cl 2+2HCl H2 -->
+$\ce{2BCl3 + 2W ->[{1500 K}][{H2}] 2WB + 2Cl2 + 2HCl}$
 
 **Formation of hydrides:**
 
