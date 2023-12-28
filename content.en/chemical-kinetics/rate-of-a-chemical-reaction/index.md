@@ -42,12 +42,6 @@ is required here.
 
 
 
-
-
-
-
-  
-
 **Unit of rate of a reaction:**
 
 unit of rate = unit of concentration unit of time
@@ -88,7 +82,7 @@ Rate =- 1(d\[A\])/x (dt)= \- 1d\[B\]/ y dt=1 d\[C\]/ ldt = 1d\[D\]/ mdt
 
  <!-- add graph -->
 
-![alt text](graph.png)
+![graph](graph.png)
 
 
 
@@ -99,8 +93,6 @@ Time (mins) \* Schematic representation- Not to scale
 \-A -B
 
 **Fig 7.1 change in concentration of A and B for the reaction** A  →B
-
-  
 
 ### Average and instantaneous rate:
 
@@ -156,10 +148,10 @@ that instant.
 
 In general, the instantaneous reaction rate at a moment of mixing the reactants (t = 0) is calculated from the slope of the tangent drawn to the curve. The rate calculated by this method is called initial rate of a reaction.
 
-![Alt Graph](graph1.png)
+![Graph](graph1.png)
 
 
-  
+
 
 Let us calculate the instantaneous rate of isomerisation cyclopropane at different concentrations: 2 M, 1M and 0.5 M from the graph shown in fig 7.2, the results obtained are tabulated below.
 
@@ -177,3 +169,5 @@ Let us calculate the instantaneous rate of isomerisation cyclopropane at differe
 | 2 |6.92 x 10^-2 |
 | 1 |3.46 x 10^-2 |
 | 0.5 |1.73 x 10^-2 |
+
+

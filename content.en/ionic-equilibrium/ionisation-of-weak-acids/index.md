@@ -1,13 +1,9 @@
-
 ---
 title: 'Ionisation of weak acids'
 weight: 5
 ---
 
-
-
-## Ionisation of weak acids
- We have already learnt that weak acids are partially dissociated in water and there is an
+We have already learnt that weak acids are partially dissociated in water and there is an
 
 equilibrium between the undissociated acid and its dissociated ions.
 

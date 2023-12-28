@@ -13,33 +13,33 @@ These examples prove that adsorption is a surface phenomenon. In contrast to ads
 
 - Adsorbed substance is called an adsorbate.
 
-* The surface of separation of the two phases where the concentration of adsorbed molecule is high is known as interface.
+- The surface of separation of the two phases where the concentration of adsorbed molecule is high is known as interface.
 
-* In adsorption, if the concentration of a substance in the interface is high, then it is called positive adsorption. If it is less, then it is called negative adsorption.
+- In adsorption, if the concentration of a substance in the interface is high, then it is called positive adsorption. If it is less, then it is called negative adsorption.
 
-* The process of removing an adsorbed substance from the surface is called desorption.
+- The process of removing an adsorbed substance from the surface is called desorption.
 
-* The gaseous molecules like He, Ne, O<sub>2</sub>, N<sub>2</sub>, SO<sub>2</sub> and NH<sub>3</sub> and solutions of NaCl or KCl can be adsorbed by suitable adsorbents. These are referred as adsorbates.
+- The gaseous molecules like He, Ne, O<sub>2</sub>, N<sub>2</sub>, SO<sub>2</sub> and NH<sub>3</sub> and solutions of NaCl or KCl can be adsorbed by suitable adsorbents. These are referred as adsorbates.
 
-* Silica gel and metals like Ni, Cu, Pt, Ag and Pd and certain colloids can act as adsorbents.
+- Silica gel and metals like Ni, Cu, Pt, Ag and Pd and certain colloids can act as adsorbents.
 
 **Characteristics of adsorption**
 
-1\. Adsorption can occur in all interfacial surfaces i.e. the adsorption can occur in between gas-solid, liquid solid, liquid-liquid, solid- solid and gas-liquid.
+1. Adsorption can occur in all interfacial surfaces i.e. the adsorption can occur in between gas-solid, liquid solid, liquid-liquid, solid- solid and gas-liquid.
 
-2\. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When ΔG reaches zero, the equilibrium is attained.
+2. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When ΔG reaches zero, the equilibrium is attained.
 
 We know, ΔG = ΔH - T ΔS where ΔG is Change in Free energy.
 
 ΔH is Change in enthalpy and ΔS = Change in entropy.
 
-3\. When molecules are adsorbed, there is always a decrease in randomness of the molecules.
+3. When molecules are adsorbed, there is always a decrease in randomness of the molecules.
 
 ie., ∆S<0, and T∆S is negative. Hence, adsorption is exothermic.
 
 Adsorption is a quick process whereas absorption is a slow process.
 
-M.C. Bain introduced a term ‘sorption’ to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
+<blockquote> M.C. Bain introduced a term ‘sorption’ to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.</blockquote>
 
 # Types of adsorption
 
@@ -47,24 +47,24 @@ Adsorption is classified as physical adsorption and chemical adsorption, dependi
 
 **Examples**
 
-• Adsorption of O<sub>2</sub> on tungsten, Adsorption of H<sub>2</sub> on nickel, Adsorption of ethyl alcohol vapours on nickel.
+- Adsorption of O<sub>2</sub> on tungsten, Adsorption of H<sub>2</sub> on nickel, Adsorption of ethyl alcohol vapours on nickel.
 
 In physical adsorption, physical forces such as van der waals force of attraction, dipole - dipole interaction, dispersion forces etc., exist between adsorbent and adsorbate. As these forces are weak, heat of adsorption is low, hence physical adsorption occurs at low temperatures.
 
 **Examples**
 
-(a) Adsorption of N2 on mica.
+1. Adsorption of N2 on mica.
 
-(b) Adsorption of gases on charcoal.
+2. Adsorption of gases on charcoal.
 
 The following table 10.1 illustrates the distinction between chemical and physical adsorption.
 
 **Table 10.1 Distinction between chemical and physical adsorption**
 
-| Chemical ads orption or C hemisorption or Activated adsorption                                   | Physical adsorption or van der waals adsorption or Physisorption                 |
+| Chemical adsorption or Chemisorption or Activated adsorption                                     | Physical adsorption or van der waals adsorption or Physisorption                 |
 | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| 1. It is ver y slow                                                                              | 1. It is instantaneous                                                           |
-| 2. It is ver y specic depends o n nature of adsorbent and adsorbate.                            | 2. It is non-specic                                                             |
+| 1. It is very slow                                                                               | 1. It is instantaneous                                                           |
+| 2. It is very specific depends o n nature of adsorbent and adsorbate.                            | 2. It is non-specific                                                            |
 | 3. Chemical adsorption is fast with increase pressure, it can not alter the amount.              | 3. In Physisorption, when pressure increases the extent of adsorption increases. |
 | 4. When temperature is raised chemisorption first increases and then decreases.                  | 4. Physisorption decreases with increase in temperature.                         |
 | 5. Chemisorption involves transfer of electrons between the adsorbent and adsorbate.             | 5. No transfer of electrons                                                      |
@@ -77,27 +77,27 @@ The following table 10.1 illustrates the distinction between chemical and physic
 
 The adsorption is well understood by considering the various factors affecting it. Qualitatively, the extent of surface adsorption depends on the following factors
 
-(i) Nature of adsorbent
+1. Nature of adsorbent
 
-(ii) Nature of adsorbate
+2. Nature of adsorbate
 
-(iii) Pressure
+3. Pressure
 
-(iv) Concentration at a given temperature.
+4. Concentration at a given temperature.
 
-1\. **Surface area of adsorbent:**
+5. **Surface area of adsorbent:**
 
 As the adsorption is a surface phenomenon it depends on the surface area of adsorbent. i.e., higher the surface area, higher is the amount adsorbed.
 
-2\. **Nature of adsorbate**
+2. **Nature of adsorbate**
 
-The nature of adsorbate can influence the adsorption. Gases like SO<sub>2</sub> ,NH<sub>3</sub> ,HCl and CO<sub>2</sub> are easily liquefiable as they have greater van der waal’s force of attraction. On the other hand, permanent gases like H<sub>2</sub> ,N<sub>2</sub> and O<sub>2</sub> can not be liquefied easily. These permanent gases are having low critical temperature and adsorbed slowly, while gases with high critical temperature are adsorbed readily.
+The nature of adsorbate can influence the adsorption. Gases like SO<sub>2</sub>, NH<sub>3</sub>, HCl and CO<sub>2</sub> are easily liquefiable as they have greater van der waal’s force of attraction. On the other hand, permanent gases like H<sub>2</sub> ,N<sub>2</sub> and O<sub>2</sub> can not be liquefied easily. These permanent gases are having low critical temperature and adsorbed slowly, while gases with high critical temperature are adsorbed readily.
 
-3\. **Effect of temperature**
+3. **Effect of temperature**
 
 When temperature is raised chemisorption first increases and then decreases. whereas physisorption decreases with increase in temperature.
 
-4\. **Effect of pressure:**
+4. **Effect of pressure:**
 
 chemical adsorption is fast with increase in pressure, it can not alter the amount of adsorption. In Physisorption the extent of adsorption increases with increase in pressure.
 
@@ -155,37 +155,37 @@ The values of constants k and n also found vary with temperature. No theoretical
 
 Though we have innumerable applications for adsorption, we consider few of them
 
-1\. Gas masks: During world war I charcoal gas mask was employed by both the British and American. Activated charcoal was found to be one of the best adsorbents.
+1. Gas masks: During world war I charcoal gas mask was employed by both the British and American. Activated charcoal was found to be one of the best adsorbents.
 
-2\. To create high vacuum in vessels, Tail and Dewar used activated charcoal.For dehydration and also purification of gases like CO<sub>2</sub>, N<sub>2</sub>, Cl<sub>2</sub>, O<sub>2</sub> and He, alumina and silica are employed. In the blast furnace silica gel is also used for drying air.
+2. To create high vacuum in vessels, Tail and Dewar used activated charcoal.For dehydration and also purification of gases like CO<sub>2</sub>, N<sub>2</sub>, Cl<sub>2</sub>, O<sub>2</sub> and He, alumina and silica are employed. In the blast furnace silica gel is also used for drying air.
 
-3\. One of the highly important use of adsorption is the softening of hardwater. Permutit is employed for this process which adsorbs Ca<sub>2+</sub> and Mg<sub>2+</sub> ions in its surface, there is an ion exchange as shown below it occurs on the surface.
+3. One of the highly important use of adsorption is the softening of hardwater. Permutit is employed for this process which adsorbs Ca<sub>2+</sub> and Mg<sub>2+</sub> ions in its surface, there is an ion exchange as shown below it occurs on the surface.
 
 Na<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl<sub>2</sub> → CaAl<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+2NaCl
 
 Exhausted permutit is regenerated by adding a solution of common salt.
 
-C2N<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl → Na<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl<sub>2</sub>
+CaAl<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl → Na<sub>2</sub>Al<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl<sub>2</sub>
 
-4\. **Ion exchange resins**
+4. **Ion exchange resins**
 
 Ion exchange resins are working only based on the process of adsorption. Ion exchange resins are used to demineralise water. This process is carried out by passing water through two columns of cation and anion exchange resins.
 
 ![Alt text](formula1.png)
 
-5\. **Petroleum refining and refining of vegetable oil**
+5. **Petroleum refining and refining of vegetable oil**
 
 Fuller’s earth and silica gel are used for refining process.
 
-6\. **Decolourisation of Sugar:**
+6. **Decolourisation of Sugar:**
 
 Sugar prepared from molasses is decolourised to remove coloured impurities by adding animal charcoal which acts as decolourising material.
 
-7\. **Chromatography**
+7. **Chromatography**
 
 The chromatographic technique is applied for separation of components in a mixture. It is mainly based on adsorption of components on the surface of adsorbents. This method is very effective and used for identification, detection and estimation of many substances even if they are contained in micro quantities.
 
-8\. **Catalysed reaction**
+8. **Catalysed reaction**
 
 Catalysis is an important branch of surface chemistry which is based on the phenomenon of adsorption of materials on the catalyst surface.
 
@@ -199,28 +199,28 @@ In this process, Fe is the catalyst and Mo is a promoter. The surface of the Fe 
 
 In the hydrogenation of oils to obtain vanaspathi, Nickel is used as a catalyst. Nickel surface catalyses the reaction.
 
-\[ \ce{2Fe^3+ + 2I^- <=>[2H2O] Fe2O3 \cdot 2H2O + I2} \]
+{{< katex display >}}
+Vegetable\ oil + H_2 \xrightarrow[{473k}]{Ni\ catalyst}vanaspati
+{{< /katex >}}
 
-\chemfig{A\*5(-B=C-D-E=)}
-
-9\. **Qualitative analysis**
+9. **Qualitative analysis**
 
 When blue litmus solution is added to Al<sup>3+</sup> ion, a red coloration is seen due to the acidic nature of the solution. Addition of ammonium hydroxide to it gives a blue lake. This is due to the adsorption of blue colour litmus compound on the surface of Al (OH)<sub>3</sub> Which is formed during the addition of NH<sub>4</sub>OH
 
-10\. **Medicine:**
+10. **Medicine:**
 
 Drugs cure diseases by adsorption on body tissues.
 
-11\. **Concentration of Ores of metals**
+11. **Concentration of Ores of metals**
 
 Sulphides ores are concentrated by a process called froth flotation in which light are particles are wetted by pine oil.
 
-12\. **Mordants and Dyes**
+12. **Mordants and Dyes**
 
 Most of the dyes are adsorbed on the surface of the fabrics. Mordants are the substances
 
 used for fixing dyes onto the fabric.
 
-13\. **Adsorption indicators**
+13. **Adsorption indicators**
 
 In the precipitation titrations, the end point is indicated by an external indicator which changes its colour after getting adsorbed on precipitate. It is used to indicate the end point of the titration.

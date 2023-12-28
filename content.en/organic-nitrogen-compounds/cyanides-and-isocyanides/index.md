@@ -7,26 +7,22 @@ weight: 4
 
 These are the derivatives of hydrocyanic acid (HCN), and is known to exist in two tautomeric forms
 
-H C H N C
+![](1.png)
+
 
 Hydrogencyanide Hydrogen isocyanide N
 
-XII U13-Organic Nitrogen Compounds.indd 222 2/19/2020 5:17:42 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-223
 
 Two types of alkyl derivatives can be obtained. Those derived by replacement of H – atom of hydrogen cyanide by the alkyl groups are known as alkyl cyanides (R-C N).≡ and those obtained by the replacement of H – atom of hydrogen isocyanide are known as alkyl isocyanides (R-N C)
 
 In IUPAC system, alkyl cyanides are named as “alkanenitriles” whereas aryl cyanides as “ arenecarbonitrile”.
 
+
+
 **Table : Nomenclature of cyanides**
+![](2.png)
+![](3.png)
 
 **Compound (common name, Structural**
 
@@ -90,10 +86,6 @@ Br
 
 pent ane nitrile
 
-XII U13-Organic Nitrogen Compounds.indd 223 2/19/2020 5:17:43 PM
-
-www.tntextbooks.in
-
 
 
 
@@ -114,8 +106,6 @@ www.tntextbooks.in
 224
 
 ### Methods of preparation of cyanides
-
-
 **1) From alkyl halides**
 
 When alkyl halides are treated in the solution NaCN (or) KCN , alkyl cyanides are obtained. In this reaction a new carbon – carbon bond is formed.
@@ -123,6 +113,7 @@ When alkyl halides are treated in the solution NaCN (or) KCN , alkyl cyanides ar
 **Example**
 
 KCN + CH3CH2 - Br CH3CH2 - CN + KBr
+![](4.png)
 
 Ethyl bromide Propanenitrile
 
@@ -141,7 +132,7 @@ CH3 - CH=NOH P2O5
 \-H2O CH3 - CN
 
 Acetaldoximes
-
+![](5.png)
 **3\. By dehydration of ammonium carboxylates with** 2 5P O
 
 CH3 - COONH4
@@ -151,6 +142,7 @@ P2O5 CH3 - CN + 2H2O
 Ammonium acetate Ethanenitrile
 
 This method suitable for large scale preparation of alkyl cyanides.
+![](6.png)
 
 **4\. From Grignard reagent**
 
@@ -161,6 +153,7 @@ CH3 - MgBr + Cl CN CH3 - CN + Mg Br
 Cl
 
 methyl magnesium bromide ethanenitrile
+![](7.png)
 
 ### Properties Of Cyanides
 
@@ -171,19 +164,7 @@ The lower members (up to C14 ) are colourless liquids with a strong characterist
 
 They have higher boiling points than analogous acetylenes due to their high dipole moments.
 
-XII U13-Organic Nitrogen Compounds.indd 224 2/19/2020 5:17:44 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-  
-
-225
 
 ### Chemical properties
 
@@ -209,6 +190,7 @@ Acetamide Acetic acid
 O O
 
 Ethanenitrile
+![](8.png)
 
 **2\. Reduction** On reduction with LiAlH (or) Ni / H
 
@@ -217,6 +199,7 @@ Ethanenitrile
 CH3 - CN + 2H2 Ni CH3 - CH2 - NH2
 
 Ethanenitrile Ethanamine
+![](10.png)
 
 **3\. Condensation reaction**
 
@@ -237,6 +220,7 @@ CH3
 Propanenitrile 3 - imino - 2- methyl pentanenitrile
 
 N +
+![](10.png)
 
 **b) The nitriles containing α- hydrogen also undergo condensation with esters in the presence** of sodamide in ether to form ketonitriles. This reaction is known as “ Levine and Hauser” acetylation
 
@@ -256,16 +240,8 @@ Ethyl Propionate Ethane nitrile 3 - Ketopentanenitrile
 
 CH2
 
-XII U13-Organic Nitrogen Compounds.indd 225 2/19/2020 5:17:46 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-226
+![](11.png)
 
 ### Alkyl Isocyanides (Carbylamines)
 
@@ -275,6 +251,7 @@ www.tntextbooks.in
 They are commonly named as Alkyl isocyanides. The IUPAC system names them as alkylcarbylamines
 
 **Table : Nomenclature of alkylisocyanides**
+![](12.png)
 
 **Structural formula Common name IUPAC name**
 
@@ -294,6 +271,7 @@ Both aromatic as well as aliphatic amines on treatment with CHCl3 in the presenc
 CH3 NH2 + CHCl3 + 3KOH CH3 N C + 3KCl + 3H2O Methylamine Methyl isocyanide
 
 NH2 + CH.Cl3 + 3KOH C6H5 N C + 3KCl + 3H2OC6H5 Aniline Phenyl isocyanide
+![](13.png)
 
 **2\. From alkyl halides**
 
@@ -304,6 +282,7 @@ CH3CH2 Br + AgCN C2H5OH
 heat CH3CH2 - NC + AgBr
 
 Ethyl bromide Ethyl isocyanide
+![](14.png)
 
 **3\. From N – alkyl formamide. By reaction with** POCl3 **in pyridine.**
 
@@ -316,11 +295,6 @@ H POCl3
 (Pyridine) CH3 N C + H2O
 
 N - Methyl formamide Methyl isocyanide
-
-XII U13-Organic Nitrogen Compounds.indd 226 2/19/2020 5:17:47 PM
-
-www.tntextbooks.in
-
 
 
 
@@ -335,6 +309,7 @@ www.tntextbooks.in
   
 
 227
+![](15.png)
 
 ### Properties of isocyanides
 
@@ -358,6 +333,8 @@ CH3 NH2 + H COOH
 
 Methylamine FormicacidMethyl isocyanide
 
+![](16.png)
+
 2\. **Reduction:** When reduced catalytically (or) by nascent hydrogen, they give secondary amines.
 
 CH3 NC + 4 \[H\] Na / C2H5OH
@@ -367,6 +344,7 @@ CH3 NC + 4 \[H\] Na / C2H5OH
 CH3 NH CH3
 
 Methyl isocyanide Dimethylamine
+![](17.png)
 
 3\. **Isomerisation:** When Alkyl isocyanides and heated at 2500C, they change into the more stable, isomeric cyanides
 
@@ -375,8 +353,7 @@ CH3 N Heat
 2500C CH3 C N:
 
 Methyl isocyanide Methylcyanide
-
-C
+![](18.png)
 
 4\. **Addition reaction**. Alkyl isocyanides add on halogen, sulphur, and oxygen to form the corresponding addition compounds.
 
@@ -402,16 +379,8 @@ Alkyl isocyanate
 
 (or) O3
 
-XII U13-Organic Nitrogen Compounds.indd 227 2/19/2020 5:17:47 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-228
+![](19.png)
 
 ### Uses of organic nitrogen compounds
 
@@ -462,16 +431,7 @@ H2N
 
 **Mitomycin**
 
-XII U13-Organic Nitrogen Compounds.indd 228 2/19/2020 5:17:48 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-229
 
 **EVALUATION**
 
@@ -539,16 +499,7 @@ c) Schotten – Baumann reaction d) none of these
 
 8\. The product formed by the reaction an aldehyde with a primary amine (NEET)
 
-XII U13-Organic Nitrogen Compounds.indd 229 2/19/2020 5:17:51 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-230
 
 a) carboxylic acid b) aromatic acid
 
@@ -624,34 +575,7 @@ c) N,N – dimethylpropan -2-amine d) diethyl methyl amine
 
 16\. Secondary nitro alkanes react with nitrous acid to form
 
-XII U13-Organic Nitrogen Compounds.indd 230 2/19/2020 5:17:55 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|
-
-
-
-
-
-
-
-
-  
-
-231
 
 a) red solution b) blue solution c) green solution d) yellow solution
 
@@ -721,28 +645,7 @@ OCH3
 
 and the product so formed is reduced and then treated with NaNO / HCl2 at low temperature. The final compound formed is a) Benzene diazonium chloride b) Benzyl alcohol c) Phenol d) Nitrosobenzene
 
-XII U13-Organic Nitrogen Compounds.indd 231 2/19/2020 5:17:57 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-232
 
 23\. Identify X in the sequence given below. NH2
 
@@ -812,104 +715,7 @@ NH2
 
 d)
 
-XII U13-Organic Nitrogen Compounds.indd 232 2/19/2020 5:17:57 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|------|------|
-
-
-
-
-
-|------|------|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|
-
-
-
-
-|------|
-
-
-
-
-|------|
-
-
-
-
-
-|------|
-
-
-
-
-|------|
-
-
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|------|------|------|------|
-
-
-  
-
-233
 
 **Short answer Questions**
 
@@ -1015,16 +821,7 @@ B i)NaNO2 / HCl
 
 ii)H2O →  →  → C
 
-XII U13-Organic Nitrogen Compounds.indd 233 2/19/2020 5:17:58 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-234
 
 6\. Write short notes on the following
 
@@ -1082,16 +879,7 @@ C H NH , C H NHCH ,(C H ) NH and CH NH2 5 2 6 5 3 2 5 2 3 2
 
 vi. Increasing order of basic strength C H NH ,C H N(CH ) ,(C H ) NH and CH NH6 5 2 6 5 3 2 2 5 2 3 2
 
-XII U13-Organic Nitrogen Compounds.indd 234 2/19/2020 5:17:59 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-235
 
 vii. In decreasing order of basic strength
 
@@ -1169,45 +957,7 @@ D E CuCN
 
 O C (Major product)
 
-XII U13-Organic Nitrogen Compounds.indd 235 2/19/2020 5:18:01 PM
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|------|
-
-
-
-
-
-|------|------|------|
-
-
-  
-
-236
 
 Methods of preparation of R - NO2 and RONO
 
@@ -1355,10 +1105,8 @@ Conc H 2 SO
 
 **NITRO COMPOUNDS**
 
-XII U13-Organic Nitrogen Compounds.indd 236 2/19/2020 5:18:01 PM
-
-www.tntextbooks.in
 
 
 
+![](nitrocompound.png)
 
