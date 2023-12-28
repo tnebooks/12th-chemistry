@@ -12,4 +12,7 @@ Transition metals, iron and copper play an important role in the development of 
 In this unit we study the general trend in properties of d block elements with specific reference to 3d series, their characteristics, chemical reactivity, some important compounds KMnO4 and K2Cr2O7, we also discuss the f-block elements later in this unit.
 
 
+![alt text](martin.jpg)
+
+
 
