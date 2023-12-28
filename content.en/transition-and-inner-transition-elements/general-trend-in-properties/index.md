@@ -19,7 +19,7 @@ www.tntextbooks.in
 103
 
 Most of the transition elements are hexagonal close packed, cubic close packed or body centrered cubic which are the characteristics of true metals.
-
+![alt text](../lattice_structure.jpg)
 **21 Sc**
 
 **HCP**
@@ -186,6 +186,8 @@ As we move from left to right along the transition metal series, melting point f
 
 For example, in the first series the melting point increases from Scandium (m.pt 1814K) to a maximum of 2183 K for vanadium, which is close to 2180K for chromium. However, manganese in 3d series and Tc in 4d series have low melting point. The maximum melting point at about the middle of transition metal series indicates that d5 configuration is favorable for strong interatomic attraction. The following figure shows the trends in melting points of transition elements.
 
+![alt text](../variation_in_melting_poins.png)
+
 Sc Ti
 
 Mn
@@ -230,6 +232,7 @@ It is generally expected a steady decrease in atomic radius along a period as th
 At the end of the series, d – orbitals of Zinc contain 10 electrons in which the repulsive interaction between the electrons is more than the effective nuclear charge and hence, the orbitals slightly expand and atomic radius slightly increases.
 
 Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d
+![alt text](../ionic_size.png)
 
 1.5
 
@@ -334,6 +337,7 @@ elements which have nearly same atomic radius as that of corresponding 4d elemen
 
 
 Ionization energy of transition element is intermediate between those of s and p block elements. As we move from left to right in a transition metal series, the ionization enthalpy increases as expected. This is due to increase in nuclear charge corresponding to the filling of d electrons. The following figure show the trends in ionisation enthalpy of transition elements.
+![](../ionization.png)
 
 Th e increase in fi rst ionisation enthalpy with increase in atomic number along a particular series is not regular. Th e added electron enters (n-1)d orbital and the inner electrons act as a shield and decrease the eff ect of nuclear charge on valence ns electrons. Th erefore, it leads to variation in the ionization energy values.
 
@@ -433,7 +437,7 @@ Redox reactions involve transfer of electrons from one reactant to another. Such
 Standard electrode potential is the value of the standard emf of a cell in which molecular hydrogen under standard pressure ( 1atm) and temperature (273K) is oxidised to solvated protons at the electrode.
 
 If the standard electrode potential (E0), of a metal is large and negative, the metal is a powerful reducing agent, because it loses electrons easily. Standard electrode potentials (reduction potential) of few first transition metals are given in the following table.
-
+![alt text](../standard_electrode.png)
 Reaction Standard reduction potential ( V )
 
 Ti Ti
@@ -477,7 +481,7 @@ _M_
 value
 
 is approaching towards less negative value and copper has a positive reduction potential. i.e.,
-
+![alt text](../standard_electrode2.png)
 \-4
 
 \-3

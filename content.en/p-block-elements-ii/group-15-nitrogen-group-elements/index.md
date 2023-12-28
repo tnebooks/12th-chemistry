@@ -1,18 +1,15 @@
 ---
-title: ' Group 15 (Nitrogen group) elements'
+title: 'Group 15 (Nitrogen group) elements'
 weight: 1
 ---
 
-We have already learnt the general characteristics of p-block elements and the first two
-group namely icosagens (boron group) and tetragens (carbon group) in the previous unit. In
-this unit we learn the remaining p-block groups, pnictogens, chalcogens, halogens and inert
-gases
-## Group 15 (Nitrogen group) elements: 3.1.1 Occurrence:
+
+# Occurrence:
 
 
 About 78 % of earth atmosphere contains dinitorgen (N2) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrate (Indian saltpetre). The 11th most abundant element phosphorus, exists as phosphate (fluroapatite, chloroapatite and hydroxyapatite). The other elements arsenic, antimony and bismuth are present as sulphides and are not very abundant.
 
-### Physical properties:
+# Physical properties:
 
 
 Some of the physical properties of the group 15 elements are listed below
@@ -60,10 +57,9 @@ Melting point (K) 63 317 Sublimes at 889
 | Melting point (K) |63 |317 |Sublimes at 889 |904 |544 |
 | B oiling point (K) |77 |554 |Sublimes at 889|1860 |1837 |
 
-### Nitrogen:
+# Nitrogen:
 
-
-**Preparation:**
+## Preparation
 
 Nitrogen, the principal gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
 
