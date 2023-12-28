@@ -9,205 +9,82 @@ All the noble gases occur in the atmosphere. **Physical properties:**
 
 As we move along the noble gas elements, their atomic radius and boiling point increases from helium to radon. The first ionization energy decreases from helium to radon. Noble gases have the largest ionisation energy compared to any other elements in a given row as they have completely filled orbital in their outer most shell. They are extremely stable and have a small tendency to gain or lose electrons. The common physical properties of the group 18 elements are listed in the Table.
 
-**Property Neon Argon Krypton Xenon Radon** Physical state at 293 K
+![Alt text](physical-properties-inertgases.png)
 
-Gas Gas Gas Gas Gas
+![Alt text](property-of-inertgases-1.png)
 
-Atomic Number 10 18 36 54 86
-
-XII U3-P-block.indd 91 2/19/2020 4:42:05 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Br |Br O2 |BrO2 |- |- |- |- |
-|------|------|------|------|------|------|------|
-| I |- |- |I O2 5 |- |- |I OI O (+4)4 92 4 |
-
-
-| Type |HOX |HXO2 |HXO3 |HXO4 |
-|------|------|------|------|------|
-| X = Cl, Br and I |
-| Common Name |Hypohalous acid |Halous acid |Halic acid |Perhalic acid |
-| Oxidation state |+1 |+3 |+5 |+7 |
-| F |HOF |- |- |- |
-| Cl |HOCl |HClO2 |HClO3 |HClO4 |
-| Br |HOBr |HBrO3 |HBrO4 |
-| I |HOI |HIO3 |HIO4 |
-
-
-| Property |Neon |Argon |Kr ypton |Xenon |Radon |
-|------|------|------|------|------|------|
-| Physical state  at 293 K |Gas |Gas |Gas |Gas |Gas |
-| Atomic Number |10 |18 |36 |54 |86 |
-  
-
-92
-
-Isotopes 20Ne 40Ar 84Kr 132Xe 211Rn, 220Rn,
-
-222Rn Atomic Mass (g.mol-1 at 293 K)
-
-20.18 39.95 77.92 131.29 \[222\]
-
-Electronic config- uration
-
-\[He\]2s2 2p6
-
-\[Ne\]3s2 3p6
-
-\[Ar\]3d10 4s2 4p6
-
-\[Kr\]4d10 5s2 5p6
-
-\[Xe\] 4f14 5d10 6s2 6p6
-
-Atomic radius (Å) 1.54 1.88 2.02 2.16 2.20 Density (g.cm-3 at 293 K)
-
-8.25 x 10-4 1.63 x 10-3 3.42 x 10-3 5.37 x 10-3 9.07 x 10-3
-
-Melting point (K) 24.56 83.81 115.78 161.4 202 Boiling point (K) 27.104 87.30 119.74 165.05 211.5
 
 **Table 3.10 Physical properties of group 18 elements**
 
-**Properties of inert gases: Physical properties:**
+**Properties of inert gases**: 
 
-Noble gases are monoatomic, odourless, colourless, tasteless, and non-inflammable. They are highly unreactive. They are non-metallic in nature. **Chemical Properties:**
+**Physical properties:**
+
+Noble gases are monoatomic, odourless, colourless, tasteless, and non-inflammable. They are highly unreactive. They are non-metallic in nature. 
+
+**Chemical Properties:**
 
 Only the xenon and krypton show some chemical reactivity. Xenon fluorides are prepared by direct reaction of xenon and fluorine under different conditions as shown below.
 
-Xe + F XeF
+{{< katex display >}}
+Xe + F_2 \xrightarrow[{400°C}]{Ni}XeF_2
+{{< /katex >}}
 
-Xe + 2F XeF
+{{< katex display >}}
+Xe + 2F_2 \xrightarrow[{400°C}]{Ni/acetone}XeF_4
+{{< /katex >}}
 
-X
+{{< katex display >}}
+Xe + 3F_2 \xrightarrow[{400°C}]{Ni/200atm}XeF_6
+{{< /katex >}}
 
-2
 
-Ni
-
-400 C 2
-
-2
-
-Ni /acetone
-
-400 C 4
-
-0
-
-0
-
- →
-
- →
-
-e + 3F XeF 2
-
-Ni /200 atm
-
-400 C 60 →
 
 When XeF6 is heated at 50 °C in a sealed quartz vessel it forms XeOF4.
 
-2XeF + SiO 2XeOF + SiF 6 2
+{{< katex display >}}
+2XeF_6 +SiO_2 \xrightarrow[{}]{50°C}XeF_6
+{{< /katex >}}
 
-50 C
 
-4 4
-
-0
-
- →
 
 When the reaction is continued the following reaction takes place.
 
-2XeOF + SiO 2XeO F + SiF
+2XeOF<sub>6</sub> + SiO<sub>2</sub> → 2XeO<sub>2</sub>F<sub>2</sub> + SiF<sub>4</sub>
 
-2XeO F + SiO 2XeO +
+2XeO<sub>2</sub>F<sub>2</sub> + SiO<sub>2</sub> → 2XeO<sub>3</sub> +6HF
 
-4 2
-
-2 2 4
-
-2 2 2
-
-3
-
- →
-
- → SiF 4
 
 On hydrolysis with water vapour XeF6 gives XeO3
 
-XeF + 3H O XeO + 6HF 6 2
-
-3  →
+XeF<sub>6</sub> + 3H<sub>2</sub>O → XeO<sub>3</sub> + 6HF 
 
 When XeF6 reacts with 2.5 M NaOH, sodium per xenate is obtained.
 
-2XeF + 16NaOH Na XeO + Xe + O + 12NaF + 8H O 6
+2XeF + 16NaOH → Na<sub>2</sub>XeO<sub>2</sub> + Xe + O<sub>2</sub> + 12NaF + 8H<sub>2</sub>O 
 
-4 6 2 2  →
 
 Sodium per xenate is very much known for its strong oxidizing property. For example, it oxidises manganese (II) ion into permanganate ion even in the absence of the catalyst.
 
-5XeO + 2Mn + 14H 2MnO + 5XeO + 7H O 6
-
-4 2+ +
-
-4 3 2
-
-− − →
-
-XII U3-P-block.indd 92 2/19/2020 4:42:11 PM
-
-www.tntextbooks.in
+5XeO<sub>6</sub><sup>-</sup> + 2Mn<sup>2+</sup> + 14H<sup>+</sup> → 2MnO<sub>4</sub><sup>-</sup> + 5XeO<sub>3</sub> + 7H<sub>2</sub>O
 
 
 
-
-
-
-| Isotopes |Ne20 |Ar40 |Kr84 |Xe132 |Rn,  Rn, Rn211 220222 |
-|------|------|------|------|------|------|
-| Atomic Mass (g.mol  at 293 K)-1 |20.18 |39.95 |77.92 |131.29 |[222] |
-| Electronic cong-uration |[He]2s2p26 |[Ne]3s3p26 |[Ar]3d4s  4p102 6 |[Kr]4d5s  5p102 6 |[ ] 4f  5dXe6s  6p14 102 6 |
-| Atomic radius (Å) |1.54 |1.88 |2.02 |2.16 |2.20 |
-| Density (g.cm  at293 K)-3 |8.25 x 10-4 |1.63 x 10-3 |3.42 x 10-3 |5.37 x 10-3 |9.07 x 10-3 |
-| Melting point (K) |24.56 |83.81 |115.78 |161.4 |202 |
-| B oiling point (K) |27.104 |87.30 |119.74 |165.05 |211.5 |
-  
-
-93
 
 Xenon reacts with PtF6 and gave an orange yellow solid \[XePtF6\] and this is insoluble in CCl4.
 
-Xenon difluoride forms addition compounds XeF2.2SbF5 and XeF2.2TaF5. Xenon hexa fluorides forms compound with boron and alkali metals. Eg : XeF6.BF3, XeF6MF, M-alkali metals.
+Xenon difluoride forms addition compounds XeF<sub>2</sub>.2SbF<sub>5</sub> and XeF<sub>2</sub>.2TaF<sub>5</sub>. Xenon hexa fluorides forms compound with boron and alkali metals. Eg : XeF<sub>6</sub>.BF<sub>3</sub>, XeF<sub>6</sub>MF, M-alkali metals.
 
-There is some evidence for existence of xenon dichloride XeCl2.
+There is some evidence for existence of xenon dichloride XeCl<sub>2</sub>.
 
-Krypton form krypton difluoride when an electric discharge is passed through Kr and fluorine at 183° C or when gases are irradiated with SbF5 it forms KrF2.2SbF3.
+Krypton form krypton difluoride when an electric discharge is passed through Kr and fluorine at 183° C or when gases are irradiated with SbF5 it forms KrF<sub>2</sub>.2SbF<sub>3</sub>.
 
 **Table 3.11 Structures of compounds of Xenon:**
 
-**Compound Hybridisation Shape / Structure**
 
-XeF sp3d Linear
 
-XeF4 sp3d2 Square planar
+![xenon](compounds-of-xenon.png)
 
-XeF6 sp3d3 Distorted octahedron
-
-XeOF2 sp3d T Shaped
-
-XeOF4 sp3d2 Square pyramidal
-
-XeO3 sp3 Pyramidal
 
 **Uses of noble gases:**
 
@@ -237,26 +114,9 @@ Krypton is used in fluorescent bulbs, flash bulbs etc...
 
 Lamps filed with krypton are used in airports as approaching lights as they can penetrate through dense fog.
 
-XII U3-P-block.indd 93 2/19/2020 4:42:11 PM
-
-www.tntextbooks.in
 
 
 
-
-
-
-| C ompound |Hybridisation |Shape / Structure |
-|------|------|------|
-| XeF |sp d3 |Linear |
-| XeF4 |sp d3 2 |Square planar |
-| XeF6 |sp d3 3 |Distorted octahedron |
-| XeOF2 |sp d3 |T Shaped |
-| XeOF4 |sp d3 2 |Square pyramidal |
-| XeO3 |sp3 |Pyramidal |
-  
-
-94
 
 **Xenon:**
 
@@ -272,17 +132,17 @@ Radon gas is sealed as small capsules and implanted in the body to destroy malig
 
 **Summary**
 
-„ **Occurrence:** About 78 % of earth atmosphere contains dinitorgen (N2) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrates (Indian saltpetre).
+■ **Occurrence:** About 78 % of earth atmosphere contains dinitorgen (N<sub>2</sub>) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrates (Indian saltpetre).
 
-„ **Nitrogen**, the principle gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
+■ **Nitrogen**, the principle gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
 
-„ Ammonia is formed by the hydrolysis of urea.
+■ Ammonia is formed by the hydrolysis of urea.
 
-„ Nitric acid is prepared by heating equal amounts of potassium or sodium nitrate with concentrated sulphuric acid.
+■ Nitric acid is prepared by heating equal amounts of potassium or sodium nitrate with concentrated sulphuric acid.
 
-„ In most of the reactions, nitric acid acts as an oxidising agent. Hence the oxidation state changes from +5 to a lower one. It doesn’t yield hydrogen in its reaction with metals.
+■ In most of the reactions, nitric acid acts as an oxidising agent. Hence the oxidation state changes from +5 to a lower one. It doesn’t yield hydrogen in its reaction with metals.
 
-„ The reactions of metals with nitric acid are explained in 3 steps as follows:
+■ The reactions of metals with nitric acid are explained in 3 steps as follows:
 
 ▶ **Primary reaction:** Metal nitrate is formed with the release of nascent hydrogen
 
@@ -290,79 +150,61 @@ Radon gas is sealed as small capsules and implanted in the body to destroy malig
 
 ▶ **Tertiary reaction:** The secondary products either decompose or react to give final products
 
-„ Phosphorus has several allotropic modification of which the three forms namely white, red and black phosphorus are most common.
+■  Phosphorus has several allotropic modification of which the three forms namely white, red and black phosphorus are most common.
 
-„ yellow phosphorus is poisonous in nature and has a characteristic garlic smell. It glows in the dark due to oxidation which is called phosphorescence.
+■  yellow phosphorus is poisonous in nature and has a characteristic garlic smell. It glows in the dark due to oxidation which is called phosphorescence.
 
-„ Yellow phosphorus readily catches fire in air giving dense white fumes of phosphorus pentoxide.
+■  Yellow phosphorus readily catches fire in air giving dense white fumes of phosphorus pentoxide.
 
-„ Phosphine is prepared by action of sodium hydroxide with white phosphorous in an inert atmosphere of carbon dioxide or hydrogen.
-
-XII U3-P-block.indd 94 2/19/2020 4:42:11 PM
-
-www.tntextbooks.in
+■  Phosphine is prepared by action of sodium hydroxide with white phosphorous in an inert atmosphere of carbon dioxide or hydrogen.
 
 
 
+■  Phosphine is used for producing smoke screen as it gives large smoke.
 
-  
+■  When a slow stream of chlorine is passed over white phosphorous, phosphorous trichloride is formed.
 
-95
+■  phosphorus trichloride: and Phosphorous pentachloride are used as a chlorinating agent
 
-„ Phosphine is used for producing smoke screen as it gives large smoke.
+■  Oxygen is paramagnetic. It exists in two allotropic forms namely dioxygen (O2) and ozone or trioxygen (O3).
 
-„ When a slow stream of chlorine is passed over white phosphorous, phosphorous trichloride is formed.
+■  Ozone is commonly used for oxidation of organic compounds.
 
-„ phosphorus trichloride: and Phosphorous pentachloride are used as a chlorinating agent
+■  Sulphur exists in crystalline as well as amorphous allotrophic forms. The crystalline form includes rhombic sulphur (α sulphur) and monoclinic sulphur (β sulphur). Amorphous allotropic form includes plastic sulphur (γ sulphur), milk of sulphur and colloidal sulphur.
 
-„ Oxygen is paramagnetic. It exists in two allotropic forms namely dioxygen (O2) and ozone or trioxygen (O3).
+■  Sulphuric acid can be manufactured by lead chamber process, cascade process or contact process.
 
-„ Ozone is commonly used for oxidation of organic compounds.
+■  When dissolved in water, it forms mono (H2SO4.H2O) and dihydrates (H2SO4.2H2O) and the reaction is exothermic.
 
-„ Sulphur exists in crystalline as well as amorphous allotrophic forms. The crystalline form includes rhombic sulphur (α sulphur) and monoclinic sulphur (β sulphur). Amorphous allotropic form includes plastic sulphur (γ sulphur), milk of sulphur and colloidal sulphur.
+■  Halogens are present in combined form as they are highly reactive.
 
-„ Sulphuric acid can be manufactured by lead chamber process, cascade process or contact process.
+■  Chlorine is manufactured by the electrolysis of brine in electrolytic process or by oxidation of HCl by air in Deacon’s process.
 
-„ When dissolved in water, it forms mono (H2SO4.H2O) and dihydrates (H2SO4.2H2O) and the reaction is exothermic.
+■  Chlorine is a strong oxidising and bleaching agent because of the nascent oxygen.
 
-„ Halogens are present in combined form as they are highly reactive.
+■  When three parts of concentrated hydrochloric acid and one part of concentrated nitric acid are mixed, Aquaregia (Royal water) is obtained. This is used for dissolving gold, platinum etc...
 
-„ Chlorine is manufactured by the electrolysis of brine in electrolytic process or by oxidation of HCl by air in Deacon’s process.
+■  Hydrogen halides are extremely soluble in water due to the ionisation.
 
-„ Chlorine is a strong oxidising and bleaching agent because of the nascent oxygen.
+■  Each halogen combines with other halogens to form a series of compounds called inter halogen compounds.
 
-„ When three parts of concentrated hydrochloric acid and one part of concentrated nitric acid are mixed, Aquaregia (Royal water) is obtained. This is used for dissolving gold, platinum etc...
+■  Fluorine reacts readily with oxygen and forms difluorine oxide (F2O) and difluorine dioxide (F2O2) where it has a -1 oxidation state.
 
-„ Hydrogen halides are extremely soluble in water due to the ionisation.
+■  All the noble gases occur in the atmosphere.
 
-„ Each halogen combines with other halogens to form a series of compounds called inter halogen compounds.
+■  They are extremely stable and have a small tendency to gain or lose electrons.
 
-„ Fluorine reacts readily with oxygen and forms difluorine oxide (F2O) and difluorine dioxide (F2O2) where it has a -1 oxidation state.
+■  Sodium per xenate is very much known for its strong oxidizing property.
 
-„ All the noble gases occur in the atmosphere.
-
-„ They are extremely stable and have a small tendency to gain or lose electrons.
-
-„ Sodium per xenate is very much known for its strong oxidizing property.
-
-„ The inertness of noble gases is an important feature of their practical uses.
-
-XII U3-P-block.indd 95 2/19/2020 4:42:11 PM
-
-www.tntextbooks.in
+■  The inertness of noble gases is an important feature of their practical uses.
 
 
-
-
-  
-
-96
 
 **EVALUATION**
 
 **Choose the best answer:**
 
-1\. In which of the following , NH3 is not used?
+1. In which of the following , NH<sub>3</sub> is not used?
 
 a) Nessler’s reagent
 
@@ -372,7 +214,7 @@ c) Reagent for the analysis of III group basic radical
 
 d) Tollen’s reagent
 
-2\. Which is true regarding nitrogen?
+2. Which is true regarding nitrogen?
 
 a) least electronegative element
 
@@ -380,56 +222,47 @@ b) has low ionisation enthalpy than oxygen
 
 c) d- orbitals available
 
-d) ability to form _p p_π π− bonds with itself
+d) ability to form  pπ-pπ  bonds with itself
 
 3\. An element belongs to group 15 and 3 rd period of the periodic table, its electronic configuration would be
 
-a) 1s2 2s2 2p4 b) 1s2 2s2 2p3
+a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup> b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
 
-c) 1s2 2s2 2p6 3s2 3p2 d) 1s2 2s2 2p6 3s2 3p3
+c) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup> d) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>3</sup>
 
-4\. Solid (A) reacts with strong aqueous NaOH liberating a foul smelling gas(B) which spontaneously burn in air giving smoky rings. A and B are respectively
+4. Solid (A) reacts with strong aqueous NaOH liberating a foul smelling gas(B) which spontaneously burn in air giving smoky rings. A and B are respectively
 
-a) P4(red) and PH3 b) P4(white) and PH3
+a) P<sup>4</sup>(red) and PH<sup>3</sup> b) P<sup>4</sup>(white) and PH<sup>3</sup>
 
-c) S8 and H2S d) P4(white) and H2S
+c) S<sub>8</sub> and H<sub>2</sub>S d) P<sub>4</sub>(white) and H<sub>2</sub>S
 
-5\. On hydrolysis, PCl3 gives
+5. On hydrolysis, PCl<sub>3</sub> gives
 
-a) H3PO3 b) PH3
+a) H<sub>3</sub>PO<sub>3</sub> b) PH<sub>3</sub>
 
-c) H3PO4 d) POCl3
+c) H<sub>3</sub>PO<sub>4</sub> d) POCl<sub>3</sub>
 
-6\. P4O6 reacts with cold water to give
+6. P4O6 reacts with cold water to give
 
-a) H3PO3 b) H4P2O7
+a) H<sub>3</sub>PO<sub>3</sub> b) H<sub>3</sub>P<sub>3</sub>O<sub>3</sub>
 
-c) HPO3 d) H3PO4
+c) HPO<sub>3</sub> d) H<sub>3</sub>PO<sub>3</sub>
 
-7\. The basicity of pyrophosphorous acid ( H4P2O5) is
+7. The basicity of pyrophosphorous acid ( H<sub>4</sub>P<sub>2</sub>O<sub>5</sub>) is
 
 a) 4 b) 2
 
 c) 3 d) 5
 
-XII U3-P-block.indd 96 2/19/2020 4:42:12 PM
-
-www.tntextbooks.in
 
 
-
-
-  
-
-97
-
-8\. The molarity of given orthophosphoric acid solution is 2M. its normality is
+8. The molarity of given orthophosphoric acid solution is 2M. its normality is
 
 a) 6N b) 4N
 
 c) 2N d) none of these
 
-9\. Assertion : bond dissociation energy of fluorine is greater than chlorine gas
+9. Assertion : bond dissociation energy of fluorine is greater than chlorine gas
 
 Reason: chlorine has more electronic repulsion than fluorine
 
@@ -441,13 +274,13 @@ c) Assertion is true but reason is false.
 
 d) Both assertion and reason are false.
 
-10\. Among the following, which is the strongest oxidizing agent?
+10. Among the following, which is the strongest oxidizing agent?
 
-a) Cl2 b) F2
+a) Cl<sub>2</sub> b) F<sub>2</sub>
 
-c) Br2 d) l2
+c) Br<sub>2</sub> d) l<sub>2</sub>
 
-11\. The correct order of the thermal stability of hydrogen halide is
+11. The correct order of the thermal stability of hydrogen halide is
 
 a) HI > HBr > HCl > HF b) HF > HCl > HBr > HI
 
@@ -455,9 +288,9 @@ c) HCl > HF > HBr > HI d) HI > HCl > HF > HBr
 
 12\. Which one of the following compounds is not formed?
 
-a) XeOF4 b) XeO3
+a) XeOF<sub>4</sub> b) XeO<sub>3</sub>
 
-c) XeF2 d) NeF2
+c) XeF<sub>2</sub> d) NeF<sub>2</sub>
 
 13\. Most easily liquefiable gas is
 
@@ -465,11 +298,11 @@ a) Ar b) Ne
 
 c) He d) Kr
 
-14\. XeF6 on complete hydrolysis produces
+14\. XeF<sub>6</sub> on complete hydrolysis produces
 
-a) XeOF4 b) XeO2F2
+a) XeOF<sub>4</sub> b) XeO<sub>2</sub>F<sub>2</sub>
 
-c) XeO3 d) XeO2
+c) XeO<sub>3</sub> d) XeO<sub>2</sub>
 
 15\. Which of the following is strongest acid among all?
 
@@ -477,34 +310,25 @@ a) HI b) HF
 
 c) HBr d) HCl
 
-XII U3-P-block.indd 97 2/19/2020 4:42:12 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-98
 
 16\. Which one of the following orders is correct for the bond dissociation enthalpy of halogen molecules? (NEET)
 
-a) Br2 > I2 > F2 > Cl2 b) F2 > Cl2 > Br2 > l2
+a) Br<sub>2</sub> > I<sub>2</sub> > F<sub>2</sub> > Cl<sub>2</sub> b) F<sub>2</sub> > Cl<sub>2</sub> > Br<sub>2</sub> > l<sub>2</sub>
 
-c) I2 > Br2 > Cl2 > F2 d) Cl2 > Br2 > F2 > I2
+c) I<sub>2</sub> > Br<sub>2</sub> > Cl<sub>2</sub> > F<sub>2</sub> d) Cl<sub>2</sub> > Br<sub>2</sub> > F<sub>2</sub> > I<sub>2</sub>
 
 17\. Among the following the correct order of acidity is (NEET)
 
-a) HClO2 < HClO < HClO3 < HClO4 b) HClO4 < HClO2 < HClO < HClO3
+a) HClO<sub>2</sub> < HClO < HClO<sub>2</sub> < HClO<sub>4</sub> b) HClO<sub>4</sub> < HClO<sub>2</sub> < HClO < HClO<sub>3</sub>
 
-c) HClO3 < HClO4 < HClO2 < HClO d) HClO < HClO2 < HClO3 < HClO4
+c) HClO<sub>3</sub> < HClO<sub>4</sub> < HClO<sub>2</sub> < HClO d) HClO < HClO<sub>2</sub> < HClO<sub>3</sub> < HClO<sub>4</sub>
 
 18\. When copper is heated with conc HNO3 it produces
 
-a) Cu(NO3)2 , NO and NO2 b) Cu(NO3)2 and N2O
+a) Cu(NO<sub>3</sub>)<sub>2</sub> , NO and NO<sub>2</sub> b) Cu(NO<sub>3</sub>)<sub>2</sub> and N<sub>2</sub>O
 
-c) Cu(NO3)2 and NO2 d) Cu(NO3)2 and NO
+c) Cu(NO<sub>3</sub>)<sub>2</sub> and NO<sub>2</sub> d) Cu(NO<sub>3</sub>)<sub>2</sub> and NO
 
 **Answer the following questions:**
 
@@ -516,7 +340,7 @@ c) Cu(NO3)2 and NO2 d) Cu(NO3)2 and NO
 
 4\. Give the oxidation state of halogen in the following.
 
-a) OF2 b) O2F2 c) Cl2O3 d) I2O4
+a) OF<sub>2</sub> b) O<sub>2</sub>F<sub>2</sub> c) Cl<sub>2</sub>O<sub>2</sub> d) I<sub>2</sub>O<sub>4</sub>
 
 5\. What are interhalogen compounds? Give examples.
 
@@ -542,16 +366,6 @@ a) Nitric acid b) dinitrogen pentoxide
 
 c) phosphoric acid d) phosphine
 
-XII U3-P-block.indd 98 2/19/2020 4:42:12 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-99
 
 15\. Give the uses of argon.
 
@@ -561,7 +375,7 @@ www.tntextbooks.in
 
 18\. Give a reaction between nitric acid and a basic oxide.
 
-19\. What happens when PCl5 is heated?
+19\. What happens when PCl<sub>5</sub> is heated?
 
 20\. Suggest a reason why HF is a weak acid, whereas binary acids of the all other halogens are strong acids.
 
@@ -569,43 +383,38 @@ www.tntextbooks.in
 
 22\. What type of hybridisation occur in
 
-a) BrF5 b) BrF3
+a) BrF<sub>5</sub> b) BrF2
 
 23\. Complete the following reactions.
 
-1\. NaCl + MnO + H SO2 2 4 →
+1\. NaCl + MnO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> →
 
-2\. NaNO + HCl2 →
+2\. NaNO<sub>2</sub> + HCl →
 
-3\. P + NaOH + H O4 2 →
+3\. P<sub>4</sub> + NaOH + H<sub>2</sub>O →
 
-4\. AgNO + PH3 3 →
+4\. AgNO<sub>3</sub> + PH<sub>3</sub>  →
 
-5\. Mg + HNO3 →
+5\. Mg + HNO<sub>3</sub>→
 
-6\. KClO 3 ∆ →
+6\. KClO<sub>3</sub> ∆ →
 
-7\. Cu + H SO2 4
+7\. Cu + H<sub>2</sub>SO<sub>4</sub> →
 
-Hot conc →
+8\. Sb + Cl2 →
 
-8\. Sb + Cl2 →
+9\. HBr + H<sub>2</sub>SO<sub>4</sub> →
 
-9\. HBr + H SO2 4 →
+10\. XeF<sub>6</sub> + H<sub>2</sub>O →
 
-10\. XeF + H O6 2 →
+11\. XeO<sub>6</sub><sup>4-</sup> + Mn<sup>2+</sup> + H<sup>+</sup> → 
 
-11\. XeO + Mn + H6 4 2+ + − →
+12\. XeOF<sub>4</sub> + SiO<sub>2</sub>  →
 
-12\. XeOF + SiO4 2 →
+13\. {{< katex display >}}
+Xe+ F_2 \xrightarrow[{400°C}]{Ni/ 200 atm }
+{{< /katex >}}
 
-13\. Xe + F2 Ni / 200 atm
-
-C4000 →
-
-XII U3-P-block.indd 99 2/19/2020 4:42:20 PM
-
-www.tntextbooks.in
 
 
 

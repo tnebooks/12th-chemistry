@@ -294,79 +294,39 @@ H<sub>2</sub>SO<sub>4</sub>+2HBR → SO<sub>2</sub>+2H<sub>2</sub>O+Br<sub>2</su
 
 Dilute sulphuric acid reacts with metals like tin, aluminium, zinc to give corresponding sulphates.
 
-Zn + H SO ZnSO + H
+Zn + H<sub>2</sub>SO<sub>4</sub> →  ZnSO<sub>4</sub> + H<sub>2</sub> ↑
 
-2Al + 3H SO Al (SO ) + 3
+2Al + 3H<sub>2</sub>SO<sub>4</sub>  →  Al<sub>4</sub>(SO<sub>4</sub>) <sub>4</sub>+ 3H<sub>2</sub> ↑
 
-2 4
 
-4 2
-
-2 4
-
-2 4 3
-
- → ↑
-
- → H 2
-
-↑
 
 Hot concentrated sulphuric acid reacts with copper and lead to give the respective sulphates as shown below.
 
-Cu + 2H SO CuSO + 2H O + SO 2 4
+Cu + 2H<sub>4</sub>SO<sub>4</sub> →  CuSO<sub>4</sub> + 2H<sub>4</sub>O + SO<sub>2</sub> ↑
 
-4 2 2  → ↑
 
-Pb + 2H SO PbSO + 2H O + SO 2 4
 
-4 2 2  → ↑
+Pb + 2H<sub>2</sub>SO<sub>4</sub> →  PbSO<sub>4</sub> + 2H<sub>4</sub>O + SO<sub>4</sub> ↑
+
+
 
 Sulphuric acid doesn’t react with noble metals like gold, silver and platinum.
 
-**Reaction with salts: It reacts with different metal salts to give metal sulphates and bisulphates.** KCl + H SO KHSO + HCl
+**Reaction with salts: It reacts with different metal salts to give metal sulphates and bisulphates.** 
 
-KNO + H SO KHSO + HNO
+KCl + H<sub>2</sub>SO<sub>4</sub> → KHSO<sub>4</sub> + HCl
 
-2 4
+KNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub>  →   KHSO<sub>4</sub> + HNO<sub>3</sub>
 
-4
+Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> → Na<sub>2</sub>SO<sub>4</sub> + H<sub>2</sub>O + CO<sub>2</sub>
 
-3 2 4
+2NaBr + 3H<sub>2</sub>SO<sub>4</sub>  →  2NaHSO<sub>4</sub> + 2H<sub>2</sub>O + Br<sub>2</sub> + SO<sub>2</sub>
 
-4 3
-
- →
-
- →
-
-Na CO + H SO Na SO + H O + CO
-
-2NaBr + 3H SO
-
-2 3 2 4
-
-2 4 2 2
-
-2 4
-
- →
-
- → 2NaHSO + 2H O + Br + SO 4 2 2 2
 
 **Reaction with organic compounds:** It reacts organic compounds such as benzene to give sulphonic acids.
 
-C H + H SO C H SO H + 6 6
+C<sub>6</sub>H<sub>6</sub> + H<sub>2</sub>SO<sub>4</sub>  →   C<sub>6</sub>H<sub>5</sub>SO<sub>3</sub>H+H<sub>2</sub>O
 
-Benzene
-
-2 4
-
-6 5 3
-
-Benzene sulphonic acid
-
- → H O 2
 
 **Uses of sulphuric acid:**
 
@@ -374,44 +334,17 @@ Benzene sulphonic acid
 
 2\. It is used as a drying agent and also used in the preparation of pigments, explosives etc..
 
-XII U3-P-block.indd 79 2/19/2020 4:41:16 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-80
 
 **Test for sulphate/sulphuric acid:**
 
 Dilute solution of sulphuric acid/aqueous solution of sulphates gives white precipitate (barium sulphate) with barium chloride solution. It can also be detected using lead acetate solution. Here a white precipitate of lead sulphate is obtained.
 
-BaCl + H SO BaSO 2 2 4
+BaCl<sub>2</sub> + H<sub>2</sub>SO<sub>2</sub>  →  BaSO<sub>4</sub> ↓ + 2HCl
 
-4
 
-Barium sulphate
+(CH<sub>3</sub>COO)<sub>2</sub> Pb + H<sub>2</sub>SO<sub>2</sub> → PbSO<sub>4</sub> ↓ +  2CH3COOH
 
-(White precipita
-
- → ↓ te)
-
-3 2 2 4
-
-4
-
-Lead sulphat
-
-\+ 2HCl
-
-(CH COO) Pb + H SO PbSO → ↓ e
-
-(White precipitate)
-
-\+ 2CH3COOH
 
 **Structure of oxoacids of sulphur:**
 
@@ -419,104 +352,8 @@ Sulphur forms many oxoacids. The most important one is sulphuric acid. Some acid
 
 Various oxo acids of sulphur with their structures are given below
 
-**Name Molecular Formula Structure**
+![diagram](structure-of-oxoacids-of-sulphur.png)
 
-Sulphurous acid H2SO3
+![diagram1](<Structure of oxoacids of sulphur-1.png>)
 
-O S
-
-HO OH
-
-Sulphuric acid H2SO4
-
-O
-
-O S OHHO
-
-Thiosulphuric acid H2S2O3
-
-S
-
-O S OHHO
-
-Dithionous acid H2S2O4
-
-O S SHO
-
-O OH
-
-Disulphurous acid or Pyrosulphurous acid
-
-H2S2O5
-
-O S SHO
-
-O OH
-
-O
-
-XII U3-P-block.indd 80 2/19/2020 4:41:18 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Name |Molecular Formula |Structure |
-|------|------|------|
-| Sulphurous acid |H SO2 3 |OSHO OH |
-| Sulphuric acid |H SO2 4 |OHO SO HO |
-| iosulphuric acid |H S O2 2 3 |SHO SO HO |
-| Dithionous acid |H S O2 2 4 |O OHO SS OH |
-| Disulphurous acid or Pyrosulphurous acid |H S O2 2 5 |O OHO SS OHO |
-  
-
-81
-
-**Name Molecular Formula Structure**
-
-Disulphuric acid or pyrosulphuric acid
-
-H2S2O7
-
-O SHO O
-
-S O
-
-O OH O
-
-Peroxymono sulphuric acid (Caro's acid)
-
-H2SO5
-
-O
-
-O S OHO OH
-
-Peroxodisulphuric acid. Marshall’s acid
-
-H2S2O8
-
-O SHO O
-
-S O
-
-O O OH O
-
-Dithionic acid H2S2O6
-
-O S SHO
-
-O OH
-
-O O
-
-Polythionic acid H2Sn+2O6
-
-O SHO O
-
-S O
-
-(S)n OH O
+<!-- **Name Molecular Formula Structure** -->
