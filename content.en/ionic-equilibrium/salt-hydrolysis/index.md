@@ -3,8 +3,16 @@ title: 'Salt Hydrolysis'
 weight: 8
 ---
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
+=======
+
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ## Salt Hydrolysis
  When an acid reacts with a base, a salt and water are formed and the reaction is called neutralization. Salts completely dissociate in aqueous solutions to give their constituent ions. The ions so produced are hydrated in water. In certain cases, the cation, anion or both react with water and the reaction is called salt hydrolysis. Hence, salt hydrolysis is the reverse of neutralization reaction.
 
