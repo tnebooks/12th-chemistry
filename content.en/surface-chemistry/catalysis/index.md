@@ -35,20 +35,17 @@ Let us consider some examples in which the reactants, products and catalyst are 
 
 (1) Hydrolysis of cane sugar with a mineral acid as catalyst
 
-<!-- Sucrose Glucose Fructose(l) (l) (l) (l) C H O +H O
+<!-- \underset{\text{Source}}{C12H22O11}+H2O \xrightarrow{H2SO4(i)} AgCl -->
 
-H2SO C H O + C H O12 22 11 2 6 12 6 6 12 6
-
-4 →(l) -->
+{{< katex display >}}
+\underset{\text{Source}}{C_{12}H_{22}O_{11_{(l)}}} + H_2O_{(l)} \xrightarrow{H_2SO_{4_{(l)}}} \underset{\text{Glucose}}{C_{6}H_{12}O_{6_{(l)}}} + \underset{\text{Fructose}}{C_{6}H_{12}O_{6_{(l)}}}
+{{< /katex >}}
 
 (2) Ester hydrolysis with acid or alkali as catalyst
 
-<!-- Ethyl acetat ae cetic acid ethyl alcohol CH COOC H + H O
-
-H2SO4 CH COOH3 2 5 2 3  → +C H OH2 5(l) (l) (l) (l)
-
-(l) -->
-
+{{< katex display >}}
+\underset{\text{Ethyl acetate}}{CH_{3}COOC_{2}H_{5_{(l)}}} + H_2O_{(l)} \xrightarrow{H_2SO_{4_{(l)}}} \underset{\text{acetic acid}}{CH_{3}COOH_{\ _{(l)}}} +\underset{\text{ethyl alcohol}}{C_2H_2OH_{\ _{(l)}}} 
+{{< /katex >}}
 **Heterogeneous catalysis**
 
 In a reaction, the catalyst is present in a different phase i.e. it is not present in the same phase as that of reactants or products. This is generally referred as contact catalysis and the catalyst present is in the form of finely divided metal or as gauze
@@ -103,7 +100,7 @@ acetophenone
 
 (s) -->
 
-### Characteristics of catalysts
+# Characteristics of catalysts
 
 1\. For a chemical reaction, catalyst is needed in very small quantity. Generally, a pinch of catalyst is enough for a reaction in bulk.
 
@@ -165,7 +162,7 @@ Ethanol decreases the rate of the reaction
 
 In the decomposition of hydrogen peroxide, dilute acid or glycerol acts as a negative catalyst.
 
-### Theories of Catalysis
+# Theories of Catalysis
 
 For a chemical reaction to occur, the reactants are to be activated to form the activated complex. The energy required for the reactants to reach the activated complex is called the activation energy. The activation energy can be decreased by increasing the reaction temperature. In the presence of a catalyst, the reactants are activated at reduced temperatures in otherwords, the activation energy is lowered. The catalyst adsorbs the reactants activates them by weakening the bonds and allows them to react to form the products.
 

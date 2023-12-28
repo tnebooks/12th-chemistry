@@ -200,8 +200,7 @@ In this process, Fe is the catalyst and Mo is a promoter. The surface of the Fe 
 In the hydrogenation of oils to obtain vanaspathi, Nickel is used as a catalyst. Nickel surface catalyses the reaction.
 
 {{< katex display >}}
-$$Vegetable\ oil + H_2 \xrightarrow{Ni\ catalyst} vanaspati$$
-$$473K$$
+Vegetable\ oil + H_2 \xrightarrow[{473k}]{Ni\ catalyst}vanaspati
 {{< /katex >}}
 
 9. **Qualitative analysis**

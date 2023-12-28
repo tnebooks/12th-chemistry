@@ -25,7 +25,7 @@ C<sub>2</sub>H<sub>5</sub>OH+O<sub>2</sub> → CH<sub>3</sub>COOH+H<sub>2</sub>O
 
 NH<sub>2</sub>-CO-NH+H<sub>2</sub>O → 2NH<sub>3</sub>+CO<sub>2</sub>
 
-### Mechanism of enzyme catalysed reaction
+# Mechanism of enzyme catalysed reaction
 
 The following mechanism is proposed for the enzyme catalysis
 
