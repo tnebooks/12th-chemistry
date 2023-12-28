@@ -511,73 +511,43 @@ Copper reacts with nitric acid in the following manner
 
 6(H) + 3HNO<sub>3</sub> → 3HNO<sub>2</sub> + 3H<sub>2</sub>O
 
-3 2
 
-3
 
-2
+3HNO<sub>2</sub> →  HNO<sub>3</sub> + 2NO + H<sub>2</sub>O 
 
- →
+overall reation :
+3Cu + 8HNO<sub>3</sub> → 3Cu(NO<sub>3</sub>)<sub>2</sub>+2NO+4H<sub>2</sub>O
 
- → H O
 
-3HNO HNO + 2NO + H O overall reation 3Cu + 8HNO
 
-2
+The concentrated acid has a tendency to form nitrogen dioxide :
+ Cu + 4HNO<sub>3</sub>  → Cu(NO<sub>3</sub>)<sub>2</sub> + 2NO + 2H<sub>2</sub>O
 
-2
 
-3 2
 
-3
+Magnesium reacts with nitric acid in the following way 
 
- →
+4Mg + 8HNO<sub>3</sub> → 4Mg(NO<sub>3</sub>)<sub>2</sub> + 8[H]
 
- → 3Cu(NO ) + 2NO + 4H O3 2 2
+HNO<sub>3</sub> + 8(H)  →  NH<sub>3</sub> + 3H<sub>2</sub>O
 
-The concentrated acid has a tendency to form nitrogen dioxide Cu + 4HNO Cu(NO ) + 2NO + 2H O3
+HNO<sub>3</sub> + NH<sub>3</sub>  →  NH<sub>4</sub>NO<sub>3</sub>
 
-3 2 2 2 →
+ overall reaction :
+ 
+  4Mg + 10HNO<sub>3</sub> → 4Mg(NO<sub>3</sub>)<sub>2</sub>+NH<sub>4</sub>NO<sub>3</sub>+3H<sub>2</sub>O
 
-Magnesium reacts with nitric acid in the following way 4Mg + 8HNO 4Mg(NO ) + 8\[H\]
+ If the acid is diluted we get N<sub>2</sub>O
 
-HNO + 8H NH + 3H O
+4Mg + 10HNO<sub>3</sub>  → 4Mg(NO<sub>3</sub>)<sub>2</sub> + N<sub>2</sub>O + 5H<sub>2</sub>O
 
-HN
 
-3
-
-3 2
-
-3
-
-3 2
-
- →
-
- →
-
-O + NH NH NO overall reaction 4Mg + 10HNO 4Mg(N
-
-3 3
-
-4 3
-
-3
-
- →
-
- → O ) + NH NO + 3H O3 2 4 3 2 If the acid is diluted we get N2O
-
-4Mg + 10HNO 4Mg(NO ) + N O + 5H O 3
-
-3 2 2 2  →
 
 **Uses of nitric acid:**
 
 3\. Nitric acid is used as a oxidising agent and in the preparation of aquaregia.
 
-4\. Salts of nitric acid are used in photography (AgNO3) and gunpowder for firearms. (NaNO3)
+4\. Salts of nitric acid are used in photography (AgNO<sub>3</sub>) and gunpowder for firearms. (NaNO<sub>3</sub>)
 
 **Evaluate yourself :** Write the products formed in the reaction of nitric acid (both dilute and concentrated) with zinc.
 
@@ -593,6 +563,8 @@ www.tntextbooks.in
 64
 
 ### Oxides and oxoacids of nitrogen
+
+![Alt text](oxides-of-nitrogen.png)
 
 
 **N am**
@@ -905,6 +877,7 @@ www.tntextbooks.in
 65
 
 **Structures of oxides of nitrogen:**
+![Alt text](structure-of-oxides.png)
 
 **Name Formula Structure**
 
@@ -965,6 +938,10 @@ O O
 O ++
 
 **Structures of oxoacids of nitrogen:**
+
+![Alt text](structure-of-oxides-1.png)
+
+![Alt text](structure-of-oxides-2.png)
 
 **Name Formula Structure** Hyponitrous acid
 
@@ -1095,11 +1072,11 @@ www.tntextbooks.in
 
 | Name |Formula |Oxidation state |Preparation |
 |------|------|------|------|
-| Hyponitrous acid |H N O2 2 2 |+1 |Ag NO   +  2HC l2→ AgCl  +  H NO22 2 22 2 |
-| Nitrous acid |HNO2 |+3 |Ba NO  +  H SO  2HNO  +  BaSO2 2 24 24 |
-| Pernitrous acid |HOONO |+3 | HO  +  ONO HO N OOH  +  H O22 2 |
-| Nitric acid |HNO3 |+5 |4NH  + 5O →  4NO + 6 HO2NO+ ON→ O2NON→ O32 22N O+ 2H O+ OO4 → HNO2222 424 2 23 |
-| Pernitric acid |HNO4 |+5 |HO  + N ON O OOH + HNO22 25 23 |
+| Hyponitrous acid |H<sub>2</sub>N<sub>2</sub>O<sub>2</sub> |+1 |Ag<sub>2</sub>N<sub>2</sub>O<sub>2</sub>   +  2HCl→ 2AgCl  +  H<sub>2</sub> N<sub>2</sub>O<sub>2</sub> |
+| Nitrous acid |HNO2 |+3 |Ba(NO<sub>2</sub>)<sub>2</sub> +  H<sub>2</sub>SO<sub>4</sub> → 2HNO<sub>2</sub>  +  BaSO<sub>4</sub> |
+| Pernitrous acid |HOONO |+3 |H<sub>2</sub>O<sub>2</sub> + ON(OH)→ ON(OOH) +  H<sub>2</sub>O |
+| Nitric acid |HNO<sub>3</sub> |+5 |4NH<sub>3</sub> + 5O<sub>2</sub>→ 4NO + 6 H<sub>2</sub>O  2NO+O<sub>2</sub>→ NO<sub>2</sub> 2NO<sub>2</sub>→N<sub>2</sub>O<sub>4</sub> 2N<sub>2</sub>O<sub>4</sub>+ 2H<sub>2</sub>O+ O<sub>2</sub> →4HNO<sub>3</sub> |
+| Pernitric acid |HNO4 |+5 |H<sub>2</sub>O<sub>5</sub>  + N<sub>2</sub>O<sub>5</sub> → NO<sub>2</sub> OOH + HNO<sub>3</sub> |
   
 
 67
@@ -1109,7 +1086,9 @@ www.tntextbooks.in
 
 of which the three forms namely white, red and black phosphorus are most common.
 
-The freshly prepared white phosphorus is colourless but becomes pale yellow due to formation of a layer of red phosphorus upon standing. Hence it is also known as yellow phosphorus. It is poisonous in nature and has a characteristic garlic smell. It glows in the dark due to oxidation which is called phosphorescence. Its ignition temperature is very low and hence it undergoes spontaneous combustion in air at room temperature to give P2O5.
+The freshly prepared white phosphorus is colourless but becomes pale yellow due to formation of a layer of red phosphorus upon standing. Hence it is also known as yellow phosphorus. It is poisonous in nature and has a characteristic garlic smell. It glows in the dark due to oxidation which is called phosphorescence. Its ignition temperature is very low and hence it undergoes spontaneous combustion in air at room temperature to give P<sub>2</sub>O<sub>5</sub>.
+
+![Alt text](structure-of-white.png)
 
 The white phosphorus can be changed into red phosphorus by heating it to 420 ⁰C in the absence of air and light. Unlike white phosphorus it is not poisonous and does not show Phosphorescence. It also does not ignite at low temperatures. The red phosphorus can be converted back into white phosphorus by boiling it in an inert atmosphere and condensing the vapour under water.
 
@@ -1127,6 +1106,10 @@ P
 
 P P P
 
+
+![Alt text](structure-of-red.png)
+
+
 **Figure 3.3 Structure of red phosphorus**
 
 ### Properties of phosphorus
@@ -1136,116 +1119,48 @@ Phosphorus is highly reactive and has the following important chemical propertie
 
 **Reaction with oxygen: Yellow phosphorus readily catches fire in air giving dense white** fumes of phosphorus pentoxide. Red phosphorus also reacts with oxygen on heating to give phosphorus trioxide or phosphorus pentoxide.
 
-P
+P<sub>4</sub>+3O<sub>2</sub> →  p<sub>4</sub>O<sub>6</sub>
 
-P P P
+P<sub>4</sub>+5O<sub>2</sub> →  p<sub>4</sub>O<sub>10</sub>
 
-**Figure 3.2 Structure of white phosphorus**
-
-XII U3-P-block.indd 67 2/19/2020 4:40:19 PM
-
-www.tntextbooks.in
 
 
 
 
   
 
-68
-
-P + 3O P O
-
-P + 5O P O
-
-4 2 4 6
-
-Phosphoroustrioxide
-
-4 2 4 10
-
-Phosph
-
-∆
-
-∆
-
- →
-
- → orouspentoxide
 
 **Reaction with chlorine:** Phosphorus reacts with chlorine to form tri and penta chloride. Yellow phosphorus reacts violently at room temperature, while red phosphorus reacts on heating
 
-P + 6Cl 4PCl
+P<sub>4</sub>+6cl<sub>2</sub> →   4PCl<sub>3</sub>
 
-P + 10Cl 4P
+P<sub>4</sub>+10cl<sub>2</sub> →   4PCl<sub>5</sub>
 
-4 2
 
-3
-
-Phosphorous tri chloride
-
-4 2
-
- →
-
- → Cl 5
-
-Phosphorous penta chloride
 
 **Reaction with alkali:** Yellow phosphorus reacts with alkali on boiling in an inert atmosphere liberating phosphine. Here phosphorus act as reducing agent.
 
-P + 3NaOH + 3H O 3NaH PO + PH 4 2
+P<sub>4</sub>+ 3NaOH + 3H<sub>2</sub>O → 3NaH<sub>2</sub>PO<sub>2</sub>+ PH<sub>3</sub>
 
-2 2
 
-sodium hypo phosphite
 
- → 3
 
-Phosphine
-
-↑
 
 **Reaction with nitric acid:** When phosphorus is treated with conc. nitric acid it is oxidised to phosphoric acid. This reaction is catalysed by iodine crystals.
 
-P + 20HNO 4H PO + 20NO + 4H O 4 3
+P<sub>4</sub>+ 20HNO<sub>3</sub>  → 4H<sub>3</sub>PO<sub>4</sub> + 20NO<sub>2</sub> + 4H<sub>2</sub>O 
 
-3 4
 
-Ortho phosphoric acid
-
-2 2  →
 
 **Reaction with metals:** Phosphorus reacts with metals like Ca and Mg to give phosphides.. Metals like sodium and potassium react with phosphorus vigorously.
 
-P + 6Mg 2Mg P
+P<sub>4</sub>+ 6Mg → 2Mg<sub>3</sub>P<sub>2</sub>
 
-P + 6Ca 2Ca P
+P<sub>4</sub>+ 6Ca → 2Ca<sub>3</sub> P<sub>2</sub>
 
-4
+P<sub>4</sub> + 12Na → 4Na<sub>3</sub>P 
 
-3 2
 
-Magnesium phosphide
-
-4
-
-3 2
-
-C
-
- →
-
- → alcium phosphide
-
-P + 12Na 4Na P 4
-
-3
-
-Sodium phosphide
-
- → .
 
 **Uses of phosphorus:**
 
@@ -1262,52 +1177,21 @@ Phosphine is the most important hydride of phosphorus
 
 Phosphine is prepared by action of sodium hydroxide with white phosphorus in an inert atmosphere of carbon dioxide or hydrogen.
 
-P + 3NaOH + 3H O 3NaH PO + PH 4 2
+P<sub>4</sub>+ 3NaOH + 3H<sub>2</sub>O  → 3NaH<sub>2</sub>PO<sub>2</sub> + PH<sub>3</sub>
 
-2 2
 
-sodium hypo phosphite
-
- → 3
-
-Phosphine
-
-↑
 
 Phosphine is freed from phosphine dihydride(P2H4) by passing through a freezing mixture. The dihydride condenses while phosphine does not.
 
-XII U3-P-block.indd 68 2/19/2020 4:40:26 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-69
 
 Phosphine can also prepared by the hydrolysis of metallic phosphides with water or dilute mineral acids.
 
-Ca P + 6H O 2PH 3Ca(OH)
+Ca<sub>3</sub>P<sub>2</sub> + 6H<sub>2</sub>O → 2PH<sub>3</sub>+3Ca(OH)<sub>2</sub>
 
-AlP + 3HCl PH
+AlP + 3HCl  → PH<sub>3</sub> +AlCl<sub>3</sub>
 
-3 2 2
 
-3
-
-Phosphine
-
-2
-
-3
-
- → ↑ +
-
- → ↑+ Phosphine
-
-3 AlCl
 
 Phosphine is prepared in pure form by heating phosphorous acid.
 
