@@ -7,7 +7,7 @@ weight: 3
 
 upon its nature, it can either donate (or) accept a proton. In addition to that the pure water itself has a little tendency to dissociate. i.e, one water molecule donates a proton to an another water molecule. This is known as auto ionisation of water and it is represented as below.
 
-![Conjugate acid - base pairs](<..\figure 8.3.jpg>)
+![Conjugate acid - base pairs](figure 8.3.jpg)
 
 Conjugate acid - base pairs
 

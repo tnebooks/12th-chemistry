@@ -105,15 +105,9 @@ www.tntextbooks.in
   
 
 10
-<<<<<<< HEAD
-<<<<<<< HEAD
-![The pH scale](<..\figure 8.4.jpg>)
-=======
 
->>>>>>> 58f900497970340ec04b1850261d8949328dd63f
-=======
+![The pH scale](<..figure 8.4.jpg)
 
->>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 **Figure 8.1 The pH scale**
 
 pH + pOH = log \[H3O+\] log \[OH-\]
