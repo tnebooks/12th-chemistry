@@ -1,10 +1,13 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: 'Common  ion Effect'
 weight: 6
 ---
 
 =======
+=======
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 title: 'Common Ion Effect'
 weight: 6
 ---
@@ -12,6 +15,9 @@ weight: 6
 
 
 
+<<<<<<< HEAD
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
+=======
 >>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ## Common Ion Effect
  When a salt of a weak acid is added to the acid itself, the dissociation of the weak acid is
