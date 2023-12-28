@@ -2,7 +2,16 @@
 title: 'Ionic  Equilibrium'
 weight: 8
 ---
-
+<script>
+    window.MathJax = {
+      tex: {
+        // inlineMath: [['$', '$'], ['\\(', '\\)']],
+        packages: {'[+]': ['mhchem']}
+      },
+      loader: {load: ['[tex]/mhchem']},
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   
 
 1

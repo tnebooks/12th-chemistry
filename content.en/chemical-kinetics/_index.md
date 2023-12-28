@@ -10,7 +10,7 @@ weight: 7
 **7**
   
 
-204
+
 
 **Learning Objectives**
 
@@ -30,22 +30,15 @@ After studying this unit, the students will be able to
 * explain various factors which aff ect the rate of a reaction.
 
 
-![alt text](./Svante.png)
+![svante](./Svante.png)
 
 **Svante August Arrhenius (1859 –1927)**
 
 Svante August Arrhenius was a Swedish scientist. Arrhenius was one of the founders of the science of physical chemistry. He focused his attention on the conductivities of electrolytes. He proposed that crystalline salts dissociate into paired charged ions when dissolved in water, for which he received the Nobel Prize for Chemistry in 1903. He also proposed defi nitions for acids and bases. He formulated the concept of activation energy.
 
-XII U7 kinetics - Jerald Folder.indd 204 2/19/2020 4:43:29 PM
-
-www.tntextbooks.in
-
-
-
-
   
 
-205
+
 
 **INTRODUCTION**
 
@@ -56,3 +49,14 @@ Chemical kinetics is the study of the rate and the mechanism of chemical reactio
 The study of chemical kinetics not only help us to determine the rate of a chemical reaction, but also useful in optimizing the process conditions of industrial manufacturing processes, organic and inorganic synthesis etc.
 
 In this unit, we discuss the rate of a chemical reaction and the factors affecting it. We also discuss the theories of the reaction rate and temperature dependence of a chemical reaction.
+
+<!-- ```goat
+        .--- Rate-of-chemical
+    .---+
+    |   '--- Rate-law
+ ---+
+    |   .--- rate
+    '---+
+        '--- Rate
+``` -->
+
