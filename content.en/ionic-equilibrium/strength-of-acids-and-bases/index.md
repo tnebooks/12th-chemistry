@@ -93,19 +93,6 @@ XII U8-Ionic equilibrium.indd 6 2/19/2020 5:11:32 PM
 www.tntextbooks.in
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-![alt text](<..\figure 8.2.jpg>)
-=======
-
->>>>>>> 58f900497970340ec04b1850261d8949328dd63f
-=======
-
->>>>>>> 58f900497970340ec04b1850261d8949328dd63f
-
-  
-
-7
 
 HClO4
 

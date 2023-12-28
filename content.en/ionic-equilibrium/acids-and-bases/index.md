@@ -226,14 +226,6 @@ A Lewis acid is a positive ion (or) an electron deficient molecule and a Lewis b
 
 Les us consider the reaction between Boron tri fluoride and ammonia
 
-<<<<<<< HEAD
-
-![alt text](<..\8.3.1 lewis Concept.jpg>)
-
-
-Here, boron has a vacant 2p orbital to accept the lone pair of electrons donated by ammonia to form a new coordinate covalent bond. We have already learnt that in coordination compounds, the Ligands act as a Lewis base and the central metal atom or ion that accepts a pair of electrons from the ligand behaves as a Lewis acid.
-
-=======
 B
 
 F
@@ -271,7 +263,6 @@ electron pair donar adduct
 Here, boron has a vacant 2p orbital to accept the lone pair of electrons donated by ammonia to form a new coordinate covalent bond. We have already learnt that in coordination compounds, the Ligands act as a Lewis base and the central metal atom or ion that accepts a pair of electrons from the ligand behaves as a Lewis acid.
 
 XII U8-Ionic equilibrium.indd 4 2/19/2020 5:11:25 PM
->>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 
 www.tntextbooks.in
 
