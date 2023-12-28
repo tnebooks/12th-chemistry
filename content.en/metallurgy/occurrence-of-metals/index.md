@@ -13,10 +13,14 @@ A naturally occurring substance obtained by mining which contains the metal in f
 
 The extraction of a metal of interest from its ore consists of the following metallurgical processes.
 
-(i) concentration of the ore (ii) extraction of crude metal (iii) refining of crude metal
+(i) concentration of the ore
 
+(ii) extraction of crude metal 
 
-![Table 1.1 List of some metals and their common ores with their chemical formula*](../table.png)
+(iii) refining of crude metal
+
+**Table 1.1 List of some metals and their common ores with their chemical formula**
+![](../table.png)
 
 | Metal |Ore |C omposition |Metal |Ore |C omposition |
 |------|------|------|------|------|------|
@@ -34,7 +38,3 @@ The extraction of a metal of interest from its ore consists of the following met
 | Malachite |CuCO .Cu(OH)3 2 |Proustite |Ag AsS3 3 |
 | Azurite |2CuCO .Cu(OH)3 2 |
   
-| a | b |
-|---|---|
-| 1 | 2
-|

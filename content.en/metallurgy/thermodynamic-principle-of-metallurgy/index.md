@@ -7,18 +7,26 @@ weight: 4
  As we discussed, the extraction of metals from their oxides can be carried out by using
 different reducing agents. For example, consider the reduction of a metal oxide M<sub>x</sub>O<sub>y</sub>.
 
- (2/y)M<sub>x</sub>O<sub>y</sub> (s) &rarr; (2x/y) M (s) + O<sub>2</sub> (g) ------ (1)
+{{< katex display >}}
+\dfrac{2}{y}{M_xO_y (s) \xrightarrow{} \dfrac{2x}{y}M(s) + O_2(g)} ------ (1)
+{{< /katex >}}
 
 
 The above reduction may be carried out with carbon. In this case, the reducing agent carbon may be oxidised to either CO or CO<sub>2</sub>.
 
-C + O<sub>2</sub> &rarr; CO<sub>2</sub> (g) ------ (2)
+{{< katex display >}}
+{C + O_2 \xrightarrow{}   CO_2(g)} ------ (2)
+{{< /katex >}}
 
-2C + O<sub>2</sub> &rarr; 2CO (g) ------ (3)
+{{< katex display >}}
+{2C + O_2 \xrightarrow{}   2CO(g)} ------ (3)
+{{< /katex >}}
 
-If carbon monoxide is used as a reducing agent, it is oxidised to CO2 as follows,
 
-2CO + O<sub>2</sub> &rarr; 2CO2 (g) ------ (4)
+If carbon monoxide is used as a reducing agent, it is oxidised to CO<sub>2</sub> as follows,
+{{< katex display >}}
+{2CO + O_2 \xrightarrow{}   2CO_2(g)} ------ (4)
+{{< /katex >}}
 
 A suitable reducing agent is selected based on the thermodynamic considerations. We know that for a spontaneous reaction, the change in free energy (ΔG) should be negative. Therefore, thermodynamically, the reduction of metal oxide \[equation (1)\] with a given reducing agent \[Equation (2), (3) or (4)\] can occur if the free energy change for the coupled reaction. \[Equations (1) & (2), (1) & (3) or (1) & (4)\] is negative. Hence, the reducing agent is selected in such a way that it provides a large negative ΔG value for the coupled reaction.
 
@@ -60,17 +68,25 @@ Ellingham diagram helps us to select a suitable reducing agent and appropriate t
 
 From the Ellingham Diagram at 1500 K, 
 
-2Fe (s) + O<sub>2</sub> &rarr; (g) 2FeO (g) ΔG<sub>1</sub> = -350 kJ mol<sup>-1</sup> ------ (1)
+{{< katex display >}}
+{2Fe  (s)+ O_2  (g) \xrightarrow{} {2FeO(g)} ΔG_1 = -350kJ mol^{-1} } ------ (1)
+{{< /katex >}}
 
-2C (s) + O<sub>2</sub> (g) &rarr; 2CO (g) ΔG<sub>2</sub> = -480 kJ mol<sup>-1</sup>------ (2)
+{{< katex display >}}
+{2C (s) + O_2  (g) \xrightarrow{}   {2CO(g)}  ΔG_2 = -480kJ mol^{-1} } ------ (2)
+{{< /katex >}}
 
 Reverse the reaction (1) 
+{{< katex display >}}
+{2FeO (s)  \xrightarrow{}   {2Fe(s) + O_2 (g)}  -ΔG_1 = +350kJ mol^{-1} } ------ (3)
+{{< /katex >}}
 
-2FeO (s) &rarr; 2Fe (s)+ O<sub>2</sub> (g) – ΔG<sub>1</sub> = +350 kJ mol<sup>-1</sup> ------ (3)
 
 Now couple the reactions (2) and (3)
+{{< katex display >}}
+{2FeO (s)  + 2C  \xrightarrow{}   {2Fe(l,s) + 2CO (g)}  ΔG_3 = -130kJ mol^{-1} } ------ (4)
+{{< /katex >}}
 
-2FeO (s) + 2C &rarr; 2Fe (l,s)+ 2CO (g) ΔG<sub>3</sub> = -130 kJ mol<sup>-1</sup> ------ (4)
 
 The standard free energy change for the reduction of one mole of FeO is, ΔG<sub>3</sub>/2 = -65 kJ mol<sup>-1</sup>
 

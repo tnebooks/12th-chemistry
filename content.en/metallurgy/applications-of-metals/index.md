@@ -385,19 +385,18 @@ d) Positive slope of metal oxides shows that their stabilities decrease with inc
 16\. Write a short note on electrochemical principles of metallurgy.
 
 ![Flow chart](../metallergy.png)
-{{< mermaid >}}
-graph TD;
-Metallurgy-->
-Minerals-->Ores 
-
-
-{{< /mermaid >}}
-
 
 {{<mermaid align="left">}}
-graph LR;
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
+graph TB;
+    A[Metallurgy] -->B[Minerals]
+    B --> C[Concentration of Ores]
+    C --> D[Gravity seperation]
+    C --> E[Froth Flotation]
+    C --> F[Magnetic Seperation]
+    C --> G[ Leaching ]
+    C --> M[Extraction ofcrude metal]
+    G --> H[Cyanide]
+     G --> I[Acid]
+      G --> J[Alkali]
+
 {{< /mermaid >}}
