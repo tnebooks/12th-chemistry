@@ -2,13 +2,11 @@
 title: 'Nucleic acids'
 weight: 5
 ---
-## Nucleic acids
- The inherent characteristics of each and every species are transmitted from one
 
+The inherent characteristics of each and every species are transmitted from one
 generation to the next. It has been observed that the particles in nucleus of the cell are responsible for the transmission of these characteristics. They are called chromosomes and are made up of proteins and another type of biomolecules called nucleic acids. There are mainly two types nucleic acids, the deoxyribonucleic acid (DNA) and ribonucleic acid (RNA). They are the molecular repositories that carry genetic information in every organism.
 
-### Composition and structure of nucleic acids
-
+**14.5.1 Composition and structure of nucleic acids**
 
 Nucleic acids are biopolymers of nucleotides. Controlled hydrolysis of DNA and RNA yields three components namely a nitrogenous base, a pentose sugar and phosphate group.
 
@@ -38,7 +36,7 @@ Nucleoside + Phosphate ---> Nucleotide
 
 nNucleotide ---> Polynucleotide(Nucleic Acid) 
 
-### Double strand helix structure of DNA
+**14.5.2 Double strand helix structure of DNA**
 
 
 In early 1950s, Rosalind Franklin and Maurice Wilkins used X-ray diff raction to unravel the structure of DNA. Th e DNA fi bers produced a characteristic diff raction pattern.
@@ -63,7 +61,7 @@ b) Base-stacking interactions
 
 The complementary between the DNA strands is attributable to the hydrogen bonding between base pairs but the base stacking interactions are largely non-specific, make the major contribution to the stability of the double helix. 
 
-### Types of RNA molecules
+**14.5.3 Types of RNA molecules**
 
 Ribonucleic acids are similar to DNA. Cells contain up to eight times high quantity of RNA than DNA. RNA is found in large amount in the cytoplasm and a lesser amount in the nucleus. In the cytoplasm it is mainly found in ribosomes and in the nucleus, it is found in nucleolus.
 
@@ -102,7 +100,7 @@ In this method, the extracted DNA is cut at specific points along the strand wit
 
 ![Figure 14.22 DNA finger printing](dna-finger-printing.png)
 
-### Biological functions of nucleic acids
+**14.5.4 Biological functions of nucleic acids**
 
 In addition to their roles as the subunits of nucleic acids, nucleotides have a variety of other functions in every cell such as,
 
