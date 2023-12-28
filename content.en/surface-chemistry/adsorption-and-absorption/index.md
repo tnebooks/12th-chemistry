@@ -135,7 +135,7 @@ This equation quantitively predicts the effect of pressure(or concentration) on 
 
 Taking log on both sides of equation x/m = kp<sup>1/2</sup>
 
-log x/m = logK +1/n log p
+log <sup>x</sup>&frasl;<sub>m</sub> = logK +<sup>1</sup>&frasl;<sub>n</sub> log p
 
 ![Alt text](graph2.png)
 
@@ -197,7 +197,9 @@ In this process, Fe is the catalyst and Mo is a promoter. The surface of the Fe 
 
 In the hydrogenation of oils to obtain vanaspathi, Nickel is used as a catalyst. Nickel surface catalyses the reaction.
 
-$\ce{vegetable oil + H<sub>2</sub> ->[{Ni catalyst}][{473K}] vanapathi}$
+\[ \ce{2Fe^3+ + 2I^- <=>[2H2O] Fe2O3 \cdot 2H2O + I2} \]
+
+\chemfig{A\*5(-B=C-D-E=)}
 
 9\. **Qualitative analysis**
 
