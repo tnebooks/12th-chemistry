@@ -9,109 +9,45 @@ weight: 2
 
 The decomposition of hydrogen peroxide in the presence of catalyst (MnO2) or by oxidation with potassium permanganate.
 
-2H O 2H O + O
+2H<sub>2</sub>O<sub>2</sub> ⇌ 2H<sub>2</sub>O + O<sub>2</sub>
 
-5H O + 2MnO + 6H 5O +
+5H<sub>2</sub>O<sub>2</sub> + 2MnO<sub>4</sub><sup>-</sup> + 6H<sup>+</sup> → 5O<sub>2</sub>+8H<sub>2</sub>O+2Mn<sup>2+</sup>
+ 
 
-2 2
-
-2 2
-
-2 2 4
-
-+
-
-2
-
- ⇀↽  −  → 8H O + 2Mn
-
-2
-
-2+
 
 The thermal decomposition of certain metallic oxides or oxoanions gives oxygen.
 
-2HgO 2Hg + O
+2HgO → 2Hg + O<sub>2</sub>
 
-2BaO 2BaO + O
+2BaO → 2BaO + O<sub>2</sub>
 
-2
 
-2
 
-2
+2KClO<sub>3</sub> →  2KCl + 3O<sub>2</sub>
 
-∆
+2KNO<sub>3</sub> → 2KNO<sub>2</sub> + O<sub>2</sub>
 
-∆
 
- →
-
- →
-
-2KClO 2KCl + 3O
-
-2KNO 2KNO + O
-
-3 MnO 2
-
-3 2 2
-
-2
-
-∆
-
-∆
-
- →
-
- →
 
 **Properties**
 
 Under ordinary condition oxygen exists as a diatomic gas. Oxygen is paramagnetic. Like nitrogen and fluorine, oxygen form strong hydrogen bonds. Oxygen exists in two allotropic forms namely dioxygen (O2) and ozone or trioxygen (O3). Although negligible amounts of ozone occurs at sea level it is formed in the upper atmosphere by the action of ultraviolet light. In the laboratory ozone is prepared by passing electrical discharge through oxygen. At a potential of 20,000 V about 10% of oxygen is converted into ozone it gives a mixture known as ozonised oxygen. Pure ozone is obtained as a pale blue gas by the fractional distillation of liquefied ozonised oxygen.
 
-O 2(O)
 
-O O O
+O<sub>2</sub> ⇌ 2(O)
 
-2
+O<sub>2</sub>+ (O) ⇌ O<sub>3</sub>
 
-Oxygen
 
-atomic oxygen
 
-2
-
-3
-
-O
-
- ⇀↽ 
-
- ⇀↽ + ( ) zone
 
 The ozone molecule has a bent shape and symmetrical with delocalised bonding between the oxygen atoms.
 
+
+![Alt text](structure-of-ozone.png)
+
 **Figure 3.8 Structure of ozone**
 
-XII U3-P-block.indd 74 2/19/2020 4:40:51 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Atomic radius (Å) |1.52 |1.80 |1.90 |2.06 |1.97 |
-|------|------|------|------|------|------|
-| Density (g .cm at293 K)-3 |1.3 x 10-3 |2.07 |4.81 |6.23 |9.20 |
-| Melting point (K) |54 |388 |494 |723 |527 |
-| B oiling point (K) |90 |718 |958 |1261 |1235 |
-  
-
-75
 
 **Chemical properties:**
 
@@ -119,11 +55,9 @@ The chemical properties of oxygen and ozone differ vastly. Oxygen combines with 
 
 On the other hand ozone is a powerful oxidising agent and it reacts with many substances under conditions where oxygen will not react. For example, it oxidises potassium iodide to iodine. This reaction is quantitative and can be used for estimation of ozone.
 
-O + 2KI + H O 2KOH + O I 3 2
+O<sub>3</sub> + 2KI + H<sub>2</sub>O → 2KOH + O<sub>2</sub> +I<sub>2</sub>
 
-2  → +
 
-2
 
 Ozone is commonly used for oxidation of organic compounds. In acidic solution ozone exceeds the oxidising power of fluorine and atomic oxygen. The rate of decomposition of ozone drops sharply in alkaline solution.
 
@@ -146,16 +80,11 @@ When molten sulphur is poured into cold water a yellow rubbery ribbon of plastic
 
 Sulphur also exists in liquid and gaseous states. At around 140 ⁰C the monoclinic sulphur melts to form mobile pale yellow liquid called λ sulphur. The vapour over the liquid sulphur consists of 90 % of S8, S7 & S6 and small amount of mixture of S2, S3, S4, S5 molecules.
 
-XII U3-P-block.indd 75 2/19/2020 4:40:52 PM
-
-www.tntextbooks.in
 
 
 
 
-  
 
-76
 
 ### Sulphur dioxide
 
@@ -164,47 +93,25 @@ www.tntextbooks.in
 
 **From sulphur:** A large-scale production of sulphur dioxide is done by burning sulphur in air. About 6-8% of sulphur is oxidised to SO3.
 
-S + O SO
+S + O<sub>2</sub> →  SO<sub>2</sub>
 
-2S + 3O 2SO
+2S + 3O<sub>2</sub> →  2SO<sub>3</sub>
 
-2
-
-2
-
-2
-
-3
-
- →
-
- →
 
 **From sulphides:** When sulphide ores such as galena (PbS), zinc blende (ZnS) are roasted in air, sulphur dioxide is liberated. Large amounts of sulphur dioxide required for manufacturing of sulphuric acid and other industrial purpose is prepared by this method.
 
-2ZnS + 3O 2ZnO + 2SO
+2ZnS + 3O<sub>2</sub>+ Δ →  2ZnO + 2SO<sub>2</sub> 
 
-4FeS + 11O 2Fe O + 8SO
+4FeS<sub>2</sub> + 11O<sub>2</sub> + Δ → 2Fe<sub>2</sub> O<sub>3</sub> + 8SO<sub>2</sub> 
 
-2 2
 
-2 2 2 3 2
-
-∆
-
-∆
-
- →
-
- →
 
 **Laboratory preparation:** Sulphur dioxide is prepared in the laboratory treating a metal or metal sulphite with sulphuric acid
 
-Cu + 2H SO CuSO + SO + 2H O 2 4
+Cu + 2H<sub>2</sub> SO<sub>4</sub> → CuSO<sub>4</sub>  + SO<sub>2</sub>  + 2H<sub>2</sub> O
 
-4 2 2  →
 
-SO3 2- + 2H+ H2O + SO2
+SO<sub>3</sub><sup>2- </sup> + 2H <sup>+ </sup> → H<sub>2</sub>O + SO<sub>2</sub>
 
 **Properties:**
 
@@ -214,136 +121,57 @@ Sulphur dioxide gas is found in volcanic eruptions. A large amount of sulphur di
 
 Sulphur dioxide is an acidic oxide. It dissolves in water to give sulphurous acid.
 
-SO + H O H SO
+SO<sub>2</sub> + H<sub>2</sub> O ⇆  H<sub>2</sub>SO<sub>3</sub>
 
-H SO
+H<sub>2</sub>SO<sub>3</sub> ⇆ 2H<sup>+</sup>+SO<sub>3</sub><sup>2-</sup>
 
-2 2
 
-2 3
-
-Sulphurous acid
-
-2 3
-
- ⇀↽ 
-
- ⇀↽  2H + SO +
-
-3
-
-2−
 
 **Reaction with sodium hydroxide and sodium carbonate:** Sulphur dioxide reacts with sodium hydroxide and sodium carbonate to form sodium bisulphite and sodium sulphite respectively.
 
-SO + NaOH NaHSO
+SO<sub>2</sub> +NaOH → NaHSO<sub>3</sub>
 
-2SO + Na CO H O
 
-2
 
-3
+2SO<sub>2</sub>  + Na<sub>2</sub>CO<sub>3</sub>+H<sub>2</sub>O → 2NaHSO<sub>3</sub> +CO<sub>2</sub>
 
-Sodium bisulphite
 
-2 2 3 2
-
- →
-
-\+  →
-
- →
-
-2NaHSO + CO
-
-2 NaHSO Na SO + H O
-
-3 2
-
-3
-
-2 3
-
-Sodium sulphite
-
-2 + SO
-
-2
 
 **Oxidising property:** Sulphur dioxide, oxidises hydrogen sulphide to sulphur and magnesium to magnesium oxide.
 
-2H S + SO 3S + 2H O
+2H<sub>2</sub>S + SO<sub>2</sub> →  3S + 2H<sub>2</sub>O
 
-2Mg + SO 2MgO + S
-
-2 2
-
-2
-
-2
-
- →
-
- →
-
-XII U3-P-block.indd 76 2/19/2020 4:40:57 PM
-
-www.tntextbooks.in
+2Mg + SO<sub>2</sub> →  2MgO + S
 
 
-
-
-  
-
-77
 
 **Reducing property:** As it can readily be oxidised, it acts as a reducing agent. It reduces chlorine into hydrochloric acid.
 
-SO + 2H O + Cl H SO + 2HCl 2 2 2
+SO<sub>2</sub>+ 2H<sub>2</sub>O + Cl<sub>2</sub> → H<sub>2</sub>SO<sub>4</sub> + 2HCl 
 
-2 4  →
 
 It also reduces potassium permanganate and dichromate to Mn2+ and Cr3+ respectively.
 
-2KMnO + 5SO + 2H O
+2KMnO<sub>4</sub>+ 5SO<sub>2</sub> + 2H<sub>2</sub>O →  K<sub>2</sub>SO<sub>4</sub> + 2MnSO<sub>4</sub>+ 2H<sub>2</sub>SO<sub>4</sub>
 
-4 2 2
 
- → K SO + 2MnSO + 2H SO
 
-2 4 4 2 4
 
-K Cr O + 3SO + H SO
 
-2 2 7 2 2 4
+K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + 3SO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub>  →  K<sub>2</sub>SO<sub>4</sub> + Cr<sub>2</sub> (SO<sub>4</sub>)<sub>3</sub> + H<sub>2</sub>O
 
- → K SO + Cr (SO ) + H O
-
-2 4 2 4 3 2
 
 **Reaction with oxygen:** Sulphur dioxide is oxidised to sulphur trioxide upon heating with oxygen at high temperature. This reaction is used for the manufacture of sulphuric acid by contact process.
 
-2SO (g) + O (g) 2SO (g)2 2 V O 450 C 3
-
-2 5 0 →
+2SO<sub>2</sub>(g) + O<sub>2</sub>(g) →  2SO<sub>3</sub>
 
 **Bleaching action of sulphur dioxide:** In presence of water, sulphur dioxide bleaches coloured wool, silk, sponges and straw into colourless due to its reducing property.
 
-SO + 2H O H SO + 2(H)
+SO<sub>2</sub>+ 2H<sub>2</sub>O  →  H<sub>2</sub>SO<sub>4</sub> + 2
 
-X + 2(H) XH 2 2
+X + 2(H) →  XH<sub>2</sub>
 
-2 4
 
-Coloured
-
-2
-
-Col
-
- →
-
- → ourless
 
 However, the bleached product (colourless) is allowed to stand in air, it is reoxidised by atmospheric oxygen to its original colour. Hence bleaching action of sulphur dioxide is temporary.
 
@@ -356,6 +184,9 @@ However, the bleached product (colourless) is allowed to stand in air, it is reo
 **Structure of sulphur dioxide:**
 
 In sulphur dioxide, sulphur atom undergoes sp2 hybridisation. A double bond arises between S and O is due to pπ- dπ overlapping.
+
+![Alt text](structure-of-sulphur-dioxide.png)
+**Figure 3.9 Structure of sulphur dioxide.**
 
 ### Sulphuric acid: (H2SO4)
 
@@ -370,48 +201,21 @@ The contact process involves the following steps.
 
 i. Initially sulphur dioxide is produced by burning sulphur or iron pyrites in oxygen/air.
 
-**Figure 3.9 Structure of sulphur dioxide.**
+ 
 
-XII U3-P-block.indd 77 2/19/2020 4:41:01 PM
+S + O<sub>2</sub> → SO<sub>2</sub>
 
-www.tntextbooks.in
-
-
+4FeS<sub>2</sub> + 11O<sub>2</sub>  → 2Fe<sub>2</sub>O<sub>3</sub> + 8SO<sub>2</sub>
 
 
-  
-
-78
-
-S + O SO
-
-4FeS + 11O 2Fe O + 8SO
-
-2
-
-2
-
-2 2
-
-2 3 2
-
- →
-
- →
 
 ii. Sulphur dioxide formed is oxidised to sulphur trioxide by air in the presence of a catalyst such as V2O5 or platinised asbestos.
 
 iii. The sulphur trioxide is absorbed in concentrated sulphuric acid and produces oleum (H2S2O7). The oleum is converted into sulphuric acid by diluting it with water.
 
-SO + H SO H S O 2H SO 3 2 4
+ SO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub>  → H<sub>2</sub>S<sub>2</sub>O<sub>7</sub> +H<sub>2</sub>O → 2H<sub>2</sub>SO<sub>4</sub> 
 
-2 2 7
 
-H O
-
-2 4
-
-2 →  →
 
 To maximise the yield the plant is operated at 2 bar pressure and 720 K. The sulphuric acid obtained in this process is over 96 % pure.
 
@@ -423,154 +227,68 @@ The acid freezes at 283.4 K and boils at 590 K. It is highly soluble in water an
 
 The dehydrating property can also be illustrated by its reaction with organic compounds such as sugar, oxalic acid and formic acid.
 
-C H O + H SO 12C + H SO .11H O
+C<sub>12</sub>H<sub>22</sub>O<sub>11</sub> + H<sub>2</sub>SO<sub>4</sub>  → 12C + H<sub>2</sub>SO<sub>4</sub> .11H<sub>2</sub>O
 
-HCOOH
+HCOOH +H<sub>2</sub>SO<sub>4</sub>  → CO+H<sub>2</sub>SO<sub>4</sub>.H<sub>2</sub>O
 
-12 22 11
 
-Sucrose
 
-2 4
 
-2 4 2
 
-Formic
+(COOH)<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> → CO+CO<sub>2</sub>+H<sub>2</sub>SO<sub>4</sub>.H<sub>2</sub>O
 
- →
-
-acid 2 4
-
-2 4 2
-
-2
-
-Oxalic acid
-
-2 4
-
-\+ H SO CO + H SO .H O
-
-(COOH) + H SO
-
- →
-
- → CO + CO + H SO .H O 2 2 4 2
 
 **Chemical Properties:** Sulphuric acid is highly reactive. It can act as strong acid and an oxidising agent.
 
 **Decomposition:** Sulphuric acid is stable, however, it decomposes at high temperatures to sulphur trioxide.
 
-H SO H O + SO 2 4
+H<sub>2</sub>SO<sub>4</sub> → H<sub>2</sub>O + SO<sub>3</sub>
 
-2 3  →
+
 
 **Acidic nature:** It is a strong dibasic acid. Hence it forms two types of salts namely sulphates and bisulphates.
 
-H SO + NaOH NaHSO + H O
+H<sub>2</sub>SO<sub>4</sub> + NaOH →  NaHSO<sub>4</sub> + H<sub>2</sub>O
 
-H SO + 2Na
+H<sub>2</sub>SO<sub>4</sub> + 2NaOH →  Na<sub>2</sub>SO<sub>4</sub> + 2H<sub>2</sub>O
 
-2 4
 
-4
+H<sub>2</sub>SO<sub>4</sub> +2NH<sub>3</sub> → (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>
 
-sodium bisulphate
 
-2
-
-2 4
-
- →
-
-OH Na SO + 2H O
-
-H SO + 2NH (NH )
-
-2 4
-
-sodium sulphate
-
-2
-
-2 4 3
-
-4
-
- →
-
- → 2 4
-
-Ammonium sulphate
-
-SO
 
 **Oxidising property:** Sulphuric acid is an oxidising agent as it produces nascent oxygen as shown below.
-
-XII U3-P-block.indd 78 2/19/2020 4:41:06 PM
-
-www.tntextbooks.in
 
 
 
 
   
 
-79
 
-H SO H O + SO + (O) 2 4
 
-2 2
-
-nascent oxygen
-
- →
+H<sub>2</sub>SO<sub>4</sub> →  H<sub>2</sub>O + SO<sub>2</sub>+ (O) 
+ 
 
 Sulphuric acid oxidises elements such as carbon, sulphur and phosphorus. It also oxidises bromide and iodide to bromine and iodine respectively.
 
-C + 2H SO 2SO + 2H O + CO
+C + 2H<sub>2</sub>SO<sub>4</sub>  → 2SO<sub>2</sub> + 2H<sub>2</sub>O + CO<sub>2</sub>
 
-S + 2H SO 3SO + 2H
+S + 2H<sub>2</sub>SO<sub>4</sub>  → 3SO<sub>2</sub> + 2H<sub>2</sub>O
 
-2 4
 
-2 2 2
 
-2 4
+P<sub>4</sub> + 10H<sub>2</sub>SO<sub>4</sub> →  4H<sub>3</sub>PO<sub>4</sub> + 10SO<sub>2</sub> + 4H<sub>2</sub>O
 
-2 2
+H<sub>2</sub>S + H<sub>2</sub>SO<sub>4</sub> → SO<sub>2</sub>+2H<sub>2</sub>O+S
 
- →
 
- → O
+ H<sub>2</sub>SO<sub>4</sub>+2HI → SO<sub>2</sub>+2H<sub>2</sub>O+I<sub>2</sub>
 
-P + 10H SO 4H PO + 10SO + 4H O
 
-H S + H SO S
+H<sub>2</sub>SO<sub>4</sub>+2HBR → SO<sub>2</sub>+2H<sub>2</sub>O+Br<sub>2</sub>
 
-4 2 4
 
-3 4 2 2
 
-2 2 4
-
- →
-
- → O + 2H O + S 2 2
-
-H SO + 2HI SO + 2H O + I
-
-H SO + 2HBr SO + 2H 2 4
-
-2 2 2
-
-2 4
-
-2
-
- →
-
- → 2 2O + Br
 
 **Reaction with metals: Sulphuric acid reacts with metals and gives different product depending** on the reactants and reacting condition.
 

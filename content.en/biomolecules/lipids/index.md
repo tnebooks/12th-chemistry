@@ -3,23 +3,9 @@ title: 'Lipids'
 weight: 3
 ---
 ## Lipids:
- Lipids are organic molecules that are soluble in organic solvents such as chloroform and
-
-methanol and insoluble in water. Th e word lipid is derived from the Greek work ‘lipos’ meaning fat. Th ey are the principal components of cell membranes. In addition, they also act as energy source for living systems. Fat provide 2-3 fold higher energy compared to carbohydrates / proteins.
-
-XII U14-Biomolecules\_New.indd 257 2/19/2020 5:16:36 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-258
+ Lipids are organic molecules that are soluble in organic solvents such as chloroform and methanol and insoluble in water. Th e word lipid is derived from the Greek work ‘lipos’ meaning fat. Th ey are the principal components of cell membranes. In addition, they also act as energy source for living systems. Fat provide 2-3 fold higher energy compared to carbohydrates / proteins.
 
 ### Classification of lipids:
-
 
 Based on their structures lipids can be classified as simple lipids, compound lipids and derived lipids. Simple lipids can be further classified into fats, which are esters of long chain fatty acids with glycerol (triglycerides) and waxes which are the esters of fatty acids with long chain monohydric alcohols (Bees wax).
 

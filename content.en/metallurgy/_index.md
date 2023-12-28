@@ -2,44 +2,9 @@
 title: 'Metallurgy'
 weight: 1
 ---
+![Harold Johann Thomas Ellingham (1897–1975)](johann.png)
 
-
-**Learning Objectives** Aft er studying this unit, students will be able to
-
- describe various methods of concentrating ores
-
- explain various methods of extraction of crude metals
-
- apply thermodynamic principles to metallurgical processes
-
- predict the favourable conditions for the reduction process using Ellingham diagram
-
- describe the electrochemical principles of metallurgy
-
- apply the electrochemical principles in the extraction of metals
-
- explain the electrode reactions in electrolytic refi ning.
-
- list the uses of Al, Zn, Fe, Cu and Au
-
-**METALLURGYUNIT**
-
-**1**
-
-**Harold Johann Th omas Ellingham (1897–1975)**
-
-Ellingham was a British physical chemist, best known for his Ellingham diagrams. Ellingham diagram summarizes a large amount of information about extractive metallurgy, and are useful in predicting the favourable thermodynamic conditions under which an ore will be reduced to its metal. Ellingham was able to compare the temperature stability of many diff erent oxides. Th e phenomenon of reduction of metal oxides into free metal by carbon or carbon monoxide was known before Ellingham's time, but Ellingham demonstrated it in a scientifi c manner.
-
-XII U1 Metallurgy - Jerald.indd 1 2/19/2020 4:37:56 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-2
+Ellingham was a British physical chemist, best known for his Ellingham diagrams. Ellingham diagram summarizes a large amount of information about extractive metallurgy, and are useful in predicting the favourable thermodynamic conditions under which an ore will be reduced to its metal. Ellingham was able to compare the temperature stability of many diff erent oxides. Th e phenomenon of reduction of metal oxides into free metal by carbon or carbon monoxide was known before Ellingham's time, but Ellingham demonstrated it in a scientific manner.
 
 **INTRODUCTION**
 

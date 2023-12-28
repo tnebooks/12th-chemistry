@@ -21,7 +21,7 @@ In a homogeneous catalysed reaction, the reactants, products and catalyst are pr
 
 **Illustration (1):**
 
-<!-- 2 2 32SO +O +\[NO\] 2SO +\[NO\] (g) (g) (g) (g) (g) -->
+2SO<sub>2(g)</sub>+O<sub>2(g)</sub>+[NO]<sub>(g)</sub> → 2SO<sub>3(g)</sub>+[NO]<sub>(g)</sub>
 
 In this reaction the catalyst NO, reactants, SO<sub>2</sub> and O<sub>2</sub> , and product, SO<sub>3</sub> are present in the gaseous form.
 
@@ -29,7 +29,7 @@ In this reaction the catalyst NO, reactants, SO<sub>2</sub> and O<sub>2</sub> , 
 
 In the decomposition of acetaldehyde by I<sub>2</sub> catalyst, the reactants and products are all present in the vapour phase.
 
-<!-- CH CHO +\[I \] CH +CO +\[I \]3 2 4 2( ) ( ) ( ) ( ) ( )*g g g g g*→ -->
+CH<sub>3</sub>CHO<sub>(g)</sub>+\[I<sub>2</sub>\]<sub>(g)</sub> → CH<sub>4(g)</sub>+CO<sub>(g)</sub>+\[I<sub>2</sub>\]<sub>(g)</sub>
 
 Let us consider some examples in which the reactants, products and catalyst are present in aqueous solution.
 
