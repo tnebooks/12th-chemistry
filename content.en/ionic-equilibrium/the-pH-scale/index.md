@@ -3,6 +3,12 @@ title: 'The pH scale'
 weight: 4
 ---
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ## The pH scale
  We usually deal with acid / base solution in the concentration range 10-1 to 10 M-7 . To
 
@@ -93,7 +99,11 @@ www.tntextbooks.in
   
 
 10
+<<<<<<< HEAD
 ![The pH scale](<..\figure 8.4.jpg>)
+=======
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 **Figure 8.1 The pH scale**
 
 pH + pOH = log \[H3O+\] log \[OH-\]

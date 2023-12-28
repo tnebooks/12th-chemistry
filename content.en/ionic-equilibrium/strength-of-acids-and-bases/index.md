@@ -2,6 +2,13 @@
 title: 'Strength of Acids and Bases'
 weight: 2
 ---
+<<<<<<< HEAD
+=======
+
+
+
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ## Strength of Acids and Bases
  The strength of acids and bases can be determined by the concentration of H O (or) OH3
 
@@ -80,7 +87,11 @@ XII U8-Ionic equilibrium.indd 6 2/19/2020 5:11:32 PM
 www.tntextbooks.in
 
 
+<<<<<<< HEAD
 ![alt text](<..\figure 8.2.jpg>)
+=======
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 
   
 

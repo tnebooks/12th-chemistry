@@ -1,8 +1,17 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ---
 title: 'Ionisation of weak acids'
 weight: 5
 ---
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 58f900497970340ec04b1850261d8949328dd63f
 ## Ionisation of weak acids
  We have already learnt that weak acids are partially dissociated in water and there is an
 
