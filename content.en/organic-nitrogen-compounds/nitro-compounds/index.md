@@ -4,70 +4,13 @@ weight: 1
 ---
 
 ## NITRO COMPOUNDS
- Nitro compounds are considered as the derivaties of hydrocarbons. If one of the hydrogen atom of hydrocarbon is replaced by the -NO 2 group, the resultant organic compound is called a nitrocompound.
+ Nitro compounds are considered as the derivaties of hydrocarbons. If one of the hydrogen atom of hydrocarbon is replaced by the -NO<sub>2</sub> group, the resultant organic compound is called a nitrocompound.
 
 ### Classification of nitrocompounds
 
 ![](1.png)
-Nitro compounds (Organic compounds containing -NO2 group)
 
-Aliphatic nitro compounds Aromatic nitro compounds
-
-Nitroalkanes CH3CH2 NO2 Nitroethane
-
-Alkylnitrites CH3CH2 O N = O ethylnitrite
-
-Nitro arenes Aryl nitroalkanes C6H5 CH2 NO2N+
-
-O
-
-\-O
-
-nitrobenzene phenylnitromethane
-
-Primary (1 ) nitroalkane Example:
-
-Nitroethane
-
-
-
-CH3
-
-H
-
-H
-
-NO2C
-
-Secondary (2 ) nitroalknane Example:
-
-2-nitropropane
-
-CH3
-
-H
-
-CH3
-
-NO2C
-
-Tertiary (3 ) nitroalknane Example:
-
-2-methyl-2-nitropropane
-
-
-
-CH3
-
-CH3
-
-CH3
-
-NO2C
-
-
-
-Nitroalkanes are represented by the formula, R-NO2 where R is an alkyl group (C H -)n 2n+1 . Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis of type of carbon atom to which the nitro (-NO )2 group is attached.
+Nitroalkanes are represented by the formula, R-NO<sub>2</sub>  where R is an alkyl group (CH-)n 2n+1 . Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis of type of carbon atom to which the nitro (-NO )2 group is attached.
 
 ### Nomenclature of nitroalkanes
 
@@ -90,16 +33,14 @@ In the IUPAC nomenclature, the nitroalkanes are named by adding prefix nitro bef
 | CH CH NO12 – phenyl – 1- ni2 2 tr 2oethan 2e |2 – phenyl – 1- nitro |eth |ane |
   
 
-199
-
 ### ISOMERISM
- Nitroalkanes exhibit chain and position isomerism among their own class and functional isomerism with alkyl nitrites and special type tautomerism can also exist in nitro alkanes having an α-H atom. For example, nitro compounds having the molecular formula C H NO 4 9 2 exhibit the following isomerisms. **Isomerism Structural formula of isomers Chain isomerism**: They differ in the length of carbon chain.
+ Nitroalkanes exhibit chain and position isomerism among their own class and functional isomerism with alkyl nitrites and special type tautomerism can also exist in nitro alkanes having an α-H atom. For example, nitro compounds having the molecular formula C<sub>4</sub>H<sub>9</sub>NO<sub>2</sub> exhibit the following isomerisms. **Isomerism Structural formula of isomers Chain isomerism**: They differ in the length of carbon chain.
 
 
 
 | Isomerism |Structural formula of  isomers |
 |------|------|
-| Chain isomerism: ey dier in the length of carbon chain. |CH3CH2CH2CH2 NO2 1 - nitrobutane and CH3CHCH2 NO2 CH3 2 - methyl - 1-nitropropane |
+| Chain isomerism: They differ in the length of carbon chain. |CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>2</sub>NO<sub>2</sub>1 - nitrobutane and CH3CHCH2 NO2 CH3 2 - methyl - 1-nitropropane |
 | Positionisomerism: ey dier in the position of nitro group. |CH3CH2CH2CH2 NO2,1 - nitrobutane CH3CHCH2CH3 NO2 and CH3 C CH3 CH3 NO2 2 - nitrobutane 2 - methyl - 2-nitropropane|
 | Functional isomerism:Nitroalkanesexhibit functional isomerism with alkylnitrites |CH3CH2CH2CH2 NO2 1 - nitrobutane and CH3CH2CH2CH2 O N = O butyl nitrite |
 
@@ -116,11 +57,10 @@ Tertiary nitro alkanes donot exhibit tautomerism due to absence of α-H atom.
 |------|------|------|
 | 1. |Less acidic |More acidic |
 | 2. |Dissolves in NaOH slowly |Dissolves in NaOH instantly |
-| 3. |Decolourises FeCl solution3 |With gives reddish brown colourFeCl3 |
+| 3. |Decolourises FeCl solution3 |With gives reddish brown colourFeCl<sub>3</sub> |
 | 4. |Electrical conductivity is low |Electrical conductivity is high |
   
 
-200
 
 ### Acidic nature of nitro alkanes
 
@@ -446,17 +386,3 @@ Nitrobenzene does not undergo Friedel – Crafts reactions due to the strong dea
 
 **Evaluate yourself** Predict the major product that would be obtained on nitration of the following compounds
 ![](14.png)
-i) CH3
-COOH
-Con.HNO3Con H2SO4 ?
-O2N
-CH3
-NO2
-NO2
-iii)
-ii) CH3
-NO2 ?
-i) Na2Cr2O7
-ii) Sodalime ?
-\+ Con.HNO3Con H2SO4+
-acid
