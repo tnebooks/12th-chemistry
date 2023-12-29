@@ -2,70 +2,71 @@
 title: 'Important compound of Transition elements'
 weight: 4
 ---
+
 ## important compound of Transition elements
 **Oxides and Oxoanions of Metals**
 
 
 Generally, transition metal oxides are formed by the reaction of transition metals with molecular oxygen at high temperatures. Except the first member of 3d series, Scandium, all other transition elements form ionic metal oxides. The oxidation number of metal in metal oxides ranges from +2 to +7. As the oxidation number of a metal increases, ionic character decreases, for example, Mn2O7 is covalent. Mostly higher oxides are acidic in nature, Mn2O7 dissolves in water to give permanganic acid (HMnO4 ) , similarly CrO3 gives chromic acid (H2CrO4) and dichromic acid (H2Cr2O7). Generally lower oxides may be amphoteric or basic, for example, Chromium (III) oxide - Cr2O3, is amphoteric and Chromium(II) oxide, CrO, is basic in nature.
 
-**Potassium dichromate K2Cr2O7**
+**Potassium dichromate {{< katex >}}\text{K}_2\text{Cr}_2\text{O}_7{{< /katex >}}:**
 
  **Preparation:** 
 
  Potassium dichromate is prepared from chromate ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
 
-4 FeCr O + 8 Na CO + 7 O 8 Na CrO 2 4 2 3 2 2 4 900 - 10000C → + 2 Fe O + 8 CO2 3 2 ↑
+{{< katex display >}}
+4 \text{FeCr}_2\text(O)_4 + 8 \text{Na}_2\text{CO}_3 +7 \text{O}_2
+\xrightarrow[900-1000AC]{}8 \text{Na}_2\text{CrO}_4 + 2 \text{Fe}_2
+\text{O}_3 +8 \text{CO}_2 \uparrow
+{{< /katex >}}
 
 The roasted mass is treated with water to separate soluble sodium chromate from insoluble iron oxide. The yellow solution of sodium chromate is treated with concentrated sulphuric acid which converts sodium chromate into sodium dichromate.
 
-2 Na CrO + H SO Na Cr O2 4 sodium chromate (yellow)
 
-2 4
 
-2 2 7 sodiu
+{{< katex display >}}
+    \underset{\text{sodium chromate (yellow)}}{ 2 \text{Na}_2\text{CrO}_4} + \text{H}_2\text{SO}_4 \rightarrow 
+    \underset{\text{sodium dichromate (orange red)}}{\text{Na}_2\text{Cr}_2\text{O}_7}
+    + 2 \text{Na}_2\text{SO}_4 + \text(H)_2\text{O}
+  
+{{< /katex >}}
 
-→ m dichromate
 
-(orange red)
 
-2 4 2 + Na SO + H O
 
 The above solution is concentrated to remove less soluble sodium sulphate. The resulting solution is filtered and further concentrated. It is cooled to get the crystals of Na2SO4.2H2O.
 
-The saturated solution of sodium dichromate in water is mixed with KCl and then concentrated to get crystals of NaCl. It is filtered while hot and the filtrate is cooled to obtain K2Cr2O7 crystals.
-
-XII U4-D-Block-Jerald Folder.indd 112 2/19/2020 4:41:01 PM
+The saturated solution of sodium dichromate in water is mixed with KCl and then concentrated to get crystals of NaCl. It is filtered while hot and the filtrate is cooled to obtain {{< katex >}}\text{K}_2\text{Cr}_2\text{O}_7{{< /katex >}} crystals.
 
 
 
 
 
 
+
+{{< katex display >}}
+    \underset{\text{sodium dichromate
+(orange red}}{  \text{Na}_2\text{Cr}_2\text{O}_7} + 2 \text{K}\text{Cl} \rightarrow 
+    \underset{\text{potassium dichromate (orange red)}}{\text{k2}_2\text{Cr}_2\text{O}_7}
+    + 2 \text{Na}\text{Cl}_4
+  
+{{< /katex >}}
   
 
-Na Cr O + 2KCl K Cr O2 2 7 sodium dichromate (orange red)
-
-2 2 7
-
-p →
-
-potassium dichromate (orange red)
-
-\+ 2NaCl
 
 **Physical properties:**
 
 Potassium dichromate is an orange red crystalline solid which melts at 671K and it is moderately soluble in cold water, but very much soluble in hot water. On heating it decomposes and forms Cr2O3 and molecular oxygen. As it emits toxic chromium fumes upon heating, it is mainly replaced by sodium dichromate.
 
-4 K Cr O 4 K CrO2 2 7 potassium dichromate
 
-2 4 potassium chrom
+{{< katex display >}}
+4 \text{K}_2\text(Cr)_2\text{O}_7 
+\xrightarrow{\overset{\bigtriangleup}{}}4 \text{K}_2\text{CrO}_4 + 2 \text{Cr}_2
+\text{O}_3 +3 \text{CO}_2 \uparrow
+{{< /katex >}}
 
-∆ → ate
 
-2 3 chromium(III) oxide
-
-2 + 2 Cr O + 3O ↑
 
 **Structure of dichromate ion:**
 
@@ -80,6 +81,9 @@ strong oxidizing agents. In these ions chromium is in +6 oxidation state. In an 
 1\. **Oxidation**
 
 Potassium dichromate is a powerful oxidising agent in acidic medium. Its oxidising action in the presence of H+ ions is shown below. You can note that the change in the oxidation state of chromium from Cr6+ to Cr3+.Its oxidising action is shown below. Cr O + 14H + 6e r + 7 H O2 7
+{{< katex display >}}
+
+{{< /katex >}}
 
 2 +
 
