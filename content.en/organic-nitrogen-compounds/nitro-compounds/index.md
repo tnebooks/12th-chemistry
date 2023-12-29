@@ -67,18 +67,17 @@ Tertiary nitro alkanes donot exhibit tautomerism due to absence of α-H atom.
 
 The α-H atom of 1 & 2 nitroalkanes show acidic character because of the electron with drawing effect of NO2 group. These are more acidic than aldehydes, ketones, ester and cyanides. Nitroalkanes dissolve in NaOH solution to form a salt. Aci – nitro derivatives are more acidic than nitro form. When the number of alkyl group attached to α carbon increases, acidity decreases. due to +I effect of alkyl groups.
 
-CH3 NO2 > CH3CH2 NO2 NO2> CH3 CH3 CH NO2
+CH<sub>3</sub>NO<sub>3</sub> > CH<sub>3</sub>CH<sub>2</sub> NO<sub>2</sub> NO<sub>2</sub>> CH3 CH3 CH NO2
 
-**Evaluate yourself** Write all possible isomers for the following compounds.
-
-i) C H -NO2 5 2 ii) C H -NO3 7 2
 
 ### Preparation of nitroalkanes 
 1) From alkyl halides: (Laboratory method)
 
 a) Alkyl bromides (or) iodides on heating with ethanolic solution of potassium nitrite gives nitroethane.
 
-CH3CH2 -Br + K ethanol/SN CH3CH2-NO2 NO Ethyl bromide 2 D → 2 + KBr Nitroethane
+{{< katex display >}}
+\underset{\text{Ethyl bromide}}{CH_{3}CH_{2}Br}+KNO_{2} \xrightarrow{Ethanol} \underset{\text{Nitroethane}}{CH_{3}CH_{2}NO_{2}+KBr} 
+{{< /katex >}}
 
 The reaction follows SN2 mechanism.
 
@@ -88,117 +87,43 @@ This method is not suitable for preparing nitrobenzene because the bromine direc
 
 Gaseous mixture of methane and nitric acid passed through a red hot metal tube to give nitromethane.
 
-nitro methaneMethane
 ![](6.png)
-675 KCH + H CH - +H O3 2Red hot Si tube4(g NO NO23 (g) ) →
+
 
 Except methane, other alkanes (upto n – hexane) give a mixture of nitroalkanes due to C-C cleavage. The individual nitro alkanes can be separated by fractional distillation.
 ![](7.png)
-CH3-CH3 Ethane
 
-+H 675 K CH3CH2- Nitroethane(73%)
-
-\+ CH3NNO3 NO2 → O2 Nitromethane (27%)
 
 **3) From a- halocarboxylic acid**
 
 α-choloroacetic acid when boiled with aqueous solution of sodium nitrite gives nitromethane.
 
-Cl - CH2-COOH - chloro acetic acid
-
-+Na H2O/Heat
-
-SN2NO2 α
-
- → CH3- Nitromethane
-
-+CO2+NaClNO2
 
 
 
-**Evaluate yourself 4) Find out the product of the following reactions.**
 
-i) CH CH(Cl)COOH i) NaNO ii) H O/ ?\[X\] 3
-
-2
-
-2 D → ii) CH CH -Br+NaNO alcohol / \[Y\]3 2 2 D →
 
 **4) Oxidation of tert – alkyl amines** tert – butyl amine is oxidised with aqueous KMnO4 to give tert – nitro alkanes.
 
-CH3 C NH2
 
-CH3
-
-CH3
-
-\+ 3\[O\] CH3 C
-
-CH3
-
-NO2 + H2OKMnO4
-
-tert-butylamine 2 - methyl - 2 - nitro propane
-
-CH3
 
 **5) Oxidation of Oximes** Oxidation of acetaldoxime and acetoneoxime with trifluoroperoxy acetic acid gives
 
 nitroethane (10) and 2 – nitropropane (20) respectively.
 
-3 3 3 2 2 NitroethaneAcetaldoxime
-
-CF COOOH CH -CH=N-OH CH CH -NO\[O\] →
+CH<sub>3</sub>CHNOH -> CH<sub>3</sub>CH<sub>2</sub>NO<sub>2</sub>
 
 ### Preparation of Nitroarenes 1) By Direct nitration
 
 
 When benzene is heated at 330K with a nitrating mixture (Con.HNO + Con.H SO3 2 4 ) , electrophilic substitution takes place to form nitro benzene. (Oil of mirbane)
 
-H
-
-\+ HNO3 Con H2SO4
-
-NO2
-
-\+ H2O
 
 On direct nitration of nitrobenzene m- dinitrobenzene is obtained 
 **2) Indirect method** Nitration of nitro benzene gives m-dinitrobenzene. The following method is adopted for the preparation of p-dinitrobenzene. **For example**
 ![](8.png)
-NH2
-
-NO2
-
-NaNO2
-
-HBF4 Diazotization
-
-N2 +
-
-BF4
-
-NO2
-
-NaNO2
-
-(Cu)
-
-NO2
-
-NO2
-
-\+ N2+NaF+BF3
-
-p - nitroaniline p - nitrodiazo fluoroborate
-
-p - dinitro benzene
 
 
-
-Amino group can be directly converted into nitro group, using caro’s acid (H SO )2 5
-
-(or) persulphuric acid (H S O )2 2 8 (or) peroxytrifluro acetic acid (F C.CO H)3 3 as oxidising agent.
 
 ### Physical properties of nitro alkane
  The lower nitroalkanes are colourless pleasant smelling liquids, sparingly soluble in water,
@@ -211,65 +136,20 @@ Nitroalkanes undergo the following common reactions. i. Reduction ii. Hydrolysis
 **i.** **Reduction of nitroalkanes** Reduction of nitroalkanes has important synthetic applications. The various reduction stages of nitro group are given below.
 ![](9.png)
 
-CH3 NO2 -H2O CH3 N O
-+2\[H\] CH3 NHOH
-+2\[H\] - H2O
-CH3 NH2
-nitromethane nitroso methane N - methyl hydroxylamine
-methylamine
-+2\[H\]
-The final product depends upon the nature of reducing agent as well as the pH of the medium.
-CH3 NO2
-6\[H\] CH3 + 2H2ONH2
-Nitromethane
-Methyl amine
-4\[H\]
-Zn / NH4Cl CH3 NHOH + H2O
-N - methyl hydroxylamine
-Sn/HCl (acid medium)
-(neutral medium)
 
 **Reduction of alkyl nitrites**
 
 Ethylnitrite on reduction with Sn / HCl gives ethanol
 
-CH3CH2 - O - N O + 6\[H\] Sn / HCl
 
-CH3CH2 - OH + NH3 + H2O
+CH<sub>3</sub>CHNOH -> CH<sub>3</sub>CH<sub>2</sub>NO<sub>2</sub>
 
 **ii.** **Hydrolysis of nitroalkanes**
 
 Hydrolysis can be effected using conc. HCl or conc. H SO2 4 . Primary nitroalkanes on hydrolysis gives carboxylic acid, and the secondary nitroalkanes give ketones. The tertiary nitroalkanes have no reaction.
 ![](10.png)
 
-NH2
-NH2 NO2
-NO2
-p - diamino benzene p - dinitro benzene
-F3C C
-O
-O HO
 
-CH3CH2 NO2
-Nitroethane HCl / H2O Boil
-CH3 COOH + NH2OH
-CH NO2
-2 - nitropropane HCl / H2O Boil
-O + N2O + H2O Acetone Nitrous
-oxide
-(CH3)2
-C(CH3)2
-C NO2 2 - methyl -2 - nitro propane
-HCl / H2O Boil
-No reaction
-(CH3)3
-On the other hand, the acid or base hydrolysis of ethyl nitrite gives ethanol.
-
-CH3CH2 O N O + HOH OH -
-
-(or) H + CH3CH2 OH + HNO2
-
-Ethylnitrite Ethanol
 
 **iii.** **Halogenation of nitroalkanes** Primary and secondary nitroalkanes on treatement with Cl or Br2 2 in the presence of
 
@@ -281,69 +161,15 @@ Chloropicrin (trichloronitromethane)
 
 **Toxicity** Nitroethane is suspected to cause genetic damage and be harmful to the nervous system.
 
-**iv.** **Nef carbonyl synthesis :**
 
-CH3 CH3 CH3 CHO Nitroxyl azanone
-
-CH N O
-
-OH CH2NO2
-
-KOH H2O
-
-–
-
-H+
-
-\+ HNO
 
 **Chemical Properties of nitrobenzene**
 ![](11.png)
 
-C6H5 NO2
-Sn/HCl
-6(H)
-4(H)
-2(H
-6(H)
-Zn/NH4Cl
-Fe/H2O(steam)
-SnCl2/KOH C6H5
-C6H5
-C6H5
-C6H5
-C6H5
-NH2
-N = O
-C6H5 NH OH
-N = ONH2 +
-Self condensation
-C6H5 N = N C6H5
-Azobenzene
-(acid medium)
-(neutral medium)
-N = N C6H5 2(H)
-C6H5 C6H5NH NH Hydrazobenzene
-alkaline medium Zn/NaOH
-Aniline
-Phenyl hydroxylamine
-Nitrosobenzene
-
 
 **Electrolytic reduction:**
 ![](12.png)
-Electrolytic
-reduction
-C6H5 NH2 + 2 H2O An
-weakly acidic
-strongly acidic
-iline
-NH OH
-NO2
-OH
-NH2
-p-aminophenolPhenylhydroxyl amine
-Rearrangment
+
 
 **Reduction of catalytic and metal hydrides** Nitrobenzene reduction with Ni (or) Pt, (or) LiAlH4 to give aniline
 
@@ -359,30 +185,3 @@ m-dintrobenzene m-nitroaniline
 
 **Electrophilic substitution reaction** The electrophilic substitution reactions of nitrobenzene are usually very slow and vigorous reaction condition have to be employed (- NO2 group is stongly deactivating and m – directing).
 ![](13.png)
-Nitrobenzene
-NO2
-Chlorination
-Cl2 / AlCl3 (Lewis acid)
-NO2
-Cl 3 - chloronitrobenzene
-Nitration 373K
-Con HNO3 / Con H2SO4
-NO2
-NO2
-NO2
-NO2
-1,3 - dinitrobenzene
-1,3,5 - trinitrobenzene (TNB)
-Nitration 473K
-Con HNO3 / con.H2SO4
-NO2
-SO3H 3 - Nitrobenzene sulphonic acid
-O2N
-Sulphonation
-Con H2SO4 /
-
-
-Nitrobenzene does not undergo Friedel – Crafts reactions due to the strong deactivating nature of -NO2 group.
-
-**Evaluate yourself** Predict the major product that would be obtained on nitration of the following compounds
-![](14.png)
