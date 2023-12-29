@@ -17,8 +17,6 @@ Let us consider the different coloured complexes of cobalt(III) chloride with am
 | cis - CoCl3.4NH3| violet |       1 |
 
 
-
-
 In this case, the valences of the elements present in both the reacting molecules, cobalt(III) chloride and ammonia are completely satisfi ed. Yet these substances react to form the above mentioned complexes.
 
 **To explain this behaviour Werner postulated his theory as follows** 
@@ -30,7 +28,7 @@ valence and each element tend to satisfy both the valences.In modern terminology
 3. Th e secondary valence is satisfi ed by negative ions, neutral molecules, positive ions or the combination of these. For example, in CoCl3.6NH3 the secondary valence of cobalt is 6 and is satisfi ed by six neutral ammonia molecules, whereas in CoCl3.5NH3 the secondary valence of cobalt is satisfi ed by fi ve neutral ammonia molecules and a Cl- ion.
 
 4. According to Werner, there are two spheres of attraction around a metal atom/ion in a complex. Th e inner sphere is known as coordination sphere and the groups present in this sphere are fi rmly attached to the metal. Th e outer sphere is called ionisation sphere. Th e groups present in this sphere are loosely bound to the central metal ion and hence can be separated into ions upon dissolving the complex in a suitable solvent.
-![Alt text](<../Out sphere .png>)
+![inner and outer spheres of attraction in coordination compounds](<../Out sphere .png>)
 
 **Figure 5.1 inner and outer spheres of attraction in coordination compounds**
 

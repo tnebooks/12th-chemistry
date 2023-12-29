@@ -3,11 +3,9 @@ title: 'Nomenclature of coordination compounds'
 weight: 4
 ---
 ## Nomenclature of coordination compounds
- In the earlier days, the compounds were named after their discoverers. For example,
+ In the earlier days, the compounds were named after their discoverers. For example,K\[PtCl3(C2H4)\] was called Zeise’s salt and \[Pt(NH3)4\]\[PtCl4\] is called Magnus’s green salt etc... There are numerous coordination compounds that have been synthesised and characterised. The International Union of Pure and Applied Chemistry (IUPAC) has developed an elaborate system of nomenclature to name them systematically. The guidelines for naming coordination compounds based on IUPAC recommendations (2005) are as follows:
 
-K\[PtCl3(C2H4)\] was called Zeise’s salt and \[Pt(NH3)4\]\[PtCl4\] is called Magnus’s green salt etc... There are numerous coordination compounds that have been synthesised and characterised. The International Union of Pure and Applied Chemistry (IUPAC) has developed an elaborate system of nomenclature to name them systematically. The guidelines for naming coordination compounds based on IUPAC recommendations (2005) are as follows:
-
-1\. The cation is named first, followed by the anion regardless of whether the ion is simple or complex. For example
+1. The cation is named first, followed by the anion regardless of whether the ion is simple or complex. For example
 
 • In K4\[Fe(CN)6\], the cation K+ is named first followed by\[Fe(CN)6\] 4-.
 
@@ -19,17 +17,16 @@ anion Cl-
 
 complex anion \[PtCl4\] 2-
 
-2\. The simple ions are named as in other ionic compounds. For example,
+2. The simple ions are named as in other ionic compounds. For example,
 
-**Simple cation Symbol Simple anion Symbol**
+|Simple cation |Symbol |Simple anion |Symbol|
+| ----------- | ----------- | ----------- | ----------- |
+|Sodium |Na+ |Chloride| Cl-|
+|Potassium |K+ |Nitrate| NO3 -|
+|Copper |Cu2+ |Sulphate |SO4 2-|
 
-Sodium Na+ Chloride Cl-
 
-Potassium K+ Nitrate NO3 -
-
-Copper Cu2+ Sulphate SO4 2-
-
-3\. To name a complex ion, the ligands are named first followed by the central metal atom/ion. When a complex ion contains more than one kind of ligands they are named in alphabetical order.
+3. To name a complex ion, the ligands are named first followed by the central metal atom/ion. When a complex ion contains more than one kind of ligands they are named in alphabetical order.
 
 a. Naming the ligands:
 
@@ -37,9 +34,7 @@ i. The name of anionic ligands ends with the letter 'o' and the cationic ligand 
 
 ii. A κ-term is used to denote an ambidendate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanato-κS and if nitrogen is involved, then it is named thiocyanato-κN.
 
-XII U5 Coordination jagan.indd 136 2/19/2020 4:40:43 PM
 
-www.tntextbooks.in
 
 
 
@@ -53,7 +48,7 @@ www.tntextbooks.in
 | Copper |Cu2+ |Sulphate |SO2-4 |
   
 
-137
+
 
 **Common name Formula IUPAC ligand name**
 
@@ -119,12 +114,6 @@ iii. If the coordination entity contains more than one ligand of a particular ty
 
 **b. Naming the central metal**: In cationic/neutral complexes, the element name is used as such for naming the central metal atom/ion, whereas, a suffix 'ate' is used along with the element name in anionic complexes. The oxidation state of the metal is written immediately after the metal name using roman numerals in parenthesis.
 
-XII U5 Coordination jagan.indd 137 2/19/2020 4:40:46 PM
-
-www.tntextbooks.in
-
-
-
 
 
 
@@ -147,7 +136,6 @@ www.tntextbooks.in
 | Pyridine (py) |N |pyridine |
   
 
-138
 
 **Element Name of the metal in**
 
