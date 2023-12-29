@@ -56,11 +56,12 @@ The rate of a reaction increases with the increase in the concentration of the r
 
 4\. Repeat the experiment with the contents on B and C. Record the observation.
 
-|Flask|Volume of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>|Volume of water|Strength of Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub>| Time taken(t)
-|------|------|------|------|
-| A |10 | 40|0.02|
-| B |20 |30 | 0.04|
-| C |40 |10|0.08|
+| Flask |Volume of Na SO22 3 |Volume of water |Strength of Na SO22 3 |Time taken ( t) |
+|------|------|------|------|------|
+| A |10 |40 |0.02 |
+| B |20 |30 |0.04 |
+| C |40 |10 |0.08 |
+
 
 
 ![img](img.png)
@@ -72,15 +73,7 @@ The rate of a reaction increases with the increase in the concentration of the r
 
 In heterogeneous reactions, the surface areas of the solid reactants play an important role in deciding the rate. For a given mass of a reactant, when the particle size decreases surface area increases. Increase in surface area of reactant leads to more collisions per litre per second, and hence the rate of reaction is increased.For example, powdered calcium carbonate reacts much faster with dilute HCl than with the same mass of CaCO<sub>3</sub> as marble.
 
-| Flask |Volume of Na SO22 3 |Volume of water |Strength of Na SO22 3 |Time taken ( t) |
-|------|------|------|------|------|
-| A |10 |40 |0.02 |
-| B |20 |30 |0.04 |
-| C |40 |10 |0.08 |
 
-
-
-|------|------|------|------|------|
 
 
 **Activity**
@@ -387,14 +380,11 @@ _e_− −= ×( )40 09 183 8 10. .
 
 
 20\. For the reaction 2_x y_\+ → L find the rate law from the following data.
-
-\[x\] (M)
-
-\[y\] (M)
-
-rate (M s-1)
-
-0.2 0.02 0.15 0.4 0.02 0.30 0.4 0.08 1.20
+| [x](M) |[y](M) |rate(M s<sup>-1</sup> )|
+|------|------|------|
+| 0.2 |0.02 |0.15 |
+| 0.4 |0.02 |0.30 |
+| 0.4 |0.08 |1.20 |
 
 21\. How do concentrations of the reactant influence the rate of reaction?
 
@@ -410,46 +400,32 @@ SO2Cl2 to be reduced to 1% of the initial value?
 
 26\. A zero order reaction is 20% complete in 20 minutes. Calculate the value of the rate constant. In what time will the reaction be 80% complete?
 
-27\. The activation energy of a reaction is 22.5 k Cal mol-1 and the value of rate constant at 40°C is 1.8 10 s5 1× − − . Calculate the frequency factor, A.
+27\. The activation energy of a reaction is 22.5 k Cal mol-1 and the value of rate constant at 40°C is 1.8 x 10<sup>-5</sup>s<sup>-1</sup>. Calculate the frequency factor, A.
 
-28\. Benzene diazonium chloride in aqueous solution decomposes according to the equation C H N Cl C H Cl + N6 5 2
-
-6 5 2→ .
+28\. Benzene diazonium chloride in aqueous solution decomposes according to the equation C<sub>6</sub>H<sub>5</sub>N<sub>2</sub>Cl→C<sub>6</sub>H<sub>5</sub>Cl + N<sub>2</sub>.
 
 Starting with an initial concentration of 10 1 g L− , the volume of N2 gas obtained at 50 °C at different intervals of time was found to be as under:
-
-t (min): 6 12 18 24 30 ∞ Vol. of N2
-
-(ml): 19.3 32.6 41.3 46.5 50.4 58.3
-
-Show that the above reaction follows the first order kinetics. What is the value of the rate constant?
-
-29\. From the following data, show that the decomposition of hydrogen peroxide is a reaction of the first order:
-
-t (min) 0 10 20 V (ml) 46.1 29.8 19.3
-
-Where _t_ is the time in minutes and V is the volume of standard KMnO4 solution required for titrating the same volume of the reaction mixture.
-
-30\. A first order reaction is 40% complete in 50 minutes. Calculate the value of the rate constant. In what time will the reaction be 80% complete?
-
-
-
-| [x](M) |[y](M) |rate(M s<sup>-1</sup> )|
-|------|------|------|
-| 0.2 |0.02 |0.15 |
-| 0.4 |0.02 |0.30 |
-| 0.4 |0.08 |1.20 |
 
 
 | t (min): |6 |12 |18 |24 |30 |∞ |
 |------|------|------|------|------|------|------|
 | Vol. of N(ml):2 |19.3 |32.6 |41.3 |46.5 |50.4 |58.3 |
 
+Show that the above reaction follows the first order kinetics. What is the value of the rate constant?
+
+
+29\. From the following data, show that the decomposition of hydrogen peroxide is a reaction of the first order:
+
 
 | t (min) |0 |10 |20 |
 |------|------|------|------|
 | V (ml) |46.1 |29.8 |19.3 |
-  
+
+Where _t_ is the time in minutes and V is the volume of standard KMnO4 solution required for titrating the same volume of the reaction mixture.
+
+30\. A first order reaction is 40% complete in 50 minutes. Calculate the value of the rate constant. In what time will the reaction be 80% complete?
+
+
 
 flowchart TD
     A[Chemical Kinetics] -->  B[Reaction Rate] -->C(Rate Law) 
