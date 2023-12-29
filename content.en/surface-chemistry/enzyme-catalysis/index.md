@@ -33,7 +33,7 @@ E+S ⇌ ES → P+E
 
 Where E is the enzyme, S the substrate (reactant), ES represents activated complex and P the products.
 
-![Alt text](image1.png)
+![Alt Figure 10.5 Mechanism of Enzyme Catalysis](image1.png)
 
 **Enzyme catalysed reaction show certain general special characteristics.**
 
@@ -77,6 +77,6 @@ Example: Sulpha drugs. Penicillin inhibits the action of bacteria and used for c
 
 A small non protein (vitamin) called a coenzyme promotes the catalytic activity of enzyme.
 
-![Alt text](graph1.png)
+![Alt Figure 10.6 Rate vs Temperature](graph1.png)
 
-![Alt text](graph2.png)
+![Alt Figure 10.7 Rate vs pH](graph2.png)

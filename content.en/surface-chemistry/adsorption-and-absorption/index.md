@@ -106,7 +106,7 @@ When amount of adsorption is plotted versus temperature at constant pressure it 
 
 Adsorption isobars of physisorption and chemisorption are different as represented in the graphs.
 
-![Alt text](graph1.png)
+![Alt Figure 10.1](graph1.png)
 
 x is the amount of adsorbate adsorbed on ‘m’ g of adsorbent.
 
@@ -120,7 +120,7 @@ Adsorption isotherm can be studied quantitatively. A plot between the amount of 
 
 In order to explain these isotherms various equations were suggested as follows:
 
-(i) Freundlich adsorption isotherm. According to Freundlich,
+1. Freundlich adsorption isotherm. According to Freundlich,
 
 x/m = kp<sup>1/2</sup>
 
@@ -136,7 +136,7 @@ Taking log on both sides of equation x/m = kp<sup>1/2</sup>
 
 log <sup>x</sup>&frasl;<sub>m</sub> = logK +<sup>1</sup>&frasl;<sub>n</sub> log p
 
-![Alt text](graph2.png)
+![Alt Figure 10.2](graph2.png)
 
 Hence the intercept represents the value of log k and the slope gives 1/n.
 
@@ -168,7 +168,7 @@ CaAl<sub>2</sub>Si<sub>4</sub>O<sub>12</sub>+CaCl → Na<sub>2</sub>Al<sub>2</su
 
 Ion exchange resins are working only based on the process of adsorption. Ion exchange resins are used to demineralise water. This process is carried out by passing water through two columns of cation and anion exchange resins.
 
-![Alt text](formula1.png)
+![Alt Ion exchange resins](formula1.png)
 
 5. **Petroleum refining and refining of vegetable oil**
 
