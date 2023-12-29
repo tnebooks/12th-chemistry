@@ -3,25 +3,15 @@ title: 'The integrated rate equation'
 weight: 4
 ---
 
-
 ## The integrated rate equation:
- We have just learnt that the rate of change
+ We have just learnt that the rate of change of concentration of the reactant is directly proportional to that of concentration of the reactant. For a general reaction,
 
-of concentration of the reactant is directly proportional to that of concentration of the reactant. For a general reaction,
-
-A product  →
+A →products
 
 The rate law is
 
-Rate = d\[A\] dt
-
-k \[A\] −
-
-\= _x_
-
-Where k is the rate constant, and _x_ is the order of the reaction. The above equation is a differential equation, -d\[A\]
-
-dt , so it gives the
+Rate = -d\[A\]/dt=k \[A\]<sup>x</sup>
+Where k is the rate constant, and x is the order of the reaction. The above equation is a differential equation, -d\[A\]/dt , so it gives the
 
 rate at any instant. However, using the above expression, we cannot answer questions such as how long will it take for a specific concentration of A to be used up in the reaction? What will be the concentration of
 
@@ -32,118 +22,31 @@ reactant after a time ‘ t ’?. To answer such questions, we need the integrat
 
 A reaction whose rate depends on the reactant concentration raised to the first power is called a first order reaction. Let us consider the following first order reaction,
 
-A product  → Rate law can be expressed as
+A →prosuct
+ Rate law can be expressed as
 
-Rate = k \[A\] 1
+Rate = k \[A\]<sup>1</sup>
 
-Where, k is the first order rate constant. -d\[A\]
+Where, k is the first order rate constant. -d\[A\]/dt=k\[A\]<sup>1</sup>
+⇒ = -d\[A\]/\[A\]= k dt  ...(1)
 
-dt k \[A\]
+Integrate the above equation between the limits of time t = 0 and time equal to t, while the concentration varies from the initial concentration \[A<sub>0</sub> \] to \[A\] at the later time. 
 
-1=
+ ∫<sup>\[A\]</sup> <sub>\[A<sub>0</sub>\]</sub> -d\[A<sub>0</sub>\]/\[A\]=k∫<sup>t</sup>dt 
 
-⇒ = -d\[A\] \[A\]
 
-k dt ...(1)
-
-Integrate the above equation between the limits of time t = 0 and time equal to t, while the concentration varies from the initial concentration \[A \] to \[A\]
-
-0 at the later time. -d\[A\]
-
-\[A\] k dt
-
-0
-
-t
-
-\[A \]
-
-\[A\]
-
-0
-
-\= ∫∫
-
-− \[ \]( ) = ( )  
-
-\[ \]ln A k t A
-
-A
-
-0
-
-t
-
-0
-
-\- \[A\]- - \[A0\] = k (t-0)ln ln( ) - \[A\] + \[A \]= kt
-
-0 ln ln
-
-ln \[A \]
-
-\[A\] = kt
-
-0  
-
-  ...(2)
+ln(\[A<sub>0</sub>\]/\[A\]) = kt
+...(2)
 
 This equation is in natural logarithm. To convert it into usual logarithm with base 10, we have to multiply the term by 2.303.
 
-2 303. log \[A \]
+2.303 log \[A<sub>0</sub>\]/\[A\] = kt
 
-\[A\] = kt
-
-0  
-
- 
-
-XII U7 kinetics - Jerald Folder.indd 212 2/19/2020 4:44:20 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| t enim erer bxp umE n |Initial concentration |Initial rate |
-|------|------|------|------|
-| NO |Cl2 |NOCl mol Ls--11 |
-| 1 |0.1 |0.1 |78.  x10−5 |
-| 2 |0.2 |0.1 |31.  21x 0−4 |
-| 3 |0.2 |0.3 |93.  61x 0−4 |
-  
-
-213
-
-_k t_
-
-\=  
-
- 
-
-2 303. log
-
-\[A \]
-
-\[A\] ----- (3)
-
-0
+![graph1](graph1.png)
 
 Equation (2) can be written in the form y = mx + c as below
 
-ln ln\[A \] \[A\] kt 0
-
-− =
-
-ln ln\[A\] \[A \] kt
-
-y = c + mx
-
-0 = −
-
-⇒
+⇒y = c + mx
 
 If we follow the reaction by measuring the concentration of the reactants at regular time interval‘t’, a plot of ln\[A\] against ‘t’ yields a straight line with a negative slope.From this, the rate constant is calculated.
 
@@ -151,86 +54,27 @@ Examples for the first order reaction
 
 (i) Decomposition of dinitrogen pentoxide
 
-N O (g) 2NO (g) + 1
-
-2 O (g)
-
-2 5
-
-2 2  →
-
-(ii) Decomposition of sulphurylchloride; SO Cl ( ) SO (g) + Cl (g) 2 2
-
-2 2 l  →
-
-(iii) Decomposition of the H2O2 in aqueous solution; H O (aq) H O(l) + 1
-
-2 O (g)
-
-2 2
-
-2 2  →
+N<sub>2</sub>O<sub>5</sub>(g)---> 2NO <sub>2(g) + 1/2 O<sub>2</sub>(g)
+(ii) Decomposition of sulphurylchloride; SO<sub>2</sub>Cl<sub>2</sub>(l)---> SO<sub>2</sub>(g)+ Cl<sub>2</sub>(g)
+(iii) Decomposition of the H<sub>2</sub>O<sub>2</sub> in aqueous solution; H<sub>2</sub>O<sub>2</sub>(aq)---> H<sub>2</sub>O(l)+1/2 O<sub>2</sub>(g)
 
 (iv) Isomerisation of cyclopropane to propene.
 
-Fig: 7.3 A plot of ln\[A\] Vs t for a first order reaction, A product  → with initial
 
-concentration of \[A\] = 1.00 M and k = 2.5 x10 min 2 -1− .
-
-\-2.5
-
-\-2
-
-\-1.5
-
-\-1
-
-\-0.5
-
-0
-
-0 10 20 30 40 50 60
-
-ln \[A
-
-\]
-
-Time (in mins)
-
-XII U7 kinetics - Jerald Folder.indd 213 2/19/2020 4:44:26 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-
-  
-
-214
 
 **Pseudo first order reaction:** Kinetic study of a higher order reaction is difficult to follow, for example, in a study of a second
 
 order reaction involving two different reactants; the simultaneous measurement of change in the concentration of both the reactants is very difficult. To overcome such difficulties, A second order reaction can be altered to a first order reaction by taking one of the reactant in large excess, such reaction is called pseudo first order reaction. Let us consider the acid hydrolysis of an ester,
 
-CH COOCH (aq) H O CH COOH (aq) CH OH (aq) 3 3 2 3 3
+  >$\ce{CH3COOHCH3(aq)+H2O(l)->[{H+}] CH3COOH(aq)+CH3OH}$
 
-\+  → + +
-
-( )_l H_
-
-Rate = k \[CH COOCH \] \[H O\] 3 3 2
+Rate = k \[CH<sub>3</sub>COOCH<sub>3</sub>\] \[H<sub>2</sub>O\]
 
 If the reaction is carried out with the large excess of water, there is no significant change in the concentration of water during hydrolysis. i.e.,concentration of water remains almost a constant.
 
-Now, we can define k \[H O\] = k' 2 ; Therefore the above rate equation becomes
+Now, we can define k\[H<sub>2</sub> O\] = k'; Therefore the above rate equation becomes
 
-Rate = k' \[CH COOCH \] 3 3
+Rate = k'\[CH<sub>3</sub>COOCH<sub>3</sub>\]
 
 Thus it follows first order kinetics.
 
@@ -239,21 +83,18 @@ Thus it follows first order kinetics.
 
 wide range of concentrations is called as zero order reactions. Such reactions are rare. Let us consider the following hypothetical zero order reaction.
 
-A  → product
+A →product
 
 The rate law can be written as,
 
-Rate = k \[A\] 0
+Rate = k \[A\]<sup>0</sup>
 
-−d A
-
+−d[A]/
 dt
 
-\[ \] =k (1)
+=k (1)
 
-∴ =( )\[A\] 0
-
-1
+∴ =(\[A\]<sup>0</sup>=1)
 
 ⇒ − d\[A\] = k dt
 
@@ -261,139 +102,43 @@ Integrate the above equation between the limits of \[A \] 0 at zero time and \[A
 
 time 't',
 
-− ∫∫ d\[A\] = k dt 0
+− ∫d\[A\] = k ∫dt 
 
-t
-
-\[ \]
-
-\[ \]
-
-_A_
-
-_A_
-
-0
-
-−( ) = ( )\[ \] \[ \]
-
-\[ \]_A k tA A t_
-
-0 0
-
-\[ \] \[ \]A A kt 0
-
-− =
-
-k= A A
-
-t
-
-\[ \] \[ \] 0 −
+k=\[A<sub>0</sub>\]-\[A\]/t
 
 Equation (2) is in the form of a straight line y = mx + c
 
-Ie., \[ \] \[ \]A kt A 0
-
-\= − +
-
+Ie., \[A\]=\[A\]/t
 ⇒ y = c + mx
 
-A plot of \[A\] Vs time gives a straight line with a slope of −k and y - intercept of \[A \] 0
-
-.
-
-XII U7 kinetics - Jerald Folder.indd 214 2/19/2020 4:44:38 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-215
-
-0
-
-0.25
-
-0.5
-
-0.75
-
-0 5 10 15 20 25 30
-
-\[A \] i
-
-n M
-
-Time (in mins)
-
-Fig 7.4 : A plot of \[A\] Vs time for a zero order reaction A product  → with
-
-initial concentration of \[A\] = 0.5M and k = 1.5x10 mol L min -2 1 1 1− − −
+A plot of \[A\] Vs time gives a straight line with a slope of −k and y - intercept of \[A<sub>0</sub> \].
+![graph](graph.png)
 
 **Examples for a zero order reaction:** 1\. Photochemical reaction between H2 and I2
 
-H (g)+Cl (g) 2HCl(g)2 2 _hv_ →
+ >$\ce{H2(g)+Cl2(g) ->[{hv}] 2HCL(g)}$
+
 
 2\. Decomposition of N2O on hot platinum surface
 
-N O(g) N (g) + 1
-
-2 O (g)
-
-2
-
-2 2  ⇀↽ 
+N<sub>2</sub>O(g) ⇀↽N<sub>2</sub>(g)+1/2O<sub>2</sub>(g)
 
 3\. Iodination of acetone in acid medium is
 
-zero order with respect to iodine. CH COCH + I ICH COCH + HI
+zero order with respect to iodine.
+>$\ce{CH3COCH3+l2(g) ->[{h+}] ICH2COCH3+HI}$
 
-3 3 2
-
-H
-
-2 3
-
-+
-
- →
-
-Rate = k \[CH COCH \] \[H \] 3 3
-
-+
+Rate = k \[CH<sub>3</sub>COCH<sub>3</sub>\] \[H<sup>+</sup>\] 
 
 General rate equation for a nth order reaction involving one reactant \[A\].
 
-_A_ product →
+A →product
 
-Rate law − =d\[A\]
-
-dt k\[A\]
-
-_n_
+Rate law − =d\[A\]/dt=k\[A\]<sup>n</sup>
 
 Consider the case in which n≠1,
 
-integration of above equation between \[A \]
+integration of above equation between \[A<sub>0</sub>\] and \[A\] at time t = 0 and t = t
 
-0 and \[A\] at time t = 0 and t = t
+respectively gives 1/\[A\]<sup>n-1</sup> - 1/\[A\]<sup>n-1</sup> =(n-1)kt
 
-respectively gives 1 1
-
-1 1 1
-
-\[ \] \[ \] ( )
-
-A -
-
-A n- kt
-
-\-
-
-0
-
-\-_n n_ \=

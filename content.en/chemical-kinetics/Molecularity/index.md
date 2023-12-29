@@ -5,9 +5,7 @@ weight: 3
 
 
 ## Molecularity:
- Kinetic studies involve not only
-
-measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
+ Kinetic studies involve not only measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
 
 An elementary step is characterized by its molecularity. The total number of reactant species that are involved in an elementary step is called molecularity of that particular step. Let us recall the hydrolysis of t-butyl bromide studied in XI standard. Since the rate determining elementary step involves only t-butyl bromide, the reaction is called a Unimolecular Nucleophilic substitution (S)<sup>
 1 </sup><sub>
@@ -143,3 +141,4 @@ increases the rate by a factor of 16. Find the order of the reaction with respec
 2). Find the individual and overall order of the following reaction using the given data.
 
 2NO(g) + Cl <sub>2</sup>(g)→2NOCl(g)
+![image](table.png)
