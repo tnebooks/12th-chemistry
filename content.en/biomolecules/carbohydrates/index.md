@@ -11,7 +11,9 @@ are also known as saccharides (derived from Greek word ‘_sakcharon_’ which m
 
 Carbohydrates are synthesised by green leaves during photo synthesis, a complex process in which sun light provides the energy to convert carbon dioxide and water into glucose and oxygen. Glucose is then converted into other carbohydrates and is consumed by animals.
 
-![](forumla1.png)
+{{< katex display >}}
+6CO_2 +6H_2O \xrightarrow[{}]{sunlight}C_6H_{12}+6O_2
+{{< /katex >}}
 
 **14.1.1 Configuration of carbohydrates:**
 
@@ -51,11 +53,17 @@ Glucose is a simple sugar which serves as a major energy source for us. It is th
 
 1. When sucrose (_cane sugar_) is boiled with dilute H₂SO₄ in alcoholic solution, it undergoes hydrolysis and give glucose and fructose.
 
-![](formula2.png)
+{{< katex display >}}
+C_{12}H_{22}O_{11}+H_2O\xrightarrow[{}]{H_+}C_6H_{12}O_6+C_6H_{12}O_6
+{{< /katex >}}
 
 2. Glucose is produced commercially by the hydrolysis of starch with dilute HCl at high temperature under pressure.
 
-![](formula3.png)
+{{< katex display >}}
+(C_6H_{10}O_5)_n+nH_2O\xrightarrow[{393k}]{H_+}nC_6H_{12}O_6
+{{< /katex >}}
+
+
 
 **Structure of Glucose**
 
@@ -68,7 +76,9 @@ Glucose is an aldohexose. It is optically active with four asymmetric carbons. I
 
 2.On reduction with concentrated HI and red phosphorus at 373K, glucose gives a mixture of n hexane and 2–iodohexane indicating that the six carbon atoms are bonded linearly.
 
-![](Forumula.png)
+{{< katex display >}}
+Glucose\xrightarrow[{373k}]{HI/P}CH_3(CH_2)_4CH_3+CH_3(CH_2)_3CH-CH_3
+{{< /katex >}}
 
 3.Glucose reacts with hydroxylamine to form oxime and with HCN to form cyanohydrin. These reactions indicate the presence of carbonyl group in glucose.
 
@@ -113,7 +123,9 @@ Fructose is another commonly known monosaccharide having the same molecular form
 
 Fructose is obtained from sucrose by heating with dilute H2SO4 or with the enzyme invertase
 
-![](formula5.png)
+{{< katex display >}}
+C_{12}H_{22}O_{11}+H_2O\xrightarrow[{}]{H_2SO_4}C_6H_{12}O_6+C_6H_{12}O_6
+{{< /katex >}}
 
 Fructose is separated by crystallisation. Th e mixture having equal amount of glucose and fructose is termed as invert sugar. 
 
@@ -121,25 +133,29 @@ Fructose is separated by crystallisation. Th e mixture having equal amount of gl
 
 Fructose is prepared commercially by hydrolysis of Inulin (a polysaccharide) in an acidic medium.
 
-![](formula6.png)
+{{< katex display >}}
+(C_6H_{12}O_5)_n+H_2O\xrightarrow[{}]{H_+}n C_6H_{12}O_6
+{{< /katex >}}
 
 **Structure of fructose:** 
 
 Fructose is the sweetest of all known sugars. It is readily soluble in water. Fresh solution of fructose has a specific rotation -1330 which changes to – 920 at equilibrium due to mutarotation. Similar to glucose the structure of fructose is deduced from the following facts.
 
-1\. Elemental analysis and molecular weight determination of fructose show that it has the molecular formula C6H12O6
+1.Elemental analysis and molecular weight determination of fructose show that it has the molecular formula C6H12O6
 
-2\. Fructose on reduction with HI and red phosphorus gives a mixture of n – hexane (major product) and 2 – iodohexane (minor product). This reaction indicates that the six carbon atoms in fructose are in a straight chain.
+2.Fructose on reduction with HI and red phosphorus gives a mixture of n – hexane (major product) and 2 – iodohexane (minor product). This reaction indicates that the six carbon atoms in fructose are in a straight chain.
 
-![](formula7.png)
+{{< katex display >}}
+Fructose\xrightarrow[{reduction}]{HI/P}CH_3(CH_2)_4CH_3+CH_3-CH-(-CH_2-)_3CH_3
+{{< /katex >}}
 
-3\. Fructose reacts with NH OH 2 and HCN . It shows the presence of a carbonyl groups in the fructose.
+3.Fructose reacts with NH OH 2 and HCN . It shows the presence of a carbonyl groups in the fructose.
 
-4\. Fructose reacts with acetic anhydride in the presence of pyridine to form penta acetate. This reaction indicates the presence of five hydroxyl groups in a fructose molecule.
+4.Fructose reacts with acetic anhydride in the presence of pyridine to form penta acetate. This reaction indicates the presence of five hydroxyl groups in a fructose molecule.
 
-5\. Fructose is not oxidized by bromine water. This rules out the possibility of absence of an aldehyde (-CHO) group.
+5.Fructose is not oxidized by bromine water. This rules out the possibility of absence of an aldehyde (-CHO) group.
 
-6\. Partial reduction of fructose with sodium amalgam and water produces mixtures of sorbitol and mannitol which are epimers at the second carbon. New asymmetric carbon is formed at C-2. This confirms the presence of a keto group.
+6.Partial reduction of fructose with sodium amalgam and water produces mixtures of sorbitol and mannitol which are epimers at the second carbon. New asymmetric carbon is formed at C-2. This confirms the presence of a keto group.
 
 ![](formula8.png)
 
