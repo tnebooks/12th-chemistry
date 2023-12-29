@@ -13,21 +13,21 @@ N </sub> reaction.
 
 Let us understand the elementary reactions by considering another reaction, the decomposition of hydrogen peroxide catalysed by I− .
 
-2 H<sub>2</sub> O<sub>2</sub> (aq)→ H<sub>2</sub> O <sub>2</sub>(g) 
+2 H<sub>2</sub> O<sub>2</sub> (aq)→ H<sub>2</sub> O<sub>2</sub>(g) 
 
 
 It is experimentally found that the reaction is first order with respect to both
 
 H<sub>2</sub> O<sub>2</sub> and I, which indicates that I− is also involved in the reaction. The mechanism involves the following steps.
 
-**Step:1** H<sub>2</sub> O <sub>2</sub>(aq) + I<sup>-</sup> (aq)→ H<sub>2</sub>O(l) +OI <sup>-</sup>(aq)
+**Step:1** H<sub>2</sub>O<sub>2</sub>(aq) + I<sup>-</sup> (aq)→ H<sub>2</sub>O(l) +OI<sup>-</sup>(aq)
 
-**Step : 2** H<sub>2</sub> O<sub>2</sub> (aq) + OI<sup>-</sup> (aq)→ H<sub>2</sub> O(l)+ I<sup>-</sup> (aq) + O<sub>2</sub>(g)
+**Step : 2** H<sub>2</sub>O<sub>2</sub> (aq) + OI<sup>-</sup> (aq)→ H<sub>2</sub> O(l)+ I<sup>-</sup> (aq) + O<sub>2</sub>(g)
 
 
 Overall reaction is
 
-2H<sub>2</sub> O<sub>2</sub>(aq)→ 2H<sub>2</sub>O(l)+ O <sub>2</sub>(g) 
+2H<sub>2</sub> O<sub>2</sub>(aq)→ 2H<sub>2</sub>O(l)+ O<sub>2</sub>(g) 
 
 
 These two reactions are elementary reactions. Adding equ (1) and (2) gives the overall reaction. Step 1 is the rate determining step, since it involves both H<sub>2</sub> O<sub>2</sub> and I<sup>-</sup>
@@ -140,5 +140,5 @@ increases the rate by a factor of 16. Find the order of the reaction with respec
 
 2). Find the individual and overall order of the following reaction using the given data.
 
-2NO(g) + Cl <sub>2</sup>(g)→2NOCl(g)
+2NO(g) + Cl<sub>2</sup> (g)--->2NOCl(g)
 ![image](table.png)

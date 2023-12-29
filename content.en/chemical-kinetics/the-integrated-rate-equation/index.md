@@ -112,6 +112,8 @@ Ie., \[A\]=\[A\]/t
 ⇒ y = c + mx
 
 A plot of \[A\] Vs time gives a straight line with a slope of −k and y - intercept of \[A<sub>0</sub> \].
+
+
 ![graph](graph.png)
 
 **Examples for a zero order reaction:** 1\. Photochemical reaction between H2 and I2
