@@ -425,9 +425,7 @@ Where _t_ is the time in minutes and V is the volume of standard KMnO4 solution 
 
 30\. A first order reaction is 40% complete in 50 minutes. Calculate the value of the rate constant. In what time will the reaction be 80% complete?
 
-
-
-flowchart TD
+```mermaid
     A[Chemical Kinetics] -->  B[Reaction Rate] -->C(Rate Law) 
     C -->G[Order]
     C -->H[Molecularity]
@@ -446,7 +444,7 @@ flowchart TD
     Y -->W[Temperature]
     Y -->T[Catalyst]
     Y -->V[Surface area]
-
+```
 ![img](dia.png)
 
 **ICT Corner**
