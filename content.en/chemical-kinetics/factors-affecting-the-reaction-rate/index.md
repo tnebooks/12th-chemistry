@@ -447,6 +447,7 @@ flowchart TD
     Y -->T[Catalyst]
     Y -->V[Surface area]
 
+![img](dia.png)
 
 **ICT Corner**
 **CHEMICAL KINETICS**
