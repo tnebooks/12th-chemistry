@@ -54,9 +54,13 @@ Examples for the first order reaction
 
 (i) Decomposition of dinitrogen pentoxide
 
-N<sub>2</sub>O<sub>5</sub>(g)---> 2NO <sub>2(g) + 1/2 O<sub>2</sub>(g)
-(ii) Decomposition of sulphurylchloride; SO<sub>2</sub>Cl<sub>2</sub>(l)---> SO<sub>2</sub>(g)+ Cl<sub>2</sub>(g)
-(iii) Decomposition of the H<sub>2</sub>O<sub>2</sub> in aqueous solution; H<sub>2</sub>O<sub>2</sub>(aq)---> H<sub>2</sub>O(l)+1/2 O<sub>2</sub>(g)
+N<sub>2</sub>O<sub>5</sub>(g)---> 2NO <sub>2(g)</sub> + 1/2 O<sub>2</sub>(g).
+
+(ii) Decomposition of sulphurylchloride;
+ SO<sub>2</sub>Cl<sub>2</sub>(l)---> SO<sub>2</sub>(g)+ Cl<sub>2</sub>(g).
+
+(iii) Decomposition of the
+ H<sub>2</sub>O<sub>2</sub> in aqueous solution; H<sub>2</sub>O<sub>2</sub>(aq)---> H<sub>2</sub>O(l)+1/2 O<sub>2</sub>(g).
 
 (iv) Isomerisation of cyclopropane to propene.
 
