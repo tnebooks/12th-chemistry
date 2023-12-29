@@ -1084,7 +1084,7 @@ and OH present in the adjacent carbons of alcohols are lost, and it results in t
 CH2 = CH2 + H2O 443 K -->
 
 **Mechanism** Primary alcohols undergo dehydration by E2 mechanism
-![Alt text](115-mechanism.png)
+![mechanism](115-mechanism.png)
 
 <!-- 
 CH3 CH2 O .. .. H
@@ -3190,7 +3190,7 @@ OCH3 OCH3 -->
 
     a) benzaldehyde b) propanoic acid c) methyl propanoate d) acetaldehyde
 
-3. ![Alt text](139-3.png)
+3. ![ques 3](139-3.png)
 
     $\ce{Ethene ->[{HOCL}] A ->[{x}]}ethan -1, 2 - diol$
 
@@ -3246,7 +3246,7 @@ CH3 -->
     c) $\ce{CH2=C(CH3)CH2-CH2-CH3}$ d) $\ce{CH2=C(CH3)-CH2-CH2-CH3}$
 
 10. The correct IUPAC name of the compound,
-![Alt text](140-10.png)
+![ques 10](140-10.png)
 
     a) 4 – chloro – 2,3 – dimethyl pentan – 1-ol
 
@@ -3438,7 +3438,7 @@ ii) H2O B -->
 18. 0.44g of a monohydric alcohol when added to methyl magnesium iodide in ether liberates at STP 112 cm3 of methane with PCC the same alcohol form a carbonyl compound that answers silver mirror test. Identify the compound.
 
 19. Complete the following reactions
-![Alt text](143-19.png)
+![ques 19](143-19.png)
 
 <!-- i) OH
 
