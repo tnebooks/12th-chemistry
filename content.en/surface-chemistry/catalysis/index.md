@@ -35,8 +35,6 @@ Let us consider some examples in which the reactants, products and catalyst are 
 
 (1) Hydrolysis of cane sugar with a mineral acid as catalyst
 
-<!-- \underset{\text{Source}}{C12H22O11}+H2O \xrightarrow{H2SO4(i)} AgCl -->
-
 {{< katex display >}}
 \underset{\text{Source}}{C_{12}H_{22}O_{11_{(l)}}} + H_2O_{(l)} \xrightarrow{H_2SO_{4_{(l)}}} \underset{\text{Glucose}}{C_{6}H_{12}O_{6_{(l)}}} + \underset{\text{Fructose}}{C_{6}H_{12}O_{6_{(l)}}}
 {{< /katex >}}
@@ -46,73 +44,62 @@ Let us consider some examples in which the reactants, products and catalyst are 
 {{< katex display >}}
 \underset{\text{Ethyl acetate}}{CH_{3}COOC_{2}H_{5_{(l)}}} + H_2O_{(l)} \xrightarrow{H_2SO_{4_{(l)}}} \underset{\text{acetic acid}}{CH_{3}COOH_{\ _{(l)}}} +\underset{\text{ethyl alcohol}}{C_2H_2OH_{\ _{(l)}}} 
 {{< /katex >}}
+
 **Heterogeneous catalysis**
 
 In a reaction, the catalyst is present in a different phase i.e. it is not present in the same phase as that of reactants or products. This is generally referred as contact catalysis and the catalyst present is in the form of finely divided metal or as gauze
 
 **Illustration**
 
-(i) In the manufacture of sulphuric acid by contact process SO<sub>3</sub> is prepared by the action of SO<sub>2</sub> and O<sub>2</sub> in the presence of Pt or V2O5 as a catalyst.
+1. In the manufacture of sulphuric acid by contact process SO<sub>3</sub> is prepared by the action of SO<sub>2</sub> and O<sub>2</sub> in the presence of Pt or V<sub>2</sub>O<sub>5</sub> as a catalyst.
 
-<!-- ( )
+{{< katex display >}}
+2SO_{2^{(g)}} + O_{2^{(g)}} \xrightarrow{Pt_{(s)}\ or\ V_2O_{5(s)}} 2SO_{3^{(g)}}
+{{< /katex >}}
 
-(s) (s) ( ) ( )
+2. In the Haber’s process for the manufacture of ammonia, iron is used as a catalyst for the reaction between Hydrogen and Nitrogen.
 
-2 5 2 2 3
+{{< katex display >}}
+N_{2^{(g)}} + 3H_{2^{(g)}} \xrightarrow{Fe_{(s)}} 2NH_{3^{(g)}}
+{{< /katex >}}
 
-Pt or V O 2SO +O 2SO _gg g_ → -->
+3. Oxidation of ammonia is carried out in presence of platinum gauze
 
-ii) In the Haber’s process for the manufacture of ammonia, iron is used as a catalyst for the reaction between Hydrogen and Nitrogen.
+{{< katex display >}}
+4NH_{2{(g)}} + 5O_{2(g)} \xrightarrow{Pt_{(s)}} 4NO_{2{(g)}}+6H_2O_{(g)}
+{{< /katex >}}
 
-<!-- N +3H Fe 2NH2 2 3 (s)
+4. The hydrogenation of unsaturated organic compounds is carried out using finely divided nickel as a catalyst.
 
-( ) ( ) ( )*g g g* → -->
+{{< katex display >}}
+CH_2=CH_{2{(g)}} + H_{2(g)} \xrightarrow{Ni_{(s)}} CH_3-CH_{3(g)}
+{{< /katex >}}
 
-iii) Oxidation of ammonia is carried out in presence of platinum gauze
+5. Decomposition of H2O2 occurs in the presence of the Pt catalyst
 
-<!-- 4NH +5O 4NO +6H O3 2 2 Pt(s)
+{{< katex display >}}
+2H_2O_{2(l)} \xrightarrow{Pt_{(s)}} 2H_2O_{(l)}+O_{2(g)}
+{{< /katex >}}
 
-( ) ( ) ( ) ( )*g g g g* → -->
+6. In the presence of anhydrous AlCl3, benzene reacts with ethanoyl chloride to produce acetophenone
 
-iv) The hydrogenation of unsaturated organic compounds is carried out using finely divided nickel as a catalyst.
-
-<!-- CH =CH +H CH -CH2 2 2 3 3 Ni(s)
-
-( ) ( ) ( )*g g g* → -->
-
-v) Decomposition of H2O2 occurs in the presence of the Pt catalyst
-
-<!-- 2 2 Pt2 (l) H O 2H O (g) 2 +O2(l) (s) -->
-
-vi) In the presence of anhydrous AlCl3, benzene reacts with ethanoyl chloride to produce acetophenone
-
-<!-- AlCl3*anhydrous*  →+ CH3 C Cl
-
-O
-
-C CH3
-
-O
-
-acetophenone
-
-\+ HCl(l) (l) (l) (l)
-
-(s) -->
+![Alt text](formula1.png)
 
 # Characteristics of catalysts
 
-1\. For a chemical reaction, catalyst is needed in very small quantity. Generally, a pinch of catalyst is enough for a reaction in bulk.
+1. For a chemical reaction, catalyst is needed in very small quantity. Generally, a pinch of catalyst is enough for a reaction in bulk.
 
-2\. There may be some physical changes, but the catalyst remains unchanged in mass and chemical composition in a chemical reaction.
+2. There may be some physical changes, but the catalyst remains unchanged in mass and chemical composition in a chemical reaction.
 
-3\. A catalyst itself cannot initiate a reaction. It means it can not start a reaction which is not taking place. But, if the reaction is taking place in a slow rate it can increase its rate.
+3. A catalyst itself cannot initiate a reaction. It means it can not start a reaction which is not taking place. But, if the reaction is taking place in a slow rate it can increase its rate.
 
-4\. A solid catalyst will be more effective if it is taken in a finely divided form. 5. A catalyst can catalyse a particular type of reaction, hence they are said to be specific in nature.
+4. A solid catalyst will be more effective if it is taken in a finely divided form. 5. A catalyst can catalyse a particular type of reaction, hence they are said to be specific in nature.
 
-6\. In an equilibrium reaction, presence of catalyst reduces the time for attainment of equilibrium and hence it does not affect the position of equilibrium and the value of equilibrium constant.
+6. In an equilibrium reaction, presence of catalyst reduces the time for attainment of equilibrium and hence it does not affect the position of equilibrium and the value of equilibrium constant.
 
-7\. A catalyst is highly effective at a particular temperature called as optimum temperature. 8. Presence of a catalyst generally does not change the nature of products For example. 2SO<sub>2</sub> +O<sub>2</sub> → 2SO<sub>3</sub>
+7. A catalyst is highly effective at a particular temperature called as optimum temperature. 
+
+8. Presence of a catalyst generally does not change the nature of products For example. 2SO<sub>2</sub> +O<sub>2</sub> → 2SO<sub>3</sub>
 
 This reaction is slow in the absence of a catalyst, but fast in the presence of Pt catalyst
 
@@ -120,7 +107,7 @@ This reaction is slow in the absence of a catalyst, but fast in the presence of 
 
 In a catalysed reaction the presence of a certain substance increases the activity of a catalyst. Such a substance is called a promoter.
 
-For example in the Haber’s process of manufacture of ammonia, the activity of the iron catalyst is increased by the presence of molybdenum. Hence molybdenum is called a promoter. In the same way AlO3 can also be used as a promoter to increase the activity of the iron catalyst.
+For example in the Haber’s process of manufacture of ammonia, the activity of the iron catalyst is increased by the presence of molybdenum. Hence molybdenum is called a promoter. In the same way Al<sub>2</sub>O<sub>3</sub> can also be used as a promoter to increase the activity of the iron catalyst.
 
 On the other hand, certain substances when added to a catalysed reaction decreases or completely destroys the activity of catalyst and they are often known as catalytic poisons.
 
@@ -154,11 +141,11 @@ Arsenic acts as an autocatalyst
 
 In certain reactions, presence of certain substances, decreases the rate of the reaction. Ethanol is a negative catalyst for the following reaction.
 
-(i) 4CHCl<sub>3</sub> +3O<sub>2</sub> → 4COCl<sub>2</sub>+2H<sub>2</sub>O+2Cl<sub>2</sub>
+1. 4CHCl<sub>3</sub> +3O<sub>2</sub> → 4COCl<sub>2</sub>+2H<sub>2</sub>O+2Cl<sub>2</sub>
 
 Ethanol decreases the rate of the reaction
 
-(ii) 2H<sub>2</sub>O<sub>2</sub> → 2H<sub>2</sub>O+O<sub>2</sub>
+2. 2H<sub>2</sub>O<sub>2</sub> → 2H<sub>2</sub>O+O<sub>2</sub>
 
 In the decomposition of hydrogen peroxide, dilute acid or glycerol acts as a negative catalyst.
 
@@ -170,9 +157,9 @@ As activation energy is lowered in presence of a catalyst, more molecules take p
 
 The action of catalysis in chemical reactions is explained mainly by two important theories. They are
 
-(i) the intermediate compound formation theory
+1. the intermediate compound formation theory
 
-(ii) the adsorption theory.
+2. the adsorption theory.
 
 **The intermediate compound formation theory**
 
@@ -192,15 +179,18 @@ Activation energies for the reactions (2) and (3) are lowered compared to that o
 
 **Example 1** The mechanism of Fridel crafts reaction is given below
 
-<!-- 3 6 6 3 6 5 3
+{{< katex display >}}
 
-anhydrous AlCl
+C_6H_6+CH_3Cl
+\xrightarrow{\underset{\text{anhydrous}}{AlCl_3}} 
 
-C H +CH Cl C H CH +HCl→ -->
+C_6H_5CH_3+HCl
+
+{{< /katex >}}
 
 The action of catalyst is explained as follows
 
-CH<sub>3</sub>Cl+AlCl<sub>3</sub> → \[CH<sub>3</sub><sup>+</sup>\]\[AlCl<sub>4</sub>\]<sup>-</sup>
+CH<sub>3</sub>Cl+AlCl<sub>3</sub> → \[CH<sub>3</sub>\]<sup>+</sup>\[AlCl<sub>4</sub>\]<sup>-</sup>
 
 It is an intermediate.
 
@@ -208,7 +198,7 @@ C<sub>6</sub>H<sub>6</sub>+\[CH<sub>3</sub><sup>+</sup>\]\[AlCl<sub>4</sub>\]<su
 
 **Example 2**
 
-Thermal decomposition of KClO<sub>3</sub> in presence of MnO<sub>3</sub> proceeds as follows.
+Thermal decomposition of KClO<sub>3</sub> in presence of MnO<sub>2</sub> proceeds as follows.
 
 Steps in the reaction 2KClO<sub>3</sub> → 2KCl+3O<sub>2</sub> can be given as
 
@@ -242,17 +232,17 @@ It is an intermediate.
 
 This theory describes
 
-(i) the specificity of a catalyst and
+1. the specificity of a catalyst and
 
-(ii) the increase in the rate of the reaction with increase in the concentration of a catalyst.
+2. the increase in the rate of the reaction with increase in the concentration of a catalyst.
 
 **Limitations**
 
-(i) The intermediate compound theory fails to explain the action of catalytic poison and activators (promoters).
+1. The intermediate compound theory fails to explain the action of catalytic poison and activators (promoters).
 
-(ii) This theory is unable to explain the mechanism of heterogeneous catalysed reactions.
+2. This theory is unable to explain the mechanism of heterogeneous catalysed reactions.
 
-**2\. Adsorption theory**
+**2. Adsorption theory**
 
 Langmuir explained the action of catalyst in heterogeneous catalysed reactions based on adsorption. The reactant molecules are adsorbed on the catalyst surfaces, so this can also be called as contact catalysis.
 
@@ -260,13 +250,13 @@ According to this theory, the reactants are adsorbed on the catalyst surface to 
 
 The various steps involved in a heterogeneous catalysed reaction are given as follows:
 
-1\. Reactant molecules diffuse from bulk to the catalyst surface.
+1. Reactant molecules diffuse from bulk to the catalyst surface.
 
-2\. The reactant molecules are adsorbed on the surface of the catalyst. 3. The adsorbed reactant molecules are activated and form activated complex which is decomposed to form the products.
+2. The reactant molecules are adsorbed on the surface of the catalyst. 3. The adsorbed reactant molecules are activated and form activated complex which is decomposed to form the products.
 
-4\. The product molecules are desorbed.
+4. The product molecules are desorbed.
 
-5\. The product diffuse away from the surface of the catalyst.
+5. The product diffuse away from the surface of the catalyst.
 
 ![Alt text](image1.png)
 

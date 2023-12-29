@@ -44,7 +44,7 @@ is required here.
 
 **Unit of rate of a reaction:**
 
-unit of rate = unit of concentration unit of time
+unit of rate = unit of concentration/unit of time
 
 Usually, concentration is expressed in number of moles per litre and time is expressed in seconds and therefore the unit of the rate of a reaction is mol L s-1 -1 . Depending upon the nature of the reaction, minute, hour, year etc can also be used.
 
@@ -85,23 +85,15 @@ Rate =- 1(d\[A\])/x (dt)= \- 1d\[B\]/ y dt=1 d\[C\]/ ldt = 1d\[D\]/ mdt
 ![graph](graph.png)
 
 
-
-Time (mins) \* Schematic representation- Not to scale
-
-\*
-
-\-A -B
-
 **Fig 7.1 change in concentration of A and B for the reaction** A  →B
+
 
 ### Average and instantaneous rate:
 
 
 Let us understand the average rate and instantaneous rate by considering the isomerisation of cyclopropane.
 
-780 K
-
-cyclopropane propene
+![graph](3.png)
 
 The kinetics of the above reaction is followed by measuring the concentration of cyclopropane at regular intervals and the observations are shown below. (Table 7.1)
 
@@ -157,11 +149,11 @@ Let us calculate the instantaneous rate of isomerisation cyclopropane at differe
 
 \[cyclopropane\] mol L-1 Rate mol L min-1 -1
 
-2 6.92 × 10 –2
+2 6.92 × 10<sup> –2</sup>
 
-1 3.46 × 10 –2
+1 3.46 × <sup> –2</sup>
 
-0.5 1.73 × 10 –2
+0.5 1.73 × 10 <sup> –2</sup>
 
 **Table 7.2 Rate of isomerisation**
 |[cyclopropane] ( mol L )-1 | Rate (mol L)-1(min)-1|

@@ -2,9 +2,8 @@
 title: 'Carbohydrates'
 weight: 1
 ---
-## Carbohydrates:
- Carbohydrates are the most abundant organic compounds in every living organism. They
 
+Carbohydrates are the most abundant organic compounds in every living organism. They
 are also known as saccharides (derived from Greek word ‘_sakcharon_’ which means sugar) as many of them are sweet. They are considered as hydrates of carbon, containing hydrogen and oxygen in the same ratio as in water. Chemically, they are defined as polyhydroxy aldehydes or ketones with a general formula Cn(H2O)n. Some common examples are glucose (monosaccharide), sucrose (disaccharide) and starch (polysaccharide)
 
 ![Figure 14.1. Structure of carbohydrates](structure-of-carbohydrates.png)
@@ -14,7 +13,7 @@ Carbohydrates are synthesised by green leaves during photo synthesis, a complex 
 
 ![](forumla1.png)
 
-### Configuration of carbohydrates:
+**14.1.1 Configuration of carbohydrates:**
 
 
 Almost all carbohydrates are optically active as they have one or more chiral carbons. The number of optical isomers depends on the number of chiral carbons (2n isomers, where n is the total number of chiral carbons). We have already learnt in XI standard to represent an organic compound using Fischer projection formula. Fischer has devised a projection formula to relate the structure of a carbohydrate to one of the two enantiomeric forms of glyceraldehyde (Figure 14.2). Based on these structures, carbohydrates are named as D or L.The carbohydrates are usually named with two prefixes namely D or L and followed by sign either (+) or (-). Carbohydrates are assigned the notation (D/L) by comparing the configuration of the carbon that is attached to -CH2OH group with that of glyceraldehyde.For example D-glucose is so named because the H and OH on C5 carbon are in the same configuration as the H and OH on C2 carbon in D-Glyceraldehyde.
@@ -23,10 +22,9 @@ There + and – sign indicates the dextro rotatory and levo rotatory respectivel
 
 ![Figure 14.2 Configuration of carbohydrates](configuration-of-carbohydrates.png)
 
-
-### Classification of carbohydrates:
- Carbohydrates can be classified into three major groups based on their product of
-
+**14.1.2 Classification of carbohydrates:**
+ 
+Carbohydrates can be classified into three major groups based on their product of
 hydrolysis, namely monosaccharides, oligosaccharides and polysaccharides.
 
 **Monosaccharides:**Monosaccharides are carbohydrates that cannot be hydrolysed further and are also called simple sugars. Monosaccharides have general formula Cn(H2O)n. While there are many monosaccharides known only about 20 of them occur in nature. Some common examples are glucose, fructose, ribose, erythrose
@@ -45,28 +43,17 @@ Monosaccharides are further classified based on the functional group present (al
 | 6 |Aldehyde |Aldohexose |Glucose |
 | 6 |Ketone |Ketohexose |Fructose |
 
-**No. of carbon atoms in the chain**
+**14.1.3 Glucose**
 
-**Functional group present Type of sugar Example**
-
-3 Aldehyde Aldotriose Glyceraldehyde 3 Ketone Ketotriose Dihydroxy acetone 4 Aldehyde Aldotetrose Erythrose 4 Ketone Ketotetrose Erythrulose 5 Aldehyde Aldopentose Ribose 5 Ketone Ketopentose Ribulose 6 Aldehyde Aldohexose Glucose 6 Ketone Ketohexose Fructose
-
-
-
-### Glucose
- Glucose is a simple sugar
-
-which serves as a major energy source for us. It is the most important and most abundant sugar. It is present in honey, sweet fruits such as grapes and mangoes etc... Human blood contains about 100 mg/ dL of glucose, hence it is also known as blood sugar. In the combined form it is present in sucrose, starch, cellulose etc.,
+Glucose is a simple sugar which serves as a major energy source for us. It is the most important and most abundant sugar. It is present in honey, sweet fruits such as grapes and mangoes etc... Human blood contains about 100 mg/ dL of glucose, hence it is also known as blood sugar. In the combined form it is present in sucrose, starch, cellulose etc.,
 
 **Preparation of glucose**
 
-1\. When sucrose (_cane sugar_) is boiled with dilute H SO 2 4
-
-in alcoholic solution, it undergoes hydrolysis and give glucose and fructose.
+1. When sucrose (_cane sugar_) is boiled with dilute H₂SO₄ in alcoholic solution, it undergoes hydrolysis and give glucose and fructose.
 
 ![](formula2.png)
 
-2\. Glucose is produced commercially by the hydrolysis of starch with dilute HCl at high temperature under pressure.
+2. Glucose is produced commercially by the hydrolysis of starch with dilute HCl at high temperature under pressure.
 
 ![](formula3.png)
 
@@ -77,37 +64,39 @@ Glucose is an aldohexose. It is optically active with four asymmetric carbons. I
 ![Figure 14.4 Structure of D(+) glucose](structure-of-d(+)-glucose.png)
 
 
-1\. Elemental analysis and molecular weight determination show that the molecular formula of glucose is C6H12O6
+1.Elemental analysis and molecular weight determination show that the molecular formula of glucose is C6H12O6
 
-2\. On reduction with concentrated HI and red phosphorus at 373K, glucose gives a mixture of n hexane and 2–iodohexane indicating that the six carbon atoms are bonded linearly.
+2.On reduction with concentrated HI and red phosphorus at 373K, glucose gives a mixture of n hexane and 2–iodohexane indicating that the six carbon atoms are bonded linearly.
 
 ![](Forumula.png)
 
-3\. Glucose reacts with hydroxylamine to form oxime and with HCN to form cyanohydrin. These reactions indicate the presence of carbonyl group in glucose.
+3.Glucose reacts with hydroxylamine to form oxime and with HCN to form cyanohydrin. These reactions indicate the presence of carbonyl group in glucose.
 
 ![](glucose.png)
 
-4\. Glucose gets oxidized to gluconic acid with mild oxidizing agents like bromine water suggesting that the carbonyl group is an aldehyde group and it occupies one end of the carbon chain. When oxidised using strong oxidising agent such as conc. nitric acid gives glucaric acid (saccharic acid) suggesting the other end is occupied by a primary alcohol group.
+4.Glucose gets oxidized to gluconic acid with mild oxidizing agents like bromine water suggesting that the carbonyl group is an aldehyde group and it occupies one end of the carbon chain. When oxidised using strong oxidising agent such as conc. nitric acid gives glucaric acid (saccharic acid) suggesting the other end is occupied by a primary alcohol group.
 
 ![](glucose4.png)
 
-5\. Glucose is oxidised to gluconic acid with ammonical silver nitrate (Tollen’s reagent) and alkaline copper sulphate (Fehling’s solution). Tollen’s reagent is reduced to metallic silver and Fehling’s solution to cuprous oxide which appears as red precipitate. These reactions further confirm the presence of an aldehyde group
+5.Glucose is oxidised to gluconic acid with ammonical silver nitrate (Tollen’s reagent) and alkaline copper sulphate (Fehling’s solution). Tollen’s reagent is reduced to metallic silver and Fehling’s solution to cuprous oxide which appears as red precipitate. These reactions further confirm the presence of an aldehyde group
 
 ![](glucose5.png)
 
-6\. Glucose forms penta acetate with acetic anhydride suggesting the presence of five alcohol groups.
+6.Glucose forms penta acetate with acetic anhydride suggesting the presence of five alcohol groups.
 
 ![](glucose6.png)
 
-7\. Glucose is a stable compound and does not undergo dehydration easily. It indicates that not more than one hydroxyl group is bonded to a single carbon atom. Thus the five the hydroxyl groups are attached to five different carbon atoms and the sixth carbon is an aldehyde group.
+7.Glucose is a stable compound and does not undergo dehydration easily. It indicates that not more than one hydroxyl group is bonded to a single carbon atom. Thus the five the hydroxyl groups are attached to five different carbon atoms and the sixth carbon is an aldehyde group.
 
-8\. The exact spacial arrangement of -OH groups was given by Emil Fischer as shown in Figure 14.4. The glucose is referred to as D(+) glucose as it has D configuration and is dextrorotatory.
+8.The exact spacial arrangement of -OH groups was given by Emil Fischer as shown in Figure 14.4. The glucose is referred to as D(+) glucose as it has D configuration and is dextrorotatory.
 
-**Cyclic structure of glucose** Fischer identified that the open chain penta hydroxyl aldehyde structure of glucose, that he proposed, did not completely explain its chemical behaviour. Unlike simple aldehydes, glucose did not form crystalline bisulphite compound with sodium bisulphite. Glucose does not give Schiff ’s test and the penta acetate derivative of glucose was not oxidized by Tollen’s reagent or Fehling’s solution. This behaviour could not be explained by the open chain structure.
+**Cyclic structure of glucose** 
+
+Fischer identified that the open chain penta hydroxyl aldehyde structure of glucose, that he proposed, did not completely explain its chemical behaviour. Unlike simple aldehydes, glucose did not form crystalline bisulphite compound with sodium bisulphite. Glucose does not give Schiff ’s test and the penta acetate derivative of glucose was not oxidized by Tollen’s reagent or Fehling’s solution. This behaviour could not be explained by the open chain structure.
 
 ![Figure 14.5 Cyclic structures of glucose](cyclic-structure-of-glucose.png)
 
-In addition, glucose is found to crystallise in two different forms depending upon the crystallisation conditions with different melting points (419 and 423 K). In order to explain these it was proposed that one of the hydroxyl group reacts with the aldehyde group to form a cyclic structure (hemiacetal form) as shown in figure 14.5. This also results in the conversion of the achiral aldehyde carbon into a chiral one leading to the possibility of two isomers. These two isomers differ only in the configuration of C1 carbon. These isomers are called **anomers. The two anomeric forms of glucose are called a and β-forms. This cyclic structure** of glucose is similar to pyran, a cyclic compound with 5 carbon and one oxygen atom, and hence is called pyranose form. The specific rotation of pure a- and β-(D) glucose are 112º & 18.7º respectively. However, when a pure form of any one of these sugars is dissolved in water, slow interconversion of α-D glucose and β-D glucose via open chain form occurs until equilibrium is established giving a constant specifi c rotation + 53º. Th is phenomenon is called **mutarotation**.
+In addition, glucose is found to crystallise in two different forms depending upon the crystallisation conditions with different melting points (419 and 423 K). In order to explain these it was proposed that one of the hydroxyl group reacts with the aldehyde group to form a cyclic structure (hemiacetal form) as shown in figure 14.5. This also results in the conversion of the achiral aldehyde carbon into a chiral one leading to the possibility of two isomers. These two isomers differ only in the configuration of C1 carbon. These isomers are called **anomers**. The two anomeric forms of glucose are called a and β-forms. This cyclic structure of glucose is similar to pyran, a cyclic compound with 5 carbon and one oxygen atom, and hence is called pyranose form. The specific rotation of pure a- and β-(D) glucose are 112º & 18.7º respectively. However, when a pure form of any one of these sugars is dissolved in water, slow interconversion of α-D glucose and β-D glucose via open chain form occurs until equilibrium is established giving a constant specifi c rotation + 53º. Th is phenomenon is called **mutarotation**.
 
 **Epimers and epimerisation:**
 
@@ -115,8 +104,7 @@ Sugar diff ering in confi guration at an asymmetric centre is known as epimers. 
 
 ![Figure 14.6 Epimers: glucose and mannose are epimers at C2 carbon and glucose and galactose are epimers at C4 carbon](forumla4.jpg)
 
-### Fructose
-
+**14.1.4 Fructose**
 
 Fructose is another commonly known monosaccharide having the same molecular formula as glucose. It is levorotatory and a ketohexose. It is present abundantly in fruits and hence it is also called as fruit sugar.
 
@@ -129,17 +117,17 @@ Fructose is obtained from sucrose by heating with dilute H2SO4 or with the enzym
 
 Fructose is separated by crystallisation. Th e mixture having equal amount of glucose and fructose is termed as invert sugar. 
 
-**2\. From Inulin**
+**2. From Inulin**
 
 Fructose is prepared commercially by hydrolysis of Inulin (a polysaccharide) in an acidic medium.
 
 ![](formula6.png)
 
-**Structure of fructose:** Fructose is the sweetest of all known sugars. It is readily soluble in water. Fresh solution of
+**Structure of fructose:** 
 
-fructose has a specific rotation -1330 which changes to – 920 at equilibrium due to mutarotation. Similar to glucose the structure of fructose is deduced from the following facts.
+Fructose is the sweetest of all known sugars. It is readily soluble in water. Fresh solution of fructose has a specific rotation -1330 which changes to – 920 at equilibrium due to mutarotation. Similar to glucose the structure of fructose is deduced from the following facts.
 
-1\. Elemental analysis and molecular weight determination of fructose show that it has the molecular formula C6H2O6
+1\. Elemental analysis and molecular weight determination of fructose show that it has the molecular formula C6H12O6
 
 2\. Fructose on reduction with HI and red phosphorus gives a mixture of n – hexane (major product) and 2 – iodohexane (minor product). This reaction indicates that the six carbon atoms in fructose are in a straight chain.
 
@@ -169,10 +157,9 @@ Like glucose, fructose also forms cyclic structure. Unlike glucose it forms a fi
 
 ![Figure 14.8 Cyclic Structures of fructose](cyclic-structures-of-fructose.png)
 
-### Disaccharides
- Disaccharides are sugars that yield two molecules of monosaccharides on hydrolysis. This
+**14.1.5 Disaccharides**
 
-reaction is usually catalysed by dilute acid or enzyme. Disaccharides have general formula Cn(H2O)n-1.In disaccharides two monosaccharide’s are linked by _oxide linkage_ called ‘_glycosidic linkage_’, which is formed by the reaction of the anomeric carbon of one monosaccharide reacts with a hydroxyl group of another monosaccharide. Example: Sucrose, Lactose, Maltose
+ Disaccharides are sugars that yield two molecules of monosaccharides on hydrolysis.This reaction is usually catalysed by dilute acid or enzyme. Disaccharides have general formula Cn(H2O)n-1.In disaccharides two monosaccharide’s are linked by _oxide linkage_ called ‘_glycosidic linkage_’, which is formed by the reaction of the anomeric carbon of one monosaccharide reacts with a hydroxyl group of another monosaccharide. Example: Sucrose, Lactose, Maltose
 
 **Sucrose:** Sucrose, commonly known as table sugar is the most abundant disaccharide. It is obtained mainly from the juice of sugar cane and sugar beets. Insects such as honey bees have the enzyme called invertases that catalyzes the hydrolysis of sucrose to a glucose and fructose mixture. Honey in fact, is primarily a mixture of glucose, fructose and sucrose. On hydrolysis sucrose yields equal amount of glucose and fructose units.
          
@@ -186,7 +173,6 @@ Sucrose (+66.6°) and glucose (+52.5°) are dextrorotatory compounds while fruct
 
 **Structure:** 
 In sucrose, C1 of a-D-glucose is joined to C2 of β-D-fructose. The glycosidic bond thus
-
 formed is called a-1,2 glycosidic bond. Since, both the carbonyl carbons (reducing groups) are involved in the glycosidic bonding, sucrose is a non-reducing sugar.
 
 **Lactose:** Lactose is a disaccharide found in milk of mammals and hence it is referred to as milk sugar. On hydrolysis, it yields galactose and glucose. Here, the β-D–galactose and β-D–glucose are linked by β-1,4 glycosidic bond as shown in the figure 14.10 . The aldehyde carbon is not involved in the glycosidic bond hence, it retains its reducing property and is called a reducing sugar.
@@ -199,15 +185,15 @@ Maltose consists two molecules of a-D-glucose units linked by an a-1,4 glycosidi
 
 ![Figure 14.11 Structure of Maltose](structure-of-maltose.png)
 
-### Polysaccharides:
+**14.1.6 Polysaccharides:**
 
 Polysaccharides consist of large number of monosaccharide units bonded together by glycosidic bonds and are the most common form of carbohydrates. Since, they do not have sweet taste polysaccharides are called as non-sugars. Th ey form linear and branched chain molecules.
 
 Polysaccharides are classifi ed into two types, namely, homopolysaccharides and heteropolysaccharides depending upon the constituent monosaccharides. Homopolysaccharides are composed of only one type of monosaccharides while the heteropolysaccharides are composed of more than one. Example: starch, cellulose and glycogen (homopolysaccharides); hyaluronic acid and heparin (heteropolysaccharides).
 
-**STARCH** Starch is used for energy storage in plants. Potatoes, corn, wheat and rice are the rich
+**STARCH** 
 
-sources of starch. It is a polymer of glucose in which glucose molecules are lined by a(1,4) glycosidic bonds. Starch can be separated into two fractions namely, water soluble amylose and water insoluble amylopectin. Starch contains about 20 % of amylose and about 80% of amylocpectin.
+Starch is used for energy storage in plants. Potatoes, corn, wheat and rice are the rich sources of starch. It is a polymer of glucose in which glucose molecules are lined by a(1,4) glycosidic bonds. Starch can be separated into two fractions namely, water soluble amylose and water insoluble amylopectin. Starch contains about 20 % of amylose and about 80% of amylocpectin.
 
 Amylose is composed of unbranched chains upto 4000 a-D-glucose molecules joined by a(1,4)glycosidic bonds. Amylopetin contains chains upto 10000 a-D-glucose molecules linked by a(1,4)glycosidic bonds. In addition, there is a branching from linear chain. At branch points, new chains of 24 to 30 glucose molecules are linked by a(1,6)glycosidic bonds. With iodine solution amylose gives blue colour while amylopectin gives a purple colour.
 
@@ -222,17 +208,16 @@ Cellulose is used extensively in the manufacturing paper, cellulose fibres, rayo
 
 **Glycogen:** Glycogen is the storage polysaccharide of animals. It is present in the liver and muscles of animals. Glycogen is also called as animal starch. On hydrolysis it gives glucose molecules. Structurally, glycogen resembles amylopectin with more branching. In glycogen the branching occurs every 8-14 glucose units opposed to 24-30 units in amylopectin. The excessive glucose in the body is stored in the form of glycogen.
 
-### Importance of carbohydrates
+**14.1.7 Importance of carbohydrates**
 
+1.Carbohydrates, widely distributed in plants and animals, act mainly as energy sources and structural polymers.
 
-1\. Carbohydrates, widely distributed in plants and animals, act mainly as energy sources and structural polymers.
+2.Carbohydrate is stored in the body as glycogen and in plant as starch.
 
-2\. Carbohydrate is stored in the body as glycogen and in plant as starch.
+3.Carbohydrates such as cellulose which is the primary components of plant cell wall, is used to make paper, furniture (wood) and cloths (cotton)
 
-3\. Carbohydrates such as cellulose which is the primary components of plant cell wall, is used to make paper, furniture (wood) and cloths (cotton)
+4.Simple sugar glucose serves as an instant source of energy.
 
-4\. Simple sugar glucose serves as an instant source of energy.
+5.Ribose sugars are one of the components of nucleic acids.
 
-5\. Ribose sugars are one of the components of nucleic acids.
-
-6\. Modified carbohydrates such as hyaluronate (glycosaminoglycans) act as shock absorber and lubricant.
+6.Modified carbohydrates such as hyaluronate (glycosaminoglycans) act as shock absorber and lubricant.

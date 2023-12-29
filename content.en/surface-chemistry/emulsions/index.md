@@ -20,7 +20,9 @@ A colloid mill can be used as a homogeniser to mix the two liquid. To have a sta
 Several types of emulsifiers are known.
 
 1. Most of the lyophillic colloids also act as emulsifiers. Example: glue, gelatine.
+
 2. Long chain compounds with polar groups like soap and sulphonic acids.
+
 3. Insoluble powders like clay and lamp black also act as emulsifiers.
 
 **Identification of types of emulsion**
@@ -43,7 +45,7 @@ Conductivity of aqueous emulsions are always higher than oily emulsions.
 
 Oily emulsions spread readily than aqueous emulsion when spread on an oily surface.
 
-### Deemulsification:
+# Deemulsification:
 
 Emulsion can be separated into two separate layers. The process is called Deemulsification.
 
@@ -61,7 +63,9 @@ Emulsion can be separated into two separate layers. The process is called Deemul
 
 6. By applying centrifugal force.
 
-7. Adding dehydrating agents for water in oil (W/O) type. 8. Using ultrasonic waves.
+7. Adding dehydrating agents for water in oil (W/O) type.
+
+8. Using ultrasonic waves.
 
 9. Heating at high pressures.
 
