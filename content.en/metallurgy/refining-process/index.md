@@ -6,9 +6,7 @@ weight: 6
 
 
 ## Refining process
- Generally the metal extracted from its ore contains some impurities such as unreacted
-
-oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process. In this section, let us discuss some of the common refining methods.
+ Generally the metal extracted from its ore contains some impurities such as unreacted oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process. In this section, let us discuss some of the common refining methods.
 
 ### Distillation
 
@@ -35,9 +33,16 @@ Electrolyte : Acidified aqueous solution of silver nitrate.
 
 When a current is passed through the electrodes the following reactions will take place
 
-Reaction at cathode   Ag (s) &rarr; Ag<sup>+</sup> (aq) + 1e<sup>-</sup>  
+Reaction at cathode     
+{{< katex display >}}
+{Ag (s) \xrightarrow{} Ag^+(aq)+1e^-}
+{{< /katex >}}
 
-Reaction at anode  Ag<sup>+</sup> (aq) + 1e<sup>-</sup> &rarr; Ag (s)
+Reaction at anode 
+
+{{< katex display >}}
+{Ag^+(aq)+1e^- \xrightarrow{} Ag}(s)
+{{< /katex >}}
 
 During electrolysis, at the anode the silver atoms lose electrons and enter the solution. The positively charged silver cations migrate towards the cathode and get discharged by gaining electrons and deposited on the cathode. Other metals such as copper, zinc etc.,can also be refined by this process in a similar manner.
 
@@ -55,11 +60,15 @@ In this method, the metal is treated with a suitable reagent which can form a vo
 
 The impure nickel is heated in a stream of carbon monoxide at around 350 K. The nickel reacts with the CO to form a highly volatile nickel tetracarbonyl. The solid impurities are left behind.
 
-Ni (s) + 4 CO (g) &rarr; \[Ni(CO)<sub>4</sub>\] (g)
+{{< katex display >}}
+{Ni (s)  +4 CO(g) \xrightarrow{} {[Ni{CO}_4]} (g)}
+{{< /katex >}}
 
 On heating the nickel tetracarbonyl around 460 K, the complex decomposes to give pure metal.
 
-\[Ni(CO)<sub>4</sub>\] (g) &rarr; Ni (s) + 4 CO (g)
+{{< katex display >}}
+{{[Ni{CO}_4]} (g) \xrightarrow {}Ni(s) +4CO(g)}
+{{< /katex >}}
 
 
 
@@ -67,8 +76,12 @@ On heating the nickel tetracarbonyl around 460 K, the complex decomposes to give
 
 This method is based on the thermal decomposition of metal compounds which lead to the formation of pure metals. Titanium and zirconium can be purified using this method. For example, the impure titanium metal is heated in an evacuated vessel with iodine at a temperature of 550 K to form the volatile titanium tetra-iodide.(TiI<sub>4</sub>). The impurities are left behind, as they do not react with iodine.
 
-Ti (s) + 2I<sub>2</sub> (s) <sup>550K</sup> <sub>Δ</sub>&rarr; TiI<sub>4</sub> (vapour)
+{{< katex display >}}
+{Ti(s)+2l_2(s) \xrightarrow[{Δ}]{550K} .Til_4(vapour)}
+{{< /katex >}}
 
 The volatile titanium tetraiodide vapour is passed over a tungsten filament at a temperature aroud 1800 K. The titanium tetraiodide is decomposed and pure titanium is deposited on the filament. The iodine is reused.
 
-TiI<sub>4</sub> (vapour) <sup> 1800 K</sup> <sub>Δ</sub> &rarr;Ti (s) + 2I<sub>2</sub> (s)
+{{< katex display >}}
+{Til_4 (vapour) \xrightarrow[{Δ}]{1800K} CO +2e^{-}}
+{{< /katex >}}

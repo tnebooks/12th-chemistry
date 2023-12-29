@@ -3,6 +3,9 @@ title: 'Drug'
 weight: 1
 ---
 
+**INTRODUCTION** Chemistry touches every aspect of our lives. The three-basic requirement of our life: food,
+
+clothes, shelter are all basically chemical compounds. Infact, life itself is a complicated system of interrelated chemical process. In this unit, we will learn the chemistry involved in the field of medicines, food materials, cleansing agents and polymers.
 
 
 ## Drug

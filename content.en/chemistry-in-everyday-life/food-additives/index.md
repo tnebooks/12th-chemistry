@@ -11,23 +11,6 @@ weight: 2
 
 materials such as biscuits, chocolates etc...You might have noticed that emulsifi ers such as 322, 472E, dough conditioners 223 etc… are used in the preparation, in addition to the main ingredients such as wheat fl our, edible oil, sugar, milk solid etc… Do you think that these substances are necessary? Yes. Th ese substances enhance the nutritive, sensory and practical value of the food. Th ey also increase the shelf life of food. Th e substances which are not naturally a part of the food and added to improve the quality of food are called food additives.
 
-XII U15 Chemistry in Action.indd 282 2/19/2020 5:17:12 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| 8) AntisepticsExamples Hydrogen peroxide, povidone-iodine, benzalkonium chloride |Stop or slow down the growth of microorganisms – Applied to living tissueUsesTo reduce the risk of infection during surger y and other procedures |Povidone-iodine |
-|------|------|------|
-| 9) DisinfectantsExamples Chlorine compounds, alcohol, Hydrogen peroxide. |Stop or slow down the growth of microorganisms – Generally used on inanimate objects |HOOHHydrogen peroxide |
-| 10) Antifertility drugsExample Synthetic oestrogen- Ethynylestradiol, MenstranolSynthetic Progesterone - Norethindrone, Norethynodrel |ese synthetic hormones thatsuppresses ovulation/fertilisation.UsesUsed in birth control pills. |Ethynylestradiol |
-  
-
-283
-
 ### Important categories of food additives
 
 
@@ -75,13 +58,3 @@ metabolised without the influence of insulin are called sugar substituents. Eg. 
 
 Synthetic compounds which imprint a sweet sensation and possess no or negligible nutritional value are called artificial sweeteners. Eg. Saccharin, Aspartame, sucralose, alitame etc…
 
-XII U15 Chemistry in Action.indd 283 2/19/2020 5:17:13 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-284
