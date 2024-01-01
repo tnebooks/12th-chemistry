@@ -83,7 +83,7 @@ CH_2=CH_{2{(g)}} + H_{2(g)} \xrightarrow{Ni_{(s)}} CH_3-CH_{3(g)}
 
 6. In the presence of anhydrous AlCl3, benzene reacts with ethanoyl chloride to produce acetophenone
 
-![Alt text](formula1.png)
+![Alt formula](formula1.png)
 
 # Characteristics of catalysts
 
@@ -258,7 +258,7 @@ The various steps involved in a heterogeneous catalysed reaction are given as fo
 
 5. The product diffuse away from the surface of the catalyst.
 
-![Alt text](image1.png)
+![Alt Figure 10.3 Hydrogenation of ethylene in presence of a nickel catalyst](image1.png)
 
 **Active centres**
 
@@ -270,7 +270,7 @@ The adsorption theory explains the following
 
 i. Increase in the surface area of metals and metal oxides by reducing the particle size increases acting of the catalyst and hence the rate of the reaction.
 
-![Alt text](image2.png)
+![Alt Figure 10.4 ](image2.png)
 
 ii. The action of catalytic poison occurs when the poison blocks the active centres of the catalyst.
 

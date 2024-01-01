@@ -54,4 +54,4 @@ So phase transfer catalyst, speeds up the reaction by transporting one reactant 
 
 Nano materials such a metallic nano particles, metal oxides, etc., are used as catalyst in many chemical transformation, Nanocatalysts carry the advantages of both homogeneous and heterogeneous catalyses. Like homogeneous catalysts, the nanocatalysts give 100% selective transformations and excellent yield and show extremely high activity. Like the heterogeneous catalysts, nanocatalysts can be recovered and recycled. Nanocatalysts are actually soluble heterogeneous catalysts. An example for nanoparticles catalysed reaction is given below
 
-![Alt text](zeolite.png)
+![Alt zeolite](zeolite.png)

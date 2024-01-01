@@ -528,11 +528,11 @@ Cl
 
 This test is based on the behaviour of the different nitro alkanes formed by the three types of alcohols with nitrous acid and it consists of the following steps.
 
-i) Alcohols are converted into alkyl iodide by treating it with I<sub>2</sub>/P .
+1. Alcohols are converted into alkyl iodide by treating it with I<sub>2</sub>/P .
 
-ii) Alkyl iodide so formed is then treated with AgNO<sub>2</sub> to form nitro alkanes.
+2. Alkyl iodide so formed is then treated with AgNO<sub>2</sub> to form nitro alkanes.
 
-iii) Nitro alkanes are finally treated with HNO<sub>2</sub> (mixture of NaNO HCl<sub>2</sub> / ) and the resultant solution is made alkaline with KOH.
+3. Nitro alkanes are finally treated with HNO<sub>2</sub> (mixture of NaNO HCl<sub>2</sub> / ) and the resultant solution is made alkaline with KOH.
 
 **Result:**
 
@@ -872,11 +872,11 @@ H -->
 
 | S.No. | Compound         | Molecule Formula   | Molar Mass | Boiling Point (K) |
 |-------|------------------|--------------------|------------|-------------------|
-| 1     | Butane           | CH3-CH2-CH2-CH3    | 58         | 272.5             |
-| 2     | Propanal         | CH3-CH2-CHO        | 58         | 322               |
-| 3     | Methoxyethane    | CH3-O-CH2-CH3      | 60         | 283.8             |
-| 4     | Propan-1-ol       | CH3-CH2-CH2-OH     | 60         | 370.4             |
-| 5     | Propan-2-ol       | CH3-CH(OH)-CH3     | 60         | 355.5             |
+| 1     | Butane           | $\ce{CH3-CH2-CH2-CH3}$    | 58         | 272.5             |
+| 2     | Propanal         | $\ce{CH3-CH2-CHO }$       | 58         | 322               |
+| 3     | Methoxyethane    | $\ce{CH3-O-CH2-CH3}$      | 60         | 283.8             |
+| 4     | Propan-1-ol       | $\ce{CH3-CH2-CH2-OH}$     | 60         | 370.4             |
+| 5     | Propan-2-ol       | $\ce{CH3-CH(OH)-CH3}$     | 60         | 355.5             |
 
 
 
@@ -1084,7 +1084,7 @@ and OH present in the adjacent carbons of alcohols are lost, and it results in t
 CH2 = CH2 + H2O 443 K -->
 
 **Mechanism** Primary alcohols undergo dehydration by E2 mechanism
-![Alt text](115-mechanism.png)
+![mechanism](115-mechanism.png)
 
 <!-- 
 CH3 CH2 O .. .. H
@@ -2926,9 +2926,9 @@ C-O bonds with significant contribution from two lone pairs of electrons. For ex
 **Compound Molar Mass Boiling point**
 | Compound |Molar Mass |Boiling point |
 |------|------|------|
-| CH n-h(CepH t)ane CH3 2 5 |100.21 |371K |
-| CH1-met O ho (xypCH en) tan CeH3 2 4 3 |102.17 |373K |
-| CH hexa(C n-1-oH ) l OH3 2 5 |102.16 |430K |
+| $\ce{CH3-(CH2)5-CH3}$ |100.21 |371K |
+| $\ce{CH3-(CH2)4-CH3}$ |102.17 |373K |
+|$\ce{CH3-(CH2)5-OH}$|102.16 |430K |
 
 <!-- CH3 (CH2)5 CH3
 
@@ -3190,7 +3190,7 @@ OCH3 OCH3 -->
 
     a) benzaldehyde b) propanoic acid c) methyl propanoate d) acetaldehyde
 
-3. ![Alt text](139-3.png)
+3. ![ques 3](139-3.png)
 
     $\ce{Ethene ->[{HOCL}] A ->[{x}]}ethan -1, 2 - diol$
 
@@ -3246,7 +3246,7 @@ CH3 -->
     c) $\ce{CH2=C(CH3)CH2-CH2-CH3}$ d) $\ce{CH2=C(CH3)-CH2-CH2-CH3}$
 
 10. The correct IUPAC name of the compound,
-![Alt text](140-10.png)
+![ques 10](140-10.png)
 
     a) 4 – chloro – 2,3 – dimethyl pentan – 1-ol
 
@@ -3438,7 +3438,7 @@ ii) H2O B -->
 18. 0.44g of a monohydric alcohol when added to methyl magnesium iodide in ether liberates at STP 112 cm3 of methane with PCC the same alcohol form a carbonyl compound that answers silver mirror test. Identify the compound.
 
 19. Complete the following reactions
-![Alt text](143-19.png)
+![ques 19](143-19.png)
 
 <!-- i) OH
 
