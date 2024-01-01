@@ -8,7 +8,7 @@ weight: 4
 ### Occurrence:
 
 
-All the noble gases occur in the atmosphere. 
+All the noble gases occur in the atmosphere.
 **Physical properties:**
 
 As we move along the noble gas elements, their atomic radius andd boiling point increases from helium to radon. The first ionization energy decreases from helium to radon. Noble gases have the largest ionisation energy compared to any other elements in a given row as they have completely filled orbital in their outer most shell. They are extremely stable and have a small tendency to gain or lose electrons. The common physical properties of the group 18 elements are listed in the Table.
