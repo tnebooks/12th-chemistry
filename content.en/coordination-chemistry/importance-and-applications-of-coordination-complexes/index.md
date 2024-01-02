@@ -9,13 +9,13 @@ many plants, animals and in minerals. Some Important applications of coordinatio
  
 1. Phthalo blue – a bright blue pigment is a complex of Copper (II) ion and it is used in printing ink and in the packaging industry.
  
-2. Purification of Nickel by Mond’s process involves formation \[Ni(CO)4\], which Yields 99.5% pure Nickel on decomposition.
+2. Purification of Nickel by Mond’s process involves formation \[Ni(CO)<sub>4</sub>\], which Yields 99.5% pure Nickel on decomposition.
  
 3. EDTA is used as a chelating ligand for the separation of lanthanides,in softening of hard water and also in removing lead poisoning.
  
 4. Coordination complexes are used in the extraction of silver and gold from their ores by forming soluble cyano complex. These cyano complexes are reduced by zinc to yield metals. This process is called as Mac-Arthur –Forrest cyanide process.
  
-5. Some metal ions are estimated more accurately by complex formation. For example, Ni2+ ions present in Nickel chloride solution is estimated accurately for forming an insoluble complex called \[Ni(DMG)2\].
+5. Some metal ions are estimated more accurately by complex formation. For example, Ni<sub>2+</sub> ions present in Nickel chloride solution is estimated accurately for forming an insoluble complex called \[Ni(DMG)<sub>2</sub>].
  
 6. Many of the complexes are used as catalysts in organic and inorganic reactions. For example,
  
@@ -40,6 +40,10 @@ electrolytic bath.
 9. In photography, when the developed film is washed with sodium thio sulphatesolution (hypo), the negative film gets fixed. Undecomposed AgBr forms a soluble complex called sodiumdithiosulphatoargentate(I) which can be easily removed by washing the film with water.
  
 AgBr + 2 NaSO  + 2 NaBr<sub> 2 </sub> <sup> 2 </sup>
+ $$
+ K=\frac{[H_3O^+][OH^-]}{[H_2O]^2}
+ $$
+ hh
  
  
 10. **Many biological systems contain metal complexes. For example,**
