@@ -69,7 +69,7 @@ Similar to organic compounds, coordination compounds also exhibit stereoisomeris
 
 Geometrical isomerism exists in heteroleptic complexes due to different possible three dimensional spatial arrangements of the ligands around the central metal atom. This type of isomerism exists in square planer and octahedral complexes.
 
-In square planar complexes of the form \[MA2B2\] n± and \[MA2BC\]n± (where A, B and C are
+In square planar complexes of the form \[MA<sub>2</sub>B2\] n± and \[MA2BC\]n± (where A, B and C are
 
 mono dentate ligands and M is the central metal ion/atom), Similar groups (A or B) present either on same side or on the opposite side of the central metal atom (M) give rise to two different geometrical isomers, and they are called, cis and trans isomers respectively.
 
