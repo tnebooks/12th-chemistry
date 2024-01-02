@@ -2,8 +2,6 @@
 title: "Werner's theory of coordination compounds"
 weight: 2
 ---
-
-## Werner's theory of coordination compounds:
 Swiss chemist Alfred Werner was the first one to propose a theory of coordination compounds to explain the observed behaviour of them.
 
 Let us consider the different coloured complexes of cobalt(III) chloride with ammonia which exhibit different properties as shown below.

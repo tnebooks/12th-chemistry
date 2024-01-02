@@ -2,16 +2,16 @@
 title: 'Nomenclature of coordination compounds'
 weight: 4
 ---
-## Nomenclature of coordination compounds
+
  In the earlier days, the compounds were named after their discoverers. For example,K\[Ptcl<sub>3</sub>(c<sub>2</sub>H<sub>4</sub>)\] was called Zeise’s salt and \[Pt(NH<sub>3</sub>)<sub>4</sub>\]\[Ptcl<sub>4</sub>\] is called Magnus’s green salt etc... There are numerous coordination compounds that have been synthesised and characterised. The International Union of Pure and Applied Chemistry (IUPAC) has developed an elaborate system of nomenclature to name them systematically. The guidelines for naming coordination compounds based on IUPAC recommendations (2005) are as follows:
 
 1. The cation is named first, followed by the anion regardless of whether the ion is simple or complex. For example
 
-• In k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the cation k<sup>+</sup> is named first followed by\[Fe(CN)<sub>6</sub>\]<sup>4-</sup>.
+  • In k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the cation k<sup>+</sup> is named first followed by\[Fe(CN)<sub>6</sub>\]<sup>4-</sup>.
 
-• In \[Co(NH<sub>3</sub>)<sub>6</sub>\]cl<sub>3</sub>, the complex cation \[Co(NH<sub>3</sub>)<sub>6</sub>\] <sup>3+</sup> is named first followed by the anion Cl<sup>-</sup>
+  • In \[Co(NH<sub>3</sub>)<sub>6</sub>\]cl<sub>3</sub>, the complex cation \[Co(NH<sub>3</sub>)<sub>6</sub>\] <sup>3+</sup> is named first followed by the anion Cl<sup>-</sup>
 
-• In \[Pt(NH<sub>3</sub>)<sub>4</sub>\]\[Ptcl<sub>4</sub>\], the complex cation \[Pt(NH<sub>3</sub>)<sub>4</sub>\] <sub>2+</sub>is named first followed by the    complex anion \[Ptcl<sub>4</sub>\]<sup>2-</sup>
+  • In \[Pt(NH<sub>3</sub>)<sub>4</sub>\]\[Ptcl<sub>4</sub>\], the complex cation \[Pt(NH<sub>3</sub>)<sub>4</sub>\] <sub>2+</sub>is named first followed by the    complex anion \[Ptcl<sub>4</sub>\]<sup>2-</sup>
 
 2. The simple ions are named as in other ionic compounds. For example,
 
@@ -28,7 +28,7 @@ weight: 4
 
     i. The name of anionic ligands ends with the letter 'o' and the cationic ligand ends with 'ium'. The neutral ligands are usually called with their molecular names with fewer exceptions namely, H<sub>2</sub>O (aqua), CO (carbonyl), NH<sub>3</sub> (ammine) and NO (nitrosyl).
 
-     ii. A κ-term is used to denote an ambidendate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanato-κS and if nitrogen is involved, then it is named thiocyanato-κN.
+    ii. A κ-term is used to denote an ambidendate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanato-κS and if nitrogen is involved, then it is named thiocyanato-κN.
 
 | C ommon name |Formula |IUPAC ligand name |
 |------|------|------|
@@ -50,7 +50,7 @@ tetraacetato |
 | Pyridine (py) |N |pyridine |
 
 
-iii. If the coordination entity contains more than one ligand of a particular type, the multiples of ligand (2, 3, 4 etc...) is indicated by adding appropriate Greek prefixes (di, tri, tetra, etc...) to the name of the ligand. If the name of a ligand itself contains a Greek prefix (eg. ethylenediamine), use an alternate prefixes (bis, tris, tetrakis etc..) to specify the multiples of such ligands. These numerical prefixes are not taken into account for alphabetising the name of ligands.
+  iii. If the coordination entity contains more than one ligand of a particular type, the multiples of ligand (2, 3, 4 etc...) is indicated by adding appropriate Greek prefixes (di, tri, tetra, etc...) to the name of the ligand. If the name of a ligand itself contains a Greek prefix (eg. ethylenediamine), use an alternate prefixes (bis, tris, tetrakis etc..) to specify the multiples of such ligands. These numerical prefixes are not taken into account for alphabetising the name of ligands.
 
 **b. Naming the central metal**: In cationic/neutral complexes, the element name is used as such for naming the central metal atom/ion, whereas, a suffix 'ate' is used along with the element name in anionic complexes. The oxidation state of the metal is written immediately after the metal name using roman numerals in parenthesis.
 
@@ -138,27 +138,29 @@ iii. If the coordination entity contains more than one ligand of a particular ty
 
 a. Write the IUPAC name for the following compounds.
 
-(i) K Fe CN Cl NH<sub>2</sub> 3 2 3( ) ( ) ( )  
-(ii) Cr CN H O Co ox en( ) ( )  ( ) ( ) 2 2 4 2
+  (i)  K<sub>2</sub>[Fe(CN)<sub>3</sub>(Cl)<sub>2</sub>(NH)<sub>3</sub>]
 
-(iii) Cu NH cl<sub>3</sub> 2 2( )  
-(iv) Cr NH NC H o<sub>3</sub> 3 2 2( ) ( ) ( ) 
+  (ii) [Cr(CN)<sub>2</sub> (H<sub>2</sub> O )<sub>4</sub>]
 
-(v) Fe CN( )  −
+  (iii) [Cu(NH<sub>3</sub>)<sub>2</sub> cl<sub>2</sub>] 
+
+  (iv)  [Cr(NH<sub>3</sub>)<sub>3</sub>(Nc)<sub>2</sub>(H<sub>2</sub>O)]<sup>+</sup>
+
+  (v)   [Fe(CN)<sub>6</sub>]<sup>4-</sup>
 
 
 
 b. Give the structure for the following compounds.
 
-(i) diamminesilver(I) dicyanidoargentate(I)
+  (i) diamminesilver(I) dicyanidoargentate(I)
 
-(ii) Pentaammine nitrito-κNcobalt (III) ion
+  (ii) Pentaammine nitrito-κNcobalt (III) ion
 
-(iii) hexafluorido cobaltate (III) ion
+  (iii) hexafluorido cobaltate (III) ion
 
-(iv) dichloridobis(ethylenediamine) Cobalt (IV) sulphate
+  (iv) dichloridobis(ethylenediamine) Cobalt (IV) sulphate
 
-(v) Tetracarbonylnickel (0)
+  (v) Tetracarbonylnickel (0)
 
 
 

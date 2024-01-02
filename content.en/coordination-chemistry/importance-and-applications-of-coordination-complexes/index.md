@@ -2,10 +2,8 @@
 title: 'Importance and applications of coordination complexes'
 weight: 8
 ---
-## Importance and applications of coordination complexes:
- The coordination complexes are of great importance. These compounds are present in
- 
-many plants, animals and in minerals. Some Important applications of coordination complexes are described below.
+
+ The coordination complexes are of great importance. These compounds are present in many plants, animals and in minerals. Some Important applications of coordination complexes are described below.
  
 1. Phthalo blue – a bright blue pigment is a complex of Copper (II) ion and it is used in printing ink and in the packaging industry.
  
@@ -19,42 +17,34 @@ many plants, animals and in minerals. Some Important applications of coordinatio
  
 6. Many of the complexes are used as catalysts in organic and inorganic reactions. For example,
  
-(i) Wilkinson’s catalyst - PPh <sub> 3 </sub> RhCl  is used for hydrogenation of alkenes.
+    (i) Wilkinson’s catalyst - PPh <sub> 3 </sub> RhCl  is used for hydrogenation of alkenes.
  
-(ii) Ziegler-Natta catalyst - TiCl<sub> 4 </sub> + Al C<sub> 2 </sub> H<sub> 3 </sub>  is used in the polymerization of ethene.
+    (ii) Ziegler-Natta catalyst - TiCl<sub> 4 </sub> + Al C<sub> 2 </sub> H<sub> 3 </sub>  is used in the polymerization of ethene.
  
 7. In order to get a fine and uniform deposit of superior metals (Ag, Au, Pt etc.,) over
  
-base metals, Coordination complexes
- 
-2 2 etc., are used in
- 
-electrolytic bath.
+base metals, Coordination complexes etc., are used in electrolytic bath.
  
 8. Many complexes are used as medicines for the treatment of various diseases. For example,
  
-(1) Ca-EDTA chelate, is used in the treatment of lead and radioactive poisoning. That is for removing lead and radioactive metal ions from the body.
+    (1) Ca-EDTA chelate, is used in the treatment of lead and radioactive poisoning. That is for removing lead and radioactive metal ions from the body.
  
-(2) Cis-platin is used as an antitumor drug in cancer treatment.
+     (2) Cis-platin is used as an antitumor drug in cancer treatment.
  
 9. In photography, when the developed film is washed with sodium thio sulphatesolution (hypo), the negative film gets fixed. Undecomposed AgBr forms a soluble complex called sodiumdithiosulphatoargentate(I) which can be easily removed by washing the film with water.
  
-AgBr + 2 NaSO  + 2 NaBr<sub> 2 </sub> <sup> 2 </sup>
- $$
- K=\frac{[H_3O^+][OH^-]}{[H_2O]^2}
- $$
- hh
- 
- 
+AgBr + 2 Na<sub>2</sub>SO<sub>3</sub> &rarr; Na<sub>3</sub>[Ag(s<sub>2</sub>o<sub>3</sub>)<sub>2</sub>]+2NaBr
+
+
 10. **Many biological systems contain metal complexes. For example,**
  
-(i) A red blood corpuscles (RBC) is composed of heme group, which is Fe2+- Porphyrin complex.it plays an important role in carrying oxygen from lungs to tissues and carbon dioxide from tissues to lungs.
+    (i) A rd blood corpuscles (RBC) is composed of heme group, which is Fe2+- Porphyrin complex.it plays an important role in carrying oxygen from lungs to tissues and carbon dioxide from tissues to lungs.
  
-(ii) Chlorophyll, a green pigment present in green plants and algae, is a coordination complex containing Mg2+ as central metal ion surrounded by a modifi ed Porphyrin ligand called corrin ring. It plays an important role in photosynthesis, by which plants converts CO2 and water into carbohydrates and oxygen.
+    (ii) Chlorophyll, a green pigment present in green plants and algae, is a coordination complex containing Mg2+ as central metal ion surrounded by a modifi ed Porphyrin ligand called corrin ring. It plays an important role in photosynthesis, by which plants converts CO2 and water into carbohydrates and oxygen.
  
-(iii) Vitamin B12(cyanocobalamine) is the only vitamin consist of metal ion. it is a coordination complex in which the central metal ion is Co+ surrounded by Porphyrin like ligand.
+    (iii) Vitamin B12(cyanocobalamine) is the only vitamin consist of metal ion. it is a coordination complex in which the central metal ion is Co+ surrounded by Porphyrin like ligand.
  
-(iv) Many enzymes are known to be metal complexes, they regulate biological processes. For example, Carboxypeptidase is a protease enzyme that hydrolytic enzyme important in digestion, contains a zinc ion coordinated to the protein.
+      (iv) Many enzymes are known to be metal complexes, they regulate biological processes. For example, Carboxypeptidase is a protease enzyme that hydrolytic enzyme important in digestion, contains a zinc ion coordinated to the protein.
  
 **Cisplatin:**
  

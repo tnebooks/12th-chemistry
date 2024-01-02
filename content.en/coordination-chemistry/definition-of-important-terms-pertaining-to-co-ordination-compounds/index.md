@@ -2,20 +2,18 @@
 title: 'Definition of important terms pertaining to co-ordination compounds'
 weight: 3
 ---
-## Definition of important terms pertaining to co-ordination compounds 
+
 
 ### Coordination entity:
 
 
-Coordination entity is an ion or a neutral molecule, composed of a central atom, usually a metal and the array of other atoms or groups of atoms (ligands) that are attached to it. In the formula, the coordination entity is enclosed in square brackets. For example, in potassium ferrocyanide, k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the coordination entity is \[Fe(CN)<sub>6</sub>\]4<sup>-</sup>. In nickel tetracarbonyl, the coordination entity is \[Ni(CO)<sub>4</sub>\].
+Coordination entity is an ion or a neutral molecule, composed of a central atom, usually a metal and the array of other atoms or groups of atoms (ligands) that are attached to it. In the  formula, the coordination entity is enclosed in square brackets. For example, in potassium ferrocyanide, k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the coordination entity is \[Fe(CN)<sub>6</sub>\]4<sup>-</sup>. In nickel tetracarbonyl, the coordination entity is \[Ni(CO)<sub>4</sub>\].
 
 ### Central atom/ion:
-
 
 The central atom/ion is the one that occupies the central position in a coordination entity and binds other atoms or groups of atoms (ligands) to itself, through a coordinate covalent bond. For example, in k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the central metal ion is Fe2<sup>+</sup>. In the coordination entity \[Fe(CN)<sub>6</sub>\]4<sup>-</sup>, the Fe2<sup>+</sup> accepts an electron pair from each ligand, C<sup>-</sup> and thereby forming six coordinate covalent bonds with them. since, the central metal ion has an ability to accept electron pairs, it is referred to as a Lewis acid.
 
 ### Ligands:
-
 
 The ligands are the atoms or groups of atoms bound to the central atom/ion. The atom in a ligand that is bound directly to the central metal atom is known as a donor atom. For example, in k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the ligand is CN<sup>-</sup> ion, but the donor atom is carbon and in \[Co(NH<sub>3</sub>)<sub>6</sub>\]Cl<sub>3</sub> the ligand is NH<sub>3</sub> molecule and the donor atom is nitrogen.
 
@@ -43,31 +41,30 @@ Net charge = (oxidation state of the central metal) + \[(No. of ligands) X (char
 
 **Example 1:**
 
-In \[Fe(CN)<sub>6</sub>\] 4<sup>-</sup>
+         In \[Fe(CN)<sub>6</sub>\] 4<sup>-</sup>
+            let the oxidation number of iron is x :
 
-, let the oxidation number of iron is x :
-
-The net charge: -4 = x + 6 (-1) => x = +2
+         The net charge: -4 = x + 6 (-1) => x = +2
 
 **Example 2:**
 
-In \[Co(NH<sub>3</sub>)<sub>5</sub>Cl\]2<sup>+</sup> , let the oxidation number of cobalt is x :
+        In \[Co(NH<sub>3</sub>)<sub>5</sub>Cl\]2<sup>+</sup> , let the oxidation number of cobalt is x :
 
-The net charge: +2 = x + 5 (0) + 1 (-1) => x = +3
+         The net charge: +2 = x + 5 (0) + 1 (-1) => x = +3
 
 **Evaluate yourself 2:**
 
-2\. In the complex, \[Pt(NO2)(H<sub>2</sub>O)(NH<sub>3</sub>)<sub>2</sub>\]Br , identify the following
+2. In the complex, [Pt(NO2)(H<sub>2</sub>O)(NH<sub>3</sub>)<sub>2</sub>]Br , identify the following
 
-i. Central metal atom/ion
+    i. Central metal atom/ion
 
-ii. Ligand(s) and their types
+    ii. Ligand(s) and their types
 
-iii. Coordination entity
+    iii. Coordination entity
 
-iv. Oxidation number of the central metal ion
+    iv. Oxidation number of the central metal ion
 
-v. Coordination number
+    v. Coordination number
 
 **Types of complexes:**
 
