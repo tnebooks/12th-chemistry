@@ -21,7 +21,7 @@ The ligands are the atoms or groups of atoms bound to the central atom/ion. The 
 
 **Coordination sphere:**
 
-The complex ion of the coordination compound containing the central metal atom/ion and the ligands attached to it, is collectively called coordination sphere and are usually enclosed in square brackets with the net charge. The other ionisable ions, are written outside the bracket are called counter ions. For example, the coordination compound k<sub>4</sub>\[Fe(CN)<sub>6</sub>\] contains the complex ion \[Fe(CN)<sub>6</sub>\]4<sup>-</sup> and is referred as the coordination sphere. The other associated ion K+ is called the counter ion.
+The complex ion of the coordination compound containing the central metal atom/ion and the ligands attached to it, is collectively called coordination sphere and are usually enclosed in square brackets with the net charge. The other ionisable ions, are written outside the bracket are called counter ions. For example, the coordination compound k<sub>4</sub>\[Fe(CN)<sub>6</sub>\] contains the complex ion \[Fe(CN)<sub>6</sub>\]4<sup>-</sup> and is referred as the coordination sphere. The other associated ion K<sup>+</sup> is called the counter ion.
 
 **Coordination polyhedron:** The three dimensional spacial arrangement of ligand atoms/ions that are directly attached to the central atom is known as the coordination polyhedron (or polygon). For example, in k<sub>4</sub>\[Fe(CN)<sub>6</sub>\], the coordination polyhedra is octrahedral. The coordination polyhedra of \[Ni(CO)<sub>4</sub>\] is tetrahedral.
 

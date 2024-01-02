@@ -15,106 +15,17 @@ According to this theory, the bond formed between the central metal atom and the
 
 **Main assumptions of VBT:**
 
-1\. The ligand → metal bond in a coordination complex is covalent in nature. It is formed by sharing of electrons (provided by the ligands) between the central metal atom and the ligand.
+1. The ligand → metal bond in a coordination complex is covalent in nature. It is formed by sharing of electrons (provided by the ligands) between the central metal atom and the ligand.
 
-XII U5 Coordination jagan.indd 147 2/19/2020 4:40:58 PM
+2. Each ligand should have at least one filled orbital containing a lone pair of electrons.
 
-www.tntextbooks.in
+3. In order to accommodate the electron pairs donated by the ligands, the central metal ion present in a complex provides required number (coordination number) of vacant orbitals.
 
+4. These vacant orbitals of central metal atom undergo hybridisation, the process of mixing of atomic orbitals of comparable energy to form equal number of new orbitals called hybridised orbitals with same energy.
 
+5. The vacant hybridised orbitals of the central metal ion, linearly overlap with filled orbitals of the ligands to form coordinate covalent sigma bonds between the metal and the ligand.
 
-
-
-
-|  | |
-|------|------|------|
-| Co3+  |
-| Co3+ | |
-|  |
-  
-
-148
-
-2\. Each ligand should have at least one filled orbital containing a lone pair of electrons.
-
-3\. In order to accommodate the electron pairs donated by the ligands, the central metal ion present in a complex provides required number (coordination number) of vacant orbitals.
-
-4\. These vacant orbitals of central metal atom undergo hybridisation, the process of mixing of atomic orbitals of comparable energy to form equal number of new orbitals called hybridised orbitals with same energy.
-
-5\. The vacant hybridised orbitals of the central metal ion, linearly overlap with filled orbitals of the ligands to form coordinate covalent sigma bonds between the metal and the ligand.
-
-6\. The hybridised orbitals are directional and their orientation in space gives a definite geometry to the complex ion.
-
-**Coordination number**
-
-**Hybridisation Geometry Examples**
-
-2 sp Linear \[CuCl2\] -, \[Ag(CN)2\]
-
-\-
-
-3 sp2 Trigonal planar
-
-\[HgI3\] -
-
-4 sp3 Tetrahedral \[Ni(CO)4\], \[NiCl4\] 2-
-
-4 dsp2 Square planar
-
-\[Ni(CN)4\] 2-, \[Pt(NH3)4\]
-
-2+
-
-5 dsp3
-
-(_dx2-y2 orbital is involved_)
-
-Trigonal bipyramidal
-
-Fe(CO)5
-
-6
-
-d2sp3
-
-(_dz2 and dx2-y2 orbitals of inner shell are involved_)
-
-Octahedral \[Ti(H2O)6\]
-
-3+, \[Fe(CN)6\] 2-, \[Fe(CN)6\]
-
-3-, \[Co(NH3)6\]
-
-3+
-
-_(Inner orbital complexes)_
-
-6
-
-sp3d2
-
-(_dz2 and dx2-y2 orbitals of the outer shell are involved)_
-
-Octahedral \[FeF6\]
-
-4-,\[CoF6\] 4-, \[Fe(H2O)6\]
-
-2+
-
-_(Outer orbital complexes)_
-
-7\. In the octahedral complexes, if the (n-1) d orbitals are involved in hybridisation, then they are called inner orbital complexes or low spin complexes or spin paired complexes. If the nd orbitals are involved in hybridisation, then such complexes are called outer orbital or high spin or spin free complexes. Here n represents the principal quantum number of the outermost shell.
-
-8\. The complexes containing a central metal atom with unpaired electron(s) are paramagnetic. If all the electrons are paired, then the complexes will be diamagnetic.
-
-XII U5 Coordination jagan.indd 148 2/19/2020 4:40:58 PM
-
-www.tntextbooks.in
-
-
-
-
-
+6. The hybridised orbitals are directional and their orientation in space gives a definite geometry to the complex ion.
 
 | C oordination number |Hybridisation |Geometr y |Examples |
 |------|------|------|------|
@@ -125,13 +36,14 @@ www.tntextbooks.in
 | 5 |dsp(dx2-y2 orbita3l isinvolved) |Trigonal bipyramidal |Fe(CO)5 |
 | 6 |d sp(dz2 and d2x2-y 3 2 orbitals of inner shell are involved) |Octahedral |[Ti(H O) ] , [Fe(CN) ] , [Fe(CN) ] , [Co(NH ) ]3+ 2- 3-2 6 6 6(Inner orbital co3+mplexes)3 6 |
 | 6 |sp d(dz2 and dx32-y 2 2 orbitals of the outershell are involved) |Octahedral |[FeF ] ,[CoF ] , [Fe(H O) ](Outer or4-bital compl 4-exes) 2+6 6 2 6 |
-  
 
-149
+7. In the octahedral complexes, if the (n-1) d orbitals are involved in hybridisation, then they are called inner orbital complexes or low spin complexes or spin paired complexes. If the nd orbitals are involved in hybridisation, then such complexes are called outer orbital or high spin or spin free complexes. Here n represents the principal quantum number of the outermost shell.
 
-9\. Ligands such as CO, CN-, en, and NH3 present in the complexes cause pairing of electrons present in the central metal atom. Such ligands are called strong field ligands.
+8. The complexes containing a central metal atom with unpaired electron(s) are paramagnetic. If all the electrons are paired, then the complexes will be diamagnetic.
 
-10\. Greater the overlapping between the ligand orbitals and the hybridised metal orbital, greater is the bond strength.
+9. Ligands such as CO, CN-, en, and NH3 present in the complexes cause pairing of electrons present in the central metal atom. Such ligands are called strong field ligands.
+
+10. Greater the overlapping between the ligand orbitals and the hybridised metal orbital, greater is the bond strength.
 
 Let us illustrate the VBT by considering the following examples.
 
