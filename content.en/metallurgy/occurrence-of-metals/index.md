@@ -3,10 +3,10 @@ title: 'Occurrence of metals'
 weight: 1
 ---
 
-## Occurrence of metals
+# Occurrence of metals
  In general, pure metals are shiny and malleable, however, most of them are found in nature as compounds with different properties. Metals having least chemical reactivity such as copper, silver, gold and platinum occur in significant amounts as native elements. Reactive metals such as alkali metals usually occurs in their combined state and are extracted using suitable metallurgical process.
 
-### Mineral and ore
+## Mineral and ore
 
 
 A naturally occurring substance obtained by mining which contains the metal in free state or in the form of compounds like oxides, sulphides etc... is called a **mineral**. In most of the minerals, the metal of interest is present only in small amounts and some of them contains a reasonable percentage of metal. For example iron is present in around 800 minerals. However, some of them such as hematite magnetite etc., containing high percentage of iron are commonly used for the extraction of iron. Such minerals that contains a high percentage of metal, from which it can be extracted conveniently and economically are called **ores**. Hence all ores are minerals but all minerals are not ores. Let us consider another example, bauxite and china clay (Al<sub>2</sub>O<sub>3</sub>.2SiO<sub>2</sub>.2H<sub>2</sub>O). Both are minerals of aluminium. However, aluminium can be commercially extracted from bauxite while extraction from china clay is not a profitable one. Hence the mineral, bauxite is an ore of aluminium while china clay is not.

@@ -3,61 +3,61 @@ title: 'Applications of metals'
 weight: 7
 ---
 
-## Applications of metals 1.7.1 Applications of Al
+# Applications of metals 1.7.1 Applications of Al
 
 
 Aluminium is the most abundant metal and is a good conductor of electricity and heat. It also resists corrosion. The following are some of its applications.
 
-&bull;  Many heat exchangers/sinks and our day to day cooking vessels are made of aluminium.
+&#8227;  Many heat exchangers/sinks and our day to day cooking vessels are made of aluminium.
 
-&bull;  It is used as wraps (aluminium foils) and is used in packing materials for food items,
+&#8227;  It is used as wraps (aluminium foils) and is used in packing materials for food items,
 
-&bull;  Aluminium is not very strong, However , its alloys with copper, manganese, magnesium and silicon are light weight and strong and they are used in design of aeroplanes and other
+&#8227;  Aluminium is not very strong, However , its alloys with copper, manganese, magnesium and silicon are light weight and strong and they are used in design of aeroplanes and other
 forms of transport.
 
-&bull;  As Aluminium shows high resistance to corrosion, it is used in the design of chemical reactors, medical equipments,refrigeration units and gas pipelines.
+&#8227;  As Aluminium shows high resistance to corrosion, it is used in the design of chemical reactors, medical equipments,refrigeration units and gas pipelines.
 
-&bull;  Aluminium is a good electrical conductor and cheap, hence used in electrical overhead electric cables with steel core for strength.
+&#8227;  Aluminium is a good electrical conductor and cheap, hence used in electrical overhead electric cables with steel core for strength.
 
-### Applications of Zn
+## Applications of Zn
 
 
-&bull;  Metallic zinc is used in **galvanising** metals such as iron and steel structures to protect them from rusting and corrosion.
+&#8227;  Metallic zinc is used in **galvanising** metals such as iron and steel structures to protect them from rusting and corrosion.
 
-&bull;  Zinc is also used to produce die-castings in the automobile, electrical and hardware
+&#8227;  Zinc is also used to produce die-castings in the automobile, electrical and hardware
 industries.
 
-&bull;  Zinc oxide is used in the manufacture of many products such as paints, rubber, cosmetics, pharmaceuticals, plastics, inks, batteries, textiles and electrical equipment. Zinc sulphide
+&#8227;  Zinc oxide is used in the manufacture of many products such as paints, rubber, cosmetics, pharmaceuticals, plastics, inks, batteries, textiles and electrical equipment. Zinc sulphide
 is used in making luminous paints, fluorescent lights and x-ray screens.
 
-&bull;  Brass an alloy of zinc is used in water valves and communication equipment as it is highly resistant to corrosion.
+&#8227;  Brass an alloy of zinc is used in water valves and communication equipment as it is highly resistant to corrosion.
 
-### Applications of Fe
-&bull;  Iron is one of the most useful metals and its alloys are used everywhere including bridges,electricity pylons, bicycle chains, cutting tools and rifle barrels.
+## Applications of Fe
+&#8227;  Iron is one of the most useful metals and its alloys are used everywhere including bridges,electricity pylons, bicycle chains, cutting tools and rifle barrels.
 
-&bull;  Cast iron is used to make pipes, valves and pumps stoves etc...
+&#8227;  Cast iron is used to make pipes, valves and pumps stoves etc...
 
-&bull;  Magnets can be made from iron and its alloys and compounds.
+&#8227;  Magnets can be made from iron and its alloys and compounds.
 
-&bull;  An important alloy of iron is stainless steel, and it is very resistant to corrosion. It is used in architecture, bearings, cutlery, surgical instruments and jewellery. Nickel steel is used for making cables, automobiles and aeroplane parts. Chrome steels are used for maufacturing cutting tools and crushing machines
+&#8227;  An important alloy of iron is stainless steel, and it is very resistant to corrosion. It is used in architecture, bearings, cutlery, surgical instruments and jewellery. Nickel steel is used for making cables, automobiles and aeroplane parts. Chrome steels are used for maufacturing cutting tools and crushing machines
 
-### Applications of Cu
-
-
-&bull; Copper is the first metal used by the human and extended use of its alloy bronze resulted in a new era,'Bronze age'
-
-&bull; Copper is used for making coins and ornaments along with gold and other metals.
-
-&bull; Copper and its alloys are used for making wires, water pipes and other electrical parts
-
-### Applications of Au
+## Applications of Cu
 
 
-&bull;  Gold, one of the expensive and precious metals. It is used for coinage, and has been used as standard for monetary systems in some countries.
+&#8227; Copper is the first metal used by the human and extended use of its alloy bronze resulted in a new era,'Bronze age'
 
-&bull;  It is used extensively in jewellery in its alloy form with copper. It is also used in electroplating to cover other metals with a thin layer of gold which are used in watches, artificial limb joints, cheap jewellery, dental fillings and electrical connectors.
+&#8227; Copper is used for making coins and ornaments along with gold and other metals.
 
-&bull;  Gold nanoparticles are also used for increasing the efficiency of solar cells and also used an catalysts.
+&#8227; Copper and its alloys are used for making wires, water pipes and other electrical parts
+
+## Applications of Au
+
+
+&#8227;  Gold, one of the expensive and precious metals. It is used for coinage, and has been used as standard for monetary systems in some countries.
+
+&#8227;  It is used extensively in jewellery in its alloy form with copper. It is also used in electroplating to cover other metals with a thin layer of gold which are used in watches, artificial limb joints, cheap jewellery, dental fillings and electrical connectors.
+
+&#8227;  Gold nanoparticles are also used for increasing the efficiency of solar cells and also used an catalysts.
 
 **The Iron Pillar – Delhi:**
 ![Iron Pillar](../iron-pillar.png)

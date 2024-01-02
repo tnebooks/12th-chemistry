@@ -3,12 +3,12 @@ title: 'Extraction of crude metal'
 weight: 3
 ---
 
-## Extraction of crude metal
+# Extraction of crude metal
  The extraction of crude metals from the concentrated ores is carried out in two steps namely,(i) conversion of the ore into oxides of the metal of interest and (ii) reduction of the metal oxides to elemental metals. In the concentrated ore, the metal exists in positive oxidation state and hence it is to be reduced to its elemental state. We can infer from the principles of thermodynamics, that the reduction of oxide is easier when compared to reduction of other compounds of metal and hence, before reduction, the ore is fi rst converted into the oxide of metal of interest.
 
 Let us discuss some of the common methods used to convert the concentrated ore into the oxides of the metal of interest.
 
-### Conversion of ores into oxides
+## Conversion of ores into oxides
 
 
 **Roasting**
@@ -47,7 +47,7 @@ For example
 {P_4  + 5O_2 \xrightarrow{} P_4O_{10}}↑
 {{< /katex >}}
 
-The sulphur dioxide produced during roasting process is harmful to the environment. In modern metallurgical factories, this by product is trapped and converted into sulphuric acid to avoid air pollution.
+>The sulphur dioxide produced during roasting process is harmful to the environment. In modern metallurgical factories, this by product is trapped and converted into sulphuric acid to avoid air pollution.
 
 **Calcination**
 
@@ -86,11 +86,10 @@ During calcination of hydrated ore, the water of hydration is expelled as vapour
 
 
 
-**Evaluate yourself 2**
+>**Evaluate yourself 2**
+2. Magnesite (Magnesium carbonate) is calcined to obtain magnesia, which is used to make refractory bricks. Write the decomposition reaction.
 
-2\. Magnesite (Magnesium carbonate) is calcined to obtain magnesia, which is used to make refractory bricks. Write the decomposition reaction.
-
-### Reduction of metal oxides
+## Reduction of metal oxides
 
 
 Metal oxide can be reduced to crude metal by using a suitable reducing agent like carbon, carbon monoxide, hydrogen, aluminium and other reactive metals such as sodium etc...The choice of reducing agent depends on the nature of the metal. For example, carbon cannot be used as a reducing agent for the reactive metals such as sodium, potassium, aluminium etc...Similarly CO cannot be used to reduce oxides such as ZnO, Al<sub>2</sub>O<sub>3</sub>. Later in this,we study selection of suitable reducing agents by applying Ellingham diagram.

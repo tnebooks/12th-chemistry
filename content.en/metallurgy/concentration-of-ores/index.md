@@ -4,16 +4,16 @@ weight: 2
 ---
 
 
-## Concentration of ores
+# Concentration of ores
  Generally, the ores are associated with nonmetallic impurities, rocky materials and siliceous matter which are collectively known as gangue. The preliminary step in metallurgical process is removal of these impurities. This removal process is known as concentration of ore. It increases the concentration of the metal of interest or its compound in the ore. Several methods are available for this process and the choice of method will depend on the nature of the ore, type of impurity and environmental factors. Some of the common methods of ore concentration are discussed below.
 
-### Gravity separation or Hydraulic wash
+## Gravity separation or Hydraulic wash
 
 
 In this method, the ore having high specific gravity is separated from the gangue that has low specific gravity by simply washing with running water. Ore is crushed to a finely powdered form and treated with rapidly flowing current of water. During this process the lighter gangue particles are washed away by the running water. This method is generally applied to concentrate the native ore such as gold and oxide ores such as haematite (Fe<sub>2</sub>O<sub>3</sub>), tin stone (SnO<sub>2</sub>) etc.
 
 
-### Froth flotation
+## Froth flotation
 
 
 This method is commonly used to concentrate sulphide ores such as galena (PbS), zinc blende (ZnS) etc... In this method, the metallic ore particles which are preferentially wetted by oil can be separated from gangue.
@@ -24,7 +24,7 @@ In this method, the crushed ore is suspended in water and mixed with frothing ag
 
 When a sulphide ore of a metal of interest contains other metal sulphides as impurities, depressing agents such as sodium cyanide, sodium carbonate etc are used to selectively prevent other metal sulphides from coming to the froth. For example, when impurities such as ZnS is present in galena (PbS), sodium cyanide (NaCN) is added to depresses the flotation property of ZnS by forming a layer of zinc complex Na<sub>2</sub>\[Zn(CN)<sub>4</sub>\] on the surface of zinc sulphide.
 
-### Leaching
+## Leaching
 
 
 This method is based on the solubility of the ore in a suitable solvent and the reactions in aqueous solution. In this method, the crushed ore is allowed to dissolve in a suitable solvent, the metal present in the ore is converted to its soluble salt or complex while the gangue remains insoluble. The following examples illustrate the leaching processes.
@@ -66,11 +66,10 @@ Leaching of sulphide ores such as ZnS, PbS etc., can be done by treating them wi
 
 In this process the insoluble sulphide is converted into soluble sulphate and elemental sulphur.
 
-**Evaluate yourself 1**
+>**Evaluate yourself 1**
+1. Write the equation for the extraction of silver by leaching with sodium cyanide and show that the leaching process is a redox reaction.
 
-1\. Write the equation for the extraction of silver by leaching with sodium cyanide and show that the leaching process is a redox reaction.
-
-### Magnetic separation
+## Magnetic separation
 
 
 This method is applicable to ferromagnetic ores and it is based on the difference in the magnetic properties of the ore and the impurities. For example tin stone can be separated from the wolframite impurities which is magnetic. Similarly, ores such as chromite, pyrolusite having magnetic property can be removed from the non magnetic siliceous impurities. The crushed ore is poured on to an electromagnetic separator consisting of a belt moving over two rollers of which one is magnetic. The magnetic part of the ore is attracted towards the magnet and falls as a heap close to the magnetic region while the nonmagnetic part falls away from it as shown in the figure 1.2.![](<../magnetic seperation.png>)

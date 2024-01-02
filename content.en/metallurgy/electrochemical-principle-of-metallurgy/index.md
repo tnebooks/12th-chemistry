@@ -4,7 +4,7 @@ weight: 5
 ---
 
 
-## Electrochemical principle of metallurgy
+# Electrochemical principle of metallurgy
  Similar to thermodynamic principles, electrochemical principles also find applications in metallurgical process. The reduction of oxides of active metals such as sodium, potassium etc., by carbon is thermodynamically not feasible. Such metals are extracted from their ores by using electrochemical methods. In this technique, the metal salts are taken in a fused form or in solution form. The metal ion present can be reduced by treating it with some suitable reducing agent or by electrolysis.
 
 Gibbs free energy change for the electrolysis process is given by the following expression
@@ -22,7 +22,7 @@ If E<sup>°</sup> is positive then the ΔG is negative and the reduction is spon
 {Cu ^{2+} (aq)+ Zn  (s) \xrightarrow{} {Cu (s) + Zn ^{2+} (aq)}} 
 {{< /katex >}}
 
-### Electrochemial extraction of aluminium - Hall-Heroult process:
+## Electrochemial extraction of aluminium - Hall-Heroult process:
 
 
 In this method, electrolysis is carried out in an iron tank lined with carbon which acts as a cathode. The carbon blocks immersed in the electrolyte act as a anode. A 20% solution of alumina, obtained from the bauxite ore is mixed with molten cryolite and is taken in the electrolysis chamber. About 10% calcium chloride is also added to the solution. Here calcium chloride helps to lower the melting point of the mixture. The fused mixture is maintained at a temperature of above 1270 K. The chemical reactions involved in this process are as follows.
@@ -61,6 +61,5 @@ Due to the above two reactions, anodes are slowly consumed during the electrolys
 {4Al^{3+} (melt) +6O^{2-}(melt) +3C(s) \xrightarrow{} 4Al(l) +3CO_2(g)}
 {{< /katex >}}
 
-**Evaluate yourself 4**
-
-4\. Metallic sodium is extracted by the electrolysis of brine (aq. NaCl). After electrolysis the electrolytic solution becomes basic in nature. Write the possible electrode reactions.
+>**Evaluate yourself 4**
+4. Metallic sodium is extracted by the electrolysis of brine (aq. NaCl). After electrolysis the electrolytic solution becomes basic in nature. Write the possible electrode reactions.
