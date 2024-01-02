@@ -442,13 +442,6 @@ By using this tool, you will be able to visualize different crystal systems and 
 
 Please go to the URL http://vlab.amrita.edu (or) Scan the QR code on the right side
 
-2
-
-3
-
-1
-
-**ICT Corner**
 
 
 
