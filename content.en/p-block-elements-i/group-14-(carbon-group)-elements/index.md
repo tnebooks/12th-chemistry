@@ -2,59 +2,36 @@
 title: 'Group 14 (Carbon group) elements'
 weight: 3
 ---
-## Group 14 (Carbon group) elements: 2.3.1 Occurrence:
+# Occurrence:
 
 
 Carbon is found in the native form as graphite. Coal, crude oil and carbonate rocks such as calcite, magnesite etc... contains large quantities of carbon in its combined form with other elements. Silicon occurs as silica (sand and quartz crystal). Silicate minerals and clay are other important sources for silicon.
 
-XII\_U2-P-Block.indd 40 2/19/2020 4:38:51 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-41
-
-### Physical properties:
+# Physical properties:
 
 
 Some of the physical properties of the group 14 elements are listed below
 
 **Table 2.4 Physical properties of group 14 elements**
 
-**Property Carbon Silicon Germanium Tin Lead**
+| Property          | Carbon       | Silicon      | Germanium    | Tin          | Lead         |
+|-------------------|--------------|--------------|--------------|--------------|--------------|
+| Physical state at 293 K | Solid  | Solid        | Solid        | Solid        | Solid        |
+| Atomic Number     | 6            | 14           | 32           | 50           | 82           |
+| Isotopes          | 12C, 13C, 14C | 28Si, 30Si   | 73Ge, 74Ge   | 120Sn        | 208Pb        |
+| Atomic Mass (g.mol-1 at 293 K) | 12.01 | 28.09       | 72.63       | 118.71      | 207.2       |
+| Electronic configuration | [He]2s2 2p2 | [Ne]3s2 3p2 | [Ar]3d10 4s2 4p2 | [Kr]4d10 5s2 5p2 | [Xe] 4f14 5d10 6s2 6p2 |
+| Atomic radius (Å) | 1.70         | 2.10         | 2.11         | 2.17         | 2.02         |
+| Density (g.cm-3 at 293 K) | 3.51     | 2.33         | 5.32         | 7.29         | 11.30        |
+| Melting point (K) | Sublimes at 4098 | 1687       | 1211       | 505         | 601         |
+| Boiling point (K) | Sublimes at 4098 | 3538         | 3106         | 2859         | 2022         |
 
-Physical state at 293 K
-
-Solid Solid Solid Solid Solid
-
-Atomic Number 6 14 32 50 82 Isotopes 12C, 13C, 14C 28Si, 30Si 73Ge, 74Ge 120Sn 208Pb Atomic Mass (g.mol-1 at 293 K)
-
-12.01 28.09 72.63 118.71 207.2
-
-Electronic configuration
-
-\[He\]2s2 2p2 \[Ne\]3s2 3p2 \[Ar\]3d10 4s2 4p2 \[Kr\]4d10 5s2 5p2
-
-\[Xe\] 4f14 5d10 6s2 6p2
-
-Atomic radius (Å) 1.70 2.10 2.11 2.17 2.02 Density (g.cm-3 at 293 K)
-
-3.51 2.33 5.32 7.29 11.30
-
-Melting point (K) Sublimes at 4098
-
-1687 1211 505 601 Boiling point (K) 3538 3106 2859 2022
-
-### Tendency for catenation
+# Tendency for catenation
 
 
 Catenation is an ability of an element to form chain of atoms. The following conditions are necessary for catenation. (i) the valency of element is greater than or equal to two, (ii) element should have an ability to bond with itself (iii) the self bond must be as strong as its bond with other elements (iv) kinetic inertness of catenated compound towards other molecules. Carbon possesses all the above properties and forms a wide range of compounds with itself and with other elements such as H, O, N, S and halogens.
 
-### Allotropes of carbon
+# Allotropes of carbon
 
 
 Carbon exists in many allotropic forms. Graphite and diamond are the most common allotropes. Other important allotropes are graphene, fullerenes and carbon nanotubes.
@@ -62,31 +39,8 @@ Carbon exists in many allotropic forms. Graphite and diamond are the most common
 **Graphite** is the most stable allotropic form of carbon at normal temperature and pressure. It is soft and conducts electricity. It is composed of flat two dimensional sheets of carbon atoms. Each sheet is a hexagonal net of sp2 hybridised carbon atoms with a C-C bond length of 1.41 Å which is close to the
 
 **Figure 2.4 Structure of graphite**
-
-XII\_U2-P-Block.indd 41 2/19/2020 4:38:52 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Property |Carbon |Silicon |Germanium |Tin |L ead |
-|------|------|------|------|------|------|
-| Physical state at 293 K |Solid |Solid |Solid |Solid |Solid |
-| Atomic Number |6 |14 |32 |50 |82 |
-| Isotopes |C,  C,  C12 13 14 |Si, Si28 30 |Ge, Ge73 74 |Sn120 |Pb208 |
-| Atomic Mass (g.mol  at 293 K)-1 |12.01 |28.09 |72.63 |118.71 |207.2 |
-| Electronic conguration |[He]2s  2p2 2 |[Ne]3s  3p2 2 |[Ar]3d  4s  4p10 2 2 |[Kr]4d  5s5p10 22 |[Xe] 4f5d  6s  6p1410 2 2 |
-| Atomic radius (Å) |1.70 |2.10 |2.11 |2.17 |2.02 |
-| Density (g.cm  at293 K)-3 |3.51 |2.33 |5.32 |7.29 |11.30 |
-| Melting point (K) |Sublimes at 4098 |1687 |1211 |505 |601 |
-| B oiling point (K) |3538 |3106 |2859 |2022 |
-  
-
-42
-
+<!-- pic t a -->
+![Structure of graphite](../fig2.4.png)
 C-C bond distance in benzene (1.40 Å). Each carbon atom forms three σ bonds with three neighbouring carbon atoms using three of its valence electrons and the fourth electron present in the unhybridised p orbital forms a π-bond. These π electrons are delocalised over the entire sheet which is responsible for its electrical conductivity. The successive carbon sheets are held together by weak vander Waals forces. The distance between successive sheet is 3.40 Å. It is used as a lubricant either on its own or as a graphited oil.
 
 Unlike graphite the other allotrope **diamond is very hard. The carbon atoms in** diamond are sp3 hybridised and bonded to four neighbouring carbon atoms by σ bonds with a C-C bond length of 1.54 Å. This results in a tetrahedral arrangement around each carbon atom that extends to the entire lattice as shown in figure 2.5. Since all four valance electrons of carbon are involved in bonding there is no free electrons for conductivity. Being the hardest element, it used for sharpening hard tools, cutting glasses, making bores and rock drilling.
@@ -96,83 +50,72 @@ Unlike graphite the other allotrope **diamond is very hard. The carbon atoms in*
 Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends. Along the axis, these nanotubes are stronger than steel and conduct electricity. These have many applications in nanoscale electronics, catalysis, polymers and medicine.
 
 **Figure 2.5 Structure of diamond**
-
+![Structure of diamond](../fig2.5.png)
 **Figure 2.6 Structure of Fullerenes**
-
+![Structure of Fullerenes](../fig2.6.png)
 **Figure 2.7 Structure of carbon nanotubes**
-
-XII\_U2-P-Block.indd 42 2/19/2020 4:38:55 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-43
-
+![Structure of carbon nanotubes](../fig2.7.png)
 Another allotrophic form of carbon is graphene. It has a single planar sheet of sp2 hybridised carbon atoms that are densely packed in a honeycomb crystal lattice.
 
-### Carbon monoxide \[CO\]:
+# Carbon monoxide \[CO\]:
 
 
 **Preparation:**
 
 Carbon monoxide can be prepared by the reaction of carbon with limited amount of oxygen.
 
-2C + O2 2CO
+<!-- 2C + O2 2CO -->
+$\ce{2C + O2 ->2CO}$
 
 On industrial scale carbon monoxide is produced by the reaction of carbon with air. The carbon monoxide formed will contain nitrogen gas also and the mixture of nitrogen and carbon monoxide is called producer gas.
 
-2C + O2/N2 (air) 2CO + N2 Producers Gas
+<!-- 2C + O2/N2 (air) 2CO + N2 Producers Gas -->
+$\ce{2C + O2/N2 (air) ->2CO + N2 (Producers Gas)}$
 
 The producer gas is then passed through a solution of copper(I)chloride under pressure which results in the formation of CuCl(CO).2H2O. At reduced pressures this solution releases the pure carbon monoxide.
 
 Pure carbon monoxide is prepared by warming methanoic acid with concentrated sulphuric acid which acts as a dehydrating agent.
 
-HCOOH + H2SO4 CO + H2SO4 . H2O
+<!-- HCOOH + H2SO4 CO + H2SO4 . H2O -->
+$\ce{HCOOH + H2SO4 ->CO + H2SO4 . H2O}$
 
 **Properties**
 
 It is a colourless, odourless, and poisonous gas. It is slightly soluble in water.
 
 It burns in air with a blue flame forming carbon dioxide. 2CO + O2 2CO2
+$\ce{2CO + O2 ->2CO2}$
 
 When carbon monoxide is treated with chlorine in presence of light or charcoal, it forms a poisonous gas carbonyl chloride, which is also known as phosgene. It is used in the synthesis of isocyanates.
 
 CO + Cl2 COCl2
+$\ce{2B + N2 ->[{Δ}] 2BN}$
 
 Carbon monoxide acts as a strong reducing agent. 3CO + Fe2O3 2Fe + 3CO2
+$\ce{2B + N2 ->[{Δ}] 2BN}$
 
 Under high temperature and pressure a mixture of carbon monoxide and hydrogen (synthetic gas or syn gas) gives methanol.
 
 CO + 2H2 CH3OH
+$\ce{2B + N2 ->[{Δ}] 2BN}$
 
 In oxo process, ethene is mixed with carbon monoxide and hydrogen gas to produce propanal.
 
 **Figure 2.8 Structure of graphene**
+![Structure of graphene](../fig2.8.png)
 
-XII\_U2-P-Block.indd 43 2/19/2020 4:38:56 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-44
-
-CO + C2H4 + H2 CH3CH2CHO
+<!-- CO + C2H4 + H2 CH3CH2CHO -->
+$\ce{CO + C2H4 + H2 ->CH3CH2CHO}$
 
 **Fischer Tropsch synthesis:**
 
 The reaction of carbon monoxide with hydrogen at a pressure of less than 50 atm using metal catalysts at 500 - 700 K yields saturated and unsaturated hydrocarbons.
 
-nCO + (2n+1)H2 CnH(2n+2) + nH2O
+<!-- nCO + (2n+1)H2 CnH(2n+2) + nH2O -->
+$\ce{nCO + (2n+1)H2 ->CnH(2n+2) + nH2O}$
 
-nCO + 2nH2 CnH2n + nH2O
+<!-- nCO + 2nH2 CnH2n + nH2O -->
+$\ce{nCO + 2nH2 ->CnH2n + nH2O}$
 
 Carbon monoxide forms numerous complex compounds with transition metals in which the transition meal is in zero oxidation state. These compounds are obtained by heating the metal with carbon monoxide.
 
@@ -182,19 +125,18 @@ Eg. Nickel tetracarbonyl \[Ni(CO)4\], Iron pentacarbonyl \[Fe(CO)5\], Chromium h
 
 It has a linear structure. In carbon monoxide, three electron pairs are shared between carbon and oxygen. The bonding can be explained using molecular orbital theory as discussed in XI standard. The C-O bond distance is 1.128Å. The structure can be considered as the resonance hybrid of the following two canonical forms.
 
-OC C O OC
 
 **Figure 2.9 Structure of carbon monoxide**
-
+![Structure of carbon monoxide](../fig2.9.png)
 **Uses of carbon monoxide:**
 
-1\. Equimolar mixture of hydrogen and carbon monoxide - water gas and the mixture of carbon monoxide and nitrogen - producer gas are important industrial fuels
+1. Equimolar mixture of hydrogen and carbon monoxide - water gas and the mixture of carbon monoxide and nitrogen - producer gas are important industrial fuels
 
-2\. Carbon monoxide is a good reducing agent and can reduce many metal oxides to metals.
+2. Carbon monoxide is a good reducing agent and can reduce many metal oxides to metals.
 
-3\. Carbon monoixde is an important ligand and forms carbonyl compound with transition metals
+3. Carbon monoixde is an important ligand and forms carbonyl compound with transition metals
 
-### Carbon dioxide:
+# Carbon dioxide:
 
 
 Carbon dioxide occurs in nature in free state as well as in the combined state. It is a constituent of air (0.03%). It occurs in rock as calcium carbonate and magnesium carbonate.
@@ -203,24 +145,15 @@ Carbon dioxide occurs in nature in free state as well as in the combined state. 
 
 On industrial scale it is produced by burning coke in excess of air.
 
-C + O2 CO2 ∆H = -394 kJ mol-1
+<!-- C + O2 CO2 ∆H = -394 kJ mol-1 -->
+$\ce{C + O2 ->CO2 ∆H = -394 kJ mol-1}$
 
 Calcination of lime produces carbon dioxide as by product. CaCO3 CaO + CO2
 
-XII\_U2-P-Block.indd 44 2/19/2020 4:38:57 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-45
-
 Carbon dioxide is prepared in laboratory by the action of dilute hydrochloric acid on metal carbonates.
 
-CaCO3 + 2HCl CaCl2 + H2O + CO2
+<!-- CaCO3 + 2HCl CaCl2 + H2O + CO2 -->
+$\ce{CaCO3 + 2HCl ->CaCl2 + H2O + CO2}$
 
 **Properties**
 
@@ -228,21 +161,25 @@ It is a colourless, nonflammable gas and is heavier than air. Its critical tempe
 
 Carbon dioxide is a very stable compound. Even at 3100 K only 76 % decomposes to form carbon monoxide and oxygen. At still higher temperature it decomposes into carbon and oxygen.
 
-CO2 CO + ½O2 3100 K
+<!-- CO2 CO + ½O2 3100 K -->
+$\ce{CO2 <=>[{3100 K}]CO + ½O2}$
 
-CO2 C + O2 high temperature
+<!-- CO2 C + O2 high temperature -->
+$\ce{CO2 <=>[{high temperature}]C + O2}$
 
 **Oxidising behaviour:**
 
 At elevated temperatures, it acts as a strong oxidising agent. For example,
 
-CO2 + 2Mg 2MgO + C
+<!-- CO2 + 2Mg 2MgO + C -->
+$\ce{CO2 + 2Mg ->2MgO + C}$
 
 **Water gas equilibrium:**
 
 The equilibrium involved in the reaction between carbon dioxide and hydrogen, has many industrial applications and is called water gas equilibrium.
 
-CO2 + H2 CO + H2O
+<!-- CO2 + H2 CO + H2O -->
+$\ce{CO2 + H2 <=>CO + H2O}$
 
 Water gas
 
@@ -250,49 +187,42 @@ Water gas
 
 The aqueous solution of carbon dioxide is slightly acidic as it forms carbonic acid.
 
-CO2 + H2O H2CO3 H+ + HCO3
+<!-- CO2 + H2O H2CO3 H+ + HCO3
 
-\-
-
+\- -->
+$\ce{CO2 + H2O <=>H2CO3<=>H+ + HCO3}$
 **Structure of carbon dioxide**
 
 Carbon dioxide has a linear structure with equal bond distance for the both C-O bonds. In this molecule there is two C-O sigma bond. In addition there is 3c-4e bond covering all the three atoms.
 
-CO O CO O C OO
 
 **Figure 2.10 Structure of carbon dixide**
+![Structure of carbon dixide](../fig2.10.png)
 
 **Uses of carbon dioxide**
 
-1\. Carbon dioxide is used to produce an inert atomosphere for chemical processing.
+1. Carbon dioxide is used to produce an inert atomosphere for chemical processing.
 
-2\. Biologically, it is important for photosynthesis.
+2. Biologically, it is important for photosynthesis.
 
-XII\_U2-P-Block.indd 45 2/19/2020 4:38:58 PM
+3. It is also used as fire extinguisher and as a propellent gas.
 
-www.tntextbooks.in
+4. It is used in the production of carbonated beverages and in the production of foam.
 
-
-
-
-  
-
-46
-
-3\. It is also used as fire extinguisher and as a propellent gas.
-
-4\. It is used in the production of carbonated beverages and in the production of foam.
-
-### Silicon tetrachloride:
+# Silicon tetrachloride:
 
 
 **Preparation:**
 
 Silicon tetrachloride can be prepared by passing dry chlorine over an intimate mixture of silica and carbon by heating to 1675 K in a porcelain tube
 
-SiO2 + 2C + 2Cl2 SiCl4 + 2CO On commercial scale, reaction of silicon with hydrogen chloride gas occurs above 600 K
+<!-- SiO2 + 2C + 2Cl2 SiCl4 + 2CO  -->
+$\ce{SiO2 + 2C + 2Cl2 ->SiCl4 + 2CO}$
 
-Si + 4HCl SiCl4 + 2H2
+On commercial scale, reaction of silicon with hydrogen chloride gas occurs above 600 K
+
+<!-- Si + 4HCl SiCl4 + 2H2 -->
+$\ce{Si + 4HCl ->SiCl4 + 2H2}$
 
 **Properties:**
 
@@ -300,7 +230,8 @@ Silicon tetrachloride is a colourless fuming liquid and it freezes at -70 ⁰C
 
 In moist air, silicon tetrachloride is hydrolysed with water to give silica and hydrochloric acid.
 
-SiCl4 + 2H2O 4HCl + SiO2
+<!-- SiCl4 + 2H2O 4HCl + SiO2 -->
+$\ce{SiCl4 + 2H2O ->4HCl + SiO2}$
 
 When silicon tetrachloride is hydrolysed with moist ether, linear perchloro siloxanes are formed \[Cl-(Si Cl2O)nSiCl3 where n=1-6.
 
@@ -308,204 +239,49 @@ When silicon tetrachloride is hydrolysed with moist ether, linear perchloro silo
 
 The chloride ion in silicon tetrachloride can be substituted by nucleophile such as OH, OR, etc.. using suitable reagents. For example, it forms silicic esters with alcohols.
 
-SiCl4 + 4C2H5OH Si(OC2H5)4 + 4HCl Tetraethoxy silane
+<!-- SiCl4 + 4C2H5OH Si(OC2H5)4 + 4HCl Tetraethoxy silane -->
+$\ce{SiCl4 + 4C2H5OH ->[{Tetraethoxy silane}] Si(OC2H5)4 + 4HCl}$
 
 **Ammonialysis.**
 
 Similarly silicon tetrachloride undergoes ammonialysis to form chlorosilazanes.
 
-2SiCl4 + NH3 Cl3Si-NH-SiCl3 + 2HCl 330 K Ether
+<!-- 2SiCl4 + NH3 Cl3Si-NH-SiCl3 + 2HCl 330 K Ether -->
+$\ce{2SiCl4 + NH3 ->[{330 K}][{Ether}] Cl3Si-NH-SiCl3 + 2HCl}$
 
 **Uses:**
 
-1\. Silicon tetrachloride is used in the production of semiconducting silicon.
+1. Silicon tetrachloride is used in the production of semiconducting silicon.
 
-2\. It is used as a starting material in the synthesis of silica gel, silicic esters, a binder for ceramic materials.
+2. It is used as a starting material in the synthesis of silica gel, silicic esters, a binder for ceramic materials.
 
-### Silcones:
+# Silcones:
  Silicones or poly siloxanes are organo silicon polymers with general empirical formula
 
 (R2SiO). Since their empirical formula is similar to that of ketone (R2CO), they were named “silicones”. These silicones may be linear or cross linked. Because of their very high thermal stability they are called high –temperature polymers.
-
-XII\_U2-P-Block.indd 46 2/19/2020 4:38:59 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-47
 
 **Preparation:**
 
 Generally silicones are prepared by the hydrolysis of dialkyldichlorosilanes (R2SiCl2) or diaryldichlorosilanes Ar2SiCl2, which are prepared by passing vapours of RCl or ArCl over silicon at 570 K with copper as a catalyst.
 
-2RCl+ Si R2SiCl2 Cu / 570 K
+<!-- 2RCl+ Si R2SiCl2 Cu / 570 K -->
+$\ce{2RCl+ Si ->[{Cu / 570 K}] R2SiCl2}$
 
 The hydrolysis of dialkylchloro silanes R2SiCl2 yields to a straight chain polymer which grown from both the sides
 
-Si Cl
-
-R
-
-Cl
-
-R
-
-Si OH
-
-R
-
-HO
-
-R +2H2O
-
-\-2HCl
-
-Si OH
-
-R
-
-HO
-
-R
-
-Si OH
-
-R
-
-HO
-
-R +
-
-\-H2O Si O
-
-R
-
-HO
-
-R
-
-Si OH
-
-R
-
-R
-
-Si OH
-
-R
-
-HO
-
-R +
-
-Si O
-
-R
-
-HO
-
-R
-
-Si O
-
-R
-
-R
-
-Si OH
-
-R
-
-R
-
-Etc
-
-\-H2O
-
-\-H2O
+<!-- pic t a -->
+![ce-2](../ce-2.png)
 
 The hydrolysis of monoalkylchloro silanes RSiCl3 yields to a very complex cross linked polymer.. Linear silicones can be converted into cyclic or ring silicones when water molecules is removed from the terminal –OH groups.
 
-SiMe
-
-Me
-
-Si MeO Me
-
-Si Me
-
-Me
-
-O
-
-Si O
-
-Me
-
-Me
-
-O Si
-
-O
-
-O Me
-
-Me Si
-
-MeO
-
-Me
-
-Si MeMe
-
-SiR
-
-O
-
-Si OO R
-
-Si
-
-R
-
-O
-
-Si O
-
-R
-
-O
-
-O
-
-Si O
-
-O
-
-O
-
-R
+<!-- pic to add -->
+![ce3](../ce-3.png)
 
 **Types of silicones:**
 
 **(i) Liner silicones:**
 
 They are obtained by the hydrolysis and subsequent condensation of dialkyl or diaryl silicon chlorides.
-
-XII\_U2-P-Block.indd 47 2/19/2020 4:38:59 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-48
 
 **a) Silicone rubbers: These silicones are bridged together by methylene or similar groups**
 
@@ -525,15 +301,15 @@ The extent of cross linking and nature of alkyl group determine the nature of po
 
 **Uses:**
 
-1\. Silicones are used for low temperature lubrication and in vacuum pumps, high temperature oil baths etc...
+1. Silicones are used for low temperature lubrication and in vacuum pumps, high temperature oil baths etc...
 
-2\. They are used for making water proofing clothes
+2. They are used for making water proofing clothes
 
-3\. They are used as insulting material in electrical motor and other appliances
+3. They are used as insulting material in electrical motor and other appliances
 
-4\. They are mixed with paints and enamels to make them resistant towards high temperature, sunlight, dampness and chemicals.
+4. They are mixed with paints and enamels to make them resistant towards high temperature, sunlight, dampness and chemicals.
 
-### Silicates
+# Silicates
 
 
 The mineral which contains silicon and oxygen in tetrahedral \[SiO 4 \]4- units linked
@@ -546,38 +322,13 @@ Silicates are classified into various types based on the way in which the tetrah
 
 4 \]4- are linked together.
 
-**Ortho silicates (Neso silicates): The simplest** silicates which contain discrete \[SiO
+**Ortho silicates (Neso silicates):** The simplest silicates which contain discrete \[SiO
 
 4 \]4-
 
 tetrahedral units are called ortho silicates or neso silicates.
 
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 **Figure 2.11 Structure of Ortho silicates**
-
-XII\_U2-P-Block.indd 48 2/19/2020 4:38:59 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-49
 
 **Examples** : Phenacite - Be2SiO4 (Be2+ ions are tetrahedrally surrounded by O2- ions), Olivine - (Fe/Mg)2SiO4 ( Fe2+ and Mg2+ cations are octahedrally surrounded by O2- ions),
 
@@ -617,103 +368,14 @@ linearly. Each silicate unit shares two of its oxygen atoms with other units.
 
 silicates there are two different types of tetrahedra : (i) Those sharing 3 vertices (ii) those sharing only 2 vertices.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Figure 2.14 Structure of Chain silicates**
-
-
-
- 
-
- 
-
-
-
- 
-
-
-
-
-
-
+![Structure of Chain silicates](../fig2.14.png)
 
 **Figure 2.12 Structure of Pyro silicate**
-
-
-
-
-
-  
-
-
-
-
-
- 
-
-
-
-
-
- 
-
- 
+![Structure of Pyro silicate](../fig2.12.png)
 
 **Figure 2.13 Structure of Cyclic silicates**
-
-XII\_U2-P-Block.indd 49 2/19/2020 4:39:00 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-|  |
-|------|------|------|------|
-
-|  |
-
-
-
-|  |
-|------|------|------|------|------|------|------|
-
-
-|  | |
-|  | |
-
-
-|  |
-
-
-|  | | |
-|------|------|------|------|------|------|------|------|------|------|------|
-
-|  | |
-|  | |
-  
-
-50
+![Structure of Cyclic silicates](../fig2.13.png)
 
 **Examples:**
 
@@ -743,62 +405,16 @@ These tecto silicates can be converted into Three dimensional aluminosilicates b
 
 4- units by \[AlO4\] 5- units. E.g. Feldspar, Zeolites etc.,
 
-### Zeolites:
+# Zeolites:
 
 
 Zeolites are three-dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework. They are hydrated sodium alumino silicates with general formula Na2O.(Al2O3).x(SiO2).yH2O (x=2 to 10; y=2 to 6).
 
- 
-
- 
-
-
-
-  
-
-  
-
 **Figure 2.16 Structure of Sheet or phyllo silicates**
+![Structure of Sheet or phyllo silicates](../fig2.16.png)
 
 **Figure 2.15 Structure of Double chain silicates**
-
-XII\_U2-P-Block.indd 50 2/19/2020 4:39:00 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-
-
-
-
-
-
-
-
-
-|  |
-|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|------|
-
-
-
-|  | |
-
-
-
-|  | | |
-
-
-
-|  | |
-  
-
-51
+![Structure of Double chain silicates](../fig2.15.png)
 
 Zeolites have porous structure in which the monovalent sodium ions and water molecules are loosely held. The Si and Al atoms are tetrahedrally coordinated with each other through shared oxygen atoms. Zeolites are similar to clay minerals but they differ in their crystalline structure.
 
@@ -811,7 +427,7 @@ The affinity of Boron-10 for neutrons is the basis of a technique known as boron
 It is based on the nuclear reaction that occurs when boron-10 is irradiated with low-energy thermal neutrons to give high linear energy α particles and a Li particle.
 
 Boron compounds are injected into a patient with a brain tumour and the compounds collect preferentially in the tumour. The tumour area is then irradiated with thermal neutrons and results in the release of an alpha particle that damages the tissue in the tumour each time a boron-10 nucleus captures a neutron. In this way damage can be limited preferentially to the tumour, leaving the normal brain tissue less affected. BNCT has also been studied as a treatment for several other tumours of the head and neck, the breast, the prostate, the bladder, andthe liver.
-
+<!-- 
 **Summary**
 
 „ The elements in which their last electron enters the 'p' orbital, constitute the p-block elements.
@@ -1133,7 +749,7 @@ Red hot →
 XII\_U2-P-Block.indd 55 2/19/2020 4:39:03 PM
 
 www.tntextbooks.in
-
+ -->
 
 
 
