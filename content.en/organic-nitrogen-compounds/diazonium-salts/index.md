@@ -93,14 +93,14 @@ $\ce{C6H5-N2Cl+KI -> C6H5I+KCl+N2}$
 
 When benzene diazonium chloride is treated with fluoroboric acid, benezene diazonium tetra fluoroborate is precipitated which on heating decomposes to give fluorobenzene.
 
-C6H5 - N2Cl + HBF4 C6H5 - N2BF4 C6H5 - F + BF3 + N2
+C<sub>6</sub>H<sub>5</sub> - N<sub>2</sub>Cl + HBF<sub>4</sub> C<sub>6</sub>H<sub>5</sub> - N<sub>2</sub>BF<sub>4</sub>  C<sub>6</sub>H<sub>5</sub> - F + BF<sub>3</sub> + N<sub>2</sub>
 
 
 **5\. Replacement by hydroxyl group**
 
 Benzene diazonium chloride solution is added slowly to a large volume of boiling water to get phenol.
 
-C6H5- N2Cl + H2O 283K C6H5 - OH + N2 + HCl
+C<sub>6</sub>H<sub>5</sub>- N<sub>2</sub>Cl + H<sub>2</sub>O 283K C<sub>6</sub>H<sub>5</sub> - OH + N<sub>2</sub>+ HCl
 
 **6\. Replacement by nitrogroup**
 
@@ -135,9 +135,9 @@ Benzoic acid
 
 Certain reducing agents like SnCl / HCl2 ; Zn dust / CH COOH,3 sodium hydrosulphite, sodium sulphite etc. reduce benzene diazonium chloride to phenyl hydrazine.
 
-N2Cl SnCl2 + HCl
+N<sub>2</sub>Cl SnCl<sub>2</sub> + HCl
 
-(or) Na2SO3 NHNH2
+(or) Na<sub>2</sub>SO<sub>3</sub> NHNH<sub>2</sub>
 
 ....
 
