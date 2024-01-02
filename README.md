@@ -3,6 +3,6 @@
 Materails
 
 ## Dev
-```sh
+```
 hugo server --themesDir ../h
 ```
