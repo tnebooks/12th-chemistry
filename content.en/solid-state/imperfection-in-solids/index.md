@@ -86,7 +86,7 @@ ZnO is colourless at room temperature. When it is heated, it becomes yellow in c
 
 Metal deficiency defect arises due to the presence of less number of cations than the anions. This defect is observed in a crystal in which, the cations have variable oxidation states.
 
-For example, in FeO crystal, some of the Fe2+ ions are missing from the crystal lattice. To maintain the electrical neutrality, twice the number of other Fe2+ ions in the crystal is oxidized to Fe3+ ions. In such cases, overall number of Fe2+ and Fe3+ ions is less than the O2- ions. It was experimentally found that the general formula of ferrous oxide is FexO, where x ranges from 0.93 to 0.98.
+For example, in FeO crystal, some of the Fe2+ ions are missing from the crystal lattice. To the maintain the electrical neutrality, twice the number of other Fe2+ ions in the crystal is oxidized to Fe3+ ions. In such cases, overall number of Fe2+ and Fe3+ ions is less than the O2- ions. It was experimentally found that the general formula of ferrous oxide is FexO, where x ranges from 0.93 to 0.98.
 
 ### Impurity defect:
 
