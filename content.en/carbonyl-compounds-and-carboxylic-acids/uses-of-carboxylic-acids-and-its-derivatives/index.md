@@ -3,150 +3,125 @@ title: 'Uses of carboxylic acids and its derivatives Formic acid'
 weight: 15
 
 ---
+**Formic acid**
 
-## Uses of carboxylic acids and its derivatives Formic acid
+It is used 
 
+i)for the dehydration of hides.
 
-It is used i) for the dehydration of hides. ii) as a coagulating agent for rubber latex iii) in medicine for treatment of gout iv) as an antiseptic in the preservation of fruit juice. **Acetic acid**
+ii)as a coagulating agent for rubber latex.
 
-It is used i) as table vinegar ii) for coagulating rubber latex iii) for manufacture of cellulose acetate and poly vinylacetate **Benzoic acid**
+iii)in medicine for treatment of gout.
 
-It is used i) as food preservative either in the pure form or in the form of sodium benzoate ii) in medicine as an urinary antiseptic iii) for manufacture of dyes **Acetyl Chloride**
+iv)as an antiseptic in the preservation of fruit juice. 
 
-It is used i) as acetylating agent in organic synthesis ii) in detection and estimation of – OH, - NH2 groups in organic compounds **Acetic anhydride**
+**Acetic acid**
 
-It is used i) acetylating agent ii) in the preparation of medicine like asprin and phenacetin iii) for the manufacture plastics like cellulose acetate and poly vinyl acetate. **Ethyl acetate is used** i) in the preparation of artificial fruit essences. ii) as a solvent for lacquers. iii) in the preparation of organic synthetic reagent like ethyl acetoacetate.
+It is used 
 
-XII U12-Carbonyl Compounds.indd 188 2/19/2020 5:16:19 PM
+i)as table vinegar 
 
-www.tntextbooks.in
+ii)for coagulating rubber latex 
 
+iii) for manufacture of cellulose acetate and poly vinylacetate 
 
+**Benzoic acid**
 
+It is used 
 
-  
+i) as food preservative either in the pure form or in the form of sodium benzoate 
 
-189
+ii) in medicine as an urinary antiseptic 
+
+iii) for manufacture of dyes 
+
+**Acetyl Chloride**
+
+It is used 
+
+i) as acetylating agent in organic synthesis 
+
+ii) in detection and estimation of – OH, - NH2 groups in organic compounds 
+
+**Acetic anhydride**
+
+It is used 
+
+i) acetylating agent 
+
+ii) in the preparation of medicine like asprin and phenacetin 
+
+iii) for the manufacture plastics like cellulose acetate and poly vinyl acetate. 
+
+**Ethyl acetate is used** 
+
+i) in the preparation of artificial fruit essences. 
+
+ii) as a solvent for lacquers. 
+
+iii) in the preparation of organic synthetic reagent like ethyl acetoacetate.
 
 **EVALUATION**
 
 **Choose the correct answer:**
 
-1\. The correct structure of the product ‘A’ formed in the reaction (NEET) O
+1.The correct structure of the product ‘A’ formed in the reaction
+  ![](q1formula.png)
 
-H2 (gas, 1 atm)
 
-Pd / C, ethanol A is
+2.The formation of cyanohydrin from acetone is an example of
 
-OH
+a) nucleophilic substitution
 
-a) b)
+b) electrophilic substitution
 
-O
+c) electrophilic addition
 
-c)
+d) Nucleophilic addition
 
-OH
 
-d)
+3.Reaction of acetone with one of the following reagents involves nucleophilic addition followed by elimination of water. The reagent is
 
-OH
+a) Grignard reagent 
 
-2\. The formation of cyanohydrin from acetone is an example of
+b) Sn / HCl
 
-a) nucleophilic substitution b) electrophilic substitution
+c) hydrazine in presence of slightly acidic solution 
 
-c) electrophilic addition d) Nucleophilic addition
+d) hydrocyanic acid
 
-3\. Reaction of acetone with one of the following reagents involves nucleophilic addition followed by elimination of water. The reagent is
-
-a) Grignard reagent b) Sn / HCl
-
-c) hydrazine in presence of slightly acidic solution d) hydrocyanic acid
-
-4\. In the following reaction,
-
-HC CH H2SO4
-
-HgSO4
+4.In the following reaction,
+![](q4.png)
 
 X Product ‘X’ will not give
 
-a) Tollen’s test b) Victor meyer test
+a) Tollen’s test 
 
-c) Iodoform test d) Fehling solution test
+b) Victor meyer test
 
-5\. CH2 CH2
+c) Iodoform test 
+d) Fehling solution test
 
-i) O3
+5.![](q5.png)
 
-ii) Zn / H2O X
+a) Formaldelyde 
 
-NH3 Y ‘Y’ is
+b) di acetone ammonia
 
-a) Formaldelyde b) di acetone ammonia
+c) hexamethylene tetraamine 
 
-c) hexamethylene tetraamine d) oxime
+d) oxime
 
-6\. Predict the product Z in the following series of reactions
+6.Predict the product Z in the following series of reactions
 
-Ethanoic acid X YPCl C H AnhydrousAlCl
+![](q6.png)
 
-i)CH MgBr ii)
+![](q6ans.png)
 
-5 6 6
-
-3
-
-3 →  → H O3 + Z → .
-
-a) 3 2 6 5(CH ) C(OH)C H b) CH CH(OH)C H3 6 5
-
-c) CH CH(OH)CH - CH3 2 3 d) CH2 - OH
-
-7\. Assertion: 2,2 – dimethyl propanoic acid does not give HVZ reaction.
+7.Assertion: 2,2 – dimethyl propanoic acid does not give HVZ reaction.
 
 Reason: 2 – 2, dimethyl propanoic acid does not have α - hydrogen atom
 
-XII U12-Carbonyl Compounds.indd 189 2/19/2020 5:16:22 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|------|------|
-
-
-
-
-
-|------|------|------|
-
-
-
-
-|------|------|
-
-
-
-
-|------|------|
-
-
-
-
-|------|------|------|
-
-
-
-
-  
-
-190
 
 a) if both assertion and reason are true and reason is the correct explanation of assertion.
 
@@ -156,7 +131,7 @@ c) assertion is true but reason is false
 
 d) both assertion and reason are false.
 
-8\. Which of the following represents the correct order of acidity in the given compounds
+8.Which of the following represents the correct order of acidity in the given compounds
 
 a)FCH COOH > CH COOH > BrCH COOH > ClCH COOH2 3 2 2
 
@@ -166,215 +141,89 @@ c) CH COOH > ClCH COOH > FCH COOH > Br-CH COOH3 2 2 2
 
 d) Cl CH COOH > CH COOH > BrCH COOH > ICH COOH2 2 23
 
-9\. Benzoic acid 3 2i) NH NaNO /HClNaOBr ii) A B C→ → →D ‘C’ is
+9.![](q9.png)
 
-a) anilinium chloride b) O – nitro aniline c) benzene diazonium chloride d) m – nitro benzoic acid
+a) anilinium chloride 
 
-10\. Ethanoic acid P/Br2 → 2 – bromoethanoic acid. This reaction is called
+b) O – nitro aniline 
 
-a) Finkelstein reaction b) Haloform reaction
+c) benzene diazonium chloride 
 
-c) Hell – Volhard – Zelinsky reaction d) none of these
+d) m – nitro benzoic acid
 
-11\. CH Br (A) (B) (C)3 KCN H O PCl3
+10.Ethanoic acid  ![](q10.png)  – bromoethanoic acid. This reaction is called
 
-\+ 5 →  →  → product (C) is
+a) Finkelstein reaction 
 
-a) acetylchloride b) chloro acetic acid
+b) Haloform reaction
 
-c) α- chlorocyano ethanoic acid d) none of these
+c) Hell – Volhard – Zelinsky reaction 
 
-12\. Which one of the following reduces tollens reagent a) formic acid b) acetic acid
+d) none of these
 
-c) benzophenone d) none of these
+11.![](q11.png) product (C) is
 
-13\. Br i) Mg, ether
+a) acetylchloride 
 
-ii) CO2
+b) chloro acetic acid
 
-A H3O+
+c) α- chlorocyano ethanoic acid 
 
-B ‘B’ is
+d) none of these
 
-a) COOH b)
+12.Which one of the following reduces tollens reagent 
 
-COOH
+a) formic acid 
 
-c) d)
+b) acetic acid
 
-C
+c) benzophenone 
 
-O
+d) none of these
 
-a) COOH b)
+ ![](13.png)
 
-COOH
+![](q14.png)
 
-c) d)
+![](q14ans.png)
 
-C
 
-O
+![](q15.png)
 
-14\. The IUPAC name of
+![](q16.png)
 
-OH
 
-O
+17.Assertion : p – N, N – dimethyl aminobenzaldehyde undergoes benzoin condensation Reason : The aldehydic (-CHO) group is meta directing a) if both assertion and reason are true and reason is the correct explanation of assertion. b) if both assertion and reason are true but reason is not the correct explanation of assertion. c) assertion is true but reason is false d) both assertion and reason are false.
 
-XII U12-Carbonyl Compounds.indd 190 2/19/2020 5:16:26 PM
+18.Which one of the following reaction is an example of disproportionation reaction a) Aldol condensation b) cannizaro reaction c) Benzoin condensation d) none of these
 
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|------|------|
-
-
-
-
-
-
-|------|------|------|
-| Br |
-| ) |
-
-
-
-
-
-|------|
-
-
-
-
-
-|------|------|------|
-
-
-
-
-| O |
-|------|------|------|------|------|
-
-
-
-
-  
-
-191
-
-a) but – 3- enoicacid b) but – 1- ene-4-oicacid
-
-c) but – 2- ene-1-oic acid d) but -3-ene-1-oicacid
-
-15\. Identify the product formed in the reaction C
-
-O
-
-CH3 N2H4
-
-C2H5 ONa
-
-a) b) NH2
-
-C)
-
-C O - C2H5
-
-O d)
-
-16\. In which case chiral carbon is not generated by reaction with HCN
-
-a) b)
-
-C) d)
-
-O OH
-
-O
-
-O
-
-Ph
-
-O
-
-Ph
-
-OH
-
-17\. Assertion : p – N, N – dimethyl aminobenzaldehyde undergoes benzoin condensation Reason : The aldehydic (-CHO) group is meta directing a) if both assertion and reason are true and reason is the correct explanation of assertion. b) if both assertion and reason are true but reason is not the correct explanation of assertion. c) assertion is true but reason is false d) both assertion and reason are false.
-
-18\. Which one of the following reaction is an example of disproportionation reaction a) Aldol condensation b) cannizaro reaction c) Benzoin condensation d) none of these
-
-19\. Which one of the following undergoes reaction with 50% sodium hydroxide solution to give the corresponding alcohol and acid
+19.Which one of the following undergoes reaction with 50% sodium hydroxide solution to give the corresponding alcohol and acid
 
 a) Phenylmethanal b) ethanal c) ethanol d) methanol
 
-XII U12-Carbonyl Compounds.indd 191 2/19/2020 5:16:27 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|
-
-  
-
-192
-
-20\. The reagent used to distinguish between acetaldehyde and benzaldehyde is
+20.The reagent used to distinguish between acetaldehyde and benzaldehyde is
 
 a) Tollens reagent b) Fehling’s solution
 
 c) 2,4 – dinitrophenyl hydrazine d) semicarbazide
 
-21\. Phenyl methanal is reacted with concentrated NaOH to give two products X and Y. X reacts with metallic sodium to liberate hydrogen X and Y are
+21.Phenyl methanal is reacted with concentrated NaOH to give two products X and Y. X reacts with metallic sodium to liberate hydrogen X and Y are
 
 a) sodiumbenzoate and phenol b) Sodium benzoate and phenyl methanol
 
 c) phenyl methanol and sodium benzoate d) none of these
 
-22\. In which of the following reactions new carbon – carbon bond is not formed?
+22.In which of the following reactions new carbon – carbon bond is not formed?
 
 a) Aldol condensation b) Friedel craft reaction
 
 c) Kolbe’s reaction d) Wolf kishner reduction
 
-23\. An alkene “A” on reaction with O3 and Zn - H O2 gives propanone and ethanol in equimolar ratio. Addition of HCl to alkene “A” gives “B” as the major product. The structure of product “B” is
+23.An alkene “A” on reaction with O3 and Zn - H O2 gives propanone and ethanol in equimolar ratio. Addition of HCl to alkene “A” gives “B” as the major product. The structure of product “B” is
 
-a) Cl CH2 CH2 CH
+![](formula.png)
 
-CH3
-
-CH3
-
-b) H3C CH2 CH CH3
-
-CH2Cl
-
-c) H3C CH2 C CH3
-
-CH3
-
-Cl
-
-d) H3C CH CH
-
-CH3
-
-Cl
-
-24\. Carboxylic acids have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass. It is due to their (NEET)
+24.Carboxylic acids have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass. It is due to their (NEET)
 
 a) more extensive association of carboxylic acid via van der Waals force of attraction
 
@@ -386,101 +235,53 @@ d) formation of intermolecular H – bonding
 
 **Short Answer Questions**
 
-1\. How is propanoic acid is prepared starting from (a) an alcohol (b) an alkylhalide (c) an alkene
+1.How is propanoic acid is prepared starting from (a) an alcohol (b) an alkylhalide (c) an alkene
 
-2\. A Compound (A) with molecular formula C H N2 3 on acid hydrolysis gives(B) which reacts with thionylchloride to give compound(C). Benzene reacts with compound (C) in presence of anhydrous AlCl3 to give compound(D). Compound (D) on reduction with Zn/Hg and Conc.HCl gives (E). Identify (A), (B), (C), (D) and (E). Write the equations.
+2.A Compound (A) with molecular formula C H N2 3 on acid hydrolysis gives(B) which reacts with thionylchloride to give compound(C). Benzene reacts with compound (C) in presence of anhydrous AlCl3 to give compound(D). Compound (D) on reduction with Zn/Hg and Conc.HCl gives (E). Identify (A), (B), (C), (D) and (E). Write the equations.
 
-3\. Identify X and Y.
+3.Identify X and Y.
 
-CH COCH CH COOC H X Y3 2 2 2 5 CH MgBr H O3 3
+![](formula1.png)
 
-+
+4.Identify A, B and C
 
- →  →
+![](formula2.png)
 
-XII U12-Carbonyl Compounds.indd 192 2/19/2020 5:16:31 PM
+5.Identify A, B, C and D
 
-www.tntextbooks.in
+![](formula3.png)
 
+6.An alkene (A) on ozonolysis gives propanone and aldehyde (B). When (B) is oxidised (C) is obtained. (C) is treated with Br2/P gives (D) which on hydrolysis gives (E). When propanone is treated with HCN followed by hydrolysis gives (E). Identify A, B, C, D and E.
 
-
-
-  
-
-193
-
-4\. Identify A, B and C
-
-benzoic acid PCl5
-
-A Benzene
-
-Anhydrous AlCl3
-
-B
-
-H+C2H5OH
-
-C C6H5MgBr
-
-5\. Identify A, B, C and D
-
-ethanoic acid A Pd/BaSO4
-
-B C NaOH
-
-D SOCl2
-
-6\. An alkene (A) on ozonolysis gives propanone and aldehyde (B). When (B) is oxidised (C) is obtained. (C) is treated with Br2/P gives (D) which on hydrolysis gives (E). When propanone is treated with HCN followed by hydrolysis gives (E). Identify A, B, C, D and E.
-
-7\. How will you convert benzaldehyde into the following compounds?
+7.How will you convert benzaldehyde into the following compounds?
 
 (i) benzophenone (ii) benzoic acid
 
 (iii)α-hydroxyphenylaceticacid.
 
-8\. What is the action of HCN on (i) propanone (ii) 2,4-dichlorobenzaldehyde. iii) ethanal
+8.What is the action of HCN on (i) propanone (ii) 2,4-dichlorobenzaldehyde. iii) ethanal
 
-9\. A carbonyl compound A having molecular formula C5H10O forms crystalline precipitate with sodium bisulphate and gives positive iodoform test. A does not reduce Fehling solution. Identify A.
+9.A carbonyl compound A having molecular formula C5H10O forms crystalline precipitate with sodium bisulphate and gives positive iodoform test. A does not reduce Fehling solution. Identify A.
 
-10\. Write the structure of the major product of the aldol condensation of benzaldehyde with acetone.
+10.Write the structure of the major product of the aldol condensation of benzaldehyde with acetone.
 
-11\. How are the following conversions effected (a) propanal into butanone (b) Hex-3-yne into hexan-3-one.
+11.How are the following conversions effected 
+
+(a) propanal into butanone (b) Hex-3-yne into hexan-3-one.
 
 (c) phenylmethanal into benzoic acid (d) phenylmethanal into benzoin
 
-12\. Complete the following reaction.
+12.Complete the following reaction.
 
-2 2 2HO-CH -CH -CH -OHCH -CH -CH -C-CH ?3 2 2 3 
+![](formula4.png)
 
-O dry HCl
+13.Identify A, B and C
 
-13\. Identify A, B and C
+![Alt text](formula5.png)
 
-Benzyl bromide A C NaCN THF
+14.Oxidation of ketones involves carbon – carbon bond cleavage. Name the product (s) is are formed on oxidising 2,5 – dimethyhexan – 3- one using strong oxidising agent.
 
-H3O+
-
-(B) i) CO2
-
-ii) H3O+
-
-Mg ether
-
-XII U12-Carbonyl Compounds.indd 193 2/19/2020 5:16:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-194
-
-14\. Oxidation of ketones involves carbon – carbon bond cleavage. Name the product (s) is / are formed on oxidising 2,5 – dimethyhexan – 3- one using strong oxidising agent.
-
-15\. How will you prepare
+15.How will you prepare
 
 i. Acetic anhydride from acetic acid
 
@@ -502,113 +303,4 @@ ix. Cinnamic acid from benzaldehyde
 
 x. Acetaldehyde from ethyne
 
-XII U12-Carbonyl Compounds.indd 194 2/19/2020 5:16:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-195
-
-Alkenes Ozonolysis
-
-Alkynes dil.H2SO4
-
-HgSO4
-
-Gemdihalides Hydrolysis
-
-Alcohols Cu
-
-R - OH PCC
-
-H / K2Cr2O7
-
-(RCOO)2Ca Dry distillation
-
-Alkyl cyanide (i) Grignard reagent
-
-(ii) H3O+
-
-RCOCl H2/Pd/BaSO4
-
-(Rosenmund's reduction)
-
-R - C N (i) SnCl2/HCl
-
-(ii) Hydrolysis
-
-(Stephen's reaction)
-
-**Methods of preparation**
-
-**Chemical properties**
-
-HCN R OH
-
-C R CN
-
-(Cyanohydrin)
-
-NaHSO3 R OH
-
-C R SO3Na
-
-R C
-
-R N - Z
-
-H2N-Z
-
-(Ammonia derivatives)
-
-Ester(Given by all aldehydes)Tischenko
-
-reaction
-
-\- H containing carbonyl compounds give Aldol reaction
-
-OH
-
-OH Aldehydes without - H give cannizaro reaction
-
-(Clemmensen's reduction)
-
-Zn-Hg
-
-Conc.HCl Alkane
-
-LiAlH2 (H) Alcohol
-
-Oxidation Acids
-
-i) RMgX Alcohols
-
-NH - NH2
-
-OH / Alkane
-
-(Wolf Kishner reduction)
-
-Al(OEt)3
-
-573K
-
-R - OH
-
-(O)
-
-ii) H3O+
-
-**CARBONYL COMPOUNDS**
-
-XII U12-Carbonyl Compounds.indd 195 2/19/2020 5:16:34 PM
-
-www.tntextbooks.in
-
-
-
-
+![CARBONYL COMPOUNDS](formula6.png)

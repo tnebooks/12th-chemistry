@@ -3,10 +3,10 @@ title: 'Refining process'
 weight: 6
 ---
 
-## Refining process
- Generally the metal extracted from its ore contains some impurities such as unreacted
 
-oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process. In this section, let us discuss some of the common refining methods.
+
+## Refining process
+ Generally the metal extracted from its ore contains some impurities such as unreacted oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process. In this section, let us discuss some of the common refining methods.
 
 ### Distillation
 
@@ -23,17 +23,6 @@ This method, is employed to remove the impurities with high melting points from 
 
 The crude metal is refined by electrolysis. It is carried out in an electrolytic cell containing aqueous solution of the salts of the metal of interest. The rods of impure metal are used as anode and thin strips of pure metal are used as cathode. The metal of interest dissolves from the anode, pass into the solution while the same amount of metal ions from the solution will be deposited at the cathode. During electrolysis, the less electropositive impurities in the anode, settle down at the bottom and are removed as anode mud.
 
-XII U1 Metallurgy - Jerald.indd 15 2/19/2020 4:38:03 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-16
-
 Let us understand this process by considering electrolytic refining of silver as an example.
 
 Cathode : Pure silver
@@ -44,9 +33,16 @@ Electrolyte : Acidified aqueous solution of silver nitrate.
 
 When a current is passed through the electrodes the following reactions will take place
 
-Ag+ (aq) + 1e- Ag (s) Reaction at cathode
+Reaction at cathode     
+{{< katex display >}}
+{Ag (s) \xrightarrow{} Ag^+(aq)+1e^-}
+{{< /katex >}}
 
-Reaction at anode Ag (s) Ag+ (aq) + 1e-
+Reaction at anode 
+
+{{< katex display >}}
+{Ag^+(aq)+1e^- \xrightarrow{} Ag}(s)
+{{< /katex >}}
 
 During electrolysis, at the anode the silver atoms lose electrons and enter the solution. The positively charged silver cations migrate towards the cathode and get discharged by gaining electrons and deposited on the cathode. Other metals such as copper, zinc etc.,can also be refined by this process in a similar manner.
 
@@ -64,29 +60,28 @@ In this method, the metal is treated with a suitable reagent which can form a vo
 
 The impure nickel is heated in a stream of carbon monoxide at around 350 K. The nickel reacts with the CO to form a highly volatile nickel tetracarbonyl. The solid impurities are left behind.
 
-Ni (s) + 4 CO (g) \[Ni(CO)4\] (g)
+{{< katex display >}}
+{Ni (s)  +4 CO(g) \xrightarrow{} {[Ni{CO}_4]} (g)}
+{{< /katex >}}
 
 On heating the nickel tetracarbonyl around 460 K, the complex decomposes to give pure metal.
 
-Ni (s) + 4 CO (g)\[Ni(CO)4\] (g)
-
-XII U1 Metallurgy - Jerald.indd 16 2/19/2020 4:38:03 PM
-
-www.tntextbooks.in
+{{< katex display >}}
+{{[Ni{CO}_4]} (g) \xrightarrow {}Ni(s) +4CO(g)}
+{{< /katex >}}
 
 
-
-
-  
-
-17
 
 **Van-Arkel method for refining zirconium/titanium:**
 
-This method is based on the thermal decomposition of metal compounds which lead to the formation of pure metals. Titanium and zirconium can be purified using this method. For example, the impure titanium metal is heated in an evacuated vessel with iodine at a temperature of 550 K to form the volatile titanium tetra-iodide.(TiI4). The impurities are left behind, as they do not react with iodine.
+This method is based on the thermal decomposition of metal compounds which lead to the formation of pure metals. Titanium and zirconium can be purified using this method. For example, the impure titanium metal is heated in an evacuated vessel with iodine at a temperature of 550 K to form the volatile titanium tetra-iodide.(TiI<sub>4</sub>). The impurities are left behind, as they do not react with iodine.
 
-Ti (s) + 2I2 (s) TiI4 (vapour)550K
+{{< katex display >}}
+{Ti(s)+2l_2(s) \xrightarrow[{Δ}]{550K} .Til_4(vapour)}
+{{< /katex >}}
 
 The volatile titanium tetraiodide vapour is passed over a tungsten filament at a temperature aroud 1800 K. The titanium tetraiodide is decomposed and pure titanium is deposited on the filament. The iodine is reused.
 
-Ti (s) + 2I2 (s)TiI4 (vapour) 1800 K
+{{< katex display >}}
+{Til_4 (vapour) \xrightarrow[{Δ}]{1800K} CO +2e^{-}}
+{{< /katex >}}

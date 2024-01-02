@@ -1,13 +1,8 @@
 ---
-title: 'Common Ion Effect'
+title: 'Common  ion Effect'
 weight: 6
 ---
-
-
-
-
-## Common Ion Effect
- When a salt of a weak acid is added to the acid itself, the dissociation of the weak acid is
+When a salt of a weak acid is added to the acid itself, the dissociation of the weak acid is
 
 suppressed further. For example, the addition of sodium acetate to acetic acid solution leads to the suppression in the dissociation of acetic acid which is already weakly dissociated. In this case, CH COOH3 and CH COONa3 have the common ion, CH COO
 

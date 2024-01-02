@@ -9,17 +9,15 @@ All the transition elements are metals. Similar to all metals the transition met
 
 XII U4-D-Block-Jerald Folder.indd 102 2/19/2020 4:40:19 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
 
-103
-
 Most of the transition elements are hexagonal close packed, cubic close packed or body centrered cubic which are the characteristics of true metals.
-
+![alt text](lattice_structure.jpg)
 **21 Sc**
 
 **HCP**
@@ -186,6 +184,8 @@ As we move from left to right along the transition metal series, melting point f
 
 For example, in the first series the melting point increases from Scandium (m.pt 1814K) to a maximum of 2183 K for vanadium, which is close to 2180K for chromium. However, manganese in 3d series and Tc in 4d series have low melting point. The maximum melting point at about the middle of transition metal series indicates that d5 configuration is favorable for strong interatomic attraction. The following figure shows the trends in melting points of transition elements.
 
+![alt text](variation_in_melting_poins.png)
+
 Sc Ti
 
 Mn
@@ -206,7 +206,7 @@ Zn
 
 XII U4-D-Block-Jerald Folder.indd 103 2/19/2020 4:40:21 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -220,8 +220,6 @@ www.tntextbooks.in
 | 89**AcFCC |104Rf[HCP] |105Db[BCC] |106Sg[BCC] |107Bh[HCP] |108Hs[HCP] |109Mt[FCC] |110Ds[BCC] |111Rg[BCC] |112Cn[BCC] |
   
 
-104
-
 ### Variation of atomic and ionic size:
 
 
@@ -230,6 +228,7 @@ It is generally expected a steady decrease in atomic radius along a period as th
 At the end of the series, d – orbitals of Zinc contain 10 electrons in which the repulsive interaction between the electrons is more than the effective nuclear charge and hence, the orbitals slightly expand and atomic radius slightly increases.
 
 Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d
+![alt text](ionic_size.png)
 
 1.5
 
@@ -319,14 +318,12 @@ Ir Pt Au Hg
 
 XII U4-D-Block-Jerald Folder.indd 104 2/19/2020 4:40:23 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-105
 
 elements which have nearly same atomic radius as that of corresponding 4d elements. Th is is due to lanthanoide contraction which is to be discussed later in this unit under inner transition elements.
 
@@ -334,6 +331,7 @@ elements which have nearly same atomic radius as that of corresponding 4d elemen
 
 
 Ionization energy of transition element is intermediate between those of s and p block elements. As we move from left to right in a transition metal series, the ionization enthalpy increases as expected. This is due to increase in nuclear charge corresponding to the filling of d electrons. The following figure show the trends in ionisation enthalpy of transition elements.
+![](ionization.png)
 
 Th e increase in fi rst ionisation enthalpy with increase in atomic number along a particular series is not regular. Th e added electron enters (n-1)d orbital and the inner electrons act as a shield and decrease the eff ect of nuclear charge on valence ns electrons. Th erefore, it leads to variation in the ionization energy values.
 
@@ -353,14 +351,12 @@ Since, the energy required to form Ni2+ is less than that of Pt2+, Ni(II) compou
 
 XII U4-D-Block-Jerald Folder.indd 105 2/19/2020 4:40:25 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-106
 
 **Evaluate yourself:**
 
@@ -391,7 +387,7 @@ The oxidation states of 4d and 5d metals vary from +3 for Y and La to +8 for Ru 
 
 XII U4-D-Block-Jerald Folder.indd 106 2/19/2020 4:40:27 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -417,8 +413,6 @@ www.tntextbooks.in
 | +1 |
   
 
-107
-
 is unique in 3d series having a stable +1 oxidation state. It is prone to disproportionate to the +2 and 0 oxidation states.
 
 **Evaluate yourself:**
@@ -433,7 +427,7 @@ Redox reactions involve transfer of electrons from one reactant to another. Such
 Standard electrode potential is the value of the standard emf of a cell in which molecular hydrogen under standard pressure ( 1atm) and temperature (273K) is oxidised to solvated protons at the electrode.
 
 If the standard electrode potential (E0), of a metal is large and negative, the metal is a powerful reducing agent, because it loses electrons easily. Standard electrode potentials (reduction potential) of few first transition metals are given in the following table.
-
+![alt text](standard_electrode.png)
 Reaction Standard reduction potential ( V )
 
 Ti Ti
@@ -477,7 +471,7 @@ _M_
 value
 
 is approaching towards less negative value and copper has a positive reduction potential. i.e.,
-
+![alt text](standard_electrode2.png)
 \-4
 
 \-3
@@ -499,8 +493,6 @@ is approaching towards less negative value and copper has a positive reduction p
 +6
 
 +7
-
-0
 
 0 0 0 0 0 0 0 0
 
@@ -568,8 +560,6 @@ Oxidation number
 
 0.5
 
-0
-
 0.5
 
 3d Sc
@@ -606,7 +596,7 @@ _M_
 
 XII U4-D-Block-Jerald Folder.indd 107 2/19/2020 4:40:37 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -625,8 +615,6 @@ www.tntextbooks.in
 | Cu +2e → Cu2+− |+0.34 |
 | Zn +2e → Zn2+− |–0.76 |
   
-
-108
 
 elemental copper is more stable than Cu2+. There are two deviations., In the general trend,
 
@@ -657,10 +645,6 @@ _Fe aq e_3 2 0+ − ++ =( ) Fe E 0.77V
 _Cu aq e_2 0+ −+ =( ) 2 Cu(s) E +0.34 V
 
 The standard electrode potential for the M M
-
-3
-
-2
 
 \+ + half-cell gives the relative stability
 
@@ -696,17 +680,9 @@ The negative values for titanium, vanadium and chromium indicate that the higher
 
 The high reduction potential of Mn Mn
 
-3
-
-2
-
 \+ + indicates Mn2+ is more stable than Mn3+. For
 
 Fe Fe
-
-3
-
-2
 
 +
 
@@ -733,8 +709,6 @@ Most of the compounds of transition elements are paramagnetic. Magnetic properti
 
 
 
-2
-
 2.5
 
 Ti V Cr
@@ -749,15 +723,11 @@ Co
 
 **Figure 4.7 (b)** M M
 
-3
-
-2
-
 \+ + **\-3d series**
 
 XII U4-D-Block-Jerald Folder.indd 108 2/19/2020 4:40:47 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -773,8 +743,6 @@ www.tntextbooks.in
 | Fe +e → Fe32+− + |+0.77 |
 | Co +e → Co32+− + |+1.81 |
   
-
-109
 
 the electron is spinning around its own axis, in addition to its orbital motion around the nucleus. Due to these motions, a tiny magnetic field is generated and it is measured in terms of magnetic moment. On the basis of magnetic properties, materials can be broadly classified as (i) paramagnetic materials (ii) diamagnetic materials, besides these there are ferromagnetic and antiferromagnetic materials.
 
@@ -822,13 +790,9 @@ n 2
 
 2 n n + 2
 
-4
-
 B
 
 B
-
-1
 
 n n + 2 B( ) µ
 
@@ -836,14 +800,12 @@ The magnetic moment calculated using the above equation is compared with the exp
 
 XII U4-D-Block-Jerald Folder.indd 109 2/19/2020 4:40:49 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-110
 
 **Ion Configuration n** µ µ= ( ) n n + 2 B **μ (observed)**
 
@@ -902,7 +864,7 @@ In certain catalytic processes the variable oxidation states of transition metal
 
 XII U4-D-Block-Jerald Folder.indd 110 2/19/2020 4:40:58 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -923,8 +885,6 @@ www.tntextbooks.in
 | Cu2+ |d9 |1 |()µµ=  1 1 + 2  =  3  = 1.732B |1.8-2.2 |
 | Cu  , Zn+ 2+ |d10 |0 |()µµ= 00  + 2   = 0B |diamagnetic |
   
-
-111
 
 (V2O5) is used as a catalyst to oxidise SO2. In this reaction V2O5 is reduced to vanadium (IV) Oxide (VO2).
 
@@ -986,14 +946,12 @@ An interstitial compound or alloy is a compound that is formed when small atoms 
 
 XII U4-D-Block-Jerald Folder.indd 111 2/19/2020 4:40:59 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-112
 
 (iii) Transition metal hydrides are used as powerful reducing agents
 

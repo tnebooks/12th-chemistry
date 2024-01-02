@@ -2,69 +2,75 @@
 title: 'Important compound of Transition elements'
 weight: 4
 ---
-## important compound of Transition elements Oxides and Oxoanions of Metals
+
+## important compound of Transition elements
+**Oxides and Oxoanions of Metals**
 
 
 Generally, transition metal oxides are formed by the reaction of transition metals with molecular oxygen at high temperatures. Except the first member of 3d series, Scandium, all other transition elements form ionic metal oxides. The oxidation number of metal in metal oxides ranges from +2 to +7. As the oxidation number of a metal increases, ionic character decreases, for example, Mn2O7 is covalent. Mostly higher oxides are acidic in nature, Mn2O7 dissolves in water to give permanganic acid (HMnO4 ) , similarly CrO3 gives chromic acid (H2CrO4) and dichromic acid (H2Cr2O7). Generally lower oxides may be amphoteric or basic, for example, Chromium (III) oxide - Cr2O3, is amphoteric and Chromium(II) oxide, CrO, is basic in nature.
 
-**Potassium dichromate K2Cr2O7 Preparation:** Potassium dichromate is prepared from chromate ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
+**Potassium dichromate {{< katex >}}\text{K}_2\text{Cr}_2\text{O}_7{{< /katex >}}:**
 
-4 FeCr O + 8 Na CO + 7 O 8 Na CrO 2 4 2 3 2 2 4 900 - 10000C → + 2 Fe O + 8 CO2 3 2 ↑
+ **Preparation:** 
+
+ Potassium dichromate is prepared from chromate ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
+
+{{< katex display >}}
+4 \text{FeCr}_2\text(O)_4 + 8 \text{Na}_2\text{CO}_3 +7 \text{O}_2
+\xrightarrow[900-1000AC]{}8 \text{Na}_2\text{CrO}_4 + 2 \text{Fe}_2
+\text{O}_3 +8 \text{CO}_2 \uparrow
+{{< /katex >}}
 
 The roasted mass is treated with water to separate soluble sodium chromate from insoluble iron oxide. The yellow solution of sodium chromate is treated with concentrated sulphuric acid which converts sodium chromate into sodium dichromate.
 
-2 Na CrO + H SO Na Cr O2 4 sodium chromate (yellow)
 
-2 4
 
-2 2 7 sodiu
+{{< katex display >}}
+    \underset{\text{sodium chromate (yellow)}}{ 2 \text{Na}_2\text{CrO}_4} + \text{H}_2\text{SO}_4 \rightarrow 
+    \underset{\text{sodium dichromate (orange red)}}{\text{Na}_2\text{Cr}_2\text{O}_7}
+    + 2 \text{Na}_2\text{SO}_4 + \text(H)_2\text{O}
+  
+{{< /katex >}}
 
-→ m dichromate
 
-(orange red)
 
-2 4 2 + Na SO + H O
 
 The above solution is concentrated to remove less soluble sodium sulphate. The resulting solution is filtered and further concentrated. It is cooled to get the crystals of Na2SO4.2H2O.
 
-The saturated solution of sodium dichromate in water is mixed with KCl and then concentrated to get crystals of NaCl. It is filtered while hot and the filtrate is cooled to obtain K2Cr2O7 crystals.
-
-XII U4-D-Block-Jerald Folder.indd 112 2/19/2020 4:41:01 PM
-
-www.tntextbooks.in
+The saturated solution of sodium dichromate in water is mixed with KCl and then concentrated to get crystals of NaCl. It is filtered while hot and the filtrate is cooled to obtain {{< katex >}}\text{K}_2\text{Cr}_2\text{O}_7{{< /katex >}} crystals.
 
 
 
 
+
+
+
+{{< katex display >}}
+    \underset{\text{sodium dichromate
+(orange red}}{  \text{Na}_2\text{Cr}_2\text{O}_7} + 2 \text{K}\text{Cl} \rightarrow 
+    \underset{\text{potassium dichromate (orange red)}}{\text{k2}_2\text{Cr}_2\text{O}_7}
+    + 2 \text{Na}\text{Cl}_4
+  
+{{< /katex >}}
   
 
-113
-
-Na Cr O + 2KCl K Cr O2 2 7 sodium dichromate (orange red)
-
-2 2 7
-
-p →
-
-otassium dichromate (orange red)
-
-\+ 2NaCl
 
 **Physical properties:**
 
 Potassium dichromate is an orange red crystalline solid which melts at 671K and it is moderately soluble in cold water, but very much soluble in hot water. On heating it decomposes and forms Cr2O3 and molecular oxygen. As it emits toxic chromium fumes upon heating, it is mainly replaced by sodium dichromate.
 
-4 K Cr O 4 K CrO2 2 7 potassium dichromate
 
-2 4 potassium chrom
+{{< katex display >}}
+4 \text{K}_2\text(Cr)_2\text{O}_7 
+\xrightarrow{\overset{\bigtriangleup}{}}4 \text{K}_2\text{CrO}_4 + 2 \text{Cr}_2
+\text{O}_3 +3 \text{CO}_2 \uparrow
+{{< /katex >}}
 
-∆ → ate
 
-2 3 chromium(III) oxide
-
-2 + 2 Cr O + 3O ↑
 
 **Structure of dichromate ion:**
+
+![alt text](structure_of_dichromate_ion.png)
 
 Both chromate and dichromate ion are oxo anions of chromium and they are moderately
 
@@ -75,6 +81,9 @@ strong oxidizing agents. In these ions chromium is in +6 oxidation state. In an 
 1\. **Oxidation**
 
 Potassium dichromate is a powerful oxidising agent in acidic medium. Its oxidising action in the presence of H+ ions is shown below. You can note that the change in the oxidation state of chromium from Cr6+ to Cr3+.Its oxidising action is shown below. Cr O + 14H + 6e r + 7 H O2 7
+{{< katex display >}}
+
+{{< /katex >}}
 
 2 +
 
@@ -86,18 +95,18 @@ Th e oxidising nature of potassium dichromate (dichromate ion) is illustrated in
 
 **Figure 4.8 (a) Structure of chromate ion**
 
+![alt text](structure_of_dichromate_ion.png)
+
 **Figure 4.8 (b) Structure of dichromate ion**
 
 XII U4-D-Block-Jerald Folder.indd 113 2/19/2020 4:41:02 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-114
 
 (i) It oxidises ferrous salts to ferric salts.
 
@@ -195,14 +204,12 @@ Some important uses of potassium dichromate are listed below.
 
 XII U4-D-Block-Jerald Folder.indd 114 2/19/2020 4:41:09 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-115
 
 **Potassium permanganate - KMnO4**
 
@@ -284,18 +291,18 @@ Potassium permanganate exists in the form of dark purple crystals which melts at
 
 XII U4-D-Block-Jerald Folder.indd 115 2/19/2020 4:41:16 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
 
-116
-
 **Structure of permanganate ion**
 
 Permanganate ion has tetrahedral geometry in which the central Mn7+ is sp3 hybridised.
+
+![alt text](structure_of_paramagnetic_iron.png)
 
 **Chemical properties:**
 
@@ -359,14 +366,12 @@ MnO + 2H O + 3e MnO + 4OH4 2 2
 
 XII U4-D-Block-Jerald Folder.indd 116 2/19/2020 4:41:19 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-117
 
 b) In alkaline medium: In the presence of alkali metal hydroxides, the permanganate ion is converted into
 
@@ -381,8 +386,6 @@ This manganate is further reduced to MnO2 by some reducing agents.
 MnO + H O MnO + 2OH + O4 2 2
 
 2− −→ \[ \] So the overall reaction can be written as follows. MnO + 2H O + 3e MnO + 4OH4 2
-
-2
 
 − − −→
 
@@ -424,8 +427,6 @@ The oxidising nature of potassium permanganate (permanganate ion) in acid medium
 
 2MnO + COO + 16H 2Mn + 10CO + 8H O4
 
-2
-
 2+ 2 2
 
 − − +( ) →5 2
@@ -460,14 +461,12 @@ The oxidising nature of potassium permanganate (permanganate ion) in acid medium
 
 XII U4-D-Block-Jerald Folder.indd 117 2/19/2020 4:41:29 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-118
 
 **Uses of potassium permanganate:**
 
@@ -499,8 +498,6 @@ Equivalent weight of KMnO4 in acid medium =
 
 Molecular weight of KMnO no of mols of electrons transf
 
-4
-
 erred = 158
 
 5 = 31.6
@@ -509,8 +506,6 @@ Equivalent weight of KMnO4 in basic medium =
 
 Molecular weight of KMnO no of mols of electrons transfe
 
-4
-
 rred = 158
 
 1 = 158
@@ -518,8 +513,6 @@ rred = 158
 Equivalent weight of KMnO4 in neutral medium =
 
 Molecular weight of KMnO no of mols of electrons transfe
-
-4
 
 rred = 158
 
@@ -543,14 +536,12 @@ The actual position of Lanthanoids in the periodic table is at group number 3 an
 
 XII U4-D-Block-Jerald Folder.indd 118 2/19/2020 4:41:33 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-119
 
 number 6.However, in the sixth period after lanthanum, the electrons are preferentially filled in inner 4f sub shell and these fourteen elements following lanthanum show similar chemical properties. Therefore these elements are grouped together and placed at the bottom of the periodic table. This position can be justified as follows.
 
@@ -1076,15 +1067,19 @@ p-Block
 
 f-Block
 
+
+
 **Electronic configuration of Lanthanoids:**
 
 We know that the electrons are filled in different orbitals in the order of their increasing energy in accordance with Aufbau principle. As per this rule after filling 5s,5p and 6s and 4f level begin to fill from lanthanum, and hence the expected electronic configuration of Lanthanum(La) is \[Xe\] f d s4 5 61 0 2 but the actual electronic configuration of Lanthanum is
+
+![alt text](position_of_inner_element.png)
 
 **Figure 4.10 position of inner transition elements**
 
 XII U4-D-Block-Jerald Folder.indd 119 2/19/2020 4:41:37 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1102,9 +1097,11 @@ www.tntextbooks.in
 
   
 
-120
-
 \[Xe\] f d s4 5 60 1 2 and it belongs to d block. Filling of 4f orbital starts from Cerium (Ce) and its electronic configuration is \[Xe\] f d s4 5 61 1 2 . As we move from Cerium to other elements the additional electrons are progressively filled in 4f orbitals as shown in the table.
+
+![alt text](table_electronic_configuration_of_actinoids.png)
+
+![alt text](table_electronic_configuration_of_actinoids2.png)
 
 **Table : electronic configuration of Lanthanum and Lanthanoids**
 
@@ -1164,7 +1161,7 @@ _Xe f Xe f_
 
 XII U4-D-Block-Jerald Folder.indd 120 2/19/2020 4:41:53 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1189,8 +1186,6 @@ www.tntextbooks.in
 | Ytterbium |70 |Yb |[Xe] f45  d  s614 02 |
 | Lutetium |71 |Lu |[Xe] f45  d  s614 12 |
   
-
-121
 
 Similarly Cerium and terbium attain 4f0 and 4f7 configurations respectively in the +4 oxidation states. Eu2+ and Yb2+ ions have exactly half filled and completely filled f orbitals respectively.
 
@@ -1218,6 +1213,8 @@ As we from Ce3+ to Lu3+ , the basic character of Ln3+ ions decrease. Due to the 
 
 In the complete f - series only 10 pm decrease in atomic radii and 20 pm decrease in ionic radii is observed. because of this very small change in radii of lanthanoids, their chemical properties are quite similar.
 
+![alt text](variation_of_atomic_radii_of_lanthanoids.png)
+
 0.84
 
 0.86
@@ -1233,8 +1230,6 @@ In the complete f - series only 10 pm decrease in atomic radii and 20 pm decreas
 0.96
 
 0.98
-
-1
 
 1.02
 
@@ -1262,7 +1257,7 @@ Yb Lu
 
 XII U4-D-Block-Jerald Folder.indd 121 2/19/2020 4:41:53 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1281,8 +1276,6 @@ www.tntextbooks.in
 | TbDyHoErTmYb Lu |
   
 
-122
-
 The elements of the second and third transition series resemble each other more closely than the elements of the first and second transition series. For example
 
 Series Element Atomic radius
@@ -1297,9 +1290,16 @@ Series Element Atomic radius
 
 The fourteen elements following actinium ,i.e., from thorium (Th) to lawrentium (Lr) are called actinoids. Unlike the lanthanoids, all the actinoids are radioactive and most of them have short half lives. Only thorium and uranium(U) occur in significant amount in nature and a trace amounts of Plutonium(Pu) is also found in Uranium ores.Neptunium(Np) and successive heavier elements are produced synthetically by the artificial transformation of naturally occuring elements by nuclear reactions.
 
-Similar to lanthanoids, they are placed at the bottom of the periodic table. **Electronic configuration:**
+Similar to lanthanoids, they are placed at the bottom of the periodic table.
+
+ **Electronic configuration:**
 
 The electronic configuration of actinoids is not definite. The general valence shell electronic configuration of 5f elements is represented as \[Rn\]5f 0-146d0-27s2. The following table show the electronic configuration of actinoids.
+
+![alt text](table_electronic_configuration_of_actinoids.png)
+![alt text](table_electronic_configuration_of_actinoids2.png)
+
+
 
 **Table : electronic configuration of actinoids**
 
@@ -1329,7 +1329,7 @@ Californium 98 Cf \[Rn\] 5f d s10 0 26 7
 
 XII U4-D-Block-Jerald Folder.indd 122 2/19/2020 4:42:01 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1357,8 +1357,6 @@ www.tntextbooks.in
 | Californium |98 |Cf |[Rn] 5f  67d  s10 02 |
   
 
-123
-
 **Name of the element Atomic number**
 
 **Symbol Electronic configuration**
@@ -1385,6 +1383,11 @@ The elements Americium(Am) and Thorium (Th) show +2 oxidation state in some comp
 
 **Differences between lanthanoids and actinoids:**
 
+![alt text](difference_between_lanthanoids_and_actinoids.png)
+
+![alt text](difference_between_lanthanoids_and_actinoids1.png)
+
+
 **s.no Lanthanoids Actinoids**
 
 1 Differentiating electron enters in 4f orbital
@@ -1403,7 +1406,7 @@ They show greater tendency to form complexes
 
 XII U4-D-Block-Jerald Folder.indd 123 2/19/2020 4:42:06 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1436,8 +1439,6 @@ www.tntextbooks.in
 | 3 |ey s how les s t endency t o f orm complexes |ey s how g reater t endency t o f orm complexes |
 | 4 |Most of the lanthanoids are colourless |Most o f t he ac tinoids a re co loured. F or example. U  (red), U  (green) ,  UO (yellow)3+ 4+ 2+2 |
   
-
-124
 
 **s.no Lanthanoids Actinoids**
 
@@ -1483,7 +1484,7 @@ reduction potential. i.e., elemental copper is more stable than Cu2+.
 
 XII U4-D-Block-Jerald Folder.indd 124 2/19/2020 4:42:07 PM
 
-www.tntextbooks.in
+
 
 
 
@@ -1495,8 +1496,6 @@ www.tntextbooks.in
 | 5 |ey do not form oxo cations |ey do f orm o xo c ations s uch a s UO , NpO etc2++ 22 2 |
 | 6 |B esides  +3 o xidation  states  lanthanoids show +2 a nd +4 o xidation s tates in f ew cases. |B esides +3 o xidation s tates ac tinoids show hig her oxidation states such as +4, +5, +6 and +7. |
   
-
-125
 
 „ Most of the compounds of transition elements are paramagnetic. Magnetic properties are related to the electronic configuration of atoms.
 
@@ -1540,14 +1539,12 @@ c) Pt d) none of these
 
 XII U4-D-Block-Jerald Folder.indd 125 2/19/2020 4:42:08 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-126
 
 3\. Among the transition metals of 3d series, the one that has highest negative M M
 
@@ -1625,14 +1622,12 @@ c) Mn 3+ d) MnO 2
 
 XII U4-D-Block-Jerald Folder.indd 126 2/19/2020 4:42:15 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-127
 
 11\. How many moles of I2 are liberated when 1 mole of potassium dichromate react with potassium iodide?
 
@@ -1682,14 +1677,12 @@ c) U, Th, Md d) Es, No, Lr
 
 XII U4-D-Block-Jerald Folder.indd 127 2/19/2020 4:42:15 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-128
 
 19\. Which one of the following is not correct?
 
@@ -1723,21 +1716,13 @@ a. MnO H b. C H CH
 
 c. MnO
 
-4
-
 6 5 3
-
-2
-
-4
 
 − ++ →  →
 
 ? ?_acidified_
 
 _KMnO_
-
-4
 
 4 Red hot
 
@@ -1754,10 +1739,6 @@ Fe d. KMnO e. Cr O I H
 \+ →  →
 
 \+ + →
-
-2
-
-2
 
 ? ?
 
@@ -1785,14 +1766,12 @@ transition elements with increasing atomic number.
 
 XII U4-D-Block-Jerald Folder.indd 128 2/19/2020 4:42:16 PM
 
-www.tntextbooks.in
+
 
 
 
 
   
-
-129
 
 15\. Compare lanthanides and actinides.
 
@@ -1826,7 +1805,7 @@ value for copper is positive. Suggest a possible reason for this.
 
 XII U4-D-Block-Jerald Folder.indd 129 2/19/2020 4:42:17 PM
 
-www.tntextbooks.in
+
 
 
 
