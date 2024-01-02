@@ -4,8 +4,8 @@ weight: 4
 ---
 
 
-## Group 18 (Inert gases) elements:
-### Occurrence:
+
+# Occurrence:
 
 
 All the noble gases occur in the atmosphere.
@@ -85,12 +85,20 @@ Krypton form krypton difluoride when an electric discharge is passed through Kr 
 
 **Table 3.11 Structures of compounds of Xenon:**
 
+| Compound  | Hybridisation | Shape / Structure     |
+|-----------|---------------|-----------------------|
+| XeF2      | sp3           | Linear                |
+| XeF4      | sp3d2         | Square planar          |
+| XeF6      | sp3d3         | Distorted octahedron  |
+| XeOF2     | sp3d          | T Shaped              |
+| XeOF4     | sp3d2         | Square pyramidal       |
+| XeO3      | sp3           | Pyramidal             |
 
 
-![xenon](compounds-of-xenon.png)
+<!-- ![xenon](compounds-of-xenon.png) -->
 
 
-### Uses of noble gases:
+ Uses of noble gases:
 
 The inertness of noble gases is an important feature of their practical uses.
 
@@ -210,141 +218,176 @@ Radon gas is sealed as small capsules and implanted in the body to destroy malig
 
 1. In which of the following , NH<sub>3</sub> is not used?
 
-a) Nessler’s reagent
+    a) Nessler’s reagent
 
-b) Reagent for the analysis of IV group basic radical
+    b) Reagent for the analysis of IV group basic radical
 
-c) Reagent for the analysis of III group basic radical
+    c) Reagent for the analysis of III group basic radical
 
-d) Tollen’s reagent
+    d) Tollen’s reagent
 
 2. Which is true regarding nitrogen?
 
-a) least electronegative element
+    a) least electronegative element
 
-b) has low ionisation enthalpy than oxygen
+    b) has low ionisation enthalpy than oxygen
 
-c) d- orbitals available
+    c) d- orbitals available
 
-d) ability to form  pπ-pπ  bonds with itself
+    d) ability to form  pπ-pπ  bonds with itself
 
-3\. An element belongs to group 15 and 3 rd period of the periodic table, its electronic configuration would be
+3. An element belongs to group 15 and 3 rd period of the periodic table, its electronic configuration would be
 
-a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup> b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
+    a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup>
+    
+     b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup>
 
-c) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup> d) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>3</sup>
+    c) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup>
+    
+     d) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>3</sup>
 
 4. Solid (A) reacts with strong aqueous NaOH liberating a foul smelling gas(B) which spontaneously burn in air giving smoky rings. A and B are respectively
 
-a) P<sup>4</sup>(red) and PH<sup>3</sup> b) P<sup>4</sup>(white) and PH<sup>3</sup>
+    a) P<sup>4</sup>(red) and PH<sup>3</sup>
+    
+     b) P<sup>4</sup>(white) and PH<sup>3</sup>
 
-c) S<sub>8</sub> and H<sub>2</sub>S d) P<sub>4</sub>(white) and H<sub>2</sub>S
+    c) S<sub>8</sub> and H<sub>2</sub>S 
+   
+    d) P<sub>4</sub>(white) and H<sub>2</sub>S
 
 5. On hydrolysis, PCl<sub>3</sub> gives
 
-a) H<sub>3</sub>PO<sub>3</sub> b) PH<sub>3</sub>
+    a) H<sub>3</sub>PO<sub>3</sub> 
+    
+    b) PH<sub>3</sub>
 
-c) H<sub>3</sub>PO<sub>4</sub> d) POCl<sub>3</sub>
+    c) H<sub>3</sub>PO<sub>4</sub> 
+    
+    d) POCl<sub>3</sub>
 
 6. P4O6 reacts with cold water to give
 
-a) H<sub>3</sub>PO<sub>3</sub> b) H<sub>3</sub>P<sub>3</sub>O<sub>3</sub>
+    a) H<sub>3</sub>PO<sub>3</sub> 
+    
+    b) H<sub>3</sub>P<sub>3</sub>O<sub>3</sub>
 
-c) HPO<sub>3</sub> d) H<sub>3</sub>PO<sub>3</sub>
+    c) HPO<sub>3</sub>
+    
+     d) H<sub>3</sub>PO<sub>3</sub>
 
 7. The basicity of pyrophosphorous acid ( H<sub>4</sub>P<sub>2</sub>O<sub>5</sub>) is
 
-a) 4 b) 2
+    a) 4 b) 2
 
-c) 3 d) 5
+    c) 3 d) 5
 
 
 
 8. The molarity of given orthophosphoric acid solution is 2M. its normality is
 
-a) 6N b) 4N
+    a) 6N b) 4N
 
-c) 2N d) none of these
+    c) 2N d) none of these
 
 9. Assertion : bond dissociation energy of fluorine is greater than chlorine gas
 
 Reason: chlorine has more electronic repulsion than fluorine
 
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
+    a) Both assertion and reason are true and reason is the correct explanation of assertion.
 
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
+    b) Both assertion and reason are true but reason is not the correct explanation of assertion.
 
-c) Assertion is true but reason is false.
+    c) Assertion is true but reason is false.
 
-d) Both assertion and reason are false.
+    d) Both assertion and reason are false.
 
 10. Among the following, which is the strongest oxidizing agent?
 
-a) Cl<sub>2</sub> b) F<sub>2</sub>
+    a) Cl<sub>2</sub> b) F<sub>2</sub>
 
-c) Br<sub>2</sub> d) l<sub>2</sub>
+    c) Br<sub>2</sub> d) l<sub>2</sub>
 
 11. The correct order of the thermal stability of hydrogen halide is
 
-a) HI > HBr > HCl > HF b) HF > HCl > HBr > HI
+    a) HI > HBr > HCl > HF b) HF > HCl > HBr > HI
 
-c) HCl > HF > HBr > HI d) HI > HCl > HF > HBr
+    c) HCl > HF > HBr > HI d) HI > HCl > HF > HBr
 
-12\. Which one of the following compounds is not formed?
+12. Which one of the following compounds is not formed?
 
-a) XeOF<sub>4</sub> b) XeO<sub>3</sub>
+    a) XeOF<sub>4</sub>   b) XeO<sub>3</sub>
 
-c) XeF<sub>2</sub> d) NeF<sub>2</sub>
+    c) XeF<sub>2</sub> d) NeF<sub>2</sub>
 
-13\. Most easily liquefiable gas is
+13. Most easily liquefiable gas is
 
-a) Ar b) Ne
+    a) Ar b) Ne
 
-c) He d) Kr
+    c) He d) Kr
 
-14\. XeF<sub>6</sub> on complete hydrolysis produces
+14. XeF<sub>6</sub> on complete hydrolysis produces
 
-a) XeOF<sub>4</sub> b) XeO<sub>2</sub>F<sub>2</sub>
+    a) XeOF<sub>4</sub> b) XeO<sub>2</sub>F<sub>2</sub>
 
-c) XeO<sub>3</sub> d) XeO<sub>2</sub>
+    c) XeO<sub>3</sub> d) XeO<sub>2</sub>
 
-15\. Which of the following is strongest acid among all?
+15. Which of the following is strongest acid among all?
 
-a) HI b) HF
+    a) HI b) HF
 
-c) HBr d) HCl
+    c) HBr d) HCl
 
 
 
-16\. Which one of the following orders is correct for the bond dissociation enthalpy of halogen molecules? (NEET)
+16. Which one of the following orders is correct for the bond dissociation enthalpy of halogen molecules? (NEET)
 
-a) Br<sub>2</sub> > I<sub>2</sub> > F<sub>2</sub> > Cl<sub>2</sub> b) F<sub>2</sub> > Cl<sub>2</sub> > Br<sub>2</sub> > l<sub>2</sub>
+    a) Br<sub>2</sub> > I<sub>2</sub> > F<sub>2</sub> > Cl<sub>2</sub> 
+    
+    b) F<sub>2</sub> > Cl<sub>2</sub> > Br<sub>2</sub> > l<sub>2</sub>
 
-c) I<sub>2</sub> > Br<sub>2</sub> > Cl<sub>2</sub> > F<sub>2</sub> d) Cl<sub>2</sub> > Br<sub>2</sub> > F<sub>2</sub> > I<sub>2</sub>
+    c) I<sub>2</sub> > Br<sub>2</sub> > Cl<sub>2</sub> > F<sub>2</sub> 
+    
+    d) Cl<sub>2</sub> > Br<sub>2</sub> > F<sub>2</sub> > I<sub>2</sub>
 
-17\. Among the following the correct order of acidity is (NEET)
+17. Among the following the correct order of acidity is (NEET)
 
-a) HClO<sub>2</sub> < HClO < HClO<sub>2</sub> < HClO<sub>4</sub> b) HClO<sub>4</sub> < HClO<sub>2</sub> < HClO < HClO<sub>3</sub>
+    a) HClO<sub>2</sub> < HClO < HClO<sub>2</sub> < HClO<sub>4</sub>
+    
+     b) HClO<sub>4</sub> < HClO<sub>2</sub> < HClO < HClO<sub>3</sub>
 
-c) HClO<sub>3</sub> < HClO<sub>4</sub> < HClO<sub>2</sub> < HClO d) HClO < HClO<sub>2</sub> < HClO<sub>3</sub> < HClO<sub>4</sub>
+    c) HClO<sub>3</sub> < HClO<sub>4</sub> < HClO<sub>2</sub> < HClO 
+    
+    d) HClO < HClO<sub>2</sub> < HClO<sub>3</sub> < HClO<sub>4</sub>
 
-18\. When copper is heated with conc HNO3 it produces
+18. When copper is heated with conc HNO3 it produces
 
-a) Cu(NO<sub>3</sub>)<sub>2</sub> , NO and NO<sub>2</sub> b) Cu(NO<sub>3</sub>)<sub>2</sub> and N<sub>2</sub>O
+    a) Cu(NO<sub>3</sub>)<sub>2</sub> , NO and NO<sub>2</sub> 
+    
+    b) Cu(NO<sub>3</sub>)<sub>2</sub> and N<sub>2</sub>O
 
-c) Cu(NO<sub>3</sub>)<sub>2</sub> and NO<sub>2</sub> d) Cu(NO<sub>3</sub>)<sub>2</sub> and NO
+    
+    c) Cu(NO<sub>3</sub>)<sub>2</sub> and NO<sub>2</sub>
+    
+     d) Cu(NO<sub>3</sub>)<sub>2</sub> and NO
 
 **Answer the following questions:**
 
-1\. What is inert pair effect?
+1. What is inert pair effect?
 
-2\. Chalcogens belongs to p-block. Give reason.
+2. Chalcogens belongs to p-block. Give reason.
 
-3\. Explain why fluorine always exhibit an oxidation state of -1?
+3. Explain why fluorine always exhibit an oxidation state of -1?
 
-4\. Give the oxidation state of halogen in the following.
+4. Give the oxidation state of halogen in the following.
 
-a) OF<sub>2</sub> b) O<sub>2</sub>F<sub>2</sub> c) Cl<sub>2</sub>O<sub>2</sub> d) I<sub>2</sub>O<sub>4</sub>
+    a) OF<sub>2</sub> 
+    
+    b) O<sub>2</sub>F<sub>2</sub>
+    
+     c) Cl<sub>2</sub>O<sub>2</sub>
+     
+      d) I<sub>2</sub>O<sub>4</sub>
 
 5\. What are interhalogen compounds? Give examples.
 
@@ -371,53 +414,53 @@ a) Nitric acid b) dinitrogen pentoxide
 c) phosphoric acid d) phosphine
 
 
-15\. Give the uses of argon.
+15. Give the uses of argon.
 
-16\. Write the valence shell electronic configuration of group-15 elements.
+16. Write the valence shell electronic configuration of group-15 elements.
 
-17\. Give two equations to illustrate the chemical behaviour of phosphine.
+17. Give two equations to illustrate the chemical behaviour of phosphine.
 
-18\. Give a reaction between nitric acid and a basic oxide.
+18. Give a reaction between nitric acid and a basic oxide.
 
-19\. What happens when PCl<sub>5</sub> is heated?
+19. What happens when PCl<sub>5</sub> is heated?
 
-20\. Suggest a reason why HF is a weak acid, whereas binary acids of the all other halogens are strong acids.
+20. Suggest a reason why HF is a weak acid, whereas binary acids of the all other halogens are strong acids.
 
-21\. Deduce the oxidation number of oxygen in hypofluorous acid – HOF.
+21. Deduce the oxidation number of oxygen in hypofluorous acid – HOF.
 
-22\. What type of hybridisation occur in
+22. What type of hybridisation occur in
 
 a) BrF<sub>5</sub> b) BrF2
 
-23\. Complete the following reactions.
+23. Complete the following reactions.
 
-1\. NaCl + MnO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> →
+    1. NaCl + MnO<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> →
 
-2\. NaNO<sub>2</sub> + HCl →
+    2. NaNO<sub>2</sub> + HCl →
 
-3\. P<sub>4</sub> + NaOH + H<sub>2</sub>O →
+    3. P<sub>4</sub> + NaOH + H<sub>2</sub>O →
 
-4\. AgNO<sub>3</sub> + PH<sub>3</sub>  →
+    4. AgNO<sub>3</sub> + PH<sub>3</sub>  →
 
-5\. Mg + HNO<sub>3</sub>→
+    5. Mg + HNO<sub>3</sub>→
 
-6\. KClO<sub>3</sub> ∆ →
+    6. KClO<sub>3</sub> ∆ →
 
-7\. Cu + H<sub>2</sub>SO<sub>4</sub> →
+    7. Cu + H<sub>2</sub>SO<sub>4</sub> →
 
-8\. Sb + Cl2 →
+    8. Sb + Cl2 →
 
-9\. HBr + H<sub>2</sub>SO<sub>4</sub> →
+    9. HBr + H<sub>2</sub>SO<sub>4</sub> →
 
-10\. XeF<sub>6</sub> + H<sub>2</sub>O →
+   10.XeF<sub>6</sub> + H<sub>2</sub>O →
 
-11\. XeO<sub>6</sub><sup>4-</sup> + Mn<sup>2+</sup> + H<sup>+</sup> → 
+    11. XeO<sub>6</sub><sup>4-</sup> + Mn<sup>2+</sup> + H<sup>+</sup> → 
+    
+    12. XeOF<sub>4</sub>  + SiO<sub>2</sub>  →
 
-12\. XeOF<sub>4</sub>  + SiO<sub>2</sub>  →
-
-13\. {{< katex display >}}
-Xe+ F_2 \xrightarrow[{400°C}]{Ni/ 200 atm }
-{{< /katex >}}
+   13. {{< katex display >}}
+         Xe+ F_2 \xrightarrow[{400°C}]{Ni/ 200 atm }
+         {{< /katex >}} 
 
 
 

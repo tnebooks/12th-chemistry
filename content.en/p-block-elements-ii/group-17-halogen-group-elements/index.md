@@ -2,7 +2,8 @@
 title: 'Group 17 (Halogen group) elements'
 weight: 3
 ---
-## Group 17 (Halogen group) elements: 3.3.1 Chlorine
+
+# Chlorine
 
 
 **Occurrence:**
@@ -17,8 +18,20 @@ The common physical properties of the group 17 elements are listed in the table.
 
 
 **Table 3.3 Physical properties of group 17 elements**
+| Property                   | Fluorine   | Chlorine   | Bromine    | Iodine     | Astatine   |
+|----------------------------|------------|------------|------------|------------|------------|
+| Physical state at 293 K    | Gas        | Gas        | Liquid     | Solid      | Solid      |
+| Atomic Number              | 9          | 17         | 35         | 53         | 85         |
+| Isotopes                   | ^19F       | ^35Cl, ^37Cl| ^79Br      | ^127I      | ^210At, ^211At |
+| Atomic Mass (g.mol^-1 at 293 K)| 18.99 | 35.45      | 79.9       | 126.9      | 210        |
+| Electronic configuration   | [He]2s²2p⁵| [Ne]3s²3p⁵| [Ar]3d¹⁰4s²4p⁵| [Kr]4d¹⁰5s²5p⁵| [Xe]4f¹⁴5d¹⁰6s²6p⁵|
+| Atomic radius (Å)          | 1.47       | 1.75       | 1.85       | 1.98       | 2.02       |
+| Density (g.cm^-3 at 293 K)| 1.55 x 10^-3 | 2.89 x 10^-3 | 3.10   | 4.93       | -          |
+| Melting point (K)          | 53         | 171        | 266        | 387        | 573        |
+| Boiling point (K)          | 85         | 239        | 332        | 457        | 623        |
 
-![diagram](physical-properties-of-group-17-elements.png)
+
+<!-- ![diagram](physical-properties-of-group-17-elements.png) -->
 
 
 
@@ -57,14 +70,24 @@ CaOCl<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> → CaSO<sub>4</sub> + H<sub>2</
 
 
 
-### Manufacture of chlorine:
+## Manufacture of chlorine:
 
 
 Chlorine is manufactured by the electrolysis of brine in electrolytic process or by oxidation of HCl by air in Deacon’s process.
 
 **Electrolytic process:** When a solution of brine (NaCl) is electrolysed, Na+ and Cl- ions are formed. Na+ ion reacts with OH- ions of water and forms sodium hydroxide. Hydrogen and chlorine are liberated as gases.
 
-![diagram](electrolytic-process.png)
+NaCl \rightarrow Na^+ + Cl^-
+H_2O \rightarrow H^+ + OH^-
+Na + OH^- \rightarrow NaOH
+2H_2O \rightarrow 2H_2 + O_2
+\text{At the cathode,} \\
+2H^+ + 2e^- \rightarrow H_2 \\
+\text{At the anode,} \\
+2Cl^- \rightarrow Cl_2 + 2e^-
+
+
+<!-- ![diagram](electrolytic-process.png) -->
 
 
 **Deacon’s process:** In this process a mixture of air and hydrochloric acid is passed up a chamber containing a number of shelves, pumice stones soaked in cuprous chloride are placed. Hot gases at about 723 K are passed through a jacket that surrounds the chamber.
@@ -267,7 +290,7 @@ It is used in
 
 3\. Extraction of gold and platinum
 
-### Hydrochloric acid:
+## Hydrochloric acid:
 
 
 **Laboratory preparation:**
@@ -313,11 +336,11 @@ Au + 4H<sup>+</sup> + NO<sub>3</sub><sup>-</sup> + 4 Cl<sup>-</sup> → AuCl4<su
 
 **Uses of hydrochloric acid:**
 
-1\. Hydrochloric acid is used for the manufacture of chlorine, ammonium chloride, glucose from corn starch etc.,
+1. Hydrochloric acid is used for the manufacture of chlorine, ammonium chloride, glucose from corn starch etc.,
 
-2\. It is used in the extraction of glue from bone and also for purification of bone black
+2. It is used in the extraction of glue from bone and also for purification of bone black
 
-### Trends in physical and chemical properties of hydrogen halides:
+## Trends in physical and chemical properties of hydrogen halides:
 
 
 **Preparation:**
@@ -356,9 +379,15 @@ Hydrogen chloride is obtained as a by-product of the reactions between hydrocarb
 
 
 **Table 3.4: General Properties:**
-![image](general-properties.png)
-<!-- 
-**HF HCl HBr HI** Bond dissociation enthalphy(KJmol-1) +562 +431 +366 +299 % of ionic character 43 17 13 7 -->
+<!-- ![image](general-properties.png) -->
+ 
+| Compound | Bond Dissociation Enthalpy (kJ/mol) | % of Ionic Character |
+|----------|-------------------------------------|----------------------|
+| HF       | +562                                | 43                   |
+| HCl      | +431                                | 17                   |
+| HBr      | +366                                | 13                   |
+| HI       | +299                                | 7                    |
+
 
 In line with the decreasing bond dissociation enthalpy, the thermal stability of hydrogen halides decreases from fluoride to iodide.
 
@@ -419,7 +448,17 @@ Hydrogen chloride is unaffected by concentrated sulphuric acid but affected by o
 
 
 To summarize the trend,
-![image](summarize-trend.png)
+| Property          | Order                                      |
+|-------------------|---------------------------------------------|
+| Reactivity        | Decreases from fluorine to iodine           |
+| Stability         | Decreases from HF to HI                     |
+| Volatility        | HF < HI < HBr < HCl                         |
+| Thermal stability | HF > HI > HBr > HCl                         |
+| Boiling point     | HCl < HBr < HI < HF                         |
+| Acid strength     | Increases from HF to HI                     |
+
+**Table 3.5**
+<!-- ![image](summarize-trend.png) -->
 
 
 <!-- | Property |Order |
@@ -436,7 +475,7 @@ To summarize the trend,
 <!-- 
 **Property Order** Reactivity of hydrogen Decreases from fluorine to iodine Stability Decreases from HF to HI Volatility of the hydrides HF < HI < HBr < HCl Thermal stability HF > HI > HBr > HCl Boiling point HCl < HBr < HI Acid strength Increases from HF to HI -->
 
-### Inter halogen compounds:
+## Inter halogen compounds:
 
 
 Each halogen combines with other halogens to form a series of compounds called inter halogen compounds. In the given table of inter halogen compounds a given compound A is less electronegative than B.
@@ -454,7 +493,7 @@ Each halogen combines with other halogens to form a series of compounds called i
 | IBr |
 
   
-![image 2](inter-halogen-diagram.png)
+<!-- ![image 2](inter-halogen-diagram.png) -->
 
 **Properties of inter halogen compounds:**
 
@@ -503,7 +542,7 @@ The structures of different type of interhalogen compunds can be easily explaine
 
 
 
-### Oxides of halogen
+## Oxides of halogen
 
 
 Fluorine reacts readily with oxygen and forms difluorine oxide (F2O) and difluorine dioxide (F2O2) where it has a -1 oxidation state. Other halogens do not react with oxygen readily. But the following oxides can be prepared by some indirect methods. Except fluorine all the other halogens have positive oxidation states.
@@ -514,7 +553,7 @@ Fluorine reacts readily with oxygen and forms difluorine oxide (F2O) and difluor
 
 ![oxides-1](oxides-of-halogen-1.png)
 
-### Oxoacids of halogens:
+## Oxoacids of halogens:
 
 
 Chlorine forms four types of oxoacids namely hypochlorus acid, chlorous acid, chloric acid and perchloric acid. Bromine and iodine forms the similar acids except halous acid. However, flurine only forms hypofulric acid. The oxidizing power oxo acids follows the order:
@@ -522,8 +561,15 @@ Chlorine forms four types of oxoacids namely hypochlorus acid, chlorous acid, ch
 **HOX > HXO2 > HXO3 > HXO4**
 
 **Table 3.9** 
+| Type  | Common Name    | Oxidation state | Cl           | Br           | I            |
+|-------|----------------|-----------------|--------------|--------------|--------------|
+| HOX   | Hypohalous acid| +1              | -            | HOCl         | HOI          |
+| HXO2  | Halous acid    | +3              | HOF          | HBrO2        | HIO2         |
+| HXO3  | Halic acid     | +5              | HOClO2       | HBrO3        | HIO3         |
+| HXO4  | Perhalic acid  | +7              | HOClO3       | HBrO4        | HIO4         |
 
-![oxoacids](oxoacids-of-halogens.png)
+
+<!-- ![oxoacids](oxoacids-of-halogens.png) -->
 
 
 
