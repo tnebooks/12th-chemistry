@@ -6,52 +6,7 @@ weight: 7
 ## Imperfection in solids:
  According to the law of nature
 
-nothing is perfect, and so crystals need not be perfect. They always found to have some defects in the arrangement of their constituent particles. These defects affect the physical and chemical properties of the solid and also play an important role in various processes. For example, a process called doping leads to a crystal
-
-a
-
-ar
-
-r
-
-2r
-
-a A
-
-a
-
-ar
-
-r
-
-2r
-
-a
-
-B
-
-C
-
-XII U6 Solid State - Jerald.indd 192 2/19/2020 4:42:28 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| rrC+A− |n tio errdina umboo nC |reuStruct |lexampE |
-|------|------|------|------|
-| 0.155 – 0.225 |3 |Trigonal planar |B O2 3 |
-| 0.225 – 0.414 |4 |Tetrahedral |ZnS |
-| 0.414 – 0.732 |6 |Octahedral |NaCl |
-| 0.732 – 1.0 |8 |Cubic |CsCl |
-  
-
-193
-
-imperfection and it increases the electrical conductivity of a semiconductor material such as silicon. The ability of ferromagnetic material such as iron, nickel etc., to be magnetized and demagnetized depends on the presence of imperfections. Crystal defects are classified as follows
+nothing is perfect, and so crystals need not be perfect. They always found to have some defects in the arrangement of their constituent particles. These defects affect the physical and chemical properties of the solid and also play an important role in various processes. For example, a process called doping leads to a crystal imperfection and it increases the electrical conductivity of a semiconductor material such as silicon. The ability of ferromagnetic material such as iron, nickel etc., to be magnetized and demagnetized depends on the presence of imperfections. Crystal defects are classified as follows
 
 1) Point defects
 
@@ -65,15 +20,13 @@ In this portion, we concentrate on point defects, more specifically in ionic sol
 
 Point defects
 
-stiochiometric defects
-
-non- stiochiometric defects
-
-impurity defects
-
-Schottky defect Frenkel defect metal excess defect
-
-metal deficiency defec
+1) stiochiometric defects
+    1) Schottky defect 
+    2) Frenkel defect 
+2) non- stiochiometric defects
+    1) metal excess defect
+    2) metal deficiency defect
+3) impurity defects
 
 **Stoichiometric defects in ionic solid:**
 
@@ -86,146 +39,7 @@ Schottky defect arises due to the missing of equal number of cations and anions 
 
 Presence of large number of schottky defects in a crystal, lowers
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Schottky Defect**
-
- Na+
-
- Cl
-
-XII U6 Solid State - Jerald.indd 193 2/19/2020 4:42:29 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-194
 
 its density. For example, the theoretical density of vanadium monoxide (VO) calculated using the edge length of the unit cell is 6.5 g cm-3, but the actual experimental density is 5.6 g cm-3. It indicates that there is approximately 14% Schottky defect in VO crystal. Presence of Schottky defect in the crystal provides a simple way by which atoms or ions can move within the crystal lattice.
 
@@ -241,37 +55,8 @@ Metal excess defect arises due to the presence of more number of metal ions as c
 
 For example, when NaCl crystals are heated in the presence of sodium vapour, Na+ ions are formed and are deposited on the surface of the crystal. Chloride ions (Cl-) diffuse to the surface from the lattice point and combines with Na+ ion. The electron lost by the sodium vapour diffuse into the crystal lattice and occupies the vacancy created by the Cl- ions. Such anionic vacancies which are occupied by unpaired electrons are called F centers. Hence, the formula of NaCl which contains excess Na+ ions can be written as Na Cl1+ _x_ .
 
-
-
-
-
- 
-
 **Frenkel Defect**
 
-
-
-
-
-   
-
-     
-
- 
-
-
-
-   
-
-     
-
- 
-
-
-
-   
-
-    
 
 Ag+
 
@@ -293,16 +78,6 @@ Na+
 
 Cl
 
-XII U6 Solid State - Jerald.indd 194 2/19/2020 4:42:32 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-195
 
 ZnO is colourless at room temperature. When it is heated, it becomes yellow in colour. On heating, it loses oxygen and thereby forming free Zn2+ ions. The excess Zn2+ ions move to interstitial sites and the electrons also occupy the interstitial positions.
 
@@ -328,22 +103,9 @@ A general method of introducing defects in ionic solids is by adding impurity io
 
 **Energy harvesting by piezoelectric crystals:**
 
-Piezoelectricity (also called the piezoelectric effect) is the appearance of an electrical potential across the sides of a crystal when you subject it to mechanical stress. The word piezoelectricity means electricity resulting from pressure and latent heat. Even the inverse is possible which is known
-
-as inverse piezoelectric effect.
+Piezoelectricity (also called the piezoelectric effect) is the appearance of an electrical potential across the sides of a crystal when you subject it to mechanical stress. The word piezoelectricity means electricity resulting from pressure and latent heat. Even the inverse is possible which is known as inverse piezoelectric effect.
 
 If you can make a little amount of electricity by pressing one piezoelectric crystal once, could youmake a significant amount by pressing many crystals over and over again? What happens if we bury piezoelectric crystals under streets to capture energy as vehicles pass by?
-
-XII U6 Solid State - Jerald.indd 195 2/19/2020 4:42:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-196
 
 **Summary**
 
@@ -371,30 +133,9 @@ www.tntextbooks.in
 
 This idea, known as energy harvesting, has caught many people's interest. Even though there are limitations for the large-scale applications, you can produce electricity that is enough to charge your mobile phones by just walking. There are power generating footwears that has a slip-on insole with piezoelectric crystals that can produce enough electricity to charge batteries/ USB devices.\`
 
-XII U6 Solid State - Jerald.indd 196 2/19/2020 4:42:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-197
-
 „ X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data 2dsin = nθ λ
 
-„ The structure of an ionic compound depends upon the stoichiometry and the size of the ions.generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius
-
-of cation and anion +C
-
-A
-
-r r −
-
-      
-
-plays an important role in determining the structure
+„ The structure of an ionic compound depends upon the stoichiometry and the size of the ions.generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion (--r/r--) plays an important role in determining the structure
 
 „ Crystals always found to have some defects in the arrangement of their constituent particles.
 
@@ -412,38 +153,31 @@ plays an important role in determining the structure
 
 1\. Graphite and diamond are
 
-a) Covalent and molecular crystals b) ionic and covalent crystals
-
-c) both covalent crystals d) both molecular crystals
+a) Covalent and molecular crystals 
+b) ionic and covalent crystals
+c) both covalent crystals 
+d) both molecular crystals
 
 2\. An ionic compound AxBy crystallizes in fcc type crystal structure with B ions at the centre of each face and A ion occupying corners of the cube. the correct formula of AxBy is
 
-a) AB b) AB3
-
-c) A3B d) A8B6
+a) AB 
+b) AB3
+c) A3B 
+d) A8B6
 
 3\. The ratio of close packed atoms to tetrahedral hole in cubic packing is
 
-a) 1:1 b) 1:2
-
-c) 2:1 d) 1:4
-
-XII U6 Solid State - Jerald.indd 197 2/19/2020 4:42:33 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-198
+a) 1:1 
+b) 1:2
+c) 2:1 
+d) 1:4
 
 4\. Solid CO2 is an example of
 
-a) Covalent solid b) metallic solid
-
-c) molecular solid d) ionic solid
+a) Covalent solid 
+b) metallic solid
+c) molecular solid 
+d) ionic solid
 
 5\. Assertion : monoclinic sulphur is an example of monoclinic crystal system
 
@@ -459,78 +193,36 @@ d) Both assertion and reason are false.
 
 6\. In calcium fluoride, having the flurite structure the coordination number of Ca2+ ion and F- Ion are (NEET)
 
-a) 4 and 2 b) 6 and 6
-
-c) 8 and 4 d) 4 and 8
+a) 4 and 2 
+b) 6 and 6
+c) 8 and 4 
+d) 4 and 8
 
 7\. The number of unit cells in 8 gm of an element X ( atomic mass 40) which crystallizes in bcc pattern is (NA is the Avogadro number)
 
-a) 6.023 X 1023 b) 6.023 X 1022
+a) 6.023 X 1023 
+b) 6.023 X 1022
+c) 60.23 X 1023 
+d) ----6 023 10
 
-c) 60.23 X 1023 d) 6 023 10
-
-8 40
-
-23\. × ×
-
- 
-
- 
-
-8\. In a solid atom M occupies ccp lattice and 1 3
-
- 
-
-  of tetrahedral voids are occupied by
-
-atom N. find the formula of solid formed by M and N.
+8\. In a solid atom M occupies ccp lattice and (1 / 3) of tetrahedral voids are occupied by atom N. find the formula of solid formed by M and N.
 
 a) MN b) M3N c) MN 3 d) M3N2
 
-9\. The ionic radii of A+ and B− are 0 98 10 10. m× − and 1 81 10 10. m× − . the coordination
-
-number of each ion in AB is
+9\. The ionic radii of A+ and B− are 0 98 10 10. m× − and 1 81 10 10. m× − . the coordination number of each ion in AB is
 
 a) 8 b) 2 c) 6 d) 4
 
 10\. CsCl has bcc arrangement, its unit cell edge length is 400pm, its inter atomic distance is
 
-a) 400pm b) 800pm c) 3 100× pm d) 3
-
-2 400
-
-
-
- 
-
- × pm
+a) 400pm b) 800pm c) 3 100× pm d) 3---
 
 11\. A solid compound XY has NaCl structure. if the radius of the cation is 100pm , the radius of the anion will be
 
-a) 100 0 414.
-
- 
-
- 
-
-b) 0 732 100 .
-
-  
-
-c) 100 0 414× . d) 0 414 100 .
-
-  
-
-XII U6 Solid State - Jerald.indd 198 2/19/2020 4:42:38 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-199
+a) 100 0 414.--
+b) 0 732 100 .
+c) 100 0 414× .
+d) 0 414 100 .
 
 12\. The vacant space in bcc lattice unit cell is
 
@@ -544,27 +236,12 @@ a) 488.5pm b) 848.5pm c) 884.5pm d) 484.5pm
 
 a) π 4 2
 
- 
-
- 
-
 b) π 6
-
- 
-
- 
 
 c) π 4
 
- 
-
- 
 
 d) π
-
-3 2  
-
- 
 
 15\. The yellow colour in NaCl crystal is due to
 
@@ -580,70 +257,28 @@ d) all of the above
 
 a) 1 2
 
-3 2
-
-2 2
-
-_a a a_: : 
-
- 
-
- b) 1 3 2_a a a_: :( )
+b) 1 3 2_a a a_: :( )
 
 c) 1 2
 
-3 4
-
-1 2 2
-
-_a a a_: : 
-
- 
-
- d)
-
-1 2
-
-3 1 2
-
-_a a a_: : 
-
- 
+d) 1 2
 
 17\. If ‘a’ is the length of the side of the cube, the distance between the body centered atom and one corner atom in the cube will be
 
 a) 2 3
 
- 
-
- 
-
-_a_ b) 4 3
-
- 
-
- 
-
-_a_
+b) 4 3
 
 c) 3 4
 
-
+d) 3
 
- 
-
- _a_ d) 3
-
-2 
-
- 
-
- _a_
 
 18\. Potassium has a bcc structure with nearest neighbor distance 4.52 A0 . its atomic weight is 39. its density will be
 
-a) 915 kg m-3 b) 2142 kg m-3 c) 452 kg m-3
-
+a) 915 kg m-3 
+b) 2142 kg m-3 
+c) 452 kg m-3
 d) 390 kg m-3
 
 19\. Schottky defect in a crystal is observed when
@@ -655,17 +290,6 @@ b) equal number of cations and anions are missing from the lattice
 c) an ion leaves its normal site and occupies an interstitial site
 
 d) no ion is missing from its lattice.
-
-XII U6 Solid State - Jerald.indd 199 2/19/2020 4:42:42 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-200
 
 20\. The cation leaves its normal position in the crystal and moves to some interstitial position, the defect in the crystal is known as
 
@@ -713,29 +337,6 @@ c) XY2 d) XY4
 
 7\. Distinguish tetrahedral and octahedral voids.
 
-XII U6 Solid State - Jerald.indd 200 2/19/2020 4:42:42 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-
-|------|------|------|------|------|------|------|------|------|
-
-
-
-
-
-
-
-
-  
-
-201
-
 8\. What are point defects?
 
 9\. Explain Schottky defect.
@@ -772,16 +373,6 @@ in KF.( given : density of KF is 2 48 3. _g cm_− )
 
 24\. Write a note on Frenkel defect.
 
-XII U6 Solid State - Jerald.indd 201 2/19/2020 4:42:44 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-202
 
 Solids
 
@@ -851,17 +442,8 @@ By using this tool, you will be able to visualize different crystal systems and 
 
 Please go to the URL http://vlab.amrita.edu (or) Scan the QR code on the right side
 
-2
 
-3
 
-1
-
-**ICT Corner**
-
-XII U6 Solid State - Jerald.indd 203 2/19/2020 4:42:46 PM
-
-www.tntextbooks.in
 
 
 
