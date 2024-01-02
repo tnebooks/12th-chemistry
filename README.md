@@ -1,6 +1,6 @@
 ## 12th Chemistry
 
-Materails
+Materails will come here
 
 ## Dev
 ```sh
