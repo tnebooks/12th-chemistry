@@ -1170,11 +1170,11 @@ primary < secondary < tertiary
 
 Identify the products in the following reactions. Write their IUPAC names and mention the mechanism involved in the reactions.
 
-i) $\ce{cyclopentanol ->[{H2SO4}][\Delta] ?}$
+1. $\ce{cyclopentanol ->[{H2SO4}][\Delta] ?}$
 
-ii) $\ce{butan–1–ol ->[{NaBr}][{H2SO4}] ?}$
+2. $\ce{butan–1–ol ->[{NaBr}][{H2SO4}] ?}$
 
-iii) $\ce{neopentyl alcohol  ->[{PCl5}] ?}$
+3. $\ce{neopentyl alcohol  ->[{PCl5}] ?}$
 
 <!-- i) cyclopentanol H2SO4
 
@@ -1582,7 +1582,7 @@ ethane - 1,2 - diol 1,4 - dioxane -->
 
 On oxidation, glycol gives a variety of products depending on the nature of oxidizing agent and other reaction conditions.
 
-i) When nitric acid (or) alkaline potassium permanganate is used as the oxidizing agent, the following products are obtained.
+ When nitric acid (or) alkaline potassium permanganate is used as the oxidizing agent, the following products are obtained.
 ![glycol oxidation](120-oxidation-glycol.png)
 
 <!-- CH2OH
@@ -2321,7 +2321,7 @@ We have already learnt in XI standard that the groups like -OH, -NH2, etc., whic
 
 **Common electrophilic aromatic substitutions are as follows:**
 
-**i)** **Nitrosation:** Phenol can be readily nitrosoated at low temperature with HNO<sub>2</sub>.
+1. **Nitrosation:** Phenol can be readily nitrosoated at low temperature with HNO<sub>2</sub>.
 
 ![nitrosation](128-nitrosation.png)
 
@@ -2339,7 +2339,7 @@ NO p-nitroso phenolphenol
 
 
 
-**ii)** **Nitration:**
+2. **Nitration:**
 
 Phenol can be nitrated using 20% nitric acid even at room temperature, a mixture of ortho and para nitro phenols are formed.
 ![nitration](129-nitration-1.png)
@@ -2391,7 +2391,7 @@ NO2
 
 NO2S -->
 
-**iii)** **Sulphonation:**
+3. **Sulphonation:**
 
 Phenol reacts with con.H<sub>2</sub>SO<sub>4</sub> at 280K to form o-phenol sulphonic acid as the major product. When the reaction is carried out at 373K the major product is p-phenol sulphonic acid.
 
@@ -2418,7 +2418,7 @@ SO3H -->
 
 
 
-**iv) Halogenation:**
+4. **Halogenation:**
 
 Phenol reacts with bromine water to give a white precipitate of 2,4,6-tri bromo phenol.
 ![halogenation](130-halogenation.png)
@@ -2455,9 +2455,7 @@ Br
 
 Br2 CCl4, -->
 
-**v)** **Kolbe’s (or) Kolbe’s Schmit reaction:** In this reaction, phenol is first converted into sodium phenoxide which is more reactive
-
-than phenol towards electrophilic substitution reaction with CO<sub>2</sub> . Treatment of sodium phenoxide with CO<sub>2</sub> at 400K, 4-7 bar pressure followed by acid hydrolysis gives salicylic acid.
+5. **Kolbe’s (or) Kolbe’s Schmit reaction:** In this reaction, phenol is first converted into sodium phenoxide which is more reactive than phenol towards electrophilic substitution reaction with CO<sub>2</sub> . Treatment of sodium phenoxide with CO<sub>2</sub> at 400K, 4-7 bar pressure followed by acid hydrolysis gives salicylic acid.
 ![kolbes](130-kolbes.png)
 <!-- NaOH 400K H+/H2O+CO2 4-7 bar
 
@@ -2471,7 +2469,7 @@ COOH
 
 phenol sodium phenoxide sodium salicylate -->
 
-**vi)** **Riemer – Tiemann Reaction:** On treating phenol with CHCl<sub>3</sub> /NaOH, a -CHO  group is introduced at ortho position.
+6. **Riemer – Tiemann Reaction:** On treating phenol with CHCl<sub>3</sub> /NaOH, a -CHO  group is introduced at ortho position.
 
 This reaction proceeds through the formation of substituted benzal chloride intermediate.
 ![riemer](130-riemer.png)
@@ -2501,9 +2499,7 @@ Na
 
 
 
-**vii)** **Phthalein reaction:** On heating phenol with phthalic anhydride in presence of con.H<sub>2</sub>SO<sub>4</sub> , phenolphthalein
-
-is obtained.
+7. **Phthalein reaction:** On heating phenol with phthalic anhydride in presence of con.H<sub>2</sub>SO<sub>4</sub> , phenolphthalein is obtained.
 
 ![phthalein](131-phthalein.png)
 
@@ -2533,7 +2529,7 @@ HO
 
 Phenol -->
 
-**viii)** **Coupling reaction:** Phenol couples with benzene diazonium chloride in an alkaline solution to form p-hydroxy
+8. **Coupling reaction:** Phenol couples with benzene diazonium chloride in an alkaline solution to form p-hydroxy
 ![coupling](131-coupling.png)
 <!-- azobenzene(a red orange dye).
 
@@ -2553,11 +2549,11 @@ Phenol -->
 
 **Test to differentiate alcohol and phenols**
 
-i) Phenol react with benzene diazonium chloride to form a red orange dye, but ethanol has no reaction with it.
+1. Phenol react with benzene diazonium chloride to form a red orange dye, but ethanol has no reaction with it.
 
-ii) Phenol gives purple colouration with neutral ferric chloride solution, alcohols do not give such coloration with FeCl<sub>3</sub> .
+2. Phenol gives purple colouration with neutral ferric chloride solution, alcohols do not give such coloration with FeCl<sub>3</sub> .
 
-iii) Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not react with NaOH .
+3. Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not react with NaOH .
 
 **Uses of phenol**
 
@@ -3068,17 +3064,13 @@ activates the aromatic ring towards electrophilic substitution.
 
 
 
-**i)** **Halogenation:**
-
-Anisole undergoes bromination with bromine in acetic acid even in the absence of a catalyst, para isomer is obtained as the major product.
+1. **Halogenation:** Anisole undergoes bromination with bromine in acetic acid even in the absence of a catalyst, para isomer is obtained as the major product.
 ![halogenation](138-halogenation.png)
 
-**ii)** **Nitration:** Anisole reacts with a mixture
-
-of conc. H2SO4/Conc.HNO3 to yield a mixture of ortho nitro anisole and para nitro anisole.
+2. **Nitration:** Anisole reacts with a mixture of conc. H2SO4/Conc.HNO3 to yield a mixture of ortho nitro anisole and para nitro anisole.
 ![nitration](138-nitration.png)
 
-**iii) Friedel Craft’s reaction:** Anisole undergoes Fridel Craft’s reaction in presence of anhydrous AlCl
+3. Friedel Craft’s reaction:** Anisole undergoes Fridel Craft’s reaction in presence of anhydrous AlCl
 ![friedel crafts reaction](138-friedel-crafts-reaction.png)
 
 <!-- 3 as a catalyst.
