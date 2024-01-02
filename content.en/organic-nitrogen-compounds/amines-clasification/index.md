@@ -9,8 +9,6 @@ weight: 2
 ![](1.png)
 
 
-206
-
 ### Nomenclature 
 a) Common system:
 
@@ -42,7 +40,6 @@ In common system, an aliphatic amine is named by prefixing alkyl group to amine.
 
 
 
-208
 
 ### Structure of amines
 
@@ -87,31 +84,12 @@ Methyl isocyanide N-methylmethanamine
 
 **a)** Reduction of amides with LiAlH4 gives amines
 
-R C
 
-O
-
-NH2 i) LiAlH4
-
-ii) H2O R CH2 NH2
 
 **b) Hoffmann’s degradation reaction**
 
 When Amides are treated with bromine in the presence of aqueous or ethanolic solution of KOH, primary amines with one carbon atom less than the parent amides are obtained.
 
-**Example:**
-
-R C
-
-O
-
-R NH2 + K2 CO3 + KBr + H2ONH2
-
-Br2 / KOH
-
-amide R = Alkyl (or) Aryl
-
-Primary amine
 
 **4) From alkyl halides**
 
@@ -124,17 +102,7 @@ Gabriel synthesis is used for the preparation of Aliphatic primary amines. Phtha
 
 When Alkyl halides (or) benzylhalides are heated with alcoholic ammonia in a sealed tube, mixtures of 10, 20 and 30 amines and quaternary ammonium salts are obtained.
 
-CH3 Br NH3 **..**
 
-CH3 NH2 **..** CH3 - Br
-
-(CH3)NH **..** CH3 Br
-
-(CH3)3N **..** CH3 Br (CH3)4N Br
-
-10 - amine 20 - amine 30- amine Quarternary ammonium bromide
-
-2
 
 This is a nucleophilic substitution , the halide ion of alkyl halide is substituted by the -NH2
 
@@ -209,24 +177,6 @@ Aniline and other arylamines are usually colourless but when exposed to air they
 
 hydrogen bonds using their lone pair of electorn on nitrogen atom. There is no such H-bonding in tertiary amines.
 
-
-
-R N H N H N H
-
-H R H
-
-H R
-
-The boiling point of various amines follows the order,
-
-CH3 NH2 **..**
-
-\> (CH3)2 NH **..**
-
-\> (CH3)3 N **..**
-
-1 2 3> >° °°
-
 Amines have lower boiling point than alcohols because nitrogen has lower electronegative value than oxygen and hence the N-H bond is less polar than -OH bond.
 
 **Table Boiling points of amines, alcohols and alkanes of comparable molecular weight.**
@@ -234,11 +184,11 @@ Amines have lower boiling point than alcohols because nitrogen has lower electro
 
 | S.NO. |C ompound |Molecular mass |Boiling point (K) |
 |------|------|------|------|
-| 1. |CH3(CH2)2NH2 |59 |321 |
-| 2. |C2H5-NH-CH3 |59 |308 |
-| 3. |(CH3)3N|59 |277 |
-| 4. |CH CH3(OH)CH3 |60 |355 |
-| 5. |CH3CH2CH2CH3 |58 |272.5 |
+| 1. |CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>NH<sub>2</sub> |59 |321 |
+| 2. |Csub>2</sub>H<sub>5</sub>-NH-CH<sub>3</sub> |59 |308 |
+| 3. |(CH<sub>3</sub>)<sub>3</sub>N|59 |277 |
+| 4. |CHCH<sub>3</sub>(OH)CH<sub>3</sub> |60 |355 |
+| 5. |CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>CH<sub>3</sub> |58 |272.5 |
   
 
 
@@ -256,7 +206,7 @@ They form salts with mineral acids
 
 **Example:**
 
-C6H5 NH2 + HCl C6H5 NH3Cl-**..**
+C<sub>6</sub>H<sub>5</sub>NH<sub>2</sub>+ HCl C<sub>6</sub>H<sub>5</sub> NH<sub>3</sub>Cl-
 
 Aniline Anilinium chloride
 
@@ -264,25 +214,6 @@ Aniline Anilinium chloride
 
 In the aqueous solutions, the following equilibrium exists and it lies far to the left, hence amines are weak bases compared to NaOH .
 
-
-
-R NH2 + H - OH **..**
-
-R NH3 + OH -
-
-basicity constant Kb = R-N H OH
-
-R-NH
-
-+
-
-3 -
-
-2
-
- 
-
-   
 
 \[ \] The basicity constant Kb gives a measure of the extent to which the amine accepts the
 
@@ -297,9 +228,9 @@ Larger the value of Kb or smaller the value of pKb, stronger is the base.
 
 | Amines |pKb |Amines |pKb |Amines |pKb |
 |------|------|------|------|------|------|
-| . .CH NH23 |3.38 |C H NH2 5 2 |3.29 |. .C H CH NH6 5 2 2 |4.70 |
-| . .(CH ) NH3 2 |3.28 |. .(C H ) NH2 5 2 |3.00 |. .C H NH CH6 5 3 |9.30 |
-| ..(CH )N3 3 |4.22 |. .(C H ) N2 5 3 |3.25 |. .C H N (CH )6 5 3 2 |8.92 |
+| CH NH23 |3.38 |C H NH2 5 2 |3.29 |C H CH NH6 5 2 2 |4.70 |
+| (CH ) NH3 2 |3.28 |(C H ) NH2 5 2 |3.00 |. .C H NH CH6 5 3 |9.30 |
+|(CH )N3 3 |4.22 |(C H ) N2 5 3 |3.25 |C H N (CH )6 5 3 2 |8.92 |
   
 
 **Influence of structure on basic character of amines**
@@ -321,11 +252,7 @@ The electron – releasing alkyl group R pushes electron towards nitrogen in the
 
 Therefore, the expected order of basicity of aliphatic amines (in gas phase) is
 
-R3N **. .**
-
-\> R2NH **. .**
-
-\> R-NH2 **. .**
+R3N> R2NH> R-NH2 
 
 (30) (20) (10)
 
@@ -339,39 +266,7 @@ In the aqueous solution, the substituted ammonium cations get stabilized not onl
 
 1˚ > 2˚ > 3˚
 
-R N
 
-H
-
-H
-
-H
-
-OH2
-
-OH2
-
-OH2
-
-\> N
-
-R
-
-R H
-
-H >
-
-OH2
-
-OH2
-
-R R
-
-R
-
-N H OH2
-
-1 2 3
 
 Based on these effects we can conclude that the order of basic strength in case of alkyl substituted amines in aqueous solution is
 
@@ -415,39 +310,12 @@ Alkyl amines > Aralkyl amines > Ammonia > N – Aralkyl amines > Aryl amines
 
 Amines reacts with alkyl halides to give successively 20 and 30 amines and quaternary ammonium salts.
 
-R NH2
-
-CH3Br R NH CH3 + HBr
-
-2 CH3Br
-
-3 CH3Br
-
-R N (CH3)2 + 2HBr
-
-20 - amine
-
-30 - amine
-
-R N (CH3)3 Br Quarternary ammonium salts
 
 **2) Acylation**
 
 Aliphatic / aromatic primary and secondary amines react with acetyl chloride (or) acetic anhydride in presence of pyridine to form N – alkyl acetamide. Example
 
-C2H5 NH2 + CH3 C
 
-O
-
-Cl Pyridine
-
-C2H5 NH C
-
-O
-
-CH3 + HCl
-
-Ethylamine Acetylchloride N - Ethyl acetamide
 
 **3) Schotten – Baumann reaction**
 
@@ -455,19 +323,6 @@ Aniline reacts with benzoylchloride (C H COCl)6 5 in the presence of NaOH to giv
 
 
 
-C6H5 NH2 + C6H5 C
-
-O
-
-Cl Pyridine
-
-C6H5 NH C
-
-O
-
-C6H5 + HCl
-
-Aniline Benzoylchloride N - phenyl benzamide
 
 **4) Reaction with nitrous acid**
 
@@ -502,35 +357,7 @@ Alkyl and aryl secondary amines react with nitrous acid to give N – nitroso am
 
 This reaction is known as Libermann’s nitroso test,
 
-**c) Teritiary amine**
 
-i) Aliphatic tertiary amine reacts with nitrous acid to form trialkyl ammonium nitrite salt, which is soluble in water.
-
-
-
-(CH3)3N + HNO2 \[(CH3)3NH\] NO2
-
-trimethylamine trimethyl ammonium nitrite
-
-ii) Aromatic tertiary amine reacts with nitrous acid at 273K to give p – nitroso compound.
-
-N
-
-CH3 CH3
-
-HNO2
-
-(NaNO2 + Con.HCl)
-
-N
-
-CH3 CH3
-
-N = O
-
-N, N - dimethyl aniline
-
-p - Nitroso N,N - dimethyl aniline
 
 **5) Carbylamine reaction**
 
@@ -541,16 +368,6 @@ C2H5 - NH2 + CHCl3 + 3KOH C2H5 - NC + 3KCl + 3H2O Ethylamine Chloroform Ethyliso
 **6) Mustard oil reaction**
 
 i) When primary amines are treated with carbon disulphide (CS2), N - alkyldithio carbomic acid is formed which on subsequent treatment with HgCl2 , give an alkyl isothiocyanate.
-
-CH3 - N -H + C = S CH3 - NH - C - SH CH3 - N = C= S + HgS + 2HCl HgCl2
-
-S S
-
-H
-
-Methylamine
-
-N - methyl dithiocarbamic acid
 
 Methyl isothiocyanate (Mustard oil smell)
 
@@ -572,59 +389,11 @@ electrons on the nitrogen is in conjugation with benzene ring which increases th
 
 Aniline reacts with 2 2Br / H O to give 2,4,6 – tribromo aniline a white precipitate.
 
-Br2 / H2O (or) Br2 / CH3COOH
 
-NH2 ..
 
-BrBr
-
-Aniline 2,4,6, tribromo aniline (white precipitate)
-
-NH2 ..
-
-Br
-
-To get mono bromo compounds, - NH2 is first acylated to reduce its activity.
-
-(CH3CO)2O - CH3COOH
-
-Pyridine Acetanilide
-
-Br2/CH3COOH -HBr
-
-Br
-
-H3O+
-
-\-CH3COOH
-
-p - bromo acetanilide (Major product) p-bromo aniline
-
-NH2 ..
-
-NH C
-
-O
-
-CH3 NH C
-
-O
-
-CH3 NH2 ..
-
-Br
 
 When aniline is acylated, the lone pair of electron on nitrogen is delocalised by the neighbouring carbonyl group by resonance. Hence it is not easily available for conjugation with benzene ring.
 
-NH C CH3 ..
-
-O
-
-NH C
-
-O.. ....
-
-..
 
 CH3
 
@@ -644,49 +413,10 @@ Electrophile
 
 Direct nitration of aniline gives o and p – nitro aniline along with dark coloured ‘tars’ due to oxidation. Moreover in a strong acid medium aniline is protonated to form anilinium ion which is m – directing and hence m – nitro aniline is also formed.
 
-HNO3
 
-H2SO4
-
-NH2 NH2
-
-NO2
-
-+
-
-NH2
-
-NO2
-
-NH2
-
-\+ NO2
 
 To get para product, the - NH2 group is protected by acetylation with acetic anhydride. Then, the nitrated product is hydrolysed to form the product.
 
-NH2
-
-(CH3CO)2O
-
-Pyridine
-
-Acetanilide
-
-HNO3
-
-H2SO4, 288K H+ / H2O
-
-NHCOCH3 NHCOCH3
-
-NO2
-
-NH2
-
-NO2
-
-p-nitro anilineP-nitroacetanilide
-
-\+ CH3COOH
 
 **iii) Sulphonation**
 
