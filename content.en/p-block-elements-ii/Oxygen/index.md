@@ -2,7 +2,7 @@
 title: 'Oxygen'
 weight: 2
 ---
-# Oxygen:
+
 
 
 **Preparation:** 
@@ -78,13 +78,13 @@ Ozone is commonly used for oxidation of organic compounds. In acidic solution oz
 
 **Uses:**
 
-1\. Oxygen is one of the essential component for the survival of living organisms.
+1. Oxygen is one of the essential component for the survival of living organisms.
 
-2\. It is used in welding (oxyacetylene welding)
+2. It is used in welding (oxyacetylene welding)
 
-3\. Liquid oxygen is used as fuel in rockets etc...
+3. Liquid oxygen is used as fuel in rockets etc...
 
-## Allotrophic forms of sulphur
+# Allotrophic forms of sulphur
 
 
 Sulphur exists in crystalline as well as amorphous allotrophic forms. The crystalline form includes rhombic sulphur (α sulphur) and monoclinic sulphur (β sulphur). Amorphous allotropic form includes plastic sulphur (γ sulphur), milk of sulphur and colloidal sulphur.
@@ -101,10 +101,10 @@ Sulphur also exists in liquid and gaseous states. At around 140 ⁰C the monocli
 
 
 
-## Sulphur dioxide
+# Sulphur dioxide
 
 
-### Preparation:
+Preparation:
 
 **From sulphur:** A large-scale production of sulphur dioxide is done by burning sulphur in air. About 6-8% of sulphur is oxidised to SO3.
 
@@ -132,11 +132,11 @@ Cu + 2H<sub>2</sub> SO<sub>4</sub> → CuSO<sub>4</sub>  + SO<sub>2</sub>  + 2H<
 
 SO<sub>3</sub><sup>2- </sup> + 2H <sup>+ </sup> → H<sub>2</sub>O + SO<sub>2</sub>
 
-### Properties:
+ Properties:
 
 Sulphur dioxide gas is found in volcanic eruptions. A large amount of sulphur dioxide gas is released into atmosphere from power plants using coal and oil and copper melting plants. It is a colourless gas with a suffocating odour. It is highly soluble in water and it is 2.2 times heavier than air. Sulphur dioxide can be liquefied (boiling point 263 K) at 2.5 atmospheric pressure and 288 K.
 
-### Chemical properties:
+ Chemical properties:
 
 Sulphur dioxide is an acidic oxide. It dissolves in water to give sulphurous acid.
 
@@ -194,13 +194,13 @@ X + 2(H) →  XH<sub>2</sub>
 
 However, the bleached product (colourless) is allowed to stand in air, it is reoxidised by atmospheric oxygen to its original colour. Hence bleaching action of sulphur dioxide is temporary.
 
-### Uses:
+ Uses:
 
-1\. Sulphur dioxide is used in bleaching hair, silk, wool etc...
+1. Sulphur dioxide is used in bleaching hair, silk, wool etc...
 
-2\. It can be used for disinfecting crops and plants in agriculture.
+2. It can be used for disinfecting crops and plants in agriculture.
 
-### Structure of sulphur dioxide:
+ Structure of sulphur dioxide:
 
 In sulphur dioxide, sulphur atom undergoes sp2 hybridisation. A double bond arises between S and O is due to pπ- dπ overlapping.
 
@@ -209,10 +209,10 @@ In sulphur dioxide, sulphur atom undergoes sp2 hybridisation. A double bond aris
 
 **Figure 3.9 Structure of sulphur dioxide.**
 
-## Sulphuric acid: (H<sub>2</sub>SO<sub>4</sub>)
+# Sulphuric acid: (H<sub>2</sub>SO<sub>4</sub>)
 
 
-### Preparation:
+ Preparation:
 
 Sulphuric acid can be manufactured by lead chamber process, cascade process or contact process. Here we discuss the contact process.
 
@@ -240,7 +240,7 @@ iii. The sulphur trioxide is absorbed in concentrated sulphuric acid and produce
 
 To maximise the yield the plant is operated at 2 bar pressure and 720 K. The sulphuric acid obtained in this process is over 96 % pure.
 
-### Physical properties:
+ Physical properties:
 
 Pure sulphuric acid is a colourless, viscous liquid (Density: 1.84 g/mL at 298 K). High boiling point and viscosity of sulphuric acid is due to the association of molecules together through hydrogen bonding.
 
@@ -259,7 +259,7 @@ HCOOH +H<sub>2</sub>SO<sub>4</sub>  → CO+H<sub>2</sub>SO<sub>4</sub>.H<sub>2</
 (COOH)<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> → CO+CO<sub>2</sub>+H<sub>2</sub>SO<sub>4</sub>.H<sub>2</sub>O
 
 
-### Chemical Properties:
+ Chemical Properties:
  Sulphuric acid is highly reactive. It can act as strong acid and an oxidising agent.
 
 **Decomposition:** Sulphuric acid is stable, however, it decomposes at high temperatures to sulphur trioxide.
@@ -349,8 +349,7 @@ Na<sub>2</sub>CO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> → Na<sub>2</sub>SO<
 
 C<sub>6</sub>H<sub>6</sub> + H<sub>2</sub>SO<sub>4</sub>  →   C<sub>6</sub>H<sub>5</sub>SO<sub>3</sub>H+H<sub>2</sub>O
 
-
-### Uses of sulphuric acid:
+ Uses of sulphuric acid:
 
 1\. Sulphuric acid is used in the manufacture of fertilisers, ammonium sulphate and super phosphates and other chemicals such as hydrochloric acid, nitric acid etc...
 

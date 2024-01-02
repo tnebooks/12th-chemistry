@@ -4,14 +4,14 @@ weight: 1
 ---
 
 
-# Group 15 (Nitrogen group) elements:
-
-## Occurrence:
 
 
-About 78% of earth atmosphere contains dinitorgen (N2) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrate (Indian saltpetre). The 11th most abundant element phosphorus, exists as phosphate (fluroapatite, chloroapatite and hydroxyapatite). The other elements arsenic, antimony and bismuth are present as sulphides and are not very abundant.
+# Occurrence:
 
-## Physical properties:
+
+About 78% of earth atmosphere contains dinitorgen (N<sub>2</sub>) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrate (Indian saltpetre). The 11th most abundant element phosphorus, exists as phosphate (fluroapatite, chloroapatite and hydroxyapatite). The other elements arsenic, antimony and bismuth are present as sulphides and are not very abundant.
+
+# Physical properties:
 
 
 Some of the physical properties of the group 15 elements are listed below
@@ -35,9 +35,9 @@ Some of the physical properties of the group 15 elements are listed below
 | Melting point (K) |63 |317 |Sublimes at 889 |904 |544 |
 | B oiling point (K) |77 |554 |Sublimes at 889|1860 |1837 |
 
-## Nitrogen:
+# Nitrogen:
 
-### Preparation
+**Preparation:**
 
 Nitrogen, the principal gas of atmosphere (78 % by volume) is separated industrially from liquid air by fractional distillation
 
@@ -50,7 +50,7 @@ It can also be obtained by oxidising ammonia using bromine water
 
 8NH<sub>3</sub>+ 3Br<sub>2</sub> → 6NH<sub>4</sub>Br + N<sub>2</sub>
 
-### Properties
+**Properties:**
 
 Nitrogen gas is rather inert. Terrestrial nitrogen contains 14.5% and 0.4% of nitrogen-14 and nitrogen-15 respectively. The later is used for isotopic labelling. The chemically inert character of nitrogen is largely due to high bonding energy of the molecules 225 cal mol-1 (946 kJ mol-1). Interestingly the triply bonded species is notable for its less reactivity in comparison with other iso-electronic triply bonded systems such as -C≡C-, C≡O, X-C≡N, X-N≡C, -C≡C-, and -C≡N. These groups can act as donor where as dinitrogen cannot. However, it can form complexes with metal (M← N≡N) like CO to a less extent
 
@@ -83,16 +83,16 @@ With oxygen, nitrogen produces nitrous oxide at high temperatures. Even at 3473 
 
 2N <sub> 2</sub>+ O<sub>2</sub>  → 2N<sub>2</sub>O
 
-### Uses of nitrogen
+**Uses of nitrogen**
 
 1\. Nitrogen is used for the manufacture of ammonia, nitric acid and calcium cyanamide etc.
 
 2\. Liquid nitrogen is used for producing low temperature required in cryosurgery, and so in biological preservation .
 
-## Ammonia (NH<sub>3</sub>)
+# Ammonia (NH<sub>3</sub>)
 
 
-### Preparation:
+**Preparation:**
 
 Ammonia is formed by the hydrolysis of urea.<br>
  NH<sub>2</sub>CONH<sub>2</sub> +H<sub>2</sub>O →2NH<sub>3</sub>+CO<sub>2</sub>
@@ -112,7 +112,7 @@ Mg<sub>3</sub>N<sub>2</sub>+6H<sub>2</sub>0 →3Mg(OH)<sub>2</sub>+2NH<sub>3</su
 
 It is industrially manufactured by passing nitrogen and hydrogen over iron catalyst (a small amount of K2O and Al2O3 is also used to increase the rate of attainment of equilibrium) at 750 K at 200 atm pressure. In the actual process the hydrogen required is obtained from water gas and nitrogen from fractional distillation of liquid air.
 
-### Properties
+**Properties:**
 
 Ammonia is a pungent smelling gas and is lighter than air. It can readily liquefied by at about 9 atmospheric pressure. The liquid boils at -38.4°C and freezes at -77° C. Liquid ammonia resembles water in its physical properties. i.e. it is highly associated through strong hydrogen bonding. Ammonia is extremely soluble in water (702 Volume in 1 Volume of water) at 20°C and 760mm pressure.
 
@@ -136,16 +136,16 @@ K<sub>-50<sup>o</sup><sub>C =[NH<sub>4</sub><sup>+</sup>][NH<sub>2</sub><sup>-</
 K<sub>25<sup>o</sup><sub>C =[H<sub>3</sub>0<sup>+</sup>][OH<sup>-</sup>]=10<sup>-14</sup>
 
 
-### Chemical Properties
+**Chemical Properties:**
 
-#### Action of heat:
+Action of heat:
  Above 500°C ammonia decomposes into its elements. The decomposition may** be accelerated by metallic catalysts like Nickel, Iron. Almost complete dissociation occurs on continuous sparking.
 
 {{< katex display >}}
 2NH_3  \xrightarrow[{}]{>500°C}N_2+3H_2
 {{< /katex >}}
 
-#### Reaction with air/oxygen:
+**Reaction with air/oxygen:**
  Ammonia does not burn in air but burns freely in free oxygen with a yellowish flame to give nitrogen and steam.
 
 4NH<sub>3</sub>+3O<sub>2</sub> ⇌ 2N<sub>2</sub>+6H<sub>2</sub>O
@@ -155,17 +155,16 @@ In presence of catalyst like platinum, it burns to produce nitric oxide. This pr
 
 4NH<sub>3</sub>+5O<sub>2</sub> ⇌ 4N0+6H<sub>2</sub>O
 
-#### Reducing property: 
+**Reducing property:**
 Ammonia acts as a reducing agent. It reduces the metal oxides to metal when passed over heated metallic oxide.
 
 3PbO + 2NH <sub>3</sub>  → 3Pb + N<sub>2</sub> +3H<sub>2</sub>O 
 
 
-
-#### Reaction with acids:
+**Reaction with acids:**
  When treated with acids it forms ammonium salts. This reaction shows** that the affinity of ammonia for proton is greater than that of water.
 
-#### Reaction with chlorine and chlorides:
+**Reaction with chlorine and chlorides:**
  Ammonia reacts with chlorine and chlorides to give ammonium chloride as a final product. The reactions are different under different conditions as given below.
 
 With excess ammonia 
@@ -185,14 +184,14 @@ With excess of chlorine ammonia reacts to give nitrogen trichloride, an explosiv
 ![ammonia](ammonia-hcl.png)
 
 
-#### Formation of amides and nitrides: 
+**Formation of amides and nitrides:**
  With strong electro positive metals such as sodium, ammonia forms amides while it forms nitrides with metals like magnesium.
 
 2Na + 2NH<sub>3</sub> → 2NaNH<sub>2</sub>+ H<sub>2</sub>
 
 3Mg+ 2NH<sub>3</sub> → Mg<sub>3</sub>N<sub>2</sub>+3H<sub>2</sub>
 
-#### With metallic salts:
+**With metallic salts:**
  Ammonia reacts with metallic salts to give metal hydroxides (in case of Fe) or forming complexes (in case Cu)
 
 Fe<sup>3+</sup>+ 3NH<sub>4</sub><sup>+</sup>+3OH<sup>-</sup> → Fe(OH)<sub>3</sub>+3NH<sub>4</sub><sup>+</sup>
@@ -200,7 +199,7 @@ Fe<sup>3+</sup>+ 3NH<sub>4</sub><sup>+</sup>+3OH<sup>-</sup> → Fe(OH)<sub>3</s
 Cu<sup>2+</sup>+4NH<sub>3</sub> →[Cu(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup>
 
 
-#### Formation of amines:
+**Formation of amines:**
  Ammonia forms ammonated compounds by ion dipole attraction. Eg. \[CaCl<sub>2</sub>.8NH<sub>3</sub>\]. In this, the negative ends of ammonia dipole is attracted to Ca<sup>2+</sup> ion.
 
 It can also act as a ligand and form coordination compounds such as \[Co(NH<sub>3</sub>)<sub>6</sub>\] <sup>3+</sup>, \[Ag(NH<sub>3</sub>)<sub>2</sub>\]<sup>+</sup>
@@ -221,10 +220,10 @@ Ammonia molecule is pyramidal in shape N-H bond distance is 1.016 Å and H-H bon
 
 one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
 
-## Nitric acid
+# Nitric acid
 
 
-### Preparation
+**Preparation:**
 
 Nitric acid is prepared by heating equal amounts of potassium or sodium nitrate with concentrated sulphuric acid.
 
@@ -236,8 +235,7 @@ The temperature is kept as low as possible to avoid decomposition of nitric acid
 4HNO<sub>3</sub>   → 4NO<sub>2</sub> + 2H<sub>2</sub>O + O<sub>2</sub>
 
 
-
-### Preparation Commercial method of preparation
+**Commercial method of preparation:**
 
 Nitric acid prepared in large scales using Ostwald's process. In this method ammonia from Haber’s process is mixed about 10 times of air. This mixture is preheated and passed into the catalyst chamber where they come in contact with platinum gauze. The temperature rises to about 1275 K and the metallic gauze brings about the rapid catalytic oxidation of ammonia resulting in the formation of NO, which then oxidised to nitrogen dioxide.
 
@@ -254,7 +252,7 @@ The nitrogen dioxide produced is passed through a series of adsorption towers. I
 +NO
 
 
-### Preparation Properties
+Preparation Properties
 
 Pure nitric acid is colourless. It boils at 86 °C. The acid is completely miscible with water forming a constant boiling mixture (98% HNO3, Boiling point 120.5 °C). Fuming nitric acid contains oxides of nitrogen. It decomposes on exposure to sunlight or on being heated, into nitrogen dioxide, water and oxygen.
 
@@ -265,7 +263,7 @@ Due to this reaction pure acid or its concentrated solution becomes yellow on st
 
 In most of the reactions, nitric acid acts as an oxidising agent. Hence the oxidation state changes from +5 to a lower one. It doesn’t yield hydrogen in its reaction with metals. Nitric acid can act as an acid, an oxidizing agent and an nitrating agent.
 
-#### Preparation As an acid:
+ Preparation As an acid:
  Like other acids it reacts with bases and basic oxides to form salts and water
 
 ZnO + 2HNO<sub>3</sub>  → Zn(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O 
@@ -278,7 +276,7 @@ ZnO + 2HNO<sub>3</sub>  → Zn(NO<sub>3</sub>)<sub>2</sub> + H<sub>2</sub>O
 
 
 
-#### As an oxidising agent: 
+As an oxidising agent: 
 The nonmetals like carbon, sulphur, phosphorus and iodine are** oxidised by nitric acid.
 
 C + 4HNO<sub>3</sub>  → 2H<sub>2</sub>O + 4NO<sub>3</sub> + CO<sub>2</sub>
@@ -303,7 +301,7 @@ HNO<sub>3</sub> + F<sub>2</sub> →  HF + NO<sub>3</sub>F
 
 
 
-#### As an nitrating agent:
+ As an nitrating agent:
  In organic compounds replacement of a –H atom with –NO2 is often** referred as nitration. For example.
 
 C<sub>2</sub>H<sub>2</sub>+ HNO<sub>3</sub> → C<sub>6</sub>H<sub>5</sub>NO<sub>2</sub> + H<sub>2</sub>O  (∆ H<sub>2</sub>SO<sub>4</sub>)
@@ -316,7 +314,7 @@ HNO<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> →  NO<sub>2</sub><sup>+</sup> + 
 
 
 
-### Action of nitric acid on metals
+Action of nitric acid on metals
 
 All metals with the exception of gold, platinum, rhodium, iridium and tantalum reacts with nitric acid. Nitric acid oxidises the metals. Some metals such as aluminium, iron, cobalt, nickel and chromium are rendered passive in concentrated acid due to the formation of a layer of their oxides on the metal surface, which prevents the nitric acid from reacting with pure metal.
 
@@ -422,9 +420,21 @@ HNO<sub>3</sub> + NH<sub>3</sub>  →  NH<sub>4</sub>NO<sub>3</sub>
 
 
 
-## Oxides and oxoacids of nitrogen
+# Oxides and oxoacids of nitrogen
 
-![oxides-of-nitrogen](oxides-of-nitrogen.png)
+
+
+| Name                    | Formula     | Oxidation state | Physical properties          | Preparation                                              |
+|-------------------------|-------------|-----------------|------------------------------|----------------------------------------------------------|
+| Nitrous oxide           | N_2O        | +1              | \text{Colourless gas & neutral} | \text{NH}_4\text{NO}_3 \rightarrow \text{N}_2\text{O} + 2\text{H}_2\text{O}                                      |
+| Nitric oxide            | NO          | +2              | \text{Colourless gas & neutral} | 2\text{NaNO}_2 + 2\text{FeSO}_4 + 3\text{H}_2\text{SO}_4 \rightarrow \text{Fe}_2(\text{SO}_4)_3 + 2\text{NaHSO}_4 + 2\text{H}_2\text{O} + 2\text{NO} |
+| Dinitrogen trioxide     | N_2O_3      | +3              | \text{Blue solid & acidic}    | 2\text{NO} + \text{N}_2\text{O}_4 \rightarrow 2\text{N}_2\text{O}_3                                       |
+| Nitrogen dioxide        | NO_2        | +4              | \text{Brown gas & acidic}     | 2\text{Pb}(\text{NO}_3)_2 \rightarrow 4\text{NO}_2 + 2\text{PbO} + \text{O}_2                             |
+| Nitrogen tetraoxide     | N_2O_4      | +4              | \text{Colourless solid & acidic} | 2\text{NO} \rightarrow \text{N}_2\text{O}_4                                               |
+| Nitrogen pentoxide      | N_2O_5      | +5              | \text{Colourless solid & acidic} | 2\text{HNO}_3 + \text{P}_2\text{O}_5 \rightarrow 5\text{N}_2\text{O}_5 + 2\text{HPO}_3                             |
+
+<!-- 
+![oxides-of-nitrogen](oxides-of-nitrogen.png) -->
 
 
 **Structures of oxides of nitrogen:**
@@ -445,7 +455,7 @@ Preparation of oxoacids of nitrogen:
 
 
 
-## Allotropic forms of phosphorus:
+# Allotropic forms of phosphorus:
  Phosphorus has several allotropic modification
 
 of which the three forms namely white, red and black phosphorus are most common.
@@ -462,7 +472,7 @@ The phosphorus has a layer structure and also acts as a semiconductor. The four 
 ![red](structure-of-red.png)
 **Figure 3.3 Structure of red phosphorus**
 
-## Properties of phosphorus
+# Properties of phosphorus
 
 
 Phosphorus is highly reactive and has the following important chemical properties
@@ -512,18 +522,18 @@ P<sub>4</sub> + 12Na → 4Na<sub>3</sub>P
 
 
 
-### Uses of phosphorus:
+ Uses of phosphorus:
 
 1\. The red phosphorus is used in the match boxes
 
 2\. It is also used for the production of certain alloys such as phosphor bronze
 
-## Phosphine (PH3)
+# Phosphine (PH<sub>3</sub>)
 
 
 Phosphine is the most important hydride of phosphorus
 
-### Preparation:
+**Preparation:**
 
 Phosphine is prepared by action of sodium hydroxide with white phosphorus in an inert atmosphere of carbon dioxide or hydrogen.
 
@@ -611,18 +621,18 @@ In phosphine, phosphorus shows sp3 hybridisation. Three orbitals are occupied by
 
 Phosphine is used for producing smoke screen as it gives large smoke. In a ship, a pierced container with a mixture of calcium carbide and calcium phosphide, liberates phosphine and acetylene when thrown into sea. The liberated phosphine catches fire and ignites acetylene. These burning gases serves as a signal to the approaching ships. This is known as Holmes signal.
 
-### Phosphorous trichloride and pentachloride:
+# Phosphorous trichloride and pentachloride:
 
 
-#### Phosphorous trichloride:
+**Phosphorous trichloride:**
 
-##### Preparation:
+**Preparation:**
 
 When a slow stream of chlorine is passed over white phosphorus, phosphorous trichloride is formed. It can also be obtained by treating white phosphorus with thionyl chloride.
 
 P<sub>4</sub> + 8SOCl<sub>2</sub> ➔ 4PCl<sub>3</sub> + 4SO<sub>2</sub> + 2S<sub>2</sub>Cl<sub>2</sub>
 
-##### Properties
+Properties
 
 When phosphorous trichloride is hydrolysed with cold water it gives phosphorous acid.
 
@@ -649,22 +659,22 @@ Similar reactions occurs with other molecules that contains alcohols and carboxy
 
 
 
-#### Uses of phosphorus trichloride:
+Uses of phosphorus trichloride:
 
 Phosphorus trichloride is used as a chlorinating agent and for the preparation of H<sub>3</sub>PO<sub>3</sub>.
 
 ![Structure of P4O6](structure-of-phosphorus-trichloride.png)
 
-#### Phosphorous pentachloride:
+ Phosphorous pentachloride:
 
-##### Preparation
+ Preparation
 
 When PCl3 is treated with excess chlorine, phosphorous pentachloride is obtained.
 
 PCl<sub>3</sub> + Cl<sub>2</sub> ➔ PCl<sub>5</sub>
 
 
-#####  Chemical properties
+ Chemical properties
 
 On heating phosphorous pentachloride, it decomposes into phosphorus trichloride and chlorine.
 
@@ -694,14 +704,14 @@ C<sub>5</sub>H<sub>5</sub>OH + PCl<sub>5</sub> ➔  C<sub>2</sub>H<sub>5</sub>Cl
 
 C<sub>5</sub>H<sub>5</sub>COOH + PCl<sub>5</sub>  C<sub>2</sub>H<sub>5</sub>COCl + HCl + POCl<sub>3</sub>
 
-##### Uses of phosphorus pentachloride
+ Uses of phosphorus pentachloride
 
 Phosphorous pentachloride is a chlorinating agent and is useful for replacing hydroxyl groups by chlorine atom.
 
 **Figure 3.6 Structure of P4O6**
 ![Structure of P4O6](structure-of-P4O6.png)
 
-###### Structure of oxides and oxoacids of phosphorus
+#Structure of oxides and oxoacids of phosphorus
 
 
 Phosphorous forms phosphorous trioxide, phosphorous tetra oxide and phosphorous pentaoxides
@@ -730,21 +740,30 @@ Terminal P-O bond length is 143 pm, which is less than the expected single bond 
 
 
 
-##### Group 16 (Oxygen group) elements:
+Group 16 (Oxygen group) elements:
 
-###### Occurrence:
+ Occurrence:
 
 Elements belonging group 16 are called chalgogens or ore forming elements as most of the ores are oxides or sulphides. First element oxygen, the most abundant element, exists in both as dioxygen in air (above 20 % by weight as well as volume) and in combined form as oxides. Oxygen and sulphur makes up about 46.6 % & 0.034 & of earth crust by weight respectively. Sulphur exists as sulphates (gypsum, epsom etc...) and sulphide (galena, Zinc blende etc...). It is also present in the volcanic ashes. The other elements of this groups are scarce and are often found as selenides, tellurides etc... along with sulphide ores.
 
-###### Physical properties:
+ Physical properties:
 
 The common physical properties of the group 16 elements are listed in the Table.
 
 **Table 3.2 Physical properties of group 16 elements**
 
-![Alt text](physical-properties-of-group-16-elements.png)
+![image](physical-properties-of-group-16-elements.png)
 
-![Alt text](physical-properties-of-group-16-elements-1.png)
+| Name                  | Formula    | Oxidation state | Preparation                                             |
+|-----------------------|------------|-----------------|---------------------------------------------------------|
+| Hypophosphorous acid  | H_3PO_2    | +1              | P_4 + 6H_2O \rightarrow 3H_2PHO_2                       |
+| Orthophosphrous acid  | H_3PO_3    | +3              | P_4O_6 + 6H_2O \rightarrow 4H_3PO_3                     |
+| Hypophosphoric acid   | H_4P_2O_6  | +4              | 2P + 6O_2 + 2H_2O \rightarrow 4H_2PO_6                  |
+| Orthophosphoric acid  | H_3PO_4    | +5              | P_4O_{10} + 6H_2O \rightarrow 4H_3PO_4                   |
+| Pyrophosphoric acid   | H_4P_2O_7  | +5              | 2H_3PO_4 \rightarrow H_2P_2O_7 + 2H_2O                 |
+
+
+<!-- ![Alt text](physical-properties-of-group-16-elements-1.png) -->
 
 <!-- **Property Oxygen Sulphur Selenium Tellurium Polonium**
 
