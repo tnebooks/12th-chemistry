@@ -413,7 +413,7 @@ a) BrF<sub>5</sub> b) BrF2
 
 11\. XeO<sub>6</sub><sup>4-</sup> + Mn<sup>2+</sup> + H<sup>+</sup> → 
 
-12\. XeOF<sub>4</sub> + SiO<sub>2</sub>  →
+12\. XeOF<sub>4</sub>  + SiO<sub>2</sub>  →
 
 13\. {{< katex display >}}
 Xe+ F_2 \xrightarrow[{400°C}]{Ni/ 200 atm }
