@@ -296,7 +296,7 @@ Boric acid has a two dimensional layered structure. It consists of \[BO3\]
 3. It is also used as a food preservative.
 
 **Figure 2.2 Structure of boric acid**
-![alt Text](../Fig2.2.png)
+![Fig 2.2 Structure of boric acid](../Fig2.2.png)
 
 # Diborane
 
@@ -324,7 +324,7 @@ Boranes are colourless diamagnetic compounds with low thermal stability. Diboran
 
 At high temperatures it forms higher boranes liberating hydrogen.
 
-![Alt Text](../fig(Diboranes).png)
+![fig(Diboranes)](../fig(Diboranes).png)
 
 Diboranes reacts with water and alkali to give boric acid and metaborates respectively.
 
@@ -383,7 +383,7 @@ $\ce{3B2H6 + 6NH3 ->[{-153 K}] 3(B2H6.2NH3) (or) 3[BH2(NH3)2]+[BH4]-}$
 In diborane two BH2 units are linked by two bridged hydrogens. Therefore, it has eight B-H bonds. However, diborane has only 12 valance electrons and are not sufficient to form normal covalent bonds. The four terminal B-H bonds are normal covalent bonds (two centre - two electron bond or 2c-2e bond). The remaining four electrons have to be used for the bridged bonds. i.e. two three centred B-H-B bonds utilise two electrons each. Hence, these bonds are three centre- two electron bonds (3c-2e). The bridging hydrogen atoms are in a plane as shown in the figure 2.3. In diborane, the boron is sp3 hybridised.
 
 **Figure 2.3 Structure of diborane.**
-![alt Text](../Fig2.3.png)
+![Fig2.3](../Fig2.3.png)
 
 Three of the four sp3 hybridised orbitals contains single electron and the fourth orbital is empty. Two of the half filled hybridised orbitals of each boron overlap with the 1s orbitals of two hydrogens to form four terminal 2c-2e bonds, leaving one empty and one half filled hybridised orbitals on each boron. The Three centre - two electron bonds), B-H-B bond formation involves overlapping the half filled hybridised orbital of one boron, the empty hybridised orbital of the other boron and the half filled 1s orbital of hydrogen.
 

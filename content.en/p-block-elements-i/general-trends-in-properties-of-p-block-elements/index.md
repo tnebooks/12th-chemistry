@@ -61,7 +61,7 @@ Other observed oxidation states
 
 The tendency of an element to form a cation by loosing electrons is known as electropositive or metallic character. This character depends on the ionisation energy. Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
 
-![alt text](../Fig2.1-p-block.png)
+![Fig 2.1](../Fig2.1-p-block.png)
 
 <!-- 13 14 15 16 17
 
