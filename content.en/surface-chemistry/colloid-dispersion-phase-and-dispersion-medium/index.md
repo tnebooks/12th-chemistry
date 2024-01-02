@@ -173,7 +173,7 @@ The colloidal solutions due to their different methods of preparation may contai
 
 (i) Dialysis (ii) Electrodialysis (iii) Ultrafilteration.
 
-**(i) Dialysis**
+**1. Dialysis**
 
 In 1861, T. Graham separated the electrolyte from a colloid using a semipermeable membrane (dialyser). In this method, the colloidal solution is taken in a bag made up of semipermeable membrane. It is suspended in a trough of flowing water, the electrolytes diffuse out of the membrane and they are carried away by water.
 
@@ -184,13 +184,13 @@ In the Dialysis, recycling of patient’s blood is done through considerable len
 
 </blockquote>
 
-**ii) Electrodialysis**
+**2. Electrodialysis**
 
 ![Elecro Dialysis](Elecro-Dialysis.jpg)
 
 The presence of electric field increases the speed of removal of electrolytes from colloidal solution. The colloidal solution containing an electrolyte as impurity is placed between two dialysing membranes enclosed into two compartments filled with water. When current is passed, the impurities pass into water compartment and get removed periodically. This process is faster than dialysis, as the rate of diffusion of electrolytes is increased by the application of electricity.
 
-**iii) Ultrafiltration**
+**3. Ultrafiltration**
 
 The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter, colloidal particles are separated on the filter and the impurities are removed as washings. This process is quickened by application of pressure. The separation of sol particles from electrolyte by filteration through an ultrafilter is called ultrafiltration. Collodion is 4% solution of nitrocellulose in a mixture of alcohol and water.
 
@@ -277,13 +277,13 @@ The colloidal sol particles are continuously bombarded with the molecules of the
 
 **12) Electrical property**
 
-**(i) Helmholtz double layer**
+**1. Helmholtz double layer**
 
 The surface of colloidal particle adsorbs one type of ion due to preferential adsorption. This layer attracts the oppositely charged ions in the medium and hence at the boundary separating the two electrical double layers are setup. This is called as Helmholtz electrical double layer.
 
 As the particles nearby are having similar charges, they cannot come close and condense. Hence this helps to explain the stability of a colloid.
 
-**(ii) Electrophoresis:**
+**2. Electrophoresis:**
 
 When electric potential is applied across two platinum electrodes dipped in a hydrophilic sol, the dispersed particles move toward one or other electrode.
 
@@ -304,7 +304,7 @@ This migration of sol particles under the influence of electric field is called 
 
 A sol is electrically neutral. Hence the medium carries an equal but opposite charge to that of dispersed particles. When sol particles are prevented from moving, under the influence of electric field the medium moves in a direction opposite to that of the sol particles. This movement of dispersion medium under the influence of electric potential is called electro osmosis
 
-13\. **Coagulation or precipitation**
+13. **Coagulation or precipitation**
 
 The flocculation and settling down of the sol particles is called coagulation. Various method of coagulation are given below:
 
@@ -323,19 +323,19 @@ Al<sup>3+</sup>>Ba<sup>2+</sup>>Na<sup>+</sup> , Similarly \[ Fe(CN)<sub>6</sub>
 
 The precipitation power of electrolyte is determined by finding the minimum concentration (millimoles/lit) required to cause precipitation of a sol in 2hours. This value is called flocculation value. The smaller the flocculation value greater will be precipitation.
 
-**(ii) Electrophoresis:**
+**2. Electrophoresis:**
 
 In the electrophoresis, charged particles migrate to the electrode of opposite sign. It is due to neutralization of the charge of the colloids. The particles are discharged and so they get precipitated.
 
-**(iii) By mixing two oppositively charged sols**
+**3. By mixing two oppositively charged sols**
 
 When colloidal sols with opposite charges are mixed mutual coagulation takes place. It is due to migration of ions from the surface of the particles.
 
-**(iv) By boiling**
+**4. By boiling**
 
 When boiled due to increased collisions, the sol particles combine and settle down.
 
-**14\. Protective action**
+**14. Protective action**
 
 Generally, lyophobic sols are precipitated readily even with small amount of electrolytes. But they are stabilised by addition of a small amount of lyophillic colloid.
 

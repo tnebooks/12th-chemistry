@@ -7,7 +7,7 @@ weight: 1
 
 metals occupy from group –3 to group-12 of the modern periodic table.
 
-![alt text](periodic.png)
+![Position of d- block elements in the periodic table](periodic.png)
 
 nitrogen
 

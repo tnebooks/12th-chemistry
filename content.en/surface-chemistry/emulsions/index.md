@@ -29,19 +29,19 @@ Several types of emulsifiers are known.
 
 The two types of emulsions can be identified by the following tests.
 
-**(i) Dye test:**
+**1. Dye test:**
 
 A small amount of dye soluble in oil is added to the emulsion. The emulsion is shaken well. The aqueous emulsion will not take the colour whereas oily emulsion will take up the colour of the dye.
 
-**(ii)Viscosity test**
+**2. Viscosity test**
 
 Viscosity of the emulsion is determined by experiments. Oily emulsions will have higher value than aqueous emulsion.
 
-**(iii) Conductivity test**
+**3. Conductivity test**
 
 Conductivity of aqueous emulsions are always higher than oily emulsions.
 
-**(iv) Spreading test**
+**4. Spreading test**
 
 Oily emulsions spread readily than aqueous emulsion when spread on an oily surface.
 

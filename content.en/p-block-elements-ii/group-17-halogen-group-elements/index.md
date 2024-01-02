@@ -53,17 +53,6 @@ CaOCl<sub>2</sub> + 2HCl → CaCl<sub>2</sub> + H<sub>2</sub>O + Cl<sub>2</sub>
 CaOCl<sub>2</sub> + H<sub>2</sub>SO<sub>4</sub> → CaSO<sub>4</sub> + H<sub>2</sub>O + Cl<sub>2</sub>
 
 
-<!-- | Property |Fluorine |Chlorine |Bromine |Iodine |Astatine |
-|------|------|------|------|------|------|
-| Physical state  at 293 K |Gas |Gas |Liquid |Solid |Solid |
-| Atomic Number |9 |17 |35 |53 |85 |
-| Isotopes |F19 |Cl, Cl35 37 |Br79 |I127 |At,  At210 211 |
-| Atomic Mass (g.mol  at 293 K)-1 |18.99 |35.45 |79.9 |126.9 |210 |
-| Electronic conguration |[He]2s  2p2 5 |[Ne]3s  3p2 5 |[Ar]3d  4s4p10 25 |[Kr]4d  5s5p10 25 |[Xe]  4f5d  6s  6p1410 2 5 |
-| Atomic radius (Å) |1.47 |1.75 |1.85 |1.98 |2.02 |
-| Density (g.cm  at293 K)-3 |1.55 x 10-3 |2.89 x 10-3 |3.10 |4.93 |- |
-| Melting point (K) |53 |171 |266 |387 |573 |
-| B oiling point (K) |85 |239 |332 |457 |623 | -->
   
 
 
@@ -433,17 +422,17 @@ To summarize the trend,
 ![image](summarize-trend.png)
 
 
-| Property |Order |
+<!-- | Property |Order |
 |------|------|
 | Reactivity of hydrogen |Decreases from uorine to iodine |
 | Stability |Decreases from HF to HI |
 | Volatility of the hydrides |HF < HI < HBr < HCl |
 | ermal stability |HF > HI > HBr > HCl |
 | B oiling point |HCl < HBr < HI |
-| Acid strength |Increases from HF to HI |
+| Acid strength |Increases from HF to HI | -->
 
 
-**Table 3.5**
+<!-- **Table 3.5** -->
 <!-- 
 **Property Order** Reactivity of hydrogen Decreases from fluorine to iodine Stability Decreases from HF to HI Volatility of the hydrides HF < HI < HBr < HCl Thermal stability HF > HI > HBr > HCl Boiling point HCl < HBr < HI Acid strength Increases from HF to HI -->
 
@@ -465,7 +454,7 @@ Each halogen combines with other halogens to form a series of compounds called i
 | IBr |
 
   
-![Alt text](inter-halogen-diagram.png)
+![image 2](inter-halogen-diagram.png)
 
 **Properties of inter halogen compounds:**
 
@@ -510,7 +499,7 @@ The structures of different type of interhalogen compunds can be easily explaine
 | AX5 |Square pyrimidal |sp d3 2 |5 / 1 |
 | AX7 |Pentagonal bipyramidal |sp d3 3 |7 / 0 |
 
-![Alt text](structure-of-halogen-nitrogen-compound.png)
+![image 3](structure-of-halogen-nitrogen-compound.png)
 
 
 

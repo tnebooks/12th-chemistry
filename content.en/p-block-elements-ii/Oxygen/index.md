@@ -204,7 +204,9 @@ However, the bleached product (colourless) is allowed to stand in air, it is reo
 
 In sulphur dioxide, sulphur atom undergoes sp2 hybridisation. A double bond arises between S and O is due to pπ- dπ overlapping.
 
-![structure-of-sulphur-dioxide](structure-of-sulphur-dioxide.png)
+![structure-of-sulphur-dioxide]
+(structure-of-sulphur-dioxide.png)
+
 **Figure 3.9 Structure of sulphur dioxide.**
 
 ## Sulphuric acid: (H<sub>2</sub>SO<sub>4</sub>)
