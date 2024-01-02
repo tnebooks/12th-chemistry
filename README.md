@@ -1,8 +1,8 @@
-## C Programing
+## 12th Chemistry
 
 Materails
 
 ## Dev
 ```sh
-hugo server --themesDir ../h
+hugo server --themesDir ../
 ```
