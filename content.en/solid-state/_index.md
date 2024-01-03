@@ -5,46 +5,8 @@ weight: 6
 
   
 
-176
-
-**Learning Objectives**
-
-Aft er studying this unit, the students will be able to
-
- describe general characteristics of solids
-
- distinguish amorphous and crystalline solids
-
- defi ne unit cell
-
- describe diff erent types of voids and close packed structures
-
- calculate the packing effi ciency of diff erent types of cubic unit cell
-
- solve numerical problems involving unit cell dimensions
-
- explain point defects in solids
 
 **SOLID STATEUNIT**
-
-**6**
-
-Sir William Henry Bragg was a British physicist, chemist, and a mathematician. Sir William Henry Bragg and his son Lawrence Bragg worked on X-rays with much success. Th ey invented the X-ray spectrometer and founded the new science of X-ray crystallography, the analysis of crystal structure using X-ray diff raction. Bragg was joint winner (with his son, Lawrence Bragg) of the Nobel Prize in Physics in 1915, for their services in the “analysis of crystal structure by means of ray”. Th e mineral Braggite (a sulphide ore of platinum, palladium and Nickel) is named aft er him and his son.
-
-**Sir Lawrence Bragg (1890 –1971)**
-
-**Sir William Henry Bragg (1862 –1942)**
-
-XII U6 Solid State - Jerald.indd 176 2/19/2020 4:41:27 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-177
 
 **INTRODUCTION**
 

@@ -3,6 +3,9 @@ title: 'Drug'
 weight: 1
 ---
 
+**INTRODUCTION** Chemistry touches every aspect of our lives. The three-basic requirement of our life: food,
+
+clothes, shelter are all basically chemical compounds. Infact, life itself is a complicated system of interrelated chemical process. In this unit, we will learn the chemistry involved in the field of medicines, food materials, cleansing agents and polymers.
 
 
 ## Drug
@@ -20,74 +23,8 @@ Drugs are classified based on their properties such as chemical structure, pharm
 In this classification, drugs with a common chemical skeleton are classified into a single group. For example, ampicillin, amoxicillin, methicillin etc.. all have similar structure and are classified into a single group called penicillin. Similarly, we have other group of drugs such as opiates, steroids, catecholamines etc. Compounds having similar chemical structure are expected to have similar chemical properties. However, their biological actions are not always similar. For example, all drugs belonging to penicillin group have same biological action, while groups such as barbiturates, steroids etc.. have different biological action.
 
 **Penicillins**
+![Alt text](273-1.png)
 
-N
-
-S
-
-CH3
-
-CH3
-
-O
-
-OH
-
-H N
-
-C
-
-O O
-
-R H
-
-**R group-Drug Name**
-
-CH2
-
-Penicillin G
-
-OCH2
-
-Penicillin V
-
-CH
-
-NH2
-
-Ampicillin
-
-CH
-
-NH2
-
-OH
-
-Amoxicillin
-
-H3CO
-
-H3CO
-
-methicillin
-
-XII U15 Chemistry in Action.indd 273 2/19/2020 5:16:58 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| R HN H SC CH3O O N CH3OHO |R group-Drug Name |
-|------|------|------|------|------|------|------|
-| Penicillin GCH2 |Penicillin VCH O2 |AmpicillinCHNH2 |moxicillinOH2 |H COmet3 hicillinH CO3 |
-| ACHNH |
-
-  
-
-274
 
 **Classification based on Pharmacological effect:**
 
@@ -114,17 +51,6 @@ The biochemical processes such as metabolism (which is responsible for breaking 
 
 These drug molecules interact with biomolecules such as proteins, lipids, etc..that are responsible for different functions of the body. For example, proteins which act as biological catalysts are called enzymes and those which are important for communication systems are called receptors. The drug interacts with these molecules and modify the normal biochemical reactions either by modifying the enzyme activity or by stimulating/suppressing certain receptors.
 
-XII U15 Chemistry in Action.indd 274 2/19/2020 5:16:58 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-275
-
 **Enzymes as drug targets:**
 
 In all living systems, the biochemical reactions are catalysed by enzymes. Hence, these enzyme actions are highly essential for the normal functioning of the system. If their normal enzyme activity is inhibited, then the system will be aff ected. Th is principle is usually applied to kill many pathogens.
@@ -133,7 +59,8 @@ We have already learnt that in enzyme catalysed reactions, the substrate molecul
 
 When a drug molecule that has a similar geometry (shape)as the substrate is administered, it can also bind to the enzyme and inhibit its activity.In other words, the drug acts as an inhibitor to the enzyme catalyst. Th ese type of inhibitors are oft en called competitive inhibitors. For example the antibiotic sulphanilamide, which is structurally similar to _p_\-aminobenzoic acid (PABA) inhibits the bacterial growth. Many bacteria need PABA in order to produce an important coenzyme, folic acid. When the antibiotic sulphanilamide is administered, it acts as a competitive inhibitor to the enzyme dihydropteroate synthase (DHPS) in the biosynthetic pathway of converting PABA into folic acid in the bacteria. It leads to the folic acid defi ciency which retards the growth of the bacteria and can eventually kill them.
 
-NH2S
+![Alt text](275-1.png)
+<!-- NH2S
 
 O
 
@@ -181,53 +108,14 @@ p-aminobenzoic acid
 
 XII U15 Chemistry in Action.indd 275 2/19/2020 5:17:01 PM
 
-www.tntextbooks.in
+www.tntextbooks.in -->
 
-
-
-
-
-
-
-|------|------|------|
-
-  
-
-276
 
 **Receptor as drug targets:**
 
 Many drugs exert their physiological effects by binding to a specific molecule called a receptor whose role is to trigger a response in a cell. Most of the receptors are integrated with the cell membranes in such a way that their active site is exposed to outside region of the cell membrane. The chemical messengers, the compounds that carry messages to cells, bind to the active site of these receptors. This brings about the transfer of message into the cell. These receptors show high selectivity for one chemical messenger over the others. If we want to block a message, a drug that binds to the receptor site should inhibit its natural function. Such drugs are called **antagonists**. In contrast, there are drugs which mimic the natural messenger by switching on the receptor. These type of drugs are called agonists and are used when there is lack of chemical messenger.
 
-**Animal cell Cell membrane**
-
-Binding site of receptorOuter surface of cell membrane
-
-Receptor protein
-
-Interior of cell Inner surface
-
-of cell membrane
-
-Small part of the cell membrane
-
-(plasma membrane)
-
-Interior of cell
-
-Outer surface of cell membrane
-
-Binding site
-
-Chemical messenger
-
-Induced t
-
-Cell membrane
-
-Message
-
-Binding site
+![Alt text](276-1.png)
 
 For example, when adenosine binds to the adenosine receptors, it induces sleepiness. On the other hand, the antagonist drug caffeine binds to the adenosine receptor and makes it inactive. This results in the reduced sleepiness (wakefulness).
 
@@ -235,118 +123,40 @@ The agonist drug, morphine, which is used as a pain killer, binds to the opioid 
 
 Most receptors are chiral and hence different enantiomers of a drug can have different effect
 
-XII U15 Chemistry in Action.indd 276 2/19/2020 5:17:06 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Receptorprotein |
-|------|------|
-| all part ofll membrane Intera membrane) |
-| ior o |
-  
-
-277
-
-N
-
-NN
-
-N
-
-H3C
-
-CH3
-
-O
-
-CH3
-
-O
-
-OH
-
-OH
-
-HO
-
-O
-
-N
-
-N
-
-H2N
-
-N N
-
-ADENOSINE
+![Alt text](277-1.png)
 
 **Therapeutic action of Different classes of Drugs:** The developments in the field of biology allowed us to understand various biological
 
 process and their mechanism in detail. This enabled to develop new safer efficient drugs. For example, to treat acidity, we have been using weak bases such as aluminium and magnesium hydroxides. But these can make the stomach alkaline and trigger the production of much acid. Moreover, This treatment only relives the symptoms and does not control the cause. Detailed studies reveal that histamines stimulate the secretion of HCl by activating the receptor in the stomach wall. This findings lead to the design of new drugs such as cimetidine, ranitidine etc.. which binds the receptor and inactivate them. These drugs are structurally similar to histamine.In this section, we shall discuss the therapeutic action of a few important classes of drugs.
 
-**Class of Drugs Mode of action Chemical structure of some important structures**
+![Alt text](277-2.png)
 
-**1) Tranquilizers**
+![Alt text](278-1.png)
 
-They are neurologically active drugs.
+![Alt text](278-2.png)
 
-**i) Major tranquilizers:**
+![Alt text](279-1.png)
 
-Haloperidol, clozapine
+![Alt text](279.2.png)
 
-**ii) Minor tranquilizers:**
+![Alt text](280-1.png)
 
-Diazepam (Valium), alprazolam
+![Alt text](280-2.png)
 
-Acts on the central nervous system by blocking the neurotransmitter dopamine in the brain
+![Alt text](280-3.png)
 
-**Uses** Treatment of stress, anxiety, depression, sleep disorders and severe mental diseases like schizophrenia
+![Alt text](281-1.png)
 
-O
+![Alt text](281-2.png)
 
-N
+![Alt text](281-3.png)
 
-Cl
+![Alt text](282-1.png)
 
-N
-
-Valium N
-
-N N
-
-Cl
-
-N
-
-alprazolam
-
-F
-
-N
-
-O
-
-OH
-
-Cl
-
-Haloperidol
-
-XII U15 Chemistry in Action.indd 277 2/19/2020 5:17:07 PM
-
-www.tntextbooks.in
+![Alt text](282-2.png)
 
 
-
-
-
-
+<!-- 
 | Class of Drugs |Mode of action |Chemical structure of some important structures |
 |------|------|------|
 | 1) Tranquilizersey are neurologically active drugs. i) Major tranquilizers:Haloperidol, clozapineii) Minor tranquilizers:Diazepam (Valium), alprazolam |Acts on the central ner vous system by blocking the neurotransmitter Usdop easmine in the brainTreatment of stress, anxiety, depression, sleep disorders and severe mental diseases like schizophrenia |ON N ClNNNNClValium alprazolamClOHHaloperidolONF |
@@ -839,4 +649,4 @@ Th ese synthetic hormones that suppresses ovulation/ fertilisation.
 
 Used in birth control pills.
 
-Ethynylestradiol
+Ethynylestradiol -->

@@ -3,118 +3,64 @@ title: 'Applications of metals'
 weight: 7
 ---
 
-## Applications of metals 1.7.1 Applications of Al
+# Applications of metals 1.7.1 Applications of Al
 
 
 Aluminium is the most abundant metal and is a good conductor of electricity and heat. It also resists corrosion. The following are some of its applications.
 
-Â Many heat exchangers/sinks and our day to day cooking vessels are made of aluminium.
+&#8227;  Many heat exchangers/sinks and our day to day cooking vessels are made of aluminium.
 
-Â It is used as wraps (aluminium foils) and is used in packing materials for food items,
+&#8227;  It is used as wraps (aluminium foils) and is used in packing materials for food items,
 
-Â Aluminium is not very strong, However , its alloys with copper, manganese, magnesium
-
-and silicon are light weight and strong and they are used in design of aeroplanes and other
-
+&#8227;  Aluminium is not very strong, However , its alloys with copper, manganese, magnesium and silicon are light weight and strong and they are used in design of aeroplanes and other
 forms of transport.
 
-Â As Aluminium shows high resistance to corrosion, it is used in the design of chemical
+&#8227;  As Aluminium shows high resistance to corrosion, it is used in the design of chemical reactors, medical equipments,refrigeration units and gas pipelines.
 
-reactors, medical equipments,refrigeration units and gas pipelines.
+&#8227;  Aluminium is a good electrical conductor and cheap, hence used in electrical overhead electric cables with steel core for strength.
 
-Â Aluminium is a good electrical conductor and cheap, hence used in electrical overhead
-
-electric cables with steel core for strength.
-
-### Applications of Zn
+## Applications of Zn
 
 
-Â Metallic zinc is used in **galvanising** metals such as iron and steel structures to protect them
+&#8227;  Metallic zinc is used in **galvanising** metals such as iron and steel structures to protect them from rusting and corrosion.
 
-from rusting and corrosion.
+&#8227;  Zinc is also used to produce die-castings in the automobile, electrical and hardware
+industries.
 
-Â Zinc is also used to produce die-castings in the automobile, electrical and hardware
-
-industries
-
-Â Zinc oxide is used in the manufacture of many products such as paints, rubber, cosmetics,
-
-XII U1 Metallurgy - Jerald.indd 17 2/19/2020 4:38:03 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-18
-
-pharmaceuticals, plastics, inks, batteries, textiles and electrical equipment. Zinc sulphide
-
+&#8227;  Zinc oxide is used in the manufacture of many products such as paints, rubber, cosmetics, pharmaceuticals, plastics, inks, batteries, textiles and electrical equipment. Zinc sulphide
 is used in making luminous paints, fluorescent lights and x-ray screens.
 
-Â Brass an alloy of zinc is used in water valves and communication equipment as it is highly
+&#8227;  Brass an alloy of zinc is used in water valves and communication equipment as it is highly resistant to corrosion.
 
-resistant to corrosion.
+## Applications of Fe
+&#8227;  Iron is one of the most useful metals and its alloys are used everywhere including bridges,electricity pylons, bicycle chains, cutting tools and rifle barrels.
 
-### Applications of Fe
+&#8227;  Cast iron is used to make pipes, valves and pumps stoves etc...
 
+&#8227;  Magnets can be made from iron and its alloys and compounds.
 
-Â Iron is one of the most useful metals and its alloys are used everywhere including bridges,
+&#8227;  An important alloy of iron is stainless steel, and it is very resistant to corrosion. It is used in architecture, bearings, cutlery, surgical instruments and jewellery. Nickel steel is used for making cables, automobiles and aeroplane parts. Chrome steels are used for maufacturing cutting tools and crushing machines
 
-electricity pylons, bicycle chains, cutting tools and rifle barrels.
-
-Â Cast iron is used to make pipes, valves and pumps stoves etc...
-
-Â Magnets can be made from iron and its alloys and compounds.
-
-Â An important alloy of iron is stainless steel, and it is very resistant to corrosion. It is used in
-
-architecture, bearings, cutlery, surgical instruments and jewellery. Nickel steel is used for
-
-making cables, automobiles and aeroplane parts. Chrome steels are used for maufacturing
-
-cutting tools and crushing machines
-
-### Applications of Cu
+## Applications of Cu
 
 
-Copper is the first metal used by the human and extended use of its alloy bronze resulted in a new era,'Bronze age'
+&#8227; Copper is the first metal used by the human and extended use of its alloy bronze resulted in a new era,'Bronze age'
 
-Copper is used for making coins and ornaments along with gold and other metals.
+&#8227; Copper is used for making coins and ornaments along with gold and other metals.
 
-Copper and its alloys are used for making wires, water pipes and other electrical parts
+&#8227; Copper and its alloys are used for making wires, water pipes and other electrical parts
 
-### Applications of Au
-
-
-Â Gold, one of the expensive and precious metals. It is used for coinage, and has been used as
-
-standard for monetary systems in some countries.
-
-Â It is used extensively in jewellery in its alloy form with copper. It is also used in electroplating
-
-to cover other metals with a thin layer of gold which are used in watches, artificial limb
-
-joints, cheap jewellery, dental fillings and electrical connectors.
-
-Â Gold nanoparticles are also used for increasing the efficiency of solar cells and also used
-
-an catalysts.
-
-XII U1 Metallurgy - Jerald.indd 18 2/19/2020 4:38:03 PM
-
-www.tntextbooks.in
+## Applications of Au
 
 
+&#8227;  Gold, one of the expensive and precious metals. It is used for coinage, and has been used as standard for monetary systems in some countries.
 
+&#8227;  It is used extensively in jewellery in its alloy form with copper. It is also used in electroplating to cover other metals with a thin layer of gold which are used in watches, artificial limb joints, cheap jewellery, dental fillings and electrical connectors.
 
-  
-
-19
+&#8227;  Gold nanoparticles are also used for increasing the efficiency of solar cells and also used an catalysts.
 
 **The Iron Pillar – Delhi:**
+![Iron Pillar](../iron-pillar.png)
 
 The Iron pillar, also known as Ashoka Pillar, is 23 feet 8 inches high, 16 inches wide and weighs over 6000 kg.
 
@@ -124,36 +70,26 @@ A protective film was created through a complicated combination of the presence 
 
 **Summary**
 
-„ Metallurgy relates to the science and technology of metals.
+&#8227; Metallurgy relates to the science and technology of metals.
 
-„ A naturally occurring substance obtained by mining which contains the metal in free state or in the form of compounds like oxides, sulphides etc... is called a **mineral**.
+&#8227; A naturally occurring substance obtained by mining which contains the metal in free state or in the form of compounds like oxides, sulphides etc... is called a **mineral**.
 
-„ minerals that contains a high percentage of metal, from which it can be extracted conveniently and economically are called **ores**.
+ &#8227; minerals that contains a high percentage of metal, from which it can be extracted conveniently and economically are called **ores**.
 
-„ The extraction of a metal of interest from its ore consists of the following metallurgical processes. (i) concentration of the ore (ii) extraction of crude metal (iii) refining of crude metal
+&#8227; The extraction of a metal of interest from its ore consists of the following metallurgical processes. (i) concentration of the ore (ii) extraction of crude metal (iii) refining of crude metal
 
-„ The extraction of crude metals from the concentrated ores is carried out in two steps namely, (i) conversion of the ore into oxides of the metal of interest and (ii) reduction of the metal oxides to elemental metals.
+&#8227; The extraction of crude metals from the concentrated ores is carried out in two steps namely, (i) conversion of the ore into oxides of the metal of interest and (ii) reduction of the metal oxides to elemental metals.
 
-„ The graphical representation of variation of the standard Gibbs free energy of reaction for the formation of various metal oxides with temperature is called Ellingham diagram
+&#8227; The graphical representation of variation of the standard Gibbs free energy of reaction for the formation of various metal oxides with temperature is called Ellingham diagram
 
-„ Ellingham diagram helps us to select a suitable reducing agent and appropriate temperature range for reduction.
-
-XII U1 Metallurgy - Jerald.indd 19 2/19/2020 4:38:04 PM
-
-www.tntextbooks.in
+&#8227; Ellingham diagram helps us to select a suitable reducing agent and appropriate temperature range for reduction.
 
 
+&#8227; Similar to thermodynamic principles, electrochemical principles also find applications in metallurgical process.
 
+&#8227; If E0 is positive then the ΔG is negative and the reduction is spontaneous and hence a redox reaction is planned in such a way that the e.m.f of the net redox reaction is positive. When a more reactive metal is added to the solution containing the relatively less reactive metal ions, the more reactive metal will go into the solution.
 
-  
-
-20
-
-„ Similar to thermodynamic principles, electrochemical principles also find applications in metallurgical process.
-
-„ If E0 is positive then the ΔG is negative and the reduction is spontaneous and hence a redox reaction is planned in such a way that the e.m.f of the net redox reaction is positive. When a more reactive metal is added to the solution containing the relatively less reactive metal ions, the more reactive metal will go into the solution.
-
-„ Generally the metal extracted from its ore contains some impurities such as unreacted oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process.
+&#8227; Generally the metal extracted from its ore contains some impurities such as unreacted oxide ore, other metals, nonmetals etc...Removal of such impurities associated with the isolated crude metal is called refining process.
 
 **EVALUATION**
 
@@ -161,25 +97,19 @@ www.tntextbooks.in
 
 1\. Bauxite has the composition
 
-a) Al O2 3 b) Al O nH O2 3 2. c) Fe O H O2 3 2.2 d)None of these
+a) Al<sub>2</sub> O<sub>3</sub> b) Al<sub>2</sub> O<sub>3</sub>.nH<sub>2</sub>O c) Fe<sub>2</sub>O<sub>3</sub>.2H<sub>2</sub>O d)None of these
 
 2\. Roasting of sulphide ore gives the gas (A).(A) is a colourless gas. Aqueous solution of (A) is acidic. The gas (A) is
 
-a)CO2 b)SO3 c)SO2 d) H S2
+a)CO<sub>2</sub> b)SO<sub>3</sub> c)SO<sub>2</sub> d) H S<sub>2</sub>
 
 3\. Which one of the following reaction represents calcinations?
 
-a)2Zn + O 2ZnO2 → b)2ZnS + 3O 2ZnO + 2SO2
-
-2→
-
-c) MgCO MgO + CO3
-
-2→ d)Both (a) and (c)
+a)2Zn + O<sub>2</sub> &rarr; 2ZnO<sub>2</sub>  b)2ZnS + 3O <sub>2</sub> &rarr; ZnO + 2SO<sub>2</sub> c) MgCO<sub>3</sub> &rarr; MgO + CO<sub>2</sub> d)Both (a) and (c)
 
 4\. The metal oxide which cannot be reduced to metal by carbon is
 
-a) PbO b) Al O2 3 c) ZnO d) FeO
+a) PbO b) Al<sub>2</sub>O<sub>3</sub>  c) ZnO d) FeO
 
 5\. Which of the metal is extracted by Hall-Heroult process?
 
@@ -187,97 +117,22 @@ a) Al b) Ni c) Cu d) Zn
 
 6\. Which of the following statements, about the advantage of roasting of sulphide ore before reduction is not true?
 
-a) ΔGf 0 of sulphide is greater than those for CS2 and H S2 .
+a) ΔG<sub>f</sub> <sup>0</sup> of sulphide is greater than those for CS<sub>2</sub> and H S<sub>2</sub> .
 
-b) Δ Gr 0 is negative for roasting of sulphide ore to oxide
+b) Δ G<sub>r</sub> <sup>0</sup> is negative for roasting of sulphide ore to oxide
 
 c) Roasting of the sulphide to its oxide is thermodynamically feasible.
 
 d) Carbon and hydrogen are suitable reducing agents for metal sulphides.
 
-XII U1 Metallurgy - Jerald.indd 20 2/19/2020 4:38:07 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-21
-
 7\. Match items in column - I with the items of column – II and assign the correct code.
-
-**Column-I Column-II**
-
-A Cyanide process (i) Ultrapure Ge
-
-B Froth floatation process (ii) Dressing of ZnS
-
-C Electrolytic reduction (iii) Extraction of Al
-
-D Zone refining (iv) Extraction of Au
-
-(v) Purification of Ni
-
-A B C D
-
-(a) (i) (ii) (iii) (iv)
-
-(b) (iii) (iv) (v) (i)
-
-(c) (iv) (ii) (iii) (i)
-
-(d) (ii) (iii) (i) (v)
-
-8\. Wolframite ore is separated from tinstone by the process of
-
-a) Smelting b) Calcination
-
-c) Roasting d) Electromagnetic separation
-
-9\. Which one of the following is not feasible
-
-a) Zn(s) + Cu (aq) Cu(s) + Zn (aq)2+ 2+→
-
-b) Cu(s) + Zn (aq) Zn(s) + Cu (aq) 2+ 2+→
-
-c) Cu(s) + 2Ag (aq) 2Ag(s) + Cu (aq) + 2+→
-
-d) Fe(s) + Cu (aq) Cu(s) + Fe (aq)2+ 2+→
-
-10\. Electrochemical process is used to extract
-
-a) Iron b) Lead c) Sodium d) silver
-
-11\. Flux is a substance which is used to convert
-
-a) Mineral into silicate b) Infusible impurities to soluble impurities
-
-c) Soluble impurities to infusible impurities d) All of these
-
-12\. Which one of the following ores is best concentrated by froth – floatation method?
-
-a) Magnetite b) Haematite
-
-c) Galena d) Cassiterite
-
-XII U1 Metallurgy - Jerald.indd 21 2/19/2020 4:38:07 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| Column-I |Column-II |
+| Column-I    |Column-II  |
 |------|------|------|------|
 | A |Cyanide process |(i) |Ultrapure Ge |
-| B |Froth oatation process |(ii) |Dressing of ZnS |
+| B |Froth floatation process |(ii) |Dressing of ZnS |
 | C |Electrolytic reduction |(iii) |Extraction of Al |
-| D |Zone rening |(iv) |Extraction of Au |
-| (v) |Purication of Ni |
+| D |Zone refning |(iv) |Extraction of Au |
+| (v) |Purifcation of Ni |
 
 
 | A |B |C |D |
@@ -288,7 +143,48 @@ www.tntextbooks.in
 | (d) |(ii) |(iii) |(i) |(v) |
   
 
-22
+8\. Wolframite ore is separated from tinstone by the process of
+
+ a) Smelting
+
+ b) Calcination
+
+c) Roasting 
+
+d) Electromagnetic separation
+
+9\. Which one of the following is not feasible
+
+a) Zn(s) + Cu<sup>2+</sup> (aq) &rarr; Cu(s) + Zn<sup>2+</sup> (aq)
+
+b) Cu(s) + Zn <sup>2+</sup>(aq) &rarr; Zn(s) + Cu <sup>2+</sup> (aq) 
+
+c) Cu(s) + 2Ag <sup>2+</sup>(aq) &rarr;  2Ag(s) + Cu<sup>2+</sup> (aq) 
+
+d) Fe(s) + Cu<sup>2+</sup> (aq) &rarr; Cu(s) + Fe<sup>2+</sup>(aq)
+10\. Electrochemical process is used to extract
+
+a) Iron b) Lead c) Sodium d) silver
+
+11\. Flux is a substance which is used to convert
+
+a) Mineral into silicate
+
+b) Infusible impurities to soluble impurities
+
+c) Soluble impurities to infusible impurities 
+
+d) All of these
+
+12\. Which one of the following ores is best concentrated by froth – floatation method?
+
+a) Magnetite 
+
+b) Haematite
+
+c) Galena 
+
+d) Cassiterite
 
 13\. In the extraction of aluminium from alumina by electrolysis, cryolite is added to
 
@@ -298,15 +194,23 @@ c) Decrease the electrical conductivity d) Increase the rate of reduction
 
 14\. Zinc is obtained from ZnO by
 
-a) Carbon reduction b) Reduction using silver
+a) Carbon reduction
 
-c) Electrochemical process d) Acid leaching
+b) Reduction using silver
+
+c) Electrochemical process 
+
+d) Acid leaching
 
 15\. Extraction of gold and silver involves leaching with cyanide ion. silver is later recovered by (NEET-2017)
 
-a) Distillation b) Zone refining
+a) Distillation
 
-c) Displacement with zinc d) liquation
+ b) Zone refining
+
+c) Displacement with zinc
+
+ d) liquation
 
 16\. Considering Ellingham diagram, which of the following metals can be used to reduce alumina? (NEET-2018)
 
@@ -316,15 +220,9 @@ c) Mg d) Zn
 
 17\. The following set of reactions are used in refining Zirconium
 
-Zr (impure) + 2I ZrI ZrI Zr (pure) + 2I
+Zr (impure) + 2I<sub>2</sub> <sup>523k</sup>&rarr; ZrI<sub>4</sub>
 
-2 523 K
-
-4
-
-4 1800K
-
- →  → 2
+ZrI<sub>4</sub> <sup>1800k</sup>&rarr; Zr (pure) + 2I<sub>2</sub>
 
 This method is known as
 
@@ -354,26 +252,13 @@ a) Pure copper b) Impure copper
 
 c) Carbon rod d) Platinum electrode
 
-XII U1 Metallurgy - Jerald.indd 22 2/19/2020 4:38:07 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-23
-
 21\. Which of the following plot gives Ellingham diagram
 
-a) ΔS Vs T b) Δ G Vs T0
+a) ΔS Vs T b) ΔG⁰ Vs T
 
-c) Δ G Vs 1 T
+c) ΔG⁰ Vs 1 / T
 
-0
-
-d) ΔG Vs T0 2
+d) ΔG⁰ Vs T<sup>2</sup>
 
 22\. In the Ellingham diagram, for the formation of carbon monoxide
 
@@ -429,21 +314,19 @@ is negative
 
 23\. Which of the following reduction is not thermodynamically feasible?
 
-a) Cr O + 2Al Al O + 2Cr2 3
+a) Cr<sub>2</sub>O<sub>3</sub> + 2Al &rarr; Al<sub>2</sub>O<sub>3</sub> + 2Cr
 
-2 3→ b) Al O + 2Cr Cr O + 2Al2 3
+b) Al<sub>2</sub>O<sub>3</sub> + 2Cr &rarr;  Cr<sub>2</sub>O<sub>3</sub> + 2Al
 
-2 3→
+c) 3TiO<sub>2</sub> + 4Al &rarr; 2 Al<sub>2</sub>O<sub>3</sub>+ 3Ti
 
-c) 3TiO + 4Al 2 Al O + 3Ti2
-
-2 3→ d) none of these
+d) none of these
 
 24\. Which of the following is not true with respect to Ellingham diagram?
 
 a) Free energy changes follow a straight line. Deviation occurs when there is a phase change.
 
-b) The graph for the formation of CO2 is a straight line almost parallel to free energy axis.
+b) The graph for the formation of CO<sub>2</sub> is a straight line almost parallel to free energy axis.
 
 c) Negative slope of CO shows that it becomes more stable with increase in temperature.
 
@@ -455,24 +338,13 @@ d) Positive slope of metal oxides shows that their stabilities decrease with inc
 
 2\. What are the various steps involved in extraction of pure metals from their ores?
 
-3\. What is the role of Limestone in the extraction of Iron from its oxide Fe O2 3 ?
+3\. What is the role of Limestone in the extraction of Iron from its oxide Fe<sub>2</sub>O<sub>3</sub>  ?
 
 4\. Which type of ores can be concentrated by froth floatation method? Give two examples for such ores.
 
 5\. Describe a method for refining nickel.
 
 6\. Explain zone refining process with an example.
-
-XII U1 Metallurgy - Jerald.indd 23 2/19/2020 4:38:10 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-24
 
 7\. Using the Ellingham diagram,
 
@@ -482,7 +354,7 @@ www.tntextbooks.in
 
 (ii) Magnesium could reduce alumina.
 
-(B) it is possible to reduce Fe O2 3 by coke at a temperature around 1200K
+(B) it is possible to reduce Fe<sub>2</sub>O<sub>3</sub> by coke at a temperature around 1200K
 
 8\. Give the uses of zinc.
 
@@ -490,7 +362,7 @@ www.tntextbooks.in
 
 10\. Explain the following terms with suitable examples.
 
-(i) Gangue (ii) slag
+ (i) Gangue (ii) slag
 
 11\. Give the basic requirement for vapour phase refining.
 
@@ -512,77 +384,19 @@ www.tntextbooks.in
 
 16\. Write a short note on electrochemical principles of metallurgy.
 
-XII U1 Metallurgy - Jerald.indd 24 2/19/2020 4:38:10 PM
+![Flow chart](../metallergy.png)
 
-www.tntextbooks.in
+{{<mermaid align="left">}}
+graph TB;
+    A[Metallurgy] -->B[Minerals]
+    B --> C[Concentration of Ores]
+    C --> D[Gravity seperation]
+    C --> E[Froth Flotation]
+    C --> F[Magnetic Seperation]
+    C --> G[ Leaching ]
+    C --> M[Extraction ofcrude metal]
+    G --> H[Cyanide]
+     G --> I[Acid]
+      G --> J[Alkali]
 
-
-
-
-  
-
-25
-
-Metallurgy
-
-minerals
-
-ores
-
-concentration of ores
-
-gravity separation
-
-froth floatation
-
-magnetic separation
-
-leaching
-
-cyanide
-
-acid
-
-alkaliextraction of crude metal
-
-conversion of ore into oxides Roasting
-
-calcination
-
-reduction of metal oxides
-
-smelting
-
-reduction by C or H or metal
-
-Auto reduction
-
-Refining process
-
-Distillation
-
-Liquation
-
-zone refining
-
-vapour phase method
-
-Pure metal Applications of Al ,Cu ,Zn , Fe and Au
-
-principles of metalurgy
-
-thermodynamic principles
-
-DG = DH–TDS
-
-Electrochemical principles DG = –nFE0
-
-Ellingham diagram
-
-XII U1 Metallurgy - Jerald.indd 25 2/19/2020 4:38:10 PM
-
-www.tntextbooks.in
-
-
-
-
+{{< /mermaid >}}

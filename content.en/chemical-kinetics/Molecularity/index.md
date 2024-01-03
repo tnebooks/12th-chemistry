@@ -5,189 +5,88 @@ weight: 3
 
 
 ## Molecularity:
- Kinetic studies involve not only
+ Kinetic studies involve not only measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
 
-measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
-
-An elementary step is characterized by its molecularity. The total number of reactant species that are involved in an elementary step is called molecularity of that particular step. Let us recall the hydrolysis of t-butyl bromide studied in XI standard. Since the rate determining elementary step involves only t-butyl bromide, the reaction is called a Unimolecular Nucleophilic substitution (S )
-
-N
-
-1 reaction.
+An elementary step is characterized by its molecularity. The total number of reactant species that are involved in an elementary step is called molecularity of that particular step. Let us recall the hydrolysis of t-butyl bromide studied in XI standard. Since the rate determining elementary step involves only t-butyl bromide, the reaction is called a Unimolecular Nucleophilic substitution (S)<sup>
+1 </sup><sub>
+N </sub> reaction.
 
 Let us understand the elementary reactions by considering another reaction, the decomposition of hydrogen peroxide catalysed by I− .
 
-2 2H O (aq) H O O (g)2 2
+2 H<sub>2</sub> O<sub>2</sub> (aq)→ H<sub>2</sub> O<sub>2</sub>(g) 
 
-2 2 → +( )_l_
 
 It is experimentally found that the reaction is first order with respect to both
 
-H O and I 2 2
+H<sub>2</sub> O<sub>2</sub> and I, which indicates that I− is also involved in the reaction. The mechanism involves the following steps.
 
-−,which indicates that I− is also involved in the reaction. The mechanism involves the following steps.
+**Step:1** H<sub>2</sub>O<sub>2</sub>(aq) + I<sup>-</sup> (aq)→ H<sub>2</sub>O(l) +OI<sup>-</sup>(aq)
 
-**Step:1** H O (aq) + I (aq) H O OI (aq)
+**Step : 2** H<sub>2</sub>O<sub>2</sub> (aq) + OI<sup>-</sup> (aq)→ H<sub>2</sub> O(l)+ I<sup>-</sup> (aq) + O<sub>2</sub>(g)
 
-2 2
-
-2
-
-− − → +( )_l_
-
-**Step : 2** H O (aq) + OI (aq) H O I (aq) + O (g)
-
-2 2 2 2
-
-− −→ +( )_l_
 
 Overall reaction is
 
-2 2H O (aq) H O O (g)2 2
+2H<sub>2</sub> O<sub>2</sub>(aq)→ 2H<sub>2</sub>O(l)+ O<sub>2</sub>(g) 
 
-2 2 → +( )_l_
 
-These two reactions are elementary reactions. Adding equ (1) and (2) gives the overall reaction. Step 1 is the rate determining step, since it involves both H O and I
-
-2 2
-
-−, the overall reaction is bimolecular.
+These two reactions are elementary reactions. Adding equ (1) and (2) gives the overall reaction. Step 1 is the rate determining step, since it involves both H<sub>2</sub> O<sub>2</sub> and I<sup>-</sup>
+, the overall reaction is bimolecular.
 
 **Differences between order and molecularity:**
 
-s.n o
-
-Order of a reaction
-
-Molecularity of a reaction
-
-1 It is the sum of the powers of concentration terms involved in the experimentally determined rate law.
-
-It is the total number of reactant species that are involved in an elementary step.
-
-2 It can be zero (or) fractional (or) integer
-
-It is always a whole number, cannot be zero or a fractional number.
-
-3 It is assigned for a overall reaction.
-
-It is assigned for each elementary step of mechanism.
-
-XII U7 kinetics - Jerald Folder.indd 210 2/19/2020 4:43:48 PM
-
-www.tntextbooks.in
 
 
-
-
-
-
-| os.n |R ate of a reaction |R ate constant of a reaction |
+<!-- | s.no |R ate of a reaction |R ate constant of a reaction |
 |------|------|------|
 | 2 |It is measured as decrease in the concentration of the reactants or increase in the concentration of products. |It is equal to the rate of reaction, when the concentration of each of the reactants is unity |
-| 3 |It depends on the initial concentration of reactants. |It does not depend on the initial concentration of reactants. |
+| 3 |It depends on the initial concentration of reactants. |It does not depend on the initial concentration of reactants. | -->
 
 
-| os.n |Order of a reaction |Molecularity of a reaction |
+| s.no |Order of a reaction |Molecularity of a reaction |
 |------|------|------|
 | 1 |It is the sum ofthe powers ofconcentrationterms involved inthe experimentallydetermined ratelaw. |It is the total number of reactant species that are involved in an elementar y step. |
 | 2 |It can be zero (or) fractional (or) integer |It is always a whole number, cannot be zero or a fractional number. |
 | 3 |It is assigned for a overall reaction. |It is assigned for each elementar y step of mechanism. |
   
 
-211
-
 **Example 1**
 
-Consider the oxidation of nitric oxide to form NO
+Consider the oxidation of nitric oxide to form NO<sub>2</sub>
 
-2
+2NO(g) + O<sub>2</sub>(g)→ 2NO<sub>2</sub>(g)
 
-2NO(g) + O (g) 2NO (g) 2
+(a). Express the rate of the reaction in terms of changes in the concentration of NO,O<sub>2</sub> and NO<sub>2</sub>
 
-2  →
+(b). At a particular instant, when \[O<sub>2</sub> \] is
 
-(a). Express the rate of the reaction in terms of changes in the concentration of NO,O and NO
+decreasing at 0.2 mol L<sup>-1</sup> s<sup>-1</sup> at what rate is
 
-2 2 .
-
-(b). At a particular instant, when \[O \] 2 is
-
-decreasing at 0 2 1 1
-
-. mol L s − − at what rate is
-
-\[NO \] 2 increasing at that instant?
+\[NO<sub>2</sub> \]increasing at that instant?
 
 **Solution:**
 
-a) Rate - d\[NO\]
+a) Rate= - 1d\[NO\]/2
+dt = \- d\[O<sub>2</sub> \]/dt= 1d\[NO<sub>2</sub> \]/2dt
 
-dt
+b) -d\[O<sub>2</sub> \]/dt= 1 d\[NO<sub>2</sub> \]/2dt=d\[NO<sub>2</sub> \]/dt=
 
-\- d\[O \]
+2x{-d\[O<sub>2</sub> \]/
+dt} =2x 0.2mol L<sup>-1</sup>s<sup>-1</sup> = 
 
-dt
-
-d\[NO \]
-
-dt
-
-2 2= = =1
-
-2
-
-1
-
-2
-
-b) -d\[O \] dt
-
-d\[NO \] dt
-
-2 2= 1 2
-
-d\[NO \] dt
-
-x -d\[O \]
-
-dt x mol L s2 2= 
-
-  
-
-\= − −2 2 0 2 1 1.
-
-\= − − 0 4
-
-1 1 . mol L s
+0.4 mol L<sup>-1</sup>s<sup>-1</sup>
 
 **Evaluate yourself 1**
 
 1). Write the rate expression for the following reactions, assuming them as elementary reactions.
 
-i) 3A + 5B 4CD 2
+i) 3A + 5B<sub>2</sub> →4CD 
 
- →
+ii) X<sub>2</sub> + Y<sub>2</sub>→ 2XY
 
-ii) X + Y 2XY 2 2
 
- →
-
-2). Consider the decomposition of N O (g) 2 5
-
-to form NO (g) 2 and O (g)
-
-2 . At a particular instant N O
-
-2 5 disappears at a rate of 2 5 10
-
-2 3 1 . x mol dm s
-
-\- - -
-
-. At what rates are NO
-
-2 and O 2 formed? What is the
+2). Consider the decomposition of N<sub>2</sub>O<sub>5</sub>(g) to form NO (g) 2 and O (g). At a particular instant N<sub>2</sub>O<sub>5</sub>disappears at a rate of 2.5 x 10<sup>-2</sup>mol dm<sup>-3</sup> s<sup>-1</sup>. At what rates are NO<sub>2</sub>
+and O<sub>2</sub> formed? What is the
 
 rate of the reaction?
 
@@ -195,161 +94,51 @@ rate of the reaction?
 
 1\. What is the order with respect to each of the reactant and overall order of the following reactions?
 
-(a). 5 6 3 3 2
-
-Br BrO H Br 3H O
-
-2
-
-− − ++ +  → +( ) ( ) ( ) ( ) ( )_aq aq aq l l_
-
-5 6 3 3 2
-
-Br BrO H Br 3H O
-
-2
-
-− − ++ +  → +( ) ( ) ( ) ( ) ( )_aq aq aq l l_
+(a).5Br<sup>-</sup>(aq)+ BrO<sub>3</sub>(aq)+ 6H<sup>+</sup>(aq) → 3Br<sub>2</sub>(l)+3H<sub>2</sub>O(l)
 
 The experimental rate law is
 
-Rate = k Br BrO H\[ \]\[ \]\[ \] − − +
+Rate = k \[Br<sup>-</sup> \]\[ BrO<sub>3</sub> \]\[ HBr<sup>+</sup>\]<sup>2</sup>
 
-3
+(b).the experimental rate law is
 
-2
-
-(b). CH CHO CH CO 3
-
-( ) ( ) ( )_g g g_∆ → + 4
-
-the experimental rate law is
-
-Rate = k CH CHO 3
-
-\[ \]
-
-3
-
-2
+Rate = k\[ CH <sub>3</sub>CHO\]<sup>3/2</sup>
 
 **Solution:**
 
 a) First order with respect to Br −, first
 
-order with respect to BrO 3
-
-−
-
-and second order with respect to H+ . Hence the overall order of the reaction is equal to 1 + 1 + 2 = 4
+order with respect to BrO<sub>3</sub>
+and second order with respect to H<sup>+</sup> . Hence the overall order of the reaction is equal to 1 + 1 + 2 = 4
 
 b) Order of the reaction with respect to acetaldehyde is
-
-3
-
-2 and overall order is
-
-also 3
-
-2
+3/2 and overall order is
+also 3/2
 
 **Example 3**
 
-2\. The rate of the reaction x + 2y product→ is 4 10
+2\. The rate of the reaction x + 2y product→ is 4 x10<sup>-3</sup> mol L<sup>-1</sup> s<sup>-1</sup>
+, if \[x\]=\[y\]=0.2 M and rate constant at 400K is 2 x 10<sup>-2</sup>s<sup>-1</sup>, What is the overall order of the reaction.
 
-3 1 1 x mol L s
+**Solution :** Rate = k \[x\]<sup>n</sup> \[y\]<sup>m</sup>
+4 x10<sup>-3</sup> mol L<sup>-1</sup>s<sup>-1</sup>=2 x10<sup>-2</sup>s<sup>-1</sup>(0.2 mol L<sup>-1</sup>)<sup>n</sup>(0.2 mol L<sup>-1</sup>) <sup>m</sup>
+4 x10<sup>-3</sup> mol L<sup>-1</sup>s<sup>-1</sup>/
+2 x10 <sup>-2</sup>s<sup>-1</sup>
+=(0.2) mol L<sup>n+m</sup> (mol L<sup>-1</sup>)<sup>n+m</sup>
+0.2 ( mol L<sup>-1</sup>)= (0.2)<sup>n+m</sup>(mol L <sup>-1</sup>)<sup>n+m</sup>
 
-− − −
-
-, if \[x\]=\[y\]=0.2 M and rate constant at 400K is 2 10
-
-2 1 x s
-
-\- - , What is the overall order of the reaction.
-
-**Solution :** Rate = k \[x\] \[y\]
-
-n m
-
-4 10 2 10 0 2 0 2 1 1 2 1 1 1
-
-x mol L s x s mol L mol L -3 - - - - - n - m= ( . ) ( . )
-
-4 10
-
-2 10 0 2
-
-3 1 1
-
-2 1
-
-1 x mol L s
-
-x s mol L
-
-n + m n + m
-
-− − −
-
-− − −= ( )( . )
-
-0 2 0 2 1 1
-
-. ( . )mol L mol L - n + m -
-
-n + m( ) = ( ) Comparing the powers on both sides
+Comparing the powers on both sides
 
 The overall order of the reaction n + m = 1
 
 **Evaluate yourself 2**
 
-1). For a reaction, X + Y product  → ;
-
+1). For a reaction, X + Y product  →product;
 quadrupling \[x\] , increases the rate by a factor of 8. Quadrupling both \[x\] and \[y\],
-
-XII U7 kinetics - Jerald Folder.indd 211 2/19/2020 4:44:10 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-212
 
 increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order of the reaction?
 
 2). Find the individual and overall order of the following reaction using the given data.
 
-2NO(g) + Cl (g) 2NOCl(g) 2
-
- →
-
-Ex pe
-
-rim en
-
-t nu
-
-m be
-
-r
-
-Initial concentration
-
-Initial rate
-
-NO Cl2 NOCl mol L s - -1 1
-
-1 0.1 0.1 7 8 10 5
-
-. x −
-
-2 0.2 0.1 3 12 10 4
-
-. x −
-
-3 0.2 0.3 9 36 10 4
-
-. x −
+2NO(g) + Cl<sub>2</sup> (g)--->2NOCl(g)
+![image](table.png)
