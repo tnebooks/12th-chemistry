@@ -16,16 +16,7 @@ and vice versa. It consists of two separate electrodes which are in contact with
 
 2\. **Electrolytic cell** : It is a device in which an electric current from an external source drives a nonspontaneous reaction i.e., it converts electrical energy into chemical energy.
 
-XII U9 Electro Chemistry.indd 43 2/19/2020 5:12:52 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-44
 
 ### Galvanic cell
 
@@ -60,127 +51,26 @@ The zinc and copper strips are externally connected using a wire through a switc
 
 When the switch (k) closes the circuit, the electrons flows from zinc strip to copper strip. This is due to the following redox reactions which are taking place at the respective electrodes.
 
-XII U9 Electro Chemistry.indd 44 2/19/2020 5:13:00 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-45
-
-Digital voltmeter
-
-1.10
-
-Salt bridge
-
-Na2SO4(aq)
-
-2(Na+)
-
-Zn(s) Zn2+(aq) + 2e− Cu2+(aq) + 2e− Cu(s)
-
-2e- 2e-
-
-Zn
-
-(Zn2++SO4 2-)
-
-(Cu2++SO4 2-)
-
-SO4 2-
-
-Zinc (anode)
-
-− +
-
-Cu
-
-SO4 2-
-
-Zn2+
-
-e-
-
-Copper (cathode)
-
-CuSO4(aq)
-
-e-
-
-Cu2 Cu2
-
-Cu
-
-2e
-
-Zn2
-
-Zn2
-
-Zn
-
-2e
-
-Cu2+
-
-ZnSO4 (aq)
+![Alt text](<Figure 9.5.png>)
 
 **Figure 9.5 : Daniel cell**
 
-**Anodic oxidation** The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation
+**Anodic oxidation**
 
-take place at zinc electrode, i.e., zinc is oxidised to Zn2+ ions by loosing its electrons. The Zn2+
+ The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to Zn2+ ions by loosing its electrons. The Zn2+ ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative ( - ve).
 
-ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative ( - ve).
+Zn(s) Zn (aq) + 2e (loss of electron-oxidation)
 
-Zn(s) Zn (aq) + 2e (los2+ -→ s of electron-oxidation)
+**Cathodic reduction** 
 
-**Cathodic reduction** As discussed earlier, the electrons flow through the circuit from zinc to copper, where
+As discussed earlier, the electrons flow through the circuit from zinc to copper, where the Cu 2+ ions in the solution accept the electrons, get reduced to copper and the same get deposited on the electrode. Here, the electrons are consumed and hence it is positive (+ve).
 
-the Cu 2+ ions in the solution accept the electrons, get reduced to copper and the same get
+Cu (aq) + 2e Cu (s) (gain of electron-reduction)
 
-deposited on the electrode. Here, the electrons are consumed and hence it is positive (+ve).
-
-Cu (aq) + 2e Cu (s) (gain of elect2+ - → ron-reduction)
-
-XII U9 Electro Chemistry.indd 45 2/19/2020 5:13:05 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| e |e |
-|------|------|------|------|------|
-| 1.10 |
-| −+ |
-
-
-
-| 2(Na )SO +-4 Na SO (aq)2 4+ |2e |(cat-Cu + |
-|------|------|------|------|------|------|------|
-| 2e- |
-| Zn |Cu |
-
-  
-
-46
 
 **Salt bridge**
 
-The electrolytes present in two half cells are connected using a salt bridge. We have learnt that the anodic oxidation of zinc electrodes results in the increase in concentration of Zn2+
-
-in solution. i.e., the solution contains more number of Zn2+ ions as compared to SO4 2- and
-
-hence the solution in the anodic compartment would become positively charged. Similarly, the solution in the cathodic compartment would become negatively charged as the Cu2+ ions are reduced to copper i.e., the cathodic solution contain more number of SO4
-
-2- ions compared to Cu2+ .
+The electrolytes present in two half cells are connected using a salt bridge. We have learnt that the anodic oxidation of zinc electrodes results in the increase in concentration of Zn2+ in solution. i.e., the solution contains more number of Zn2+ ions as compared to SO4 2- and hence the solution in the anodic compartment would become positively charged. Similarly, the solution in the cathodic compartment would become negatively charged as the Cu2+ ions are reduced to copper i.e., the cathodic solution contain more number of SO42- ions compared to Cu2+ .
 
 To maintain the electrical neutrality in both the compartments, the non reactive anions Cl- (from KCl taken in the salt bridge) move from the salt bridge and enter into the anodic compartment, at the same time some of the K+ ions move from the salt bridge into the cathodic compartment.
 
@@ -209,28 +99,8 @@ The anode and cathode are written on the extreme left and extreme right, respect
 
 The emf of the cell is written on the right side after cell diagram.
 
-XII U9 Electro Chemistry.indd 46 2/19/2020 5:13:12 PM
+![Alt text](<cell diagram.png>)
 
-www.tntextbooks.in
-
-
-
-
-  
-
-47
-
-Phase boundary Phase boundary
-
-2+ 2+Zn (s) Zn (aq) Cu (aq) Cu (s) = 1.1V
-
-Anode Cathode Standard emf of the cell (extreme Le) (extreme right)
-
-Anode half cell
-
-Le Salt bridge
-
-Right Cathode Half cell
 
 **Example**
 
@@ -246,7 +116,7 @@ Cathodic reduction : 3Cu (aq) + 6e Cu (s)2+ - → 3 .....(2)
 
 Cell Notation is
 
-3+ 2+Cr (s) Cr (aq) Cu (aq) Cu(s)
+Cr (s) Cr3+ (aq) Cu2+ (aq)|Cu(s)
 
 ### _emf_ of a Cell
 
@@ -259,209 +129,78 @@ i.e., 1J = 1C 1V× .....(9.18)
 
 The cell voltage depends on the nature of the electrodes, the concentration of the electrolytes and the temperature at which the cell is operated. For example
 
-At, 25C , The emf of the below mentioned Daniel cell is 1.107 Volts
+At, 25oC , The emf of the below mentioned Daniel cell is 1.107 Volts
 
-Zn (s) Zn (aq,1M) Cu (aq,1M) Cu s 2+ 2+ ( ) E = 1.107 V
+Zn (s)| Zn2+ (aq,1M)|| Cu2+ (aq,1M)|Cu (s) 
 
-0
-
-XII U9 Electro Chemistry.indd 47 2/19/2020 5:13:19 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-48
+Eo = 1.107 V
 
 ### Measurement of electrode potential
  The overall redox reaction can be considered as the sum
 
 of two half reactions i.e., oxidation and reduction. Similarly, the emf of a cell can be considered as the sum of the electrode potentials at the cathode and anode,
 
-E = E + Ecell ox anode red cathode( ) ( ) .....(9.19) Here, E ox anode( ) represents the oxidation potential at
-
-anode and Ered cathode( ) represents the reduction potential at cathode. It is impossible to measure the emf of a single electrode, but we can measure the potential difference between the two electrodes Ecell( )using a voltmeter. If we know the emf of any one of the electrodes which constitute the cell, we can calculate the emf of the other electrode from the measured emf of the cell using the expression (9.19). Hence, we need a reference electrode whose emf is known
-
+E = E + Ecell ox anode red cathode( ) ( ) .....(9.19) Here, E ox anode( ) represents the oxidation potential at anode and Ered cathode( ) represents the reduction potential at cathode. It is impossible to measure the emf of a single electrode, but we can measure the potential difference between the two electrodes Ecell( )using a voltmeter. If we know the emf of any one of the electrodes which constitute the cell, we can calculate the emf of the other electrode from the measured emf of the cell using the expression (9.19). Hence, we need a reference electrode whose emf is known
 For that purpose, Standard Hydrogen Electrode (**SHE**) is used as the reference electrode. It has been assigned an arbitrary emf of exactly zero volt. It consists of a platinum electrode in contact with 1M HCl solution and 1 atm hydrogen gas. The hydrogen gas is bubbled through the solution at 25C as shown in the figure 9.6. SHE can act as a cathode as well as an anode. The Half cell reactions are given below.
+If SHE is used as a cathode, the reduction reaction is 2H (aq,1M)+2e H (g, 1 atm) E = 0 volt + -2 o→
+If SHE is used as an anode, the oxidation reaction is H (g,1 atm) 2H (aq, 1M) + 2e E volt2\+ - Eo→ = 0 volt
+![Alt text](<9.6 standard.png>)
 
-If SHE is used as a cathode, the reduction reaction is 2H (aq,1M)+2e H (g, 1 atm) E = 0 volt + -
-
-2 o→
-
-If SHE is used as an anode, the oxidation reaction is H (g,1 atm) 2H (aq, 1M) + 2e E volt2
-
-\+ - o→ = 0 **Illustration**
+**(SHE) Figure 9.6 Standard Hydrogen electrode**
+**Illustration**
 
 Let us calculate the reduction potential of zinc electrode dipped in zinc sulphate solution using SHE.
 
 **Step : 1 The following galvanic cell is constructed using SHE**
 
-Zn (s) Zn (aq, 1M) H (aq, 1M) H (g, 1atm) Pt (s)2+ + 2
+Zn (s)| Zn2+(aq, 1M)|| H+ (aq, 1M)| H2 (g, 1atm) Pt (s)
 
 **Step : 2 The emf of the above galvanic cell is measured using a volt meter. In this case, the** measured emf of the above galvanic cell is 0.76V.
 
 **Calculation We know that,**
 
-E = E + E cell ox Zn Zn red SHE
+Eocell = (Eo ox)Zn|Zn2+ + (Eo red)SHE
 
-o o
+Eocell=0.76 and (Eo red)SHE =0V
+. Substitute these values in the above equation
+**Figure 9.7 _emf_ measurement (Zn | Zn2+ electrode)**
+![Alt text](<9.7 emf .png>)
 
-2+
+=>0.76V = (Eo ox)zn|Zn2+ 0V
 
-o( ) ( ) From equation (9.19)\[ \] E = 0.76 and (E = 0Vcell red SHE
+=>(Eo ox)zn|Zn2+ =0.76V
 
-o o
-
-) . Substitute these values in the above equation
-
-H2 out H2 in
-
-H2gas
-
-Pt electrode
-
-**(SHE) Figure 9.6 Standard Hydrogen electrode**
-
-XII U9 Electro Chemistry.indd 48 2/19/2020 5:13:28 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-49
-
-Standard hydrogen electrode (cathode)
-
-H2(_g_) (1 atm)
-
-H+ (1 M)
-
-H2
-
-2H+ (_aq_) + 2e- H2(_g_)
-
-Digital voltmeter
-
-0.76
-
-Salt bridge
-
-Na2SO4(aq)
-
-2(Na+)
-
-2e-
-
-Zn ZnSO4(aq)
-
-SO4 2-
-
-Zinc (anode)
-
-− +
-
-SO4 2- Zn2+
-
-e-e-
-
-e–
-
-⇒
-
-⇒ =
-
-0.76V = (E + 0V
-
-(E V
-
-ox zn Zn
-
-ox zn Zn
-
-o
-
-2+
-
-o
-
-2+
-
-)
-
-) .0 76
 
 This oxidation potential corresponds to the below mentioned half cell reaction which takes place at the cathode.
 
-Zn Zn + 2e2+ -→ (Oxidation) The emf for the reverse reaction will give the reduction potential Zn +2e Zn ; E = - 0.76V2+ - o
+Zn -->Zn2 + 2e-(Oxidation) 
 
-→ ∴ = (E -0.76V.red Zn Zn
+The emf for the reverse reaction will give the reduction potential 
+Zn2+ +2e--->Zn ; Eo= - 0.76V
 
-o
+→ ∴ = (E -0.76V.red Zn Zn)
 
-2+
+**IUPAC definition**
 
- )
+**Electrode potential (E)**
 
-**IUPAC definition Electrode potential (E)**
-
-Electromotive force of a cell in which the electrode on the left is a standard hydrogen electrode and the electrode on the right is the electrode in question. **Standard electrode potential,** E
-
-
-
+Electromotive force of a cell in which the electrode on the left is a standard hydrogen electrode and the electrode on the right is the electrode in question. 
+**Standard electrode potential,** E
 The value of the standard emf of a cell in which molecular hydrogen under standard pressure is oxidised to solvated protons at the left hand electrode.
 
-**Evaluate yourself** 1\. The emf of the following cell at 25C is equal to 0.34v. Calculate the reduction potential
+**Evaluate yourself** 
+1. The emf of the following cell at 25C is equal to 0.34v. Calculate the reduction potential
+of copper electrode. 
 
-of copper electrode. Pt (s) H (g, 1atm) H (aq, 1M) Cu aq, M) Cu (s)
+    Pt (s) |H2 (g, 1atm) |H (aq, 1M)|| Cu2+ (aq, 1M)| Cu (s)
 
-2
+2. Using the calculated emf value of zinc and copper electrode, calculate the emf of the following cell at 25oC .
 
-\+ 2+ ( 1
+Zn (s) |Zn2+ (aq, 1M)|| Cu2+ (aq, 1M) Cu (s)
 
-2\. Using the calculated emf value of zinc and copper electrode, calculate the emf of the following cell at 25C .
-
-Zn (s) Zn (aq, 1M) Cu (aq, 1M) Cu (s)2+ 2+
-
-**Figure 9.7 _emf_ measurement (Zn | Zn2+ electrode)**
-
-XII U9 Electro Chemistry.indd 49 2/19/2020 5:13:38 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
-| ital voltmeter |
-|------|------|------|------|------|------|
-
-| 0.76 |
-
-
-
-
-| -Zn+ |2(Na )SO4 Na SO (aq)2 4 |
-|------|------|------|------|------|------|------|------|
-
-| e |
-
-| HH+2 |
-
-
-
-  
-
-50
 
 **Evaluate yourself**
 
 Write the overall redox reaction which takes place in the galvanic cell,
 
-Pt(s) Fe (aq),Fe (aq) MnO (aq), H (aq),Mn (aq) Pt(s)2+ 3+ 4 - + 2+
+Pt(s)| Fe2+ (aq) ,Fe3+ (aq) ||MnO4 (aq), H+ (aq),Mn2+ (aq)|Pt(s)
