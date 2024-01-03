@@ -7,90 +7,60 @@ weight: 4
 
 ## Thermodynamics of cell reactions
  We have just learnt that in a galvanic cell, the chemical energy is converted into electrical
+ energy. The electrical energy produced by the cell is equal to the product of the total charge of electrons and the emf of the cell which drives these electrons between the electrodes.
 
-energy. The electrical energy produced by the cell is equal to the product of the total charge of electrons and the emf of the cell which drives these electrons between the electrodes.
+ If ‘n’ is the number of moles of electrons exchanged between the oxidising and reducing agent in the overall cell reaction, then the electrical energy produced by the cell is given as below.
 
-If ‘n’ is the number of moles of electrons exchanged between the oxidising and reducing agent in the overall cell reaction, then the electrical energy produced by the cell is given as below.
+ Electrical energy = Charge of ’n’ mole of electrons  Ecel× l ......(9.20) Charge of 1 mole of electrons = one Faraday (1F)
 
-Electrical energy = Charge of ’n’ mole of electrons Ecel× l ......(9.20) Charge of 1 mole of electrons = one Faraday (1F)
+Charge of ’n’ mole ∴ of electrons = nF Equation                           .......(9.20) 
+Electrical energy = nF⇒ E cell     ......(9.21)
 
-Charge of ’n’ mole ∴ of electrons = nF Equation (9.20) Electrical energy = nF⇒ E cell ......( . )9 21
+      Charge of one elctron = 1.602 × 10^-19
 
-Charge of one elctron = 1.602 10 C
 
-Charge
-
-\-19×
-
-∴ one mole of elctron = 10 1.602 10 C
-
-236 023 19
-
-. × × × −
-
-\= 96488 C i.e., 1F 96500 C
+∴charge one mole of elctron = 6.023×10^23×1.602×10^-49C
+                           
+                            =96488C
+                         i.e., 1F 96500 C
 
 This energy is used to do the electric work. Therefore the maximum work that can be obtained from a galvanic cell is
 
-(W = - nFE max cell cell) .....(9.22) Here the (-) sign is introduced to indicate that the work is done by the system on the
+(Wmax)cell=-nFEcell              .....(9.22)
 
-surroundings.
+ Here the (-) sign is introduced to indicate that the work is done by the system on the surroundings.
 
 We know from the Second Law of thermodynamics that the maximum work done by the system is equal to the change in the Gibbs free energy of the system.
 
-maxi.e., W = G ∆ .....(9.23) From (9.22) and (9.23),
+i.e., Wmax = ∆G .....(9.23) From (9.22) and (9.23),
 
-DG = - nFE cell .....(9.24) For a spontaneous cell reaction, the DG should be negative. The above expression (9.24)
+      ∆G = - nFE cell                  .....(9.24)
 
-indicates that Ecell should be positive to get a negative DG value.
-
+For a spontaneous cell reaction, the DG should be negative. The above expression (9.24)indicates that Ecell should be positive to get a negative DG value.
 When all the cell components are in their standard state, the equation (9.24) becomes
 
-DG = - nFE o cell o .....(9.25)
+∆Go=- nFEo cell                  ........(9.25)
 
 We know that the standard free energy change is related to the equilibrium constant as per the following expression.
 
-XII U9 Electro Chemistry.indd 50 2/19/2020 5:13:44 PM
+∆Go= -RT lnKeq                     .....(9.26)
 
-www.tntextbooks.in
+Comparing (9.25) and (9.26), nFEocell= RT lnK eq
 
-
-
-
-  
-
-51
-
-DG = - RT lnK o eq .....(9.26)
-
-Comparing (9.25) and (9.26), nFE = RT lnKcell eq
-
-
-
-⇒ E = 2.303 RT nF
-
-log K cell eq  .....(9.27)
+⇒ Eocell = 2.303 RT/ nF log K eq  .....(9.27)
 
 ### Nernst equation
- Nernst equation is the one which relates the cell potential and the concentration of the
+ Nernst equation is the one which relates the cell potential and the concentration of the species involved in an electrochemical reaction. Let us consider an electrochemical cell for which the overall redox reaction is,
 
-species involved in an electrochemical reaction. Let us consider an electrochemical cell for which the overall redox reaction is,
-
-_x y l_A B C mD+ +
+xA  + yB = lC+mD
 
 The reaction quotient Q for the above reaction is given below
 
-Q = \[C\] \[D\] \[A\] \[B\]
-
-m
-
-x y
-
-_l_
+Q = [C]l [D]m/[A]x [B]y
 
 .....(9.28) We have already learnt that,
 
-D DG = G + RT lnQ  .....(9.29)
+∆G = ∆Go+RT InQ                   ........(9.29)
 
 The Gibbs free energy can be related to the cell emf as follows ∴\[ \] equation (9.24) and (9.25)
 
@@ -188,16 +158,6 @@ _x_
 
 Let us calculate the emf of the following cell at 25 Co using Nernst equation.
 
-XII U9 Electro Chemistry.indd 51 2/19/2020 5:13:53 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-52
 
 Cu (s) Cu (0.25 aq, M) Fe (0.005 aq M) Fe (0.1 aq M) Pt (s)2+ 3+ 2+
 
@@ -297,16 +257,6 @@ Zn (s) + Cu (aq) Zn (aq)+Cu (s)2+ 2+→ What is the change in the cell voltage o
 
 compartment by a factor 10?
 
-XII U9 Electro Chemistry.indd 52 2/19/2020 5:14:06 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-53
 
 **Electrolytic cell and electrolysis**
 
@@ -350,26 +300,8 @@ NaCl
 
 **Figure 9.8 Electrolysis of molten NaCl**
 
-XII U9 Electro Chemistry.indd 53 2/19/2020 5:14:10 PM
-
-www.tntextbooks.in
-
-
-
-
-
-
 
 |------|------|------|------|------|------|------|------|
-
-
-
-
-
-
-  
-
-54
 
 The overall reaction is,
 
@@ -421,16 +353,6 @@ Z = Equivalent mass 96500
 
 .....(9.35)
 
-XII U9 Electro Chemistry.indd 54 2/19/2020 5:14:17 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-55
 
 **Second Law**
 
@@ -506,16 +428,6 @@ m =
 
 × It = 2A S = 2×1200 400C
 
-XII U9 Electro Chemistry.indd 55 2/19/2020 5:14:20 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-56
 
 **Evaluate yourself** A solution of a salt of metal was electrolysed for 15 minutes with a current of 0.15 amperes. The mass of the metal deposited at the cathode is 0.783g. calculate the equivalent mass of the metal.
 
@@ -560,15 +472,6 @@ Electrons (e-)
 **Light bulb (load)**
 
 **Figure 9.10 Leclanche cell**
-
-XII U9 Electro Chemistry.indd 56 2/19/2020 5:14:23 PM
-
-www.tntextbooks.in
-
-
-
-
-
 
 | ttery |ElectrLi |
 |------|------|------|------|
@@ -639,16 +542,7 @@ Barrier Gas vent
 
 We have already learnt that the electrochemical reactions which take place in a galvanic cell may be reversed by applying a potential slightly greater than the emf generated by the cell. Th is principle is used in secondary batteries to regenerate the original reactants. Let us understand the function of secondary cell by considering the lead storage battery as an example
 
-XII U9 Electro Chemistry.indd 57 2/19/2020 5:14:29 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-58
 
 Lead storage battery Anode : spongy lead Cathode : lead plate bearing PbO2
 
@@ -720,17 +614,6 @@ Thus, the overall cell reaction is exactly the reverse of the redox reaction whi
 
 such as CoO2. **Figure 9.12 lithium – ion Battery**
 
-XII U9 Electro Chemistry.indd 58 2/19/2020 5:14:45 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-59
-
 Electrolyte : Lithium salt in an organic solvent
 
 At the anode oxidation occurs
@@ -799,14 +682,6 @@ H2O
 
 H
 
-XII U9 Electro Chemistry.indd 59 2/19/2020 5:14:51 PM
-
-www.tntextbooks.in
-
-
-
-
-
 
 
 |------|
@@ -835,17 +710,6 @@ www.tntextbooks.in
 | e |Cathode |
 
 
-
-
-
-
-
-
-
-
-  
-
-60
 
 considering hydrogen – oxygen fuel cell. In this case, hydrogen act as a fuel and oxygen as an oxidant and the electrolyte is aqueous KOH maintained at 200 Co and 20 – 40 atm. Porous graphite electrode containing Ni and NiO serves as the inert electrodes.
 
@@ -891,16 +755,7 @@ iron
 
 **Figure 9.15 Rusting of iron**
 
-XII U9 Electro Chemistry.indd 60 2/19/2020 5:14:57 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-61
 
 **At anode (oxidation): Iron dissolves in the anode region**
 
@@ -956,16 +811,6 @@ iii. Cathodic protection - In this technique, unlike galvanising the entire surf
 
 Example, stainless steel - an alloy of Fe and Cr .
 
-XII U9 Electro Chemistry.indd 61 2/19/2020 5:15:11 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-62
 
 **Electrochemical series**
 
@@ -1164,14 +1009,6 @@ a) 2N b) 0.002N c) 0.02N d) 0.2N
 
 a) PbSO4 on cathode is reduced to Pb b) PbSO4 on anode is oxidised to PbO2
 
-XII U9 Electro Chemistry.indd 63 2/19/2020 5:15:33 PM
-
-www.tntextbooks.in
-
-
-
-
-
 
 | Electrolyte |KCl |KNO3 |HCl |NaOAC |NaCl |
 |------|------|------|------|------|------|
@@ -1232,16 +1069,7 @@ a) 1 25 10 6. × − b) 66.25 10−× c) 1 25 10 4. × − d) 56.25 10−×
 
 a) 10 1 1− − c m b) 101 1 c m− c) 1 1 c m− d) 125.7 10−×
 
-XII U9 Electro Chemistry.indd 64 2/19/2020 5:15:42 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-65
 
 19\. Conductivity of a saturated solution of a sparingly soluble salt AB (1:1 electrolyte) at 298K is 1 85 10 5 1. × − − S m . Solubility product of the salt AB at 298K Λm AB
 
@@ -1300,17 +1128,6 @@ a) 0.80 b) 1.26 c) -0.54 d) -10.94
 2\. Why does conductivity of a solution decrease on dilution of the solution
 
 3\. State Kohlrausch Law. How is it useful to determine the molar conductivity of weak electrolyte at infinite dilution.
-
-XII U9 Electro Chemistry.indd 65 2/19/2020 5:16:07 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-66
 
 4\. Describe the electrolysis of molten NaCl using inert electrodes
 
@@ -1398,16 +1215,6 @@ Predict which one is better for coating the surface of iron. Given : E V Fe Fe2+
 
 The standard reduction potentials of Cu Cu and Cd Cd2+ 2+ are 0.34V and -0.40 volts respectively. Predict the feasibility of the cell reaction.
 
-XII U9 Electro Chemistry.indd 66 2/19/2020 5:16:15 PM
-
-www.tntextbooks.in
-
-
-
-
-  
-
-67
 
 19\. In fuel cell H2 and O2 react to produce electricity. In the process, H2 gas is oxidised at the anode and 2O at cathode. If 44.8 litre of H2 at 25 Co and 1atm pressure reacts in 10 minutes, what is average current produced? If the entire current is used for electro deposition of Cu from Cu2+ , how many grams of deposited?
 
@@ -1435,16 +1242,7 @@ Mg Mg Ag Ag2+ +
 
 Calculate the equivalent and molar conductance of the electrolyte Al (SO )2 4 3 at infinite dilution.
 
-XII U9 Electro Chemistry.indd 67 2/19/2020 5:16:23 PM
 
-www.tntextbooks.in
-
-
-
-
-  
-
-68
 
 **Simulating an Voltaic Cell**
 
@@ -1477,11 +1275,5 @@ cell.
 Please go to the URL h� ps:// pages.uoregon.edu/tgreenbo/ voltaicCellEMF.html (or) Scan the QR codeon the right side
 
 **ICT Corner**
-
-XII U9 Electro Chemistry.indd 68 2/19/2020 5:16:25 PM
-
-www.tntextbooks.in
-
-
 
 
