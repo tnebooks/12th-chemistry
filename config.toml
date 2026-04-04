@@ -1,6 +1,6 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL = 'http://0.0.0.0:1313/sample-material/'
+baseURL = 'http://0.0.0.0:1313/12th-Chemistry/'
 theme = 'hugo-book'
 
 # Book configuration
@@ -22,15 +22,16 @@ style = 'base16-snazzy'
 # There are different options to translate files
 # See https://gohugo.io/content-management/multilingual/#translation-by-filename
 # And https://gohugo.io/content-management/multilingual/#translation-by-content-directory
+
 [languages]
 [languages.en]
-title = 'sample-material'
+title = '12th-Chemistry'
 contentDir = 'content.en'
 languageName = 'English'
 weight = 1
 
 [languages.ta]
-title = '10 அறிவியல்'
+title = '12th-ரசாயனவியல்'
 languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 2
