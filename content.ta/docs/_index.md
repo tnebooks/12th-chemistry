@@ -1,8 +1,4 @@
 ---
-title: 'அறிவியல்'
-categories:
-    - science
-weight: 1
---- 
-
-அறிவியல்
+title: 'ரசாயனவியல்'
+weight: 2
+---
