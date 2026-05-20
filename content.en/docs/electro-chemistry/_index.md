@@ -3,6 +3,7 @@ title: 'Electro Chemistry'
 categories:
     - science
 weight: 9
+summary: "This unit explains electrochemical cells, metallic and electrolytic conductance, and the factors affecting the conductivity of electrolytic solutions. It describes Kohlrausch's law, the Nernst equation, electromotive force (emf) of galvanic cells, and Faraday's laws of electrolysis. The unit also highlights commercial batteries, fuel cells, and the electrochemical mechanism of corrosion."
 ---
 
 # 9. ELECTRO CHEMISTRY

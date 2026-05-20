@@ -3,6 +3,7 @@ title: 'Biomolecules'
 categories:
     - science
 weight: 14
+summary: "This unit explains the structure, classification, and biological functions of essential biomolecules like carbohydrates, proteins, nucleic acids, and vitamins. It describes the chemical reactions of glucose and fructose, properties of amino acids, and the structural levels of proteins. The unit also highlights the components of DNA and RNA, along with the vital roles of vitamins and hormones in metabolic processes."
 ---
 
 # 14. BIOMOLECULES

@@ -3,6 +3,7 @@ title: 'p-Block Elements-I'
 categories:
     - science
 weight: 2
+summary: "This unit introduces the chemistry of p-block elements, focusing on the elements present in groups 13 to 18 of the periodic table. It explains their general electronic configuration, trends in physical and chemical properties, and important compounds. The unit also highlights the unique behavior of these elements due to their valence electron configurations."
 ---
 
 # 2. p-BLOCK ELEMENTS-I

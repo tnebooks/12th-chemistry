@@ -3,6 +3,7 @@ title: 'Solid State'
 categories:
     - science
 weight: 6
+summary: "This unit explains the classification of solids, distinguishing between crystalline and amorphous solid states. It describes crystal lattices, unit cells, packing efficiency, and the application of Bragg's equation in analyzing crystal structures. The unit also highlights various stoichiometric and non-stoichiometric defects, along with the electrical and magnetic properties of solids."
 ---
 
 # 6. SOLID STATE

@@ -3,6 +3,7 @@ title: 'Organic Nitrogen Compounds'
 categories:
     - science
 weight: 13
+summary: "This unit explains the nomenclature, preparation methods, and properties of nitro compounds, amines, and diazonium salts. It describes the basic strength of amines, electrophilic substitution reactions, and chemical tests to distinguish primary, secondary, and tertiary amines. The unit also highlights alkyl cyanides, isocyanides, and the vital role of diazonium salts in synthetic organic chemistry."
 ---
 
 # 13. ORGANIC NITROGEN COMPOUNDS

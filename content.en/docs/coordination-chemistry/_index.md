@@ -3,6 +3,7 @@ title: 'Coordination Chemistry'
 categories:
     - science
 weight: 5
+summary: "This unit explains the chemistry of coordination compounds, focusing on their nomenclature, structures, and Werner's theory. It describes Valence Bond Theory (VBT) and Crystal Field Theory (CFT) to understand the bonding, magnetic properties, and distinct colors of these complexes. The unit also highlights isomerism, stability, and the vital importance of coordination compounds in biological systems."
 ---
 
 # 5. COORDINATION CHEMISTRY

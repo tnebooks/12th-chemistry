@@ -3,6 +3,7 @@ title: 'p-Block Elements-II'
 categories:
     - science
 weight: 3
+summary: "This unit continues the study of p-block elements, focusing on important groups such as 15, 16, and 17. It explains the properties, structures, and chemical behavior of elements like nitrogen, oxygen, and halogens along with their compounds. The unit also highlights industrial applications and environmental significance of these elements."
 ---
 
 # 3. p-BLOCK ELEMENTS-II

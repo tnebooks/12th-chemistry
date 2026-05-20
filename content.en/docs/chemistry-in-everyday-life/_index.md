@@ -3,6 +3,7 @@ title: 'Chemistry in Everyday Life'
 categories:
     - science
 weight: 15
+summary: "This unit explains the vital importance of chemistry in daily life, focusing on the roles of medicines, food additives, and cleansing agents. It describes the classification of drugs, drug-target interactions, and their therapeutic mechanisms in the human body. The unit also highlights food preservatives, artificial sweeteners, and the chemical composition and cleansing action of soaps and detergents."
 ---
 
 # 15. CHEMISTRY IN EVERYDAY LIFE
