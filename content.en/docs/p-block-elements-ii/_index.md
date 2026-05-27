@@ -180,8 +180,6 @@ $$
 
 **Reaction with chlorine and chlorides:** Ammonia reacts with chlorine and chlorides to give ammonium chloride as a final product. The reactions are different under different conditions as given below.
 
-![](img3.1.png)
-
 With excess ammonia
 
 $$
@@ -211,6 +209,8 @@ $$
 $$
 3\mathrm{Mg + 2NH_3} \longrightarrow \mathrm{Mg_3N_2 + 3H_2}
 $$
+
+![](img3.1.png)
 
 <center>Reaction of ammonia with HCl</center>
 
@@ -692,6 +692,10 @@ $$
 
 **Preparation:** When \( \mathrm{PCl_3} \) is treated with excess chlorine, phosphorus pentachloride is obtained.
 
+![](img3.5.png)
+
+<center>Figure 3.5 Structure of phosphorus trichloride</center>
+
 $$
 \mathrm{PCl_3 + Cl_2} \longrightarrow \mathrm{PCl_5}
 $$
@@ -744,9 +748,7 @@ Phosphorus forms phosphorus trioxide, phosphorus tetraoxide and phosphorus pento
 
 In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6 pm.
 
-![](img3.5.png)
-
-<center>Figure 3.5 Structure of phosphorus trichloride</center>
+    
 
 ![](img3.6.png)
 
@@ -972,7 +974,7 @@ $$
 $$
 \mathrm{X_{Coloured} + 2(H)} \longrightarrow \mathrm{XH_2}
 $$
-
+ 
 However, the bleached product (colourless) when allowed to stand in air, is reoxidised by atmospheric oxygen to its original colour. Hence bleaching action of sulphur dioxide is temporary.
 
 ##### Uses

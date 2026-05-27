@@ -35,6 +35,8 @@ After studying this unit, the students will be able to
 
 The tendency of an element to form a cation by loosing electrons is known as electropositive or metallic character. This character depends on the ionisation energy. Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
 
+![](img2.1.png)
+
 **Figure 2.1 p-block elements with their ionisation enthalpies, electronegativity and metallic nature.**
 
 ### 2.1.3 Ionisation Enthalpy:

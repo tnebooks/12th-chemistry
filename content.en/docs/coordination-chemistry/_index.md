@@ -46,6 +46,8 @@ To explain this behaviour Werner postulated his theory as follows
 
 4. According to Werner, there are two spheres of attraction around a metal atom/ion in a complex. The inner sphere is known as coordination sphere and the groups present in this sphere are firmly attached to the metal. The outer sphere is called ionisation sphere. The groups present in this sphere are loosely bound to the central metal ion and hence can be separated into ions upon dissolving the complex in a suitable solvent.
 
+![](img5.1.png)
+
 <center>Figure 5.1 inner and outer spheres of attraction in coordination compounds</center>
 
 5. The primary valences are non-directional while the secondary valences are directional. The geometry of the complex is determined by the spatial arrangement of the groups which satisfy the secondary valence. For example, if a metal ion has a secondary valence of six, it has an octahedral geometry. If the secondary valence is 4, it has either tetrahedral or square planar geometry.
@@ -293,6 +295,8 @@ b. Give the structure for the following compounds.
 
 We have already learnt the concept of isomerism in the context of organic compounds, in the previous year chemistry classes. Similarly, coordination compounds also exhibit isomerism. Isomerism is the phenomenon in which more than one coordination compounds having the same molecular formula have different physical and chemical properties due to different arrangement of ligands around the central metal atom. The following flow chart gives an overview of the common types of isomerism observed in coordination compounds.
 
+![](img5.2.png)
+
 <center>Figure 5.2 Isomerism in coordination compounds</center>
 
 #### 5.5.1 Structural isomers
@@ -304,6 +308,8 @@ The coordination compounds with same formula, but have different connections amo
 This type of isomers arises when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms. In the below mentioned examples, the nitrite ion is bound to the central metal ion \( \mathrm{Co^{3+}} \) through a nitrogen atom in one complex, and through oxygen atom in other complex.
 
 \( [\mathrm{Co(NH_3)_5(NO_2)]^{2+}} \) and \( [\mathrm{Co(NH_3)_5(ONO)]^{2+}} \)
+
+![](img5.3.png)
 
 <center>Figure 5.3 Linkage isomers</center>
 
@@ -352,6 +358,8 @@ In square planar complexes of the form \( [\mathrm{MA_2B_2}]^{n\pm} \) and \( [\
 
 The square planar complex of the type \( [\mathrm{M(xy)_2}]^{n\pm} \) where xy is a bidentate ligand with two different coordinating atoms also shows cis-trans isomerism. Square planar complex of the form \( [\mathrm{MABCD}]^{n\pm} \) also shows geometrical isomerism. In this case, by considering any one of the ligands (A, B, C or D) as a reference, the rest of the ligands can be arranged in three different ways leading to three geometrical isomers.
 
+![](img5.4.png)
+
 <center>Figure 5.4 \( \mathrm{MA_2B_2} \), \( \mathrm{MA_2BC} \), \( \mathrm{M(xy)_2} \) & \( \mathrm{MABCD} \) - isomers</center>
 
 ##### Octahedral complexes
@@ -364,7 +372,12 @@ Octahedral complex of the type \( [\mathrm{MA_3B_3}]^{n\pm} \) also shows geomet
 
 If the three similar ligands are present around the meridian which is an imaginary semicircle from one apex of the octahedral to the opposite apex as shown in the figure 5.6(b), the isomer is called as a meridional isomer (mer isomer). This is called meridional because each set of ligands can be regarded as lying on a meridian of an octahedron.
 
+![](img5.6a.png)
+
 <center>Figure 5.6 (a) Facial isomer</center>
+
+![](img5.6b.png)
+
 <center>Figure 5.6 (b) Meridional isomer</center>
 
 As the number of different ligands increases, the number of possible isomers also increases. For the octahedral complex of the type \( [\mathrm{MABCDEF}]^{n\pm} \), where A, B, C, D, E and F are monodentate ligands, fifteen different orientation are possible corresponding to 15 geometrical isomers. It is difficult to generate all the possible isomers.
@@ -393,9 +406,13 @@ The octahedral complexes of type \( [\mathrm{M(xx)_3}]^{n\pm} \), \( [\mathrm{M(
 
 **Examples:** The optical isomers of \( [\mathrm{Co(en)_3}]^{3+} \) are shown in figure 5.7.
 
+![](img5.7.png)
+
 <center>Figure 5.7 - Optical isomer</center>
 
 The coordination complex \( [\mathrm{CoCl_2(en)_2}]^+ \) has three isomers, two optically active cis forms and one optically inactive trans form. These structures are shown below.
+
+![](img5.8.png)
 
 <center>Figure 5.8 - Optical isomers</center>
 
@@ -512,6 +529,8 @@ Step 1: In an isolated gaseous state, all the five d orbitals of the central met
 
 Step 2: The ligands are approaching the metal atom in actual bond directions. To illustrate this let us consider an octahedral field, in which the central metal ion is located at the origin and the six ligands are coming from the \( +x \), \( -x \), \( +y \), \( -y \), \( +z \) and \( -z \) directions as shown below.
 
+![](img5.9.png)
+
 <center>Figure 5.9 octahedral ligand field</center>
 
 As shown in the figure, the orbitals lying along the axes \( \mathrm{d}_{x^2 - y^2} \) and \( \mathrm{d}_{z^2} \) orbitals will experience strong repulsion and raise in energy to a greater extent than the orbitals with lobes directed between the axes \( (\mathrm{d}_{xy}, \mathrm{d}_{yz} \) and \( \mathrm{d}_{zx}) \). Thus the degenerate d orbitals now split into two sets and the process is called crystal field splitting.
@@ -522,11 +541,15 @@ Step 3: Up to this point the complex formation would not be favoured. However, w
 
 During crystal field splitting in octahedral field, in order to maintain the average energy of the orbitals (barycentre) constant, the energy of the orbitals \( \mathrm{d}_{x^2 - y^2} \) and \( \mathrm{d}_{z^2} \) (represented as e\(_g\) orbitals) will increase by \( 3/5\Delta_{\mathrm{o}} \) while that of the other three orbitals \( \mathrm{d}_{xy}, \mathrm{d}_{yz} \) and \( \mathrm{d}_{zx} \) (represented as \( \mathrm{t}_{2\mathrm{g}} \) orbitals) decrease by \( 2/5\Delta_{\mathrm{o}} \). Here, \( \Delta_{\mathrm{o}} \) represents the crystal field splitting energy in the octahedral field.
 
+![](img5.10.png)
+
 <center>Figure: 5.10 - Crystal field splitting in octahedral field</center>
 
 **Crystal field splitting in tetrahedral complexes:**
 
 The approach of ligands in tetrahedral field can be visualised as follows. Consider a cube in which the central metal atom is placed at its centre (i.e. origin of the coordinate axis as shown in the figure). The four ligands approach the central metal atom along the direction of the leading diagonals drawn from alternate corners of the cube.
+
+![](img5.11.png)
 
 <center>Figure 5.11 tetrahedral ligand field</center>
 
@@ -534,7 +557,12 @@ In this field, none of the d orbitals point directly towards the ligands, howeve
 
 As a result, the energy of \( \mathrm{t}_2 \) orbitals increases by \( 2/5\Delta_{\mathrm{t}} \) and that of e orbitals decreases by \( 3/5\Delta_{\mathrm{t}} \) as shown below. When compared to the octahedral field, this splitting is inverted and the splitting energy is less. The relation between the crystal field splitting energy in octahedral and tetrahedral ligand field is given by the expression; \( \Delta_{\mathrm{t}} = \frac{4}{9}\Delta_{0} \)
 
+![](img5.12.png)
+
 <center>Figure 5.12 d-orbitals in tetrahedral ligand field</center>
+
+![](img5.13.png)
+
 <center>Figure: 5.13 - Crystal field splitting in tetrahedral field</center>
 
 **Crystal field splitting Energy and nature of ligands:**
@@ -569,6 +597,8 @@ The above series is known as **spectrochemical series**. The ligands present on 
 
 Most of the transition metal complexes are coloured. A substance exhibits colour when it absorbs the light of a particular wavelength in the visible region and transmit the rest of the visible light. When this transmitted light enters our eye, our brain recognises its colour. The colour of the transmitted light is given by the complementary colour of the absorbed light. For example, the hydrated copper(II) ion is blue in colour as it absorbs orange light, and transmit its complementary colour, blue. A list of absorbed wavelength and their complementary colour is given in the following table.
 
+![](img5.15.png)
+
 <center>Figure 5.15 Colour Wheel - Complementary colours are shown on opposite sides.</center>
 
 | Wavelength (\( \lambda \)) of absorbed light (Å) | Wave number (\( \bar{\nu} \)) of the absorbed light (cm\(^{-1}\)) | Colour of absorbed light | Observed Colour |
@@ -583,6 +613,8 @@ Most of the transition metal complexes are coloured. A substance exhibits colour
 The observed colour of a coordination compound can be explained using crystal field theory. We learnt that the ligand field causes the splitting of d orbitals of the central metal atom into two sets ( \( \mathrm{t}_{2\mathrm{g}} \) and \( \mathrm{e}_{\mathrm{g}} \) ). When the white light falls on the complex ion, the central metal ion absorbs visible light corresponding to the crystal field splitting energy and transmits rest of the light which is responsible for the colour of the complex. This absorption causes excitation of d-electrons of central metal ion from the lower energy \( \mathrm{t_{2g}} \) level to the higher energy \( \mathrm{e_{g}} \) level which is known as **d-d transition**.
 
 Let us understand the d-d transitions by considering \( [\mathrm{Ti(H_2O)_6}]^{3+} \) as an example. In this complex the central metal ion is \( \mathrm{Ti^{3+}} \), which has \( \mathrm{d^1} \) configuration. This single electron occupies one of the \( \mathrm{t_{2g}} \) orbitals in the octahedral aqua ligand field. When white light falls on this complex the d electron absorbs light and promotes itself to \( \mathrm{e_{g}} \) level. The spectral data show the absorption maximum is at \( 20000\ \mathrm{cm^{-1}} \) corresponding to the crystal field splitting energy \( (\Delta_{\mathrm{o}}) \) \( 239.7\ \mathrm{kJ\ mol^{-1}} \). The transmitted colour associated with this absorption is purple and hence, the complex appears purple in colour.
+
+![](img5.16.png)
 
 <center>Figure 5.16 d-d Transition</center>
 
