@@ -329,6 +329,8 @@ Boric acid has a two dimensional layered structure. It consists of \([BO_3]^{3-}
 2. It is used as an antiseptic and as an eye lotion.
 3. It is also used as a food preservative.
 
+![](img5.png)
+
 **Figure 2.2 Structure of boric acid**
 
 #### 2.2.6 Diborane
@@ -414,6 +416,8 @@ $$
 **Structure of diborane:**
 
 In diborane two \(BH_2\) units are linked by two bridged hydrogens. Therefore, it has eight B- H bonds. However, diborane has only 12 valence electrons and are not sufficient to form normal covalent bonds. The four terminal B- H bonds are normal covalent bonds (two centre - two electron bond or 2c- 2e bond). The remaining four electrons have to be used for the bridged bonds. i.e. two three centred B- H- B bonds utilise two electrons each. Hence, these bonds are three centre- two electron bonds (3c- 2e). The bridging hydrogen atoms are in a plane as shown in the figure 2.3. In diborane, the boron is \(sp^3\) hybridised.
+
+![](img6.png)
 
 **Figure 2.3 Structure of diborane.**
 
@@ -609,17 +613,26 @@ Carbon exists in many allotropic forms. Graphite and diamond are the most common
 
 Graphite is the most stable allotropic form of carbon at normal temperature and pressure. It is soft and conducts electricity. It is composed of flat two dimensional sheets of carbon atoms. Each sheet is a hexagonal net of \(sp^2\) hybridised carbon atoms with a C- C bond length of \(1.41\mathrm{\AA}\) which is close to the C- C bond distance in benzene \((1.40\mathrm{\AA})\). Each carbon atom forms three \(\sigma\) bonds with three neighbouring carbon atoms using three of its valence electrons and the fourth electron present in the unhybridised p orbital forms a \(\pi\)- bond. These \(\pi\) electrons are delocalised over the entire sheet which is responsible for its electrical conductivity. The successive carbon sheets are held together by weak vander Waals forces. The distance between successive sheets is \(3.40\mathrm{\AA}\). It is used as a lubricant either on its own or as a graphited oil.
 
+![](img7.png)
+
 **Figure 2.4 Structure of graphite**
 
 Unlike graphite the other allotrope diamond is very hard. The carbon atoms in diamond are \(sp^{3}\) hybridised and bonded to four neighbouring carbon atoms by \(\sigma\) bonds with a C- C bond length of \(1.54\mathrm{\AA}\). This results in a tetrahedral arrangement around each carbon atom that extends to the entire lattice as shown in figure 2.5. Since all four valance electrons of carbon are involved in bonding there is no free electrons for conductivity. Being the hardest element, it used for sharpening hard tools, cutting glasses, making bores and rock drilling.
 
+![](img8.png)
+
 **Figure 2.5 Structure of diamond**
 
+
 Fullerenes are newly synthesised allotropes of carbon. Unlike graphite and diamond, these allotropes are discrete molecules such as \(C_{32}\), \(C_{50}\), \(C_{60}\), \(C_{70}\), \(C_{76}\) etc. These molecules have cage like structures as shown in the figure. The \(C_{60}\) molecules have a soccer ball like structure and is called buckminster fullerene or buckyballs. It has a fused ring structure consists of 20 six membered rings and 12 five membered rings. Each carbon atom is \(sp^{2}\) hybridised and forms three \(\sigma\) bonds & a delocalised \(\pi\) bond giving aromatic character to these molecules. The C- C bond distance is \(1.44\mathrm{\AA}\) and \(C = C\) distance \(1.38\mathrm{\AA}\)
+
+![](img9.png)
 
 **Figure 2.6 Structure of Fullerenes**
 
 Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends. Along the axis, these nanotubes are stronger than steel and conduct electricity. These have many applications in nanoscale electronics, catalysis, polymers and medicine.
+
+![](img2.7.png)
 
 **Figure 2.7 Structure of carbon nanotubes**
 
@@ -629,7 +642,10 @@ Carbon nanotubes, another recently discovered allotropes, have graphite like tub
 
 Carbon monoxide can be prepared by the reaction of carbon with limited amount of oxygen.
 
+![](img2.8.png)
+
 **Figure 2.8 Structure of graphene**
+
 
 $$
 2C + O_{2} \longrightarrow 2CO
@@ -895,6 +911,8 @@ Silicates are classified into various types based on the way in which the tetrah
 
 **Ortho silicates (Neso silicates):** The simplest silicates which contain discrete \([SiO_4]^{4-}\) tetrahedral units are called ortho silicates or neso silicates.
 
+![](img2.11.png)
+
 **Figure 2.11 Structure of Ortho silicates**
 
 Examples : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surrounded by \(O^{2-}\) ions), Olivine - \((Fe / Mg)_2SiO_4\) (\(Fe^{2+}\) and \(Mg^{2+}\) cations are octahedrally surrounded by \(O^{2-}\) ions),
@@ -902,6 +920,8 @@ Examples : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surroun
 **Pyro silicate (or Soro silicates):**
 
 Silicates which contain \([Si_2O_7]^{6-}\) ions are called pyro silicates (or) Soro silicates. They are formed by joining two \([SiO_4]^{4-}\) tetrahedral units by sharing one oxygen atom at one corner (one oxygen is removed while joining). Example : Thortveitite - \(Sc_2Si_2O_7\)
+
+![](img2.12.png)
 
 **Figure 2.12 Structure of Pyro silicate**
 
@@ -911,6 +931,8 @@ Silicates which contain \((SiO_3)_n^{2n-}\) ions which are formed by linking thr
 
 Example: Beryl \([Be_3Al_2(SiO_3)_6]\) (an aluminosilicate with each aluminium is surrounded by 6 oxygen atoms octahedrally)
 
+![](img2.13.png)
+
 **Figure 2.13 Structure of Cyclic silicates**
 
 **Inosilicates:**
@@ -919,11 +941,15 @@ Silicates which contain 'n' number of silicate units linked by sharing two or mo
 
 **Chain silicates (or pyroxenes):** These silicates contain \([SiO_3]_n^{2n-}\) ions formed by linking 'n' number of tetrahedral \([SiO_4]^{4-}\) units linearly. Each silicate unit shares two of its oxygen atoms with other units.
 
+![](img2.14.png)
+
 **Figure 2.14 Structure of Chain silicates**
 
 Example: Spodumene - \(LiAl(SiO_3)_2\)
 
 **Double chain silicates (or amphiboles):** These silicates contains \([Si_4O_{11}]_n^{6n-}\) ions. In these silicates there are two different types of tetrahedra : (i) Those sharing 3 vertices (ii) those sharing only 2 vertices.
+
+![](img2.15.png)
 
 **Figure 2.15 Structure of Double chain silicates**
 
@@ -932,6 +958,8 @@ Asbestos: These are fibrous and noncombustible silicates. Therefore they are use
 **Sheet or phyllo silicates**
 
 Silicates which contain \((Si_{2}O_{5})_n^{2n-}\) are called sheet or phyllo silicates. In these, Each \([SiO_4]^{4-}\) tetrahedron shares three oxygen atoms with others and thus by forming two dimensional sheets. These sheet silicates form layered structures in which silicate sheets are stacked over each other. The attractive forces between these layers are very weak, hence they can be cleaved easily just like graphite.
+
+![](img2.16.2.png)
 
 **Figure 2.16 Structure of Sheet or phyllo silicates**
 

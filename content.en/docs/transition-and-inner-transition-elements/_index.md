@@ -33,9 +33,12 @@ Transition metals, iron and copper play an important role in the development of 
 
 In this unit we study the general trend in properties of d block elements with specific reference to 3d series, their characteristics, chemical reactivity, some important compounds \(KMnO_4\) and \(K_2Cr_2O_7\), we also discuss the f- block elements later in this unit.
 
+
 ### 4.1 Position of d-block elements in the periodic table:
 
 We have already learnt the periodic classification of elements in XI std. the transition metals occupy from group - 3 to group- 12 of the modern periodic table.
+
+![](img4.1.png)
 
 **Figure 4.1-Position of d-block elements in the periodic table**
 
@@ -59,11 +62,16 @@ All the transition elements are metals. Similar to all metals the transition met
 
 Most of the transition elements are hexagonal close packed, cubic close packed or body centered cubic which are the characteristics of true metals.
 
+![](img4.2.png)
+
 **Figure 4.2 lattice structures of 3d, 4d and 5d transition metals**
 
 As we move from left to right along the transition metal series, melting point first increases as the number of unpaired d electrons available for metallic bonding increases, reach a maximum value and then decreases, as the d electrons pair up and become less available for bonding.
 
 For example, in the first series the melting point increases from Scandium (m.pt 1814K) to a maximum of 2183 K for vanadium, which is close to 2180K for chromium. However, manganese in 3d series and Tc in 4d series have low melting point. The maximum melting point at about the middle of transition metal series indicates that \(d^5\) configuration is favorable for strong interatomic attraction. The following figure shows the trends in melting points of transition elements.
+
+![](img4.3.png)
+
 
 **Figure 4.3-Variation in melting point of 3d series elements**
 
@@ -75,15 +83,14 @@ At the end of the series, d - orbitals of Zinc contain 10 electrons in which the
 
 Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d elements which have nearly same atomic radius as that of corresponding 4d elements. This is due to lanthanide contraction which is to be discussed later in this unit under inner transition elements.
 
-**Figure 4.4 (a) Atomic radius of 3d Elements**
+![](img4.3.2.png)
 
-**Figure 4.4 (b) Atomic radius of 4d Elements**
-
-**Figure 4.4 (c) Atomic radius of 5d Elements**
 
 #### 4.3.3 Ionization enthalpy:
 
 Ionization energy of transition element is intermediate between those of s and p block elements. As we move from left to right in a transition metal series, the ionization enthalpy increases as expected. This is due to increase in nuclear charge corresponding to the filling of d electrons. The following figure show the trends in ionisation enthalpy of transition elements.
+
+![](img4.3.3.png)
 
 **Figure 4.5 Variation in ionisation energy of 3d series elements**
 
@@ -123,6 +130,8 @@ The number of oxidation states increases with the number of electrons available,
 The relative stability of different oxidation states of 3d metals is correlated with the extra stability of half filled and fully filled electronic configurations. Example: \(Mn^{2+}(3d^{5})\) is more stable than \(Mn^{4+}(3d^{3})\)
 
 The oxidation states of 4d and 5d metals vary from \(+3\) for Y and La to \(+8\) for Ru and Os. The highest oxidation state of 4d and 5d elements are found in their compounds with the higher electronegative elements like O, F and Cl. for example: \(RuO_4\), \(OsO_4\) and \(WCl_6\). Generally in going down a group, a stability of the higher oxidation state increases while that of lower oxidation state decreases. It is evident from the Frost diagram \((\Delta G^{0} \ vs\) oxidation number) as shown below, For titanium, vanadium and chromium, the most thermodynamically stable oxidation state is \(+3\). For iron, the stabilities of \(+3\) and \(+2\) oxidation states are similar. Copper is unique in 3d series having a stable \(+1\) oxidation state. It is prone to disproportionate to the \(+2\) and 0 oxidation states.
+
+![](img4.6.png)
 
 **Figure 4.6 Frost diagram**
 
@@ -172,6 +181,8 @@ The standard electrode potential for the \(M^{3+} / M^{2+}\) half- cell gives th
 | \(Mn^{3+} + e^- \rightarrow Mn^{2+}\) | \(+1.51\) |
 | \(Fe^{3+} + e^- \rightarrow Fe^{2+}\) | \(+0.77\) |
 | \(Co^{3+} + e^- \rightarrow Co^{2+}\) | \(+1.81\) |
+
+![](img4.7.png)
 
 **Figure 4.7 (b) \((E_{M^{3+}/M^{2+}}^{0})\) -3d series**
 
@@ -304,7 +315,11 @@ $$
 
 ## Structure of dichromate ion:
 
+![](img4.8a.png)
+
 **Figure 4.8 (a) Structure of chromate ion**
+
+![](img4.8b.png)
 
 **Figure 4.8 (b) Structure of dichromate ion**
 
@@ -444,6 +459,8 @@ Potassium permanganate exists in the form of dark purple crystals which melts at
 ## Structure of permanganate ion
 
 Permanganate ion has tetrahedral geometry in which the central \(Mn^{7+}\) is \(d^{3}s\) hybridised.
+
+![](img4.9.png)
 
 **Figure 4.9 Structure of permanganate ion**
 
@@ -622,6 +639,8 @@ The actual position of Lanthanoids in the periodic table is at group number 3 an
 
 Similarly the fourteen elements following actinium resemble in their physical and chemical properties. If we place these elements after Lanthanum in the periodic table below 4d series, the properties of the elements belongs to a group would be different and it would affect the proper structure of the periodic table. Hence a separate position is provided to the inner transition elements as shown in the figure.
 
+![](img4.10.png)
+
 **Figure 4.10 position of inner transition elements**
 
 ## Electronic configuration of Lanthanoids:
@@ -677,6 +696,8 @@ The stability of different oxidation states has an impact on the properties of t
 ## Atomic and ionic radii:
 
 As we move across 4f series, the atomic and ionic radii of lanthanoids show gradual decrease with increase in atomic number. This decrease in ionic size is called lanthanoid contraction.
+
+![](img4.11.png)
 
 **Figure 4.11 Variation of atomic radii of lanthanoids**
 

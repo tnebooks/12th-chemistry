@@ -180,6 +180,8 @@ $$
 
 **Reaction with chlorine and chlorides:** Ammonia reacts with chlorine and chlorides to give ammonium chloride as a final product. The reactions are different under different conditions as given below.
 
+![](img3.1.png)
+
 With excess ammonia
 
 $$
@@ -231,6 +233,8 @@ For example when excess ammonia is added to aqueous solution copper sulphate a d
 ##### Structure of ammonia
 
 Ammonia molecule is pyramidal in shape. N-H bond distance is 1.016 Å and H-H bond distance is 1.645 Å with a bond angle \( 107^{\circ} \). The structure of ammonia may be regarded as a tetrahedral with one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
+
+![](img3.2.png)
 
 <center>Figure 3.1 Structure of ammonia</center>
 
@@ -493,11 +497,15 @@ Phosphorus has several allotropic modification of which the three forms namely w
 
 The freshly prepared white phosphorus is colourless but becomes pale yellow due to formation of a layer of red phosphorus upon standing. Hence it is also known as yellow phosphorus. It is poisonous in nature and has a characteristic garlic smell. It glows in the dark due to oxidation which is called phosphorescence. Its ignition temperature is very low and hence it undergoes spontaneous combustion in air at room temperature to give \( \mathrm{P_2O_5} \).
 
+![](img3.2.1.png)
+
 <center>Figure 3.2 Structure of white phosphorus</center>
 
 The white phosphorus can be changed into red phosphorus by heating it to \( 420^{\circ}\mathrm{C} \) in the absence of air and light. Unlike white phosphorus it is not poisonous and does not show phosphorescence. It also does not ignite at low temperatures. The red phosphorus can be converted back into white phosphorus by boiling it in an inert atmosphere and condensing the vapour under water.
 
 The black phosphorus has a layer structure and also acts as a semiconductor. The four atoms in white phosphorus have polymeric structure with chains of \( \mathrm{P_4} \) linked tetrahedrally. Unlike nitrogen, \( \mathrm{P=P} \) is less stable than P-P single bonds. Hence, phosphorus atoms are linked through single bonds rather than triple bonds. In addition to the above two more allotropes namely scarlet and violet phosphorus are also known for phosphorus.
+
+![](img3.3.png)
 
 <center>Figure 3.3 Structure of red phosphorus</center>
 
@@ -627,6 +635,9 @@ $$
 
 In phosphine, phosphorus shows \( \mathrm{sp^3} \) hybridisation. Three orbitals are occupied by bond pair and fourth corner is occupied by lone pair of electrons. Hence, bond angle is reduced to \( 93.5^{\circ} \). Phosphine has a pyramidal shape.
 
+![](img3.4.png)
+
+
 <center>Figure 3.4 Structure of phosphine</center>
 
 ##### Uses of phosphine
@@ -733,8 +744,18 @@ Phosphorus forms phosphorus trioxide, phosphorus tetraoxide and phosphorus pento
 
 In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6 pm.
 
+![](img3.5.png)
+
 <center>Figure 3.5 Structure of phosphorus trichloride</center>
+
+![](img3.6.png)
+
 <center>Figure 3.6 Structure of \( \mathrm{P_4O_6} \)</center>
+
+![](img3.7.png)
+
+<center>Figure 3.7 Structure of \( \mathrm{P_4O_10} \)</center>
+
 
 **Oxoacids of Phosphorus - Preparation**
 
@@ -813,6 +834,8 @@ $$
 $$
 
 The ozone molecule has a bent shape and symmetrical with delocalised bonding between the oxygen atoms.
+
+![](img3.8.png)
 
 <center>Figure 3.8 Structure of ozone</center>
 
@@ -960,6 +983,8 @@ However, the bleached product (colourless) when allowed to stand in air, is reox
 ##### Structure of sulphur dioxide
 
 In sulphur dioxide, sulphur atom undergoes \( \mathrm{sp^2} \) hybridisation. A double bond arises between S and O due to \( p\pi-d\pi \) overlapping.
+
+![](img3.9.png)
 
 <center>Figure 3.9 Structure of sulphur dioxide</center>
 
