@@ -161,6 +161,10 @@ If the standard electrode potential \((E^0)\), of a metal is large and negative,
 
 In 3d series as we move from Ti to Zn, the standard reduction potential \((E_{M^{2+}/M}^{0})\) value is approaching towards less negative value and copper has a positive reduction potential. i.e., elemental copper is more stable than \(Cu^{2+}\). There are two deviations., Fig shows that \((E_{M^{2+}/M}^{0})\) value for manganese and zinc are more negative than the regular trend. It is due to extra stability which arises due to the half filled \(d^{5}\) configuration in \(Mn^{2+}\) and completely filled \(d^{10}\) configuration in \(Zn^{2+}\).
 
+![](img4.7.png)
+
+**Figure 4.7 (a) \((E_{M^{3+}/M^{2+}}^{0})\) -3d series**
+
 Transition metals in their high oxidation states tend to be oxidizing . For example, \(Fe^{3+}\) is moderately a strong oxidant, and it oxidises copper to \(Cu^{2+}\) ions. The feasibility of the reaction is predicted from the following standard electrode potential values.
 
 $$
@@ -182,7 +186,7 @@ The standard electrode potential for the \(M^{3+} / M^{2+}\) half- cell gives th
 | \(Fe^{3+} + e^- \rightarrow Fe^{2+}\) | \(+0.77\) |
 | \(Co^{3+} + e^- \rightarrow Co^{2+}\) | \(+1.81\) |
 
-![](img4.7.png)
+![](img4.7b.png)
 
 **Figure 4.7 (b) \((E_{M^{3+}/M^{2+}}^{0})\) -3d series**
 
@@ -696,7 +700,7 @@ The stability of different oxidation states has an impact on the properties of t
 ## Atomic and ionic radii:
 
 As we move across 4f series, the atomic and ionic radii of lanthanoids show gradual decrease with increase in atomic number. This decrease in ionic size is called lanthanoid contraction.
-
+ 
 ![](img4.11.png)
 
 **Figure 4.11 Variation of atomic radii of lanthanoids**
