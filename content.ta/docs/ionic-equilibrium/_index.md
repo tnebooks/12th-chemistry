@@ -3,7 +3,7 @@ title: 'அயனி சமநிலை'
 categories:
     - science
 weight: 8
-summary: "This unit explains ionic equilibrium in aqueous solutions, including acid-base theories and the self-ionization of water. It describes the pH scale, Ostwald's dilution law, the common ion effect, and the mechanism of buffer solutions. The unit also highlights salt hydrolysis and the solubility product of sparingly soluble salts."
+summary: "இந்த அலகு நீர்வாழ் கரைசல்களில் அயனிச் சமநிலையை விளக்குகிறது, இதில் அமில-காரக் கொள்கைகள் மற்றும் நீரின் தன்னயனியாக்கம் ஆகியவை அடங்கும். இது pH அளவுகோல், ஆஸ்ட்வால்டின் நீர்த்தல் விதி, பொது அயனி விளைவு மற்றும் இடையகக் கரைசல்களின் வழிமுறை ஆகியவற்றை விவரிக்கிறது. மேலும், இந்த அலகு உப்பு நீராற்பகுப்பு மற்றும் கரையாக்கத் திறன் மிகக் குறைந்த உப்புகளின் கரைதிறன் பெருக்கம் ஆகியவற்றை எடுத்துக்காட்டுகிறது."
 ---
 
 
