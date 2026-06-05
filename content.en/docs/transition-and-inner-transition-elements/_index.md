@@ -230,6 +230,8 @@ $$
 
 The magnetic moment calculated using the above equation is compared with the experimental values in the following table. In most of the cases, the agreement is good.
 
+![](tableimg.png)
+
 #### 4.3.7 Catalytic properties
 
 The chemical industries manufacture a number of products such as polymers, flavours, drugs etc., Most of the manufacturing processes have adverse effect on the environment so there is an interest for eco friendly alternatives. In this context, catalyst based manufacturing processes are advantageous, as they require low energy, minimize waste production and enhance the conversion of reactants to products.

@@ -42,12 +42,16 @@ We have already learnt in XI STD that gas molecules move randomly without exerti
 
 ### 6.2 Classification of solids:
 
+![](solids.png)
+
 We can classify solids into the following two major types based on the arrangement of their constituents.
 
 (i) Crystalline solids
 (ii) Amorphous solids.
 
 The term crystal comes from the Greek word "krystallos" which means clear ice. This term was first applied to the transparent quartz stones, and then the name is used for solids bounded by many flat, symmetrically arranged faces.
+
+![](mistake.png)
 
 A crystalline solid is one in which its constituents (atoms, ions or molecules), have an orderly arrangement extending over a long range. The arrangement of such constituents in a crystalline solid is such that the potential energy of the system is at minimum. In contrast, in amorphous solids (In Greek, amorphous means no form) the constituents are randomly arranged.
 
@@ -63,13 +67,20 @@ The following table shows the differences between crystalline and amorphous soli
 | 6 | They have sharp melting points. | Gradually soften over a range of temperature and so can be moulded. |
 | 7 | Examples: NaCl, diamond etc., | Examples: Rubber, plastics, glass etc. |
 
-\*Isotropy means uniformity in all directions. In solid state isotropy means having identical values of physical properties such as refractive index, electrical conductance etc., in all directions, whereas anisotropy is the property which depends on the direction of measurement. Crystalline solids are anisotropic and they show different values of physical properties when measured along different directions. The following figure illustrates the anisotropy in crystals due to different arrangement of their constituents along different directions.
+
+# Isotropy 
+
+Isotropy means uniformity in all directions. In solid state isotropy means having identical values of physical properties such as refractive index, electrical conductance etc., in all directions, whereas anisotropy is the property which depends on the direction of measurement. Crystalline solids are anisotropic and they show different values of physical properties when measured along different directions. The following figure illustrates the anisotropy in crystals due to different arrangement of their constituents along different directions.
+
+![](crystals.png)
 
 ### 6.3 Classification of crystalline solids:
 
 #### 6.3.1 Ionic solids:
 
 The structural units of an ionic crystal are cations and anions. They are bound together by strong electrostatic attractive forces. To maximize the attractive force, cations are surrounded by as many anions as possible and vice versa. Ionic crystals possess definite crystal structure; many solids are cubic close packed. Example: The arrangement of \(Na^{+}\) and \(Cl^{-}\) ions in \(NaCl\) crystal.
+
+![](Ionic.png)
 
 **Characteristics:**
 
@@ -82,6 +93,8 @@ The structural units of an ionic crystal are cations and anions. They are bound 
 
 In covalent solids, the constituents (atoms) are bound together in a three dimensional network entirely by covalent bonds. Examples: Diamond, silicon carbide etc. Such covalent network crystals are very hard, and have high melting point. They are usually poor thermal and electrical conductors.
 
+![](diamond.png)
+
 #### 6.3.3 Molecular solids:
 
 In molecular solids, the constituents are neutral molecules. They are held together by weak van der Waals forces. Generally molecular solids are soft and they do not conduct electricity. These molecular solids are further classified into three types.
@@ -91,6 +104,8 @@ In molecular solids, the constituents are neutral molecules. They are held toget
 In non polar molecular solids constituent molecules are held together by weak dispersion forces or London forces. They have low melting points and are usually in liquids or gaseous state at room temperature. Examples: naphthalene, anthracene etc.,
 
 #### (ii) Polar molecular solids
+
+![](crystal.png)
 
 The constituents are molecules formed by polar covalent bonds. They are held together by relatively strong dipole-dipole interactions. They have higher melting points than the non-polar molecular solids. Examples are solid \(CO_2\), solid \(NH_3\) etc.
 
@@ -106,9 +121,13 @@ You have already studied in XI STD about the nature of metallic bonding. In meta
 
 Crystalline solid is characterised by a definite orientation of atoms, ions or molecules, relative to one another in a three dimensional pattern. The regular arrangement of these species throughout the crystal is called a crystal lattice. A basic repeating structural unit of a crystalline solid is called a unit cell. The following figure illustrates the lattice point and the unit cell.
 
+![](solid.png)
+
 A crystal may be considered to consist of large number of unit cells, each one in direct contact with its nearer neighbour and all similarly oriented in space. The number of nearest neighbours that surrounding a particle in a crystal is called the coordination number of that particle.
 
 A unit cell is characterised by the three edge lengths or lattice constants a, b and c and the angle between the edges \(\alpha\), \(\beta\) and \(\gamma\).
+
+![](unit.png)
 
 ### 6.5 Primitive and non-primitive unit cell
 
@@ -116,11 +135,19 @@ There are two types of unit cells: primitive and non-primitive. A unit cell that
 
 In case of non-primitive unit cells, there are additional lattice points, either on a face of the unit cell or with in the unit cell.
 
+![](cubic.png)
+
 There are seven primitive crystal systems; cubic, tetragonal, orthorhombic, hexagonal, monoclinic, triclinic and rhombohedral. They differ in the arrangement of their crystallographic axes and angles. Corresponding to the above seven, Bravais defined 14 possible crystal systems as shown in the figure.
+
+![](cube.png)
+
+![](cubicunit.png)
 
 **Table 6.2 14 Bravais Lattices**
 
 #### 6.5.1 Simple cubic unit cell (SC)
+
+![](sc.png)
 
 In the simple cubic unit cell, each corner is occupied by an identical atoms or ions or molecules. And they touch along the edges of the cube, do not touch diagonally. The coordination number of each atom is 6.
 
@@ -131,6 +158,8 @@ $$
 $$
 
 #### 6.5.2 Body centered cubic unit cell (BCC)
+
+![](bcc.png)
 
 In a body centered cubic unit cell, each corner is occupied by an identical particle and in addition to that one atom occupies the body centre. Those atoms which occupy the corners do not touch each other, however they all touch the one that occupies the body centre. Hence, each atom is surrounded by eight nearest neighbours and coordination number is 8. An atom present at the body centre belongs to only to a particular unit cell i.e. unshared by other unit cell.
 
@@ -143,6 +172,8 @@ $$
 $$
 
 #### 6.5.3 Face centered cubic unit cell (FCC)
+
+![](fcc.png)
 
 In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The atoms in the face centre is being shared by two unit cells, each atom in the face centers makes \(\left(\frac{1}{2}\right)\) contribution to the unit cell.
 
@@ -245,13 +276,19 @@ $$
 
 ### 6.6 Packing in crystals:
 
+![](crystale.png)
+
 Let us consider the packing of fruits for display in fruit stalls. They are in a closest packed arrangement as shown in the following fig. we can extend this analogy to visualize the packing of constituents (atoms / ions / molecules) in crystals, by treating them as hard spheres. To maximize the attractive forces between the constituents, they generally tend to pack together as close as possible to each other. In this portion we discuss how to pack identical spheres to create cubic and hexagonal unit cell. Before moving on to these three dimensional arrangements, let us first consider the two dimensional arrangement of spheres for better understanding.
 
 #### 6.6.1 Linear arrangement of spheres in one direction:
 
+![](linear.png)
+
 In a specific direction, there is only one possibility to arrange the spheres in one direction as shown in the fig. in this arrangement each sphere is in contact with two neighbouring spheres on either side.
 
 #### 6.6.2 Two dimensional close packing:
+
+![](two.png)
 
 Two dimensional planar packing can be done in the following two different ways.
 
@@ -261,17 +298,23 @@ Linear arrangement of spheres in one direction is repeated in two dimension i.e.
 
 #### (ii) ABAB.. Type:
 
+![](abab.png)
+
 In this type, the second row spheres are arranged in such a way that they fit in the depression of the first row as shown in the figure. The second row is denoted as B type. The third row is arranged similar to the first row A, and the fourth one is arranged similar to second one. i.e., the pattern is repeated as ABAB.... In this arrangement each sphere is in contact with 6 of its neighbouring spheres.
 
 On comparing these two arrangements (AAAA...type and ABAB...type) we found that the closest arrangement is ABAB...type.
 
 #### 6.6.3 Simple cubic arrangement:
 
+![](simple.png)
+
 This type of three dimensional packing arrangements can be obtained by repeating the AAAA type two dimensional arrangements in three dimensions. i.e., spheres in one layer sitting directly on the top of those in the previous layer so that all layers are identical. All spheres of different layers of crystal are perfectly aligned horizontally and also vertically, so that any unit cell of such arrangement as simple cubic structure as shown in fig.
 
 In simple cubic packing, each sphere is in contact with 6 neighbouring spheres - Four in its own layer, one above and one below and hence the coordination number of the sphere in simple cubic arrangement is 6.
 
 **Packing efficiency:**
+
+![](packaging.png)
 
 There is some free space between the spheres of a single layer and the spheres of successive layers. The percentage of total volume occupied by these constituent spheres gives the packing efficiency of an arrangement. Let us calculate the packing efficiency in simple cubic arrangement,
 
@@ -305,9 +348,13 @@ i.e., only \(52.38\%\) of the available volume is occupied by the spheres in sim
 
 In this arrangement, the spheres in the first layer (A type) are slightly separated and the second layer is formed by arranging the spheres in the depressions between the spheres in layer A as shown in figure. The third layer is a repeat of the first. This pattern ABABAB is repeated throughout the crystal. In this arrangement, each sphere has a coordination number of 8, four neighbors in the layer above and four in the layer below.
 
+![](centered.png)
+
 **Packing efficiency:**
 
 Here, the spheres are touching along the leading diagonal of the cube as shown in the fig.
+
+![](eff.png)
 
 In \(\triangle ABC\)
 
@@ -357,9 +404,13 @@ i.e., \(68\%\) of the available volume is occupied. The available space is used 
 
 **Formation of first layer:**
 
+![](hexa.png)
+
 In this arrangement, the first layer is formed by arranging the spheres as in the case of two dimensional ABAB arrangements i.e. the spheres of second row fit into the depression of first row. Now designate this first layer as a. The next layer is formed by placing the spheres in the depressions of the first layer. Let the second layer be b.
 
 **Formation of second layer:**
+
+![](hexa2.png)
 
 In the first layer a there are two types of voids (or holes) and they are designated as \(x\) and \(y\). The second layer (b) can be formed by placing the spheres either on the depression (voids/holes) \(x\) or on \(y\). let us consider the formation of second layer by placing the spheres on the depression (\(x\)).
 
@@ -384,7 +435,11 @@ In both hcp and ccp arrangements, the coordination number of each sphere is 12 -
 
 The cubic close packing is based on the face centered cubic unit cell. Let us calculate the packing efficiency in fcc unit cell.
 
+![](aba.png)
+
 From the figure \(AC = 4r\)
+
+![](for.png)
 
 $$
 4r = a\sqrt{2} \Rightarrow r = \frac{a\sqrt{2}}{4}
@@ -432,6 +487,8 @@ According to the law of nature nothing is perfect, and so crystals need not be p
 
 In this portion, we concentrate on point defects, more specifically in ionic solids. Point defects are further classified as follows.
 
+![](class.png)
+
 ### Stoichiometric defects in ionic solid:
 
 This defect is also called intrinsic (or) thermodynamic defect. In stoichiometric ionic crystals, a vacancy of one ion must always be associated with either by the absence of another oppositely charged ion (or) the presence of same charged ion in the interstitial position so as to maintain the electrical neutrality.
@@ -440,13 +497,19 @@ This defect is also called intrinsic (or) thermodynamic defect. In stoichiometri
 
 Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. This effect does not change the stoichiometry of the crystal. Ionic solids in which the cation and anion are of almost of similar size show Schottky defect. Example: NaCl.
 
+![](sch.png)
+
 Presence of large number of Schottky defects in a crystal, lowers
 
 #### 6.7.2 Frenkel defect:
 
+![](fre.png)
+
 Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. This defect is shown by ionic solids in which cation and anion differ in size. Unlike Schottky defect, this defect does not affect the density of the crystal. For example \(AgBr\), in this case, small \(Ag^{+}\) ion leaves its normal site and occupies an interstitial position as shown in the figure.
 
 #### 6.7.3 Metal excess defect:
+
+![](metex.png)
 
 Metal excess defect arises due to the presence of more number of metal ions as compared to anions. Alkali metal halides NaCl, KCl show this type of defect. The electrical neutrality of the crystal can be maintained by the presence of anionic vacancies equal to the excess metal ions (or) by the presence of extra cation and electron present in interstitial position.
 
@@ -455,6 +518,8 @@ For example, when NaCl crystals are heated in the presence of sodium vapour, \(N
 \(ZnO\) is colourless at room temperature. When it is heated, it becomes yellow in colour. On heating, it loses oxygen and thereby forming free \(Zn^{2+}\) ions. The excess \(Zn^{2+}\) ions move to interstitial sites and the electrons also occupy the interstitial positions.
 
 #### 6.7.4 Metal deficiency defect:
+
+![](defect.png)
 
 Metal deficiency defect arises due to the presence of less number of cations than the anions. This defect is observed in a crystal in which, the cations have variable oxidation states.
 
