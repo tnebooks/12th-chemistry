@@ -19,6 +19,8 @@ After studying this unit, the students will be able to
 - describe the occurrence, properties and uses of noble gases
 - appreciate the importance of p-block elements and their compounds in day today life.
 
+# INTRODUCTION
+
 We have already learnt the general characteristics of p-block elements and the first two group namely icosagens (boron group) and tetragens (carbon group) in the previous unit. In this unit we learn the remaining p-block groups, pnictogens, chalcogens, halogens and inert gases.
 
 ### 3.1 Group 15 (Nitrogen group) elements
@@ -59,6 +61,12 @@ $$
 
 $$
 6\mathrm{NH}_3 + 3\mathrm{Br}_2 \longrightarrow 6\mathrm{NH}_4\mathrm{Br} + \mathrm{N}_2
+$$
+
+It can also be obtained by oxidising ammonia using bromine water 
+
+$$
+8\mathrm{NH}_3 + 3\mathrm{Br}_2 \longrightarrow 6\mathrm{NH}_4\mathrm{Br} + \mathrm{N}_2
 $$
 
 ##### Properties
@@ -515,41 +523,69 @@ Phosphorus is highly reactive and has the following important chemical propertie
 
 **Reaction with oxygen:** Yellow phosphorus readily catches fire in air giving dense white fumes of phosphorus pentoxide. Red phosphorus also reacts with oxygen on heating to give phosphorus trioxide or phosphorus pentoxide.
 
-$$
-4\mathrm{P} + 3\mathrm{O_2} \longrightarrow 2\mathrm{P_2O_3}
-$$
+\[
+P_4 + 3O_2 \xrightarrow{\Delta} P_4O_6
+\]
+Phosphorus trioxide
 
-$$
-4\mathrm{P} + 5\mathrm{O_2} \longrightarrow 2\mathrm{P_2O_5}
-$$
+\[
+P_4 + 5O_2 \xrightarrow{\Delta} P_4O_{10}
+\]
+Phosphorus pentaoxide
 
-**Reaction with halogens:** Phosphorus reacts with halogens to form trihalides and pentahalides.
+**Reaction with chlorine:** Phosphorus reacts with chlorine to form tri and penta chloride. Yellow phosphorus reacts violently at room temperature, while red phosphorus reacts on heating
 
-$$
-\mathrm{P_4 + 6Cl_2} \longrightarrow 4\mathrm{PCl_3}
-$$
+\[
+P_4 + 6Cl_2 \xrightarrow{\Delta} 4PCl_3
+\]
+Phosphorus trichloride
 
-$$
-\mathrm{P_4 + 10Cl_2} \longrightarrow 4\mathrm{PCl_5}
-$$
+\[
+P_4 + 10Cl_2 \xrightarrow{\Delta} 4PCl_5
+\]
+Phosphorus pentachloride
 
-**Reaction with metals:** Phosphorus combines with metals to form metal phosphides.
+**Reaction with alkali:** Yellow phosphorus reacts with alkali on boiling in an inert atmosphere liberating phosphine. Here phosphorus acts as reducing agent.
 
-$$
-3\mathrm{Ca} + 2\mathrm{P} \longrightarrow \mathrm{Ca_3P_2}
-$$
+\[
+P_4 + 3NaOH + 3H_2O \xrightarrow{\Delta} 3NaH_2PO_2 + PH_3\uparrow
+\]
+Sodium hypophosphite
 
-$$
-3\mathrm{Mg} + 2\mathrm{P} \longrightarrow \mathrm{Mg_3P_2}
-$$
+**Reaction with nitric acid:** When phosphorus is treated with conc. nitric acid it is oxidised to phosphoric acid. This reaction is catalysed by iodine crystals.
 
-**Reaction with alkali:** White phosphorus reacts with boiling alkali to give phosphine.
+\[
+P_4 + 20HNO_3 \xrightarrow{\Delta} 4H_3PO_4 + 20NO_2 + 4H_2O
+\]
+Orthophosphoric acid
 
-$$
-4\mathrm{P_4 + 3NaOH + 3H_2O} \longrightarrow 3\mathrm{NaH_2PO_2 + PH_3}
-$$
+**Reaction with metals:** Phosphorus reacts with metals like Ca and Mg to give phosphides. Metals like sodium and potassium react with phosphorus vigorously.
+
+\[
+P_4 + 6Mg \xrightarrow{\Delta} 2Mg_3P_2
+\]
+Magnesium phosphide
+
+\[
+P_4 + 6Ca \xrightarrow{\Delta} 2Ca_3P_2
+\]
+Calcium phosphide
+
+\[
+P_4 + 12Na \xrightarrow{\Delta} 4Na_3P
+\]
+Sodium phosphide
+
+---
+
+**Uses of phosphorus:**
+
+1. The red phosphorus is used in the match boxes
+2. It is also used for the production of certain alloys such as phosphor bronze
 
 #### 3.1.9 Phosphine \( \mathrm{(PH_3)} \)
+
+Phosphine is the most important hydride of phosphorus 
 
 ##### Preparation
 
@@ -753,6 +789,8 @@ In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron
 ![](img3.6.png)
 
 <center>Figure 3.6 Structure of \( \mathrm{P_4O_6} \)</center>
+
+pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ bonding and results in considerable double bond character. In P4O10 each P atoms form three bonds to oxygen atom and also an additional coordinate bond with an oxygen atom. Terminal P-O bond length is 143 pm, which is less than the expected single bond distance. This may be due to lateral overlap of filled p orbitals of an oxygen atom with empty d orbital on phosphorous.
 
 ![](img3.7.png)
 
@@ -1494,6 +1532,30 @@ $$
 
 **Formation of addition compounds:** Chlorine forms addition products with sulphur dioxide, carbon monoxide and ethylene. It forms substituted products with alkanes/arenes.
 
+\[
+SO_2 + Cl_2 \rightarrow SO_2Cl_2
+\]
+
+
+\[
+CO + Cl_2 \rightarrow COCl_2
+\]
+
+
+\[
+CH_4 + 2Cl_2 \rightarrow CH_2Cl_2
+\]
+
+
+\[
+CH_4 + Cl_2 \rightarrow CH_3Cl + HCl
+\]
+
+
+\[
+CH_4 + Cl_2 \rightarrow CH_3Cl + HCl
+\]
+
 ##### Uses of chlorine
 
 1. Purification of drinking water
@@ -1699,9 +1761,13 @@ Each halogen combines with other halogens to form a series of compounds called i
 ##### Properties of inter halogen compounds
 
 i. The central atom will be the larger one.
+
 ii. It can be formed only between two halogens and not more than two halogens.
+
 iii. Fluorine can't act as a central atom being the smallest one.
+
 iv. Due to high electronegativity with small size, fluorine helps the central atom to attain high coordination number.
+
 v. They can undergo autoionization.
 
 $$
