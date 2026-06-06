@@ -33,6 +33,11 @@ Nitro compounds are considered as the derivatives of hydrocarbons. If one of the
 
 #### 13.1.1 Classification of nitrocompounds
 
+Nitroalkanes are represented by the formula, R-NO2 where R is an alkyl group (C H-) n2n+1 .
+Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis
+of type of carbon atom to which the nitro (-NO )2 group is attached. 
+
+
 #### 13.1.2 Nomenclature of nitroalkanes
 
 In the IUPAC nomenclature, the nitroalkanes are named by adding prefix nitro before the name of alkane, the position of the nitro group is indicated by number.
@@ -142,6 +147,9 @@ On direct nitration of nitrobenzene m-dinitrobenzene is obtained.
 **2) Indirect method**
 
 Nitration of nitrobenzene gives m-dinitrobenzene. The following method is adopted for the preparation of p-dinitrobenzene.
+
+Amino group can be directly converted into nitro group, using caro’s acid (H SO ) 25 (or) persulphuric acid (H SO ) 22 8 (or)
+peroxytrifluro acetic acid (F C.CO H) 33 as oxidising agent. 
 
 #### 13.1.7 Physical properties of nitroalkanes
 

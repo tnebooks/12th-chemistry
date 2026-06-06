@@ -46,6 +46,8 @@ These examples prove that adsorption is a surface phenomenon. In contrast to ads
 - The gaseous molecules like \(He, Ne, O_2, N_2, SO_2\) and \(NH_3\) and solutions of \(NaCl\) or \(KCl\) can be adsorbed by suitable adsorbents. These are referred as adsorbates.
 - Silica gel and metals like \(Ni, Cu, Pt, Ag\) and \(Pd\) and certain colloids can act as adsorbents.
 
+### Characteristics of adsorption
+
 1. Adsorption can occur in all interfacial surfaces i.e. the adsorption can occur in between gas-solid, liquid-solid, liquid-liquid, solid-solid and gas-liquid.
 2. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When \(\Delta G\) reaches zero, the equilibrium is attained. We know, \(\Delta G = \Delta H - T\Delta S\) where \(\Delta G\) is Change in Free energy. \(\Delta H\) is Change in enthalpy and \(\Delta S =\) Change in entropy.
 3. When molecules are adsorbed, there is always a decrease in randomness of the molecules. ie, \(\Delta S < 0\), and \(T\Delta S\) is negative. Hence, adsorption is exothermic. Adsorption is a quick process whereas absorption is a slow process. M.C. Bain introduced a term 'sorption' to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
