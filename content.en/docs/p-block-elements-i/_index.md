@@ -818,7 +818,7 @@ $$
 **Structure of carbon dioxide**
 
 Carbon dioxide has a linear structure with equal bond distance for the both C- O bonds. In this molecule there is two C- O sigma bond. In addition there is 3c- 4e bond covering all the three atoms.
-
+![](img2.10.png)
 **Figure 2.10 Structure of carbon dioxide**
 
 **Uses of carbon dioxide**
@@ -889,15 +889,11 @@ $$
 
 The hydrolysis of dialkylchloro silanes \(R_{2}SiCl_{2}\) yields to a straight chain polymer which grown from both the sides
 
-$$
-nR_{2}SiCl_{2} + 2nH_{2}O \longrightarrow [R_{2}SiO]_n + 2nHCl
-$$
+![](silicon1.png)
 
 The hydrolysis of monoalkylchloro silanes \(RSiCl_{3}\) yields to a very complex cross linked polymer. Linear silicones can be converted into cyclic or ring silicones when water molecules is removed from the terminal - OH groups.
 
-$$
-2R_{2}Si(OH)_{2} \longrightarrow R_{2}Si(OH) - O - Si(OH)R_{2} + H_{2}O
-$$
+![](silicon2.png)
 
 **Types of silicones:**
 
