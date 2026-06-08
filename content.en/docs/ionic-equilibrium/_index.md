@@ -425,56 +425,119 @@ $$
 
 Ostwald's dilution law relates the dissociation constant of the weak acid \((K_a)\) with its degree of dissociation \((\alpha)\) and the concentration (c). Degree of dissociation \((\alpha)\) is the fraction of the total number of moles of a substance that dissociates at equilibrium.
 
-For a weak acid \(HA\),
+\[
+\alpha = \frac{\text{Number of moles dissociated}}{\text{total number of moles}}
+\]
 
-$$
-\begin{array}{c|c|c|c}
- & HA & \rightleftharpoons & H^+ & + & A^- \\
-\hline
-\text{Initial concentration} & c & & 0 & & 0 \\
-\text{Concentration at equilibrium} & c(1-\alpha) & & c\alpha & & c\alpha
-\end{array}
-$$
+We shall derive an expression for Ostwald's law by considering a weak acid, i.e. acetic acid (CH\(_3\)COOH). The dissociation of acetic acid can be represented as
 
-Substituting the equilibrium concentration in equation (8.11)
+\[
+\text{CH}_3\text{COOH} \rightleftharpoons \text{H}^+ + \text{CH}_3\text{COO}^-
+\]
 
-$$
-K_a = \frac{(c\alpha)(c\alpha)}{c(1-\alpha)} = \frac{c\alpha^2}{(1-\alpha)}
-$$
+The dissociation constant of acetic acid is,
 
-For weak acids, \(\alpha\) is very small when compared to unity, i.e., \(\alpha << 1\). So, \((1-\alpha) \approx 1\)
+\[
+k_a = \frac{[\text{H}^+][\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]}
+\]
 
-$$
-K_a = c\alpha^2
-$$
+\[
+\text{......(8.13)}
+\]
 
-$$
-\alpha = \sqrt{\frac{K_a}{c}} \quad (8.15)
-$$
+|    | CH\(_3\)COOH | H\(^+\) | CH\(_3\)COO\(^-\) |
+|---|---|---|---|
+| Initial number of moles | 1 | - | - |
+| Degree of dissociation of CH\(_3\)COOH | \(\alpha\) | - | - |
+| Number of moles at equilibrium | \(1 - \alpha\) | \(\alpha\) | \(\alpha\) |
+| Equilibrium concentration | \((1 - \alpha)C\) | \(\alpha C\) | \(\alpha C\) |
 
-Similarly, for a weak base,
+Substituting the equilibrium concentration in equation (8.13)
 
-$$
-K_b = c\alpha^2 \quad \text{and} \quad \alpha = \sqrt{\frac{K_b}{c}} \quad (8.16)
-$$
+\[
+K_a = \frac{(\alpha C)(\alpha C)}{(1 - \alpha)C}
+\]
 
-Thus, from equations (8.15) and (8.16), it is clear that when the concentration c decreases, \(\alpha\) increases. For example, for acetic acid at 298 K, the \(K_a\) is \(1.8 \times 10^{-5}\). For \(1 \times 10^{-2} M\) acid,
+\[
+K_a = \frac{\alpha^2 C}{1 - \alpha}
+\]
 
-$$
-\alpha = \sqrt{\frac{1.8 \times 10^{-5}}{1 \times 10^{-2}}} = \sqrt{1.8 \times 10^{-3}} = \sqrt{18 \times 10^{-4}} = 4.24 \times 10^{-2}
-$$
+\[
+\text{......(8.14)}
+\]
 
-For \(1 \times 10^{-4} M\) acid, \(\alpha = \sqrt{\frac{1.8 \times 10^{-5}}{1 \times 10^{-4}}} = \sqrt{1.8 \times 10^{-1}} = \sqrt{18 \times 10^{-2}} = 0.424\)
+We know that weak acid dissociates only to a very small extent. Compared to one, \(\alpha\) is so small and hence in the denominator \((1 - \alpha) \approx 1\). The above expression (8.14) now becomes,
 
-Thus, when the dilution increases by 100 times, (Concentration decreases from \(1 \times 10^{-2} M\) to \(1 \times 10^{-4} M\)), the dissociation increases by 10 times. Thus, we can conclude that, when dilution increases, the degree of dissociation of weak electrolyte also increases. This statement is known as Ostwald's dilution Law. The concentration of \(H^+ (H_3O^+)\) can be calculated using the \(K_a\) value as below.
+\[
+K_a = \alpha^2 C
+\]
 
-\([H^+] = \alpha c\)
+\[
+\Rightarrow \alpha^2 = \frac{K_a}{C}
+\]
 
-\(\therefore [H^+] = \left(\sqrt{\frac{K_a}{c}}\right) c = \sqrt{K_a c}\)
+\[
+\alpha = \sqrt{\frac{K_a}{C}}
+\]
+
+\[
+\text{......(8.15)}
+\]
+
+Let us consider an acid with \(K_a\) value \(4 \times 10^{-4}\) and calculate the degree of dissociation of that acid at two different concentration \(1 \times 10^{-2}\) M and \(1 \times 10^{-4}\) M using the above expression (8.15)
+
+For \(1 \times 10^{-2}\) M,
+
+\[
+\alpha = \sqrt{\frac{4 \times 10^{-4}}{10^{-2}}} = \sqrt{4 \times 10^{-2}} = 2 \times 10^{-1} = 0.2
+\]
+
+For \( 1 \times 10^{-4} \) M acid,
+
+\[
+\alpha = \sqrt{\frac{4 \times 10^{-4}}{10^{-4}}} = 2
+\]
+
+i.e., When the dilution increases by 100 times (concentration decreases from \( 1 \times 10^{-2} \) M to \( 1 \times 10^{-4} \) M), the dissociation increases by 10 times.
+
+Thus, we can conclude that, when dilution increases, the degree of dissociation of weak electrolyte also increases. This statement is known as **Ostwald’s dilution Law**.
+
+The concentration of \( \text{H}^+ \) (\( \text{H}_3\text{O}^+ \)) can be calculated using the \( K_a \) value as below.
+
+\[
+[\text{H}^+] = \alpha C \quad \text{(Refer table)} \tag{8.16}
+\]
+
+Equilibrium molar concentration of \( [\text{H}^+] \) is equal to \( \alpha C \).
+
+\[
+\therefore [\text{H}^+] = \sqrt{\frac{K_a}{C}} \times C
+\]
+
+\[
+= \sqrt{\frac{K_a C^2}{C}}
+\]
+
+\[
+[\text{H}^+] = \sqrt{K_a C}
+\]
 
 Similarly, for a weak base
 
-\([OH^-] = \sqrt{K_b c}\)
+\[
+K_b = \alpha^2 C \quad \text{and} \quad \alpha = \sqrt{\frac{K_b}{C}}
+\]
+
+\[
+[\text{OH}^-] = \alpha C
+\]
+
+(or)
+
+\[
+[\text{OH}^-] = \sqrt{K_b C}
+\]
+
 
 ## Example 8.4
 
@@ -671,13 +734,14 @@ $$
 [H_3O^+] = K_a \frac{[acid]_{eq}}{[base]_{eq}} \quad (8.20)
 $$
 
-Since the degree of dissociation of the weak acid is very small, its equilibrium concentration is nearly equal to its initial concentration. Similarly, the salt being a strong electrolyte, the concentration of the base (conjugate base) will be equal to the concentration of the salt.
+The weak acid is dissociated only to a small extent. Moreover, due to common ion effect,the dissociation is further suppressed and hence the equilibrium concentration of the acid is nearly equal to the initial concentration of the unionised acid.Similarly, the concentration of the conjugate base is nearly equal to the initial concentration of the added salt. 
 
 $$
 [H_3O^+] = K_a \frac{[acid]}{[salt]}
 $$
 
-Taking logarithms on both sides
+Here [acid] and [salt] represent the initial concentration of the acid and salt, respectively used to prepare the buffer solution
+Taking logarithm on both sides of the equation
 
 $$
 \log[H_3O^+] = \log K_a + \log \frac{[acid]}{[salt]}

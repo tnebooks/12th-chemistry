@@ -19,6 +19,19 @@ After studying this unit the student will be able to
 - discuss the preparation of ethers and explain their chemical reactions.
 - recognise the uses of alcohols and ethers
 
+### Introduction
+
+We have already learnt in eleventh standard that the hydrolysis of an alkyl halide gives an
+alcohol, an organic compound containing hydroxyl (-OH) functional group. Many organic
+compounds containing –OH group play an important role in our body. For example, cholesteryl
+alcohol commonly known as cholesterol is an important component in our cell membrane. Retinol,
+the storage form of vitamin A, finds application in proper functioning of our eyes. Alcohols also
+find application in many areas like medicine, industry, etc., For example, methanol is used as
+an industrial solvent, ethyl alcohol an additive to petrol, isopropyl alcohol as a skin cleanser for
+injection, etc., The hydroxyl group of alcohol can be converted to many other functional groups.
+Hence, alcohols are important resource in synthetic organic chemistry. In this unit, we will learn
+the preparation, properties and uses of alcohols, phenols and ethers. 
+
 ### 11.1 Classification of alcohols
 
 Alcohols can be classified based on the number of hydroxyl groups and the nature of the carbon to which the functional group (-OH) is attached.
@@ -54,9 +67,14 @@ The following table illustrates the IUPAC nomenclature of alcohols.
 
 #### Structure of the functional group of alcohol
 
-The structure of -O-H group which is attached to a \( \mathrm{sp^3} \) hybridised carbon is similar to the structure of -O-H group attached to a hydrogen in water. i.e., 'V' shaped. In such alcohols, one of the \( \mathrm{sp^3} \) hybridised orbital of oxygen overlaps with the \( \mathrm{sp^3} \) hybridised orbital of carbon to form the C-O bond and the other \( \mathrm{sp^3} \) hybridised orbital overlaps with the 1s orbital of hydrogen to form O-H bond. The remaining two hybrid orbitals contain two lone pairs of electrons.
+The structure of -O-H group which is attached to a \( \mathrm{sp^3} \) hybridised carbon is similar to the structure of -O-H group attached to a hydrogen in water. i.e., 'V' shaped. In such alcohols, one of the \( \mathrm{sp^3} \) hybridised orbital of oxygen overlaps with the \( \mathrm{sp^3} \) hybridised orbital of carbon to form the C-O bond and the other \( \mathrm{sp^3} \) hybridised orbital overlaps with the 1s orbital of hydrogen to form O-H bond. The remaining two sp3 hybridised orbitals of oxygen are occupied by two lone pairs of electrons. Due to the lone pair – lone pair repulsion, the C-O-H bond angle in methanol is
+reduced to 108.9° from the regular tetrahedral bond angle of 109.5°.
 
 #### 11.3 Preparation of alcohols
+
+We have already learnt that the nucleophilic substitution reactions of alkyl halides with
+dilute alkali, conversion of alkenes to alcohols by hydration and the preparation of alcohols
+using Grignard reagent in XI standard. These reactions are summarised below.
 
 **1. From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by \( \mathrm{S_N^2} \) reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by \( \mathrm{S_N^1} \) mechanism.
 

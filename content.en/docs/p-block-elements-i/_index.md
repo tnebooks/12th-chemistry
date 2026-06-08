@@ -22,6 +22,28 @@ After studying this unit, the students will be able to
 - discuss the preparation of important, compounds of boron and aluminium
 - discuss the preparation and properties of important compounds of carbon and silicon
 
+
+# INTRODUCTION
+
+We have already learnt the classification of elements into four blocks namely s, p, d and f. We have also learnt the properties of s-block elements and their important compounds in the XI standard. This year we learn the elements of remaining blocks, starting with p-block elements.
+
+The elements in which their last electron enters the ‘p’ orbital, constitute the p-block elements. They are placed in \( 13^\text{th} \) to \( 18^\text{th} \) groups of the modern periodic table and the first member of the groups are B, C, N, O, F and He respectively. These elements have quite varied properties and this block contains nonmetals, metals and metalloids. Nonmetallic elements of this group have more varied properties than metals. The elements of this block and their compounds play an important role in our day to day life, for example, without molecular oxygen we cannot imagine the survival of living system. The most abundant metal aluminium and its alloys have plenty of applications ranging from household utensils to parts of aircraft. The semi conducting nature of elements such as silicon and germanium made a revolutionary change in the field of modern electronics. In this unit we discuss the properties of first three groups (Group 13 - 15) of p-block elements namely boron, carbon and nitrogen family elements and their important compounds.
+
+## 2.1 General trends in properties of p-block elements:
+
+We already learnt that the properties of elements largely depends on their electronic configuration, size, ionisation enthalpy, electronegativity etc... Let us discuss the general trend in such properties of various p-block elements.
+
+### 2.1.1 Electronic configuration and oxidation state:
+
+The p-block elements have a general electronic configuration of \( ns^2 \), \( np^{1-6} \). The elements of each group have similar outer shell electronic configuration and differ only in the value of n (principal quantum number). The elements of group 18 (inert gases) have completely filled p orbitals, hence they are more stable and have least reactivity. The elements of this block show variable oxidation state and their highest oxidation state (group oxidation state) is equal to the total number of valance electrons present in them. Unlike s-block elements which show only positive oxidation state, some of the p-block elements show negative oxidation states also. The halogens have a strong tendency to gain an electron to give a stable halide ion with completely filled electronic configuration and hence -1 oxidation state is more common in halogens. Similarly, the other elements belonging to pnictogen and chalcogen groups also show negative oxidation states.
+
+---
+
+### Evaluate yourself:
+
+Why group 18 elements are called inert gases? Write the general electronic configuration of group 18 elements
+
+
 **Table 2.1 General electronic configurations and oxidation states of p- block elements**
 
 | Group No. | 13 | 14 | 15 | 16 | 17 | 18 |
@@ -720,7 +742,9 @@ Eg. Nickel tetracarbonyl \([Ni(CO)_4]\), Iron pentacarbonyl \([Fe(CO)_5]\), Chro
 **Structure:**
 
 It has a linear structure. In carbon monoxide, three electron pairs are shared between carbon and oxygen. The bonding can be explained using molecular orbital theory as discussed in XI standard. The C- O bond distance is \(1.128\mathrm{\AA}\). The structure can be considered as the resonance hybrid of the following two canonical forms.
-![](img2.9.png)
+
+![](chapter2.png
+)
 **Figure 2.9 Structure of carbon monoxide**
 
 **Uses of carbon monoxide:**

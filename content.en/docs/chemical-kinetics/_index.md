@@ -19,6 +19,16 @@ After studying this unit, the students will be able to
 - discuss the temperature dependence of the rate of a reaction, and
 - explain various factors which affect the rate of a reaction.
 
+# INTRODUCTION
+
+We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( BaCl_2 \) solution and dilute \( H_2SO_4 \) are just mixed, a white precipitate of \( BaSO_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
+
+Chemical kinetics is the study of the rate and the mechanism of chemical reactions, proceeding under given conditions of temperature, pressure, concentration etc.
+
+The study of chemical kinetics not only help us to determine the rate of a chemical reaction, but also useful in optimizing the process conditions of industrial manufacturing processes, organic and inorganic synthesis etc.
+
+In this unit, we discuss the rate of a chemical reaction and the factors affecting it. We also discuss the theories of the reaction rate and temperature dependence of a chemical reaction.
+
 ### 7.1 Rate of a chemical reaction
 
 We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( \mathrm{BaCl}_2 \) solution and dilute \( \mathrm{H}_2\mathrm{SO}_4 \) are just mixed, a white precipitate of \( \mathrm{BaSO}_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
@@ -50,6 +60,8 @@ The concentration of the reactant ([A]) can be measured at different time interv
 During the reaction, the concentration of the reactant decreases i.e. \([A_2] < [A_1]\) and hence the change in concentration \([A_2] - [A_1]\) gives a negative value. By convention the reaction rate is a positive one and hence a negative sign is introduced in the rate expression (equation 7.1).
 
 If the reaction is followed by measuring the product concentration, the rate is given by \( \left(\frac{\Delta[B]}{\Delta t}\right) \) since \([B_2] > [B_1]\), no minus sign is required here.
+
+![](AB.png)
 
 <center>Figure 7.1 change in concentration of A and B for the reaction A → B</center>
 
@@ -98,6 +110,8 @@ x\mathrm{A} + y\mathrm{B} \longrightarrow l\mathrm{C} + m\mathrm{D}
 #### 7.1.2 Average and instantaneous rate
 
 Let us understand the average rate and instantaneous rate by considering the isomerisation of cyclopropane.
+
+![](rate.png)
 
 The kinetics of the above reaction is followed by measuring the concentration of cyclopropane at regular intervals and the observations are shown below. (Table 7.1)
 
@@ -148,7 +162,10 @@ A plot of [cyclopropane] Vs (time) gives a curve as shown in the figure 7.2. Ins
 
 In general, the instantaneous reaction rate at a moment of mixing the reactants \( (t = 0) \) is calculated from the slope of the tangent drawn to the curve. The rate calculated by this method is called initial rate of a reaction.
 
+![](graph.png)
+
 <center>Figure 7.2 Concentration of cyclopropane vs time - graph</center>
+
 
 Let us calculate the instantaneous rate of isomerisation of cyclopropane at different concentrations: \( 2\mathrm{M} \), \( 1\mathrm{M} \) and \( 0.5\mathrm{M} \) from the graph shown in fig 7.2, the results obtained are tabulated below.
 
@@ -479,6 +496,42 @@ This equation is in natural logarithm. To convert it into usual logarithm with b
 2.303 \log \left(\frac{[\mathrm{A}_0]}{[\mathrm{A}]}\right) = k t
 \]
 
+![](plot.png)
+
+\[
+k = \frac{2.303}{t} \log \left( \frac{[A_0]}{[A]} \right) \quad \text{--- (3)}
+\]
+
+Equation (2) can be written in the form \( y = mx + c \) as below
+
+\[
+\ln[A_0] - \ln[A] = kt
+\]
+
+\[
+\ln[A] = \ln[A_0] - kt
+\]
+
+\[
+\Rightarrow y = c + mx
+\]
+
+If we follow the reaction by measuring the concentration of the reactants at regular time interval \( t \), a plot of \( \ln[A] \) against \( t \) yields a straight line with a negative slope. From this, the rate constant is calculated.
+
+**Examples for the first order reaction**
+
+(i) Decomposition of dinitrogen pentoxide
+
+\[
+N_2O_5(g) \longrightarrow 2NO_2(g) + \frac{1}{2}O_2(g)
+\]
+
+(ii) Decomposition of sulphurylchloride; \( SO_2Cl_2(l) \longrightarrow SO_2(g) + Cl_2(g) \)
+
+(iii) Decomposition of the \( H_2O_2 \) in aqueous solution; \( H_2O_2(aq) \longrightarrow H_2O(l) + \frac{1}{2}O_2(g) \)
+
+(iv) Isomerisation of cyclopropane to propene.
+
 #### 7.5.2 Pseudo first order reaction
 
 Kinetic study of a higher order reaction is difficult to follow, for example, in a study of a second order reaction involving two different reactants; the simultaneous measurement of change in the concentration of both the reactants is very difficult. To overcome such difficulties, a second order reaction can be altered to a first order reaction by taking one of the reactant in large excess, such reaction is called pseudo first order reaction. Let us consider the acid hydrolysis of an ester,
@@ -551,7 +604,8 @@ Equation (2) is in the form of a straight line \( y = mx + c \)
 
 A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept of [A\(_0\)].
 
-<center>Figure 7.4: A plot of [A] Vs time for a zero order reaction A → product with initial concentration of \([A] = 0.5\mathrm{M}\) and \(k = 1.5 \times 10^{-2}\ \mathrm{mol}^{-1}\ \mathrm{L}^{-1}\ \mathrm{min}^{-1}\)</center>
+![](initialplot.png)
+
 
 **Examples for a zero order reaction:**
 
@@ -787,6 +841,8 @@ Collision Theory was proposed independently by Max Trautz in 1916 and William Le
 \mathrm{A}_2(g) + \mathrm{B}_2(g) \longrightarrow 2\mathrm{AB}(g)
 \]
 
+![](reaction.png)
+
 <center>Figure 7.5 progress of the reaction</center>
 
 If we consider that, the reaction between \( \mathrm{A}_2 \) and \( \mathrm{B}_2 \) molecules proceeds through collisions between them, then the rate would be proportional to the number of collisions per second.
@@ -820,6 +876,8 @@ f = e^{-40} \approx 4 \times 10^{-18}
 \]
 
 Thus, out of \( 10^{18} \) collisions only four collisions are sufficiently energetic to convert reactants to products. This fraction of collisions is further reduced due to orientation factor i.e., even if the reactant collide with sufficient energy, they will not react unless the orientation of the reactant molecules is suitable for the formation of the transition state.
+
+![](react.png)
 
 <center>Figure 7.6 - Orientation of reactants - schematic representation</center>
 
@@ -866,6 +924,8 @@ v. The observation shows that the solution in test tube B changes to pink colour
 \[
 \mathrm{Mg} + 2\mathrm{H}_2\mathrm{O} \longrightarrow \mathrm{Mg}^{2+} + 2\mathrm{OH}^- + \mathrm{H}_2\uparrow
 \]
+
+![](activity.png)
 
 vi. The resultant solution is basic and it is indicated by phenolphthalein.
 
@@ -1020,6 +1080,8 @@ The physical state of the reactant also plays an important role to influence the
 
 Let us consider another example that you carried out in inorganic qualitative analysis of lead salts. If you mix the aqueous solution of colorless potassium iodide with the colorless solution of lead nitrate, precipitation of yellow lead iodide take place instantaneously, whereas if you mix the solid lead nitrate with solid potassium iodide, yellow coloration will appear slowly.
 
+![](concen.png)
+
 #### 7.9.2 Concentration of the reactants
 
 The rate of a reaction increases with the increase in the concentration of the reactants. The effect of concentration is explained on the basis of collision theory of reaction rates. According to this theory, the rate of a reaction depends upon the number of collisions between the reacting molecules. Higher the concentration, greater is the possibility for collision and hence the rate.
@@ -1039,6 +1101,11 @@ The rate of a reaction increases with the increase in the concentration of the r
 
 Draw a graph between \( \frac{1}{t} \) Vs concentration of sodium thiosulphate. \( \frac{1}{t} \) is a direct measure of rate of reaction and therefore, the increase in the concentration of reactants i.e \( \mathrm{Na}_2\mathrm{S}_2\mathrm{O}_3 \) increases the rate.
 
+![](acti.png)
+
+
+![](glass.png)
+
 #### 7.9.3 Effect of surface area of the reactant
 
 In heterogeneous reactions, the surface areas of the solid reactants play an important role in deciding the rate. For a given mass of a reactant, when the particle size decreases surface area increases. Increase in surface area of reactant leads to more collisions per litre per second, and hence the rate of reaction is increased. For example, powdered calcium carbonate reacts much faster with dilute HCl than with the same mass of \( \mathrm{CaCO}_3 \) as marble chips.
@@ -1053,9 +1120,13 @@ Since, carbon dioxide escapes during reaction, the mass of the flask gets lighte
 
 For the powdered marble chips, the reaction is completed in less time. i.e., rate of a reaction increases when the surface area of a solid reactant is increased.
 
+![](activi.png)
+
 #### 7.9.4 Effect of presence of catalyst
 
 So far we have learnt, that rate of reaction can be increased to certain extent by increasing the concentration, temperature and surface area of the reactant. However significant changes in the reaction can be brought out by the addition of a substance called catalyst. A catalyst is a substance which alters the rate of a reaction without itself undergoing any permanent chemical change. They may participate in the reaction, but are regenerated at the end of the reaction. In the presence of a catalyst, the energy of activation is lowered and hence, greater number of molecules can cross the energy barrier and change over to products, thereby increasing the rate of the reaction.
+
+![](effect.png)
 
 **Activity**
 

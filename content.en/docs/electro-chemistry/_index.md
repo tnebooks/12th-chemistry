@@ -206,6 +206,16 @@ Cell constant \( = \kappa_1 \times R_1 = 2.4 \times 50 = 120\ \mathrm{m}^{-1} \)
 
 If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
 
+Solvent of higher dielectric constant show high conductance in solution.
+
+Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
+increases with the decrease in viscosity.
+
+If the temperature of the electrolytic solution increases, conductance also increases. Increase
+in temperature increases the kinetic energy of the ions and decreases the attractive force between the oppositely charged ions and hence conductivity increases.
+
+Molar conductance of a solution increases with increase in dilution. This is because, for a strong electrolyte, interionic forces of attraction decrease with dilution. For a weak electrolyte, degree of dissociation increases with dilution.
+
 #### 9.1.4 Measurement of conductivity of ionic solutions
 
 We have already learnt to measure the specific resistance of a metallic wire using a metre bridge in your physics practical experiment. We know that it works on the principle of wheatstone bridge. Similarly, the conductivity of an electrolytic solution is determined by using a wheatstone bridge arrangement in which one resistance is replaced by a conductivity cell filled with the electrolytic solution of unknown conductivity.

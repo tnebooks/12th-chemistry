@@ -115,7 +115,8 @@ $$
 (RCOO)_2Ca \xrightarrow{\Delta} R-CO-R + CaCO_3
 $$
 
-**5. Rosenmund reduction**
+ #### B. Preparation of aldehydes
+ **1. Rosenmund reduction**
 
 Aldehydes can be prepared by the hydrogenation of acid chloride, in the presence of palladium supported by barium sulphate. This reaction is called Rosenmund reduction.
 
@@ -129,7 +130,7 @@ In this reaction, barium sulphate act as a catalytic poison to palladium catalys
 
 Formaldehyde and ketones cannot be prepared by this method.
 
-**6. Stephen's reaction**
+**2. Stephen's reaction**
 
 When alkylcyanides are reduced using \(SnCl_2/HCl\), imines are formed, which on hydrolysis gives corresponding aldehyde.
 
@@ -137,7 +138,7 @@ $$
 CH_3-C \equiv N \xrightarrow{SnCl_2/HCl} (H)CH_3-CH=NH \xrightarrow{H_3O^+} CH_3-CHO + NH_3
 $$
 
-**7. Selective reduction of cyanides**
+**3. Selective reduction of cyanides**
 
 Diisobutyl aluminium hydride (DIBAL-H) selectively reduces the alkyl cyanides to form imines which on hydrolysis gives aldehydes.
 

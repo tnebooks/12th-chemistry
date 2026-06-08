@@ -26,6 +26,16 @@ After studying this unit, students will be able to
 - Differentiate RNA from DNA and explain DNA finger printing
 - Appreciate the importance of biomolecules in our life
 
+# Introduction
+
+All living things are made up of many biomolecules such as carbohydrates, proteins, lipids
+and nucleic acids etc... The major elements present in the human body are carbon, hydrogen,
+oxygen, nitrogen and phosphorous, and they combine to form a variety of biomolecules. These
+biomolecules are used as fuel to provide the necessary energy for the various functions of
+living systems in addition to many other biological functions. The field of studying about the
+chemistry behind the biological processes is called ‘Biochemistry’. In this unit, we will learn
+about some essential informations of the biomolecules, their structure and their importance.
+
 ### 14.1 Carbohydrates
 
 All living things are made up of many biomolecules such as carbohydrates, proteins, lipids and nucleic acids etc... The major elements present in the human body are carbon, hydrogen, oxygen, nitrogen and phosphorous, and they combine to form a variety of biomolecules. These biomolecules are used as fuel to provide the necessary energy for the various functions of living systems in addition to many other biological functions. The field of studying about the chemistry behind the biological processes is called 'Biochemistry'. In this unit, we will learn about some essential informations of the biomolecules, their structure and their importance.
@@ -186,6 +196,14 @@ $$
 
 7. On oxidation with nitric acid, it gives glycollic acid and tartaric acids which contain smaller number of carbon atoms than in fructose.
 
+This shows that a keto group is present in C-2. It also shows that 1O alcoholic groups are present at C- 1 and C- 6. Based on these evidences, the following structure is proposed for fructose (Figure 14-7) 
+
+#### Cyclic structure of fructose
+
+Like glucose, fructose also forms cyclic structure. Unlike glucose it forms a five membered
+ring similar to furan. Hence it is called furanose form. When fructose is a component of a
+saccharide as in sucrose, it usually occurs in furanose form. 
+
 #### 14.1.5 Disaccharides
 
 Disaccharides are sugars that yield two molecules of monosaccharides on hydrolysis. This reaction is usually catalysed by dilute acid or enzyme. Disaccharides have general formula \(C_n(H_2O)_{n-1}\). In disaccharides two monosaccharides are linked by oxide linkage called 'glycosidic linkage', which is formed by the reaction of the anomeric carbon of one monosaccharide with a hydroxyl group of another monosaccharide.
@@ -237,6 +255,14 @@ Cellulose is the major constituent of plant cell walls. Cotton is almost pure ce
 **Figure 14.13 Structure of Cellulose**
 
 Cellulose is used extensively in the manufacturing paper, cellulose fibres, rayon explosive (Gun cotton - Nitrated ester of cellulose) and so on. Human cannot use cellulose as food because our digestive systems do not contain the necessary enzymes (glycosidases or cellulases) that can hydrolyse the cellulose.
+
+**Glycogen**
+
+Glycogen: Glycogen is the storage polysaccharide of animals. It is present in the liver and
+muscles of animals. Glycogen is also called as animal starch. On hydrolysis it gives glucose
+molecules. Structurally, glycogen resembles amylopectin with more branching. In glycogen
+the branching occurs every 8-14 glucose units opposed to 24-30 units in amylopectin. The
+excessive glucose in the body is stored in the form of glycogen.
 
 #### 14.1.7 Importance of carbohydrates
 
