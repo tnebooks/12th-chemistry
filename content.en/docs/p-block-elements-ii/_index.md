@@ -463,33 +463,20 @@ $$
 
 **Table: Oxides of Nitrogen**
 
-| Name | Oxidation state | Physical properties | Preparation |
-|---|---|---|---|
-| Nitrous oxide | +1 | | \( \mathrm{NH_4NO_3 \rightarrow N_2O + 2H_2O} \) |
-| Nitric oxide | +2 | | \( 2\mathrm{NaNO_2 + 2FeSO_4 + 3H_2SO_4 \rightarrow Fe(NO_3)_2 + 2H_2O + 2NO} \) |
-| Dinitrogen trioxide (or nitrogen sesquioxide) | +3 | | \( 2\mathrm{NO + NO_2 \rightarrow N_2O_3} \) |
-| Nitrogen dioxide | +4 | | \( 2\mathrm{Pb(NO_3)_2 \rightarrow 4NO_2 + 2PbO + O_2} \) |
-| Dinitrogen tetroxide | +4 | | \( 2\mathrm{NO_2 \rightarrow N_2O_4} \) |
-| Dinitrogen pentoxide | +5 | | \( 2\mathrm{HNO_3 + P_2O_5 \rightarrow N_2O_5 + 2HPO_3} \) |
+![](img3.1.6.png)
 
 **Structures of oxides of nitrogen**
 
-| Name | Formula | Structure |
-|---|---|---|
-| Nitrous oxide | \( \mathrm{N_2O} \) | \( \mathrm{N \equiv N-O: \leftarrow N \equiv N-O:} \) |
-| Nitric oxide | \( \mathrm{NO} \) | \( \mathrm{N-115\ pm\ O} \) |
-| Dinitrogen trioxide | \( \mathrm{N_2O_3} \) | \( \mathrm{O_2N-NO} \) |
-| Nitrogen dioxide | \( \mathrm{NO_2} \) | \( \mathrm{O=N-O:} \) |
-| Dinitrogen tetroxide | \( \mathrm{N_2O_4} \) | \( \mathrm{O_2N-NO_2} \) |
-| Dinitrogen pentoxide | \( \mathrm{N_2O_5} \) | \( \mathrm{O_2N-O-NO_2} \) |
+![](img3.1.6.2.png)
 
 **Structures of oxoacids of nitrogen**
 
-| Name | Formula | Structure |
-|---|---|---|
-| Hyponitrous acid | \( \mathrm{H_2N_2O_2} \) | \( \mathrm{HO-N=N-OH} \) |
-| Nitrous acid | \( \mathrm{HNO_2} \) | \( \mathrm{H-O-N=O} \) |
-| Nitric acid | \( \mathrm{HNO_3} \) | \( \mathrm{H-O-N\equiv O} \) |
+![](img3.1.6.3i.png)
+![](img3.1.6.3ii.png)
+
+**Preparation of oxoacides of nitrogen**
+
+![](img3.1.6.4.png)
 
 #### 3.1.7 Allotropic forms of phosphorus
 
@@ -781,14 +768,8 @@ The common physical properties of the group 16 elements are listed in the Table.
 
 **Table 3.2 Physical properties of group 16 elements**
 
-| Property | Oxygen | Sulphur | Selenium | Tellurium | Polonium |
-|---|---|---|---|---|---|
-| Physical state at 293 K | Gas | Solid | Solid | Solid | Solid |
-| Atomic Number | 8 | 16 | 34 | 52 | 84 |
-| Isotopes | \( ^{16}\mathrm{O} \) | \( ^{32}\mathrm{S} \) | \( ^{80}\mathrm{Se} \) | \( ^{130}\mathrm{Te} \) | \( ^{209}\mathrm{Po}, ^{210}\mathrm{Po} \) |
-| Atomic Mass (g mol\(^{-1}\) at 293 K) | 15.99 | 32.06 | 78.97 | 127.60 | 209 |
-| Electron configuration | \( [\mathrm{He}]2s^2 2p^4 \) | \( [\mathrm{Ne}]3s^2 3p^4 \) | \( [\mathrm{Ar}]3d^{10} 4s^2 4p^4 \) | \( [\mathrm{Kr}]4d^{10} 5s^2 5p^4 \) | \( [\mathrm{Xe}]4f^{14}5d^{10}6s^2 6p^4 \) |
-
+![](img1.png)
+![](img2.png)
 #### 3.2.1 Oxygen
 
 ##### Preparation
@@ -1001,6 +982,7 @@ Sulphuric acid can be manufactured by lead chamber process, cascade process or c
 The contact process involves the following steps:
 
 i. Initially sulphur dioxide is produced by burning sulphur or iron pyrites in oxygen/air.
+![](sulphuric1.png)
 
 ii. Sulphur dioxide formed is oxidised to sulphur trioxide by air in the presence of a catalyst such as \( \mathrm{V_2O_5} \) or platinised asbestos.
 
@@ -1159,18 +1141,8 @@ Sulphur forms many oxoacids. The most important one is sulphuric acid. Some acid
 
 **Various oxoacids of sulphur with their structures**
 
-| Name | Molecular Formula | Structure |
-|---|---|---|
-| Sulphurous acid | \( \mathrm{H_2SO_3} \) | \( \mathrm{HO-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Sulphuric acid | \( \mathrm{H_2SO_4} \) | \( \mathrm{HO-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Thiosulphuric acid | \( \mathrm{H_2S_2O_3} \) | \( \mathrm{HO-S-SH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Dithionous acid | \( \mathrm{H_2S_2O_4} \) | \( \mathrm{HO-S-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Disulphurous acid or Pyrosulphurous acid | \( \mathrm{H_2S_2O_5} \) | \( \mathrm{HO-S-O-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Disulphuric acid or Pyrosulphuric acid | \( \mathrm{H_2S_2O_7} \) | \( \mathrm{HO-S-O-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Peroxymonosulphuric acid (Caro's acid) | \( \mathrm{H_2SO_5} \) | \( \mathrm{HO-S-O-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Peroxodisulphuric acid (Marshall's acid) | \( \mathrm{H_2S_2O_8} \) | \( \mathrm{HO-S-O-O-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Dithionic acid | \( \mathrm{H_2S_2O_6} \) | \( \mathrm{HO-S-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
-| Polythionic acid | \( \mathrm{H_2S_{2n+2}O_6} \) | \( \mathrm{HO-S-(S)_n-S-OH} \) \( \mathrm{||} \) \( \mathrm{O} \) |
+![](oxoacids1.png)
+![](oxoacids2.png)
 
 ### 3.3 Group 17 (Halogen group) elements
 
