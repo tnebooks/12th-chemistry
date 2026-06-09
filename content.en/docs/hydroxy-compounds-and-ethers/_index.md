@@ -1,7 +1,7 @@
 ---
 title: 'Hydroxy Compounds and Ethers'
 categories:
-    - science
+    - hydroxy-compounds-and-ethers
 weight: 11
 summary: "This unit explains the classification, nomenclature, methods of preparation, and chemical reactions of alcohols, phenols, and ethers. It describes tests to distinguish alcohols like Lucas and Victor Meyer tests, the acidity of phenols, and electrophilic aromatic substitution reactions. The unit also highlights the synthesis and cleavage of ethers, along with their important industrial and laboratory applications."
 ---

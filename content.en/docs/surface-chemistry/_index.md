@@ -1,7 +1,7 @@
 ---
 title: 'Surface Chemistry'
 categories:
-    - science
+    - surface-chemistry
 weight: 10
 summary: "This unit explains the core concepts of surface chemistry, focusing on adsorption, catalysis, and their respective mechanisms. It describes the classification, preparation, and purification of colloids, along with their characteristic properties like Brownian movement and the Tyndall effect. The unit also highlights coagulation, types of emulsions, and the diverse applications of surface phenomena in daily life."
 ---

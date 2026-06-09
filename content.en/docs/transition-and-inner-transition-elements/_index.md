@@ -1,7 +1,7 @@
 ---
 title: 'Transition and Inner Transition Elements'
 categories:
-    - science
+    - transition-and-inner-transition-elements
 weight: 4
 summary: "This unit explains the chemistry of transition and inner transition elements, focusing on d-block and f-block elements in the periodic table. It describes their electronic configurations, variable oxidation states, magnetic properties, and formation of colored compounds. The unit also highlights the importance of these elements in catalysts, alloys, and industrial applications."
 ---

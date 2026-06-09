@@ -1,7 +1,7 @@
 ---
 title: 'Ionic Equilibrium'
 categories:
-    - science
+    - ionic-equilibrium
 weight: 8
 summary: "This unit explains ionic equilibrium in aqueous solutions, including acid-base theories and the self-ionization of water. It describes the pH scale, Ostwald's dilution law, the common ion effect, and the mechanism of buffer solutions. The unit also highlights salt hydrolysis and the solubility product of sparingly soluble salts."
 ---
