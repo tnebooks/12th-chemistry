@@ -8,20 +8,6 @@ summary: "This unit explains the chemistry of coordination compounds, focusing o
  
 # 5. COORDINATION CHEMISTRY
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- define important terms in coordination chemistry
-- nomenclature the coordination compounds in accordance with the guidelines of IUPAC
-- describe different types of isomerism in coordination compounds
-- discuss the postulates of Werner's theory of coordination compounds
-- predict the geometry of coordination compounds using valence bond theory
-- apply crystal field theory to explain the colour and magnetic properties of coordination compounds
-- differentiate high spin and low spin coordination compounds
-- explain the stability of coordination compounds in terms of stability constants.
-- explain the applications of coordination compounds in day to day life
-
 ## INTRODUCTION
 
 We have already learnt in the previous unit that the transition metals have a tendency to form complexes (coordination compounds). The name is derived from the Latin words 'complexus' and 'coordinate' which mean 'hold' and 'to arrange' respectively. The complexes of transition metals have interesting properties and differ from simple ionic and covalent compounds. For example, chromium(III) chloride hexahydrate, \( \mathrm{CrCl_3.6H_2O} \) exists as purple, pale green or dark green compound. In addition to metals, certain non metals also form coordination compounds but have less tendency than d block elements. Coordination compounds play a vital role in the biological functions, and have wide range of catalytic applications in chemical industries. For example, haemoglobin, the oxygen transporter of human is a coordination compound of iron, and cobalamine, an essential vitamin is a coordination compound of cobalt. Chlorophyll, a pigment present in plants acting as a photo sensitiser in the photosynthesis is also a coordination compound. Various coordination compounds such as Wilkinson's compound, Ziegler Natta compound are used as catalysts in industrial processes. Hence, it is important to understand the chemistry of coordination compounds. In this unit we study the nature, bonding, nomenclature, isomerism and applications of the coordination compounds.

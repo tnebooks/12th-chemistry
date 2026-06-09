@@ -8,22 +8,6 @@ summary: "This unit explains electrochemical cells, metallic and electrolytic co
 
 # 9. ELECTRO CHEMISTRY
 
-## Learning Objectives
-
-After learning this unit, the students will be able to
-
-- Recognize the conductivity of electrolytic solution
-- Define the terms resistivity, conductivity equivalent and molar conductivity
-- Explain the variation of conductivity with concentration
-- Apply Kohlrausch law to calculate the conductivity of weak electrolyte at infinite dilution.
-- Describe an electrochemical cell
-- Differentiate between an electrochemical and electrolytic cell
-- Represent a galvanic cell using IUPAC cell notation
-- Derive Nernst equation and apply it to calculate \( E_{\text{cell}} \)
-- Define Faraday's Law of electrolysis
-- Describe the construction of batteries
-- Explain corrosion as an electrochemical process.
-
 ## INTRODUCTION
 
 We have come across many materials in our life, and they can be broadly classified into conductors, semiconductors and insulators based on their electrical conductivity. You might have noticed that conducting materials such as copper, aluminium etc., are used to transport electrical energy from one place to another place, and the insulating materials such as PVC, Bakelite etc., in switches, circuit boards etc. Do you know how the electrical energy is generated? We know from first Law of thermodynamics that energy can neither be created nor be destroyed, but one form of energy can be converted into another form. It is not possible to create electrical energy but we can generate electrical energy in many ways i.e., by converting solar energy, wind energy, tidal energy etc. one such way is converting chemical energy into electrical energy as in the case of batteries. We cannot imagine a modern technological world without batteries. Hence it is important to know the principles behind this type of energy conversion. The branch of chemistry that deals with the study of electrical energy transport and the inter conversion of electrical and chemical energy is called electrochemistry. Electrochemical reactions are redox reactions and they involve the transfer of electron from one substance to another.

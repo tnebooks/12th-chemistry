@@ -8,17 +8,6 @@ summary: "This unit continues the study of p-block elements, focusing on importa
 
 # 3. p-BLOCK ELEMENTS-II
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- discuss the preparation and properties of important compounds of nitrogen and phosphorus
-- describe the preparation and properties of important compounds of oxygen and sulphur
-- describe the preparation, properties of halogens and hydrogen halides
-- explain the chemistry of inter-halogen compounds
-- describe the occurrence, properties and uses of noble gases
-- appreciate the importance of p-block elements and their compounds in day today life.
-
 # INTRODUCTION
 
 We have already learnt the general characteristics of p-block elements and the first two group namely icosagens (boron group) and tetragens (carbon group) in the previous unit. In this unit we learn the remaining p-block groups, pnictogens, chalcogens, halogens and inert gases.

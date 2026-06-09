@@ -8,17 +8,6 @@ summary: "This unit explains the rate of chemical reactions and the factors affe
 
 # 7. CHEMICAL KINETICS
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- define the rate and order of a reaction,
-- derive the integrated rate equations for zero and first order reactions,
-- describe the half life period,
-- describe the collision theory,
-- discuss the temperature dependence of the rate of a reaction, and
-- explain various factors which affect the rate of a reaction.
-
 # INTRODUCTION
 
 We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( BaCl_2 \) solution and dilute \( H_2SO_4 \) are just mixed, a white precipitate of \( BaSO_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
