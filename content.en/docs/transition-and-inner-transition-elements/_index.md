@@ -99,16 +99,7 @@ Since, the energy required to form \(Ni^{2+}\) is less than that of \(Pt^{2+}\),
 
 The first transition metal Scandium exhibits only \(+3\) oxidation state, but all other transition elements exhibit variable oxidation states by losing electrons from (n- 1)d orbital and ns orbital as the energy difference between them is very small. Let us consider the 3d series; the following table summarizes the oxidation states of the 3d series elements.
 
-| Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu |
-|---|---|---|---|---|---|---|---|---|
-| | | | \(+7\) | | | | | |
-| | | | \(+6\) | \(+6\) | | | | |
-| | | \(+5\) | \(+5\) | \(+5\) | | | | |
-| | | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | | |
-| | \(+3\) | \(+4\) | \(+4\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| | | \(+3\) | \(+3\) | \(+2\) | \(+2\) | \(+2\) | \(+2\) | \(+2\) |
-| | | | | | | | \(+3\) | \(+2\) |
-| | | | | | | | | \(+1\) |
+![](img4.3.4.png)
 
 At the beginning of the series, \(+3\) oxidation state is stable but towards the end \(+2\) oxidation state becomes stable.
 
@@ -226,6 +217,8 @@ The chemical industries manufacture a number of products such as polymers, flavo
 Many industrial processes use transition metals or their compounds as catalysts. Transition metal has energetically available d orbitals that can accept electrons from reactant molecule or metal can form bond with reactant molecule using its d electrons. For example, in the catalytic hydrogenation of an alkene, the alkene bonds to an active site by using its \(\pi\) electrons with an empty d orbital of the catalyst.
 
 The \(\sigma\) bond in the hydrogen molecule breaks, and each hydrogen atom forms a bond with a d electron on an atom in the catalyst. The two hydrogen atoms then bond with the partially broken \(\pi\)- bond in the alkene to form an alkane.
+
+![](img4.3.7.png)
 
 In certain catalytic processes the variable oxidation states of transition metals find applications. For example, in the manufacture of sulphuric acid from \(SO_3\), vanadium pentoxide \((V_2O_5)\) is used as a catalyst to oxidise \(SO_2\). In this reaction \(V_2O_5\) is reduced to vanadium (IV) Oxide \((VO_2)\).
 
@@ -680,11 +673,7 @@ Similarly Cerium and Terbium attain \(4f^{0}\) and \(4f^{7}\) configurations res
 
 The stability of different oxidation states has an impact on the properties of these elements. the following table shows the different oxidation states of lanthanoids.
 
-| Ce | Pr | Nd | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| \(+2\) | | | | \(+2\) | \(+2\) | | | | | | | \(+2\) | |
-| \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| \(+4\) | \(+4\) | \(+4\) | | | | | \(+4\) | | | | | | |
+![](lanthanoids.png)
 
 ## Atomic and ionic radii:
 
@@ -754,14 +743,7 @@ Like lanthanoids, the most common state of actinoids is \(+3\). In addition to t
 
 The elements Americium(Am) and Thorium (Th) show \(+2\) oxidation state in some compounds, for example thorium iodide \((ThI_2)\). The elements Th, Pa, U, Np, Pu and Am show \(+5\) oxidation states. Np and Pu exhibit \(+7\) oxidation state.
 
-| Th | Pa | U | Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | | | \(+2\) | | | | | | | | |
-| \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | | | | | | |
-| | \(+5\) | \(+5\) | \(+5\) | \(+5\) | \(+5\) | | | | | | | | |
-| | | \(+6\) | \(+6\) | \(+6\) | | | | | | | | | |
-| | | | \(+7\) | \(+7\) | | | | | | | | | |
+![](actinoids.png)
 
 **Differences between lanthanoids and actinoids:**
 

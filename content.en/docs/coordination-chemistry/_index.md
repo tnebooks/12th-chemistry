@@ -22,6 +22,10 @@ Swiss chemist Alfred Werner was the first one to propose a theory of coordinatio
 
 Let us consider the different coloured complexes of cobalt(III) chloride with ammonia which exhibit different properties as shown below.
 
+![](img5.2.1.png)
+
+i want that book to run in vs code itself, edg
+
 To explain this behaviour Werner postulated his theory as follows
 
 1. Most of the elements exhibit, two types of valence namely primary valence and secondary valence and each element tend to satisfy both the valences. In modern terminology, the primary valence is referred as the oxidation state of the metal atom and the secondary valence as the coordination number. For example, according to Werner, the primary and secondary valences of cobalt are 3 and 6 respectively.
@@ -40,11 +44,7 @@ To explain this behaviour Werner postulated his theory as follows
 
 The following table illustrates the Werner's postulates.
 
-| Complex | Groups satisfy the secondary valence (non-ionisable, inner coordination sphere) | No. of ionisable Cl- ions in the complex (outer coordination sphere) | No. of moles of AgCl formed = no. of moles of ionisable Cl- |
-|---|---|---|---|
-| \( \mathrm{CoCl_3.6NH_3} \) | \( 6\mathrm{NH_3} \) | \( 3\mathrm{Cl^-} \) | \( 3\mathrm{AgCl} \) |
-| \( \mathrm{CoCl_3.5NH_3} \) | \( 5\mathrm{NH_3} \) and \( 1\mathrm{Cl^-} \) | \( 2\mathrm{Cl^-} \) | \( 2\mathrm{AgCl} \) |
-| \( \mathrm{CoCl_3.4NH_3} \) | \( 4\mathrm{NH_3} \) and \( 2\mathrm{Cl^-} \) | \( 1\mathrm{Cl^-} \) | \( 1\mathrm{AgCl} \) |
+![](img5.2.2.png)
 
 #### 5.2.1 Limitations of Werner's theory
 
@@ -144,96 +144,27 @@ i. The name of anionic ligands ends with the letter 'o' and the cationic ligand 
 
 ii. A \( \kappa \)-term is used to denote an ambidentate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanate-\( \kappa S \) and if nitrogen is involved, then it is named thiocyanate-\( \kappa N \).
 
-| Common name | Formula | IUPAC ligand name |
-|---|---|---|
-| Bromide | \( \mathrm{Br^-} \) | bromido |
-| Chloride | \( \mathrm{Cl^-} \) | chlorido |
-| Fluoride | \( \mathrm{F^-} \) | fluorido |
-| Cyanide | \( \mathrm{CN^-} \) | cyanido |
-| Hydroxide | \( \mathrm{OH^-} \) | hydroxido |
-| Carbonate | \( \mathrm{CO_3^{2-}} \) | carbonato |
-| Nitrate | \( \mathrm{NO_3^-} \) | nitrato |
-| Nitrite | \( \mathrm{NO_2^-} \) | \( \mathrm{NO_2^-} \); nitrito-\( \kappa N \) \( \mathrm{ONO^-} \); nitrito-\( \kappa O \) |
-| Sulphate | \( \mathrm{SO_4^{2-}} \) | sulphato |
-| Sulphide | \( \mathrm{S^{2-}} \) | sulphido |
-| Oxalate (ox) | \( \mathrm{C_2O_4^{2-}} \) | oxalato |
-| Ethylenediamine (en) | \( \mathrm{H_2N-CH_2-CH_2-NH_2} \) | ethane-1,2-diamine |
-| Triphenylphosphine | \( \mathrm{P(Ph)_3} \) | triphenylphosphane |
-| Pyridine (py) | \( \mathrm{C_5H_5N} \) | pyridine |
+![](ligand.png)
 
 iii. If the coordination entity contains more than one ligand of a particular type, the multiples of ligand (2, 3, 4 etc.) is indicated by adding appropriate Greek prefixes (di, tri, tetra, etc.) to the name of the ligand. If the name of a ligand itself contains a Greek prefix (eg. ethylenediamine), use an alternate prefixes (bis, tris, tetrakis etc.) to specify the multiples of such ligands. These numerical prefixes are not taken into account for alphabetising the name of ligands.
 
 **b. Naming the central metal:** In cationic/neutral complexes, the element name is used as such for naming the central metal atom/ion, whereas, a suffix 'ate' is used along with the element name in anionic complexes. The oxidation state of the metal is written immediately after the metal name using roman numerals in parenthesis.
 
-| Element | Name of the metal in |
-|---|---|
-| | cationic complex | anionic complex |
-| Chromium | Chromium | Chromate |
-| Zinc | Zinc | Zincate |
-| Aluminium | Aluminium | Aluminate |
-| Iron | Iron | Ferrate |
-| Copper | Copper | Cuprate |
-| Cobalt | Cobalt | Cobaltate |
-| Lead | Lead | Plumbate |
-| Silver | Silver | Argentate |
-| Tin | Tin | Stannate |
-| Gold | Gold | Aurate |
-| Platinum | Platinum | Platinate |
+![](naming.png)
 
 **Naming of coordination compounds using IUPAC guidelines.**
 
 **Example 1:**
 
-| Coordination Compound : \( \mathrm{K_4[Fe(CN)_6]} \) |
-|---|
-| Cation (Simple) | \( \mathrm{K^+} \) | Potassium |
-| Anion (complex) | \( [\mathrm{Fe(CN)_6}]^{4-} \) | |
-| Ligands | \( \mathrm{CN^-} \) | |
-| Name of the ligand with prefix | 6 ligands - prefix: hexa | hexacyanido-\( \kappa C \) |
-| | Anionic ligand: cyanido-\( \kappa C \) | |
-| | (Coordinating atom in \( \mathrm{CN^-} \) is carbon) | |
-| Central metal | \( \mathrm{Fe} \) (in anionic complex) | ferrate |
-| Oxidation state of central metal (x) | \( x + 6(-1) = -4 \) | |
-| | \( x = -4 + 6 = +2 \) | (II) |
-| **IUPAC Name:** | **Potassium hexacyanido-\( \kappa C \) ferrate(II)** | |
+![](eg1.png)
 
 **Example 2:**
 
-| Coordination Compound: \( [\mathrm{Co(NH_3)_4Cl_2}]Cl \) |
-|---|
-| Cation (complex) | \( [\mathrm{Co(NH_3)_4Cl_2}]^+ \) | |
-| Ligands | \( \mathrm{NH_3} \) and \( \mathrm{Cl^-} \) | |
-| Name of the ligand (\( \mathrm{NH_3} \)) with prefix | 4 ligands - prefix: tetra | tetraammine |
-| | Neutral ligand: ammine | |
-| Name of the ligand (\( \mathrm{Cl^-} \)) with prefix | 2 ligands - prefix: di | dichlorido |
-| | (alphabetically ammine comes before chloride) | |
-| | Anionic ligand: chloride | |
-| Central metal | \( \mathrm{Co} \) (in cationic complex) | cobalt |
-| Oxidation state of central metal (x) | \( x + 4(0) + 2(-1) = +1 \) | |
-| | \( x = 1 + 2 = +3 \) | (III) |
-| Anion (simple) | \( \mathrm{Cl^-} \) | chloride |
-| **IUPAC Name:** | **Tetraamminedichloridocobalt(III) chloride** | |
+![](eg2.png)
 
 **Example 3:**
 
-| Coordination Compound: \( [\mathrm{Cr(en)_3][CrF_6]} \) |
-|---|
-| Cation (complex) | \( [\mathrm{Cr(en)_3}]^{3+} \) | |
-| Ligands | en - (ethylenediamine) | |
-| Name of the ligand with prefix | 3 ligands - prefix: tris | tris(ethane-1,2-diamine) |
-| (Ligand itself contains a Greek prefix - di, use alternate prefix) | | |
-| | Neutral ligand: ethane-1,2-diamine | |
-| Central metal | \( \mathrm{Cr} \) (in cationic complex) | chromium |
-| Oxidation state of central metal (x) | \( x + 3(0) = +3 \) | |
-| | \( x = +3 \) | (III) |
-| Anion (Complex) | \( [\mathrm{CrF_6}]^{3-} \) | |
-| Ligands | \( 6\mathrm{F^-} \) | |
-| Name of the ligand with prefix | 6 ligands - prefix: hexa | hexafluorido |
-| | Anionic ligand: fluorido | |
-| Central metal | \( \mathrm{Cr} \) (in anionic complex) | chromate |
-| Oxidation state of central metal (x) | \( x + 6(-1) = -3 \) | |
-| | \( x = -3 + 6 = +3 \) | (III) |
-| **IUPAC Name:** | **Tris(ethane-1,2-diamine)chromium(III) hexafluoridochromate(III)** | |
+![](eg3.png)
 
 **More examples with names are given in the list below for better understanding of IUPAC Nomenclature:**
 
@@ -443,51 +374,23 @@ Let us illustrate the VBT by considering the following examples.
 
 **Illustration 1**
 
-| Complex | \( [\mathrm{Ni(CO)_4}] \) |
-|---|---|
-| Central metal atom and its outer electronic configuration | Ni: 3d\(^8\), 4s\(^2\) |
-| Nature of ligand | CO (Strong field ligand) causes the pairing of 4s electron with 3d electrons in the metal |
-| Outer orbitals of metal atom/ion in presence of ligand | 3d\(^{10}\) 4s\(^0\) 4p\(^0\) |
-| Hybridisation | Coordination number - 4; Hybridisation - sp\(^3\) |
-| Geometry | Tetrahedral |
-| Magnetic property | No. of unpaired electrons = 0; Hence diamagnetic |
-| Magnetic moment (Using spin only formula) | \( \mu_s = \sqrt{n(n+2)} = 0 \) |
+![](illus1.png)
 
 **Illustration 2**
 
-| Complex | \( [\mathrm{Ni(CN)_4}]^{2-} \) |
-|---|---|
-| Central metal atom/ion and its outer electronic configuration | Ni\(^{2+}\): 3d\(^8\), 4s\(^0\) |
-| Nature of ligand | CN\(^-\) (Strong field ligand) causes the pairing of 3d electrons in the metal |
-| Outer orbitals of metal atom/ion in presence of ligands | 3d\(^8\) 4s\(^0\) 4p\(^0\) |
-| Hybridisation | Coordination number - 4; Hybridisation - dsp\(^2\) |
-| Geometry | Square planar |
-| Magnetic property | No. of unpaired electrons = 0; Hence diamagnetic |
-| Magnetic moment (Using spin only formula) | \( \mu_s = \sqrt{n(n+2)} = 0 \) |
+![](illus2.png)
 
 **Illustration 3**
 
-| Complex | \( [\mathrm{Fe(CN)_6}]^{3-} \) |
-|---|---|
-| Central metal atom/ion and its outer electronic configuration | Fe\(^{3+}\): 3d\(^5\), 4s\(^0\) |
-| Nature of ligand | CN\(^-\) (Strong field ligand) causes the pairing of 3d electrons in the metal |
-| Outer orbitals of metal atom/ion in presence of ligands | 3d\(^5\) 4s\(^0\) 4p\(^0\) |
-| Hybridisation | Coordination number - 6; Hybridisation - d\(^2\)sp\(^3\) |
-| Geometry | Octahedral (In this complex inner d orbitals are involved in hybridisation and hence the complex is called inner orbital complex) |
-| Magnetic property | No. of unpaired electrons = 1; Hence paramagnetic |
-| Magnetic moment (Using spin only formula) | \( \mu_s = \sqrt{n(n+2)} = \sqrt{1(1+2)} = 1.732\ \mathrm{BM} \) |
+![](illus3.1.png)
+
+![](illus3.2.png)
 
 **Illustration 4**
 
-| Complex | \( [\mathrm{CoF_6}]^{3-} \) |
-|---|---|
-| Central metal atom and its outer electronic configuration | Co\(^{3+}\): 3d\(^6\), 4s\(^0\) |
-| Nature of ligand | Weak field ligand and hence no pairing of 3d electrons in the metal |
-| Outer orbitals of metal atom/ion in presence of ligand | 3d\(^6\) 4s\(^0\) 4p\(^0\) |
-| Hybridisation | Coordination number - 6; Hybridisation - sp\(^3\)d\(^2\) |
-| Geometry | Octahedral (In this complex outer d orbitals are involved in the hybridisation and hence the complex is called outer orbital complex) |
-| Magnetic property | No. of unpaired electrons = 4; Hence paramagnetic |
-| Magnetic moment (Using spin only formula) | \( \mu_s = \sqrt{n(n+2)} = \sqrt{4(4+2)} = 4.899\ \mathrm{BM} \) |
+![](illus4.1.png)
+
+![](illus4.2.png)
 
 **Limitations of VBT**
 
@@ -561,15 +464,7 @@ The magnitude of crystal field splitting energy not only depends on the ligand f
 
 where h is the Planck's constant; c is velocity of light, \( \bar{\nu} \) is the wave number of absorption maximum which is equal to \( 1/\lambda \)
 
-| \( [\mathrm{TiBr_6}]^{3-} \) | \( [\mathrm{TiF_6}]^{3-} \) | \( [\mathrm{Ti(H_2O)_6}]^{3+} \) |
-|---|---|---|
-| \( \Delta = hc\bar{\nu} \) | \( \Delta = hc\bar{\nu} \) | \( \Delta = hc\bar{\nu} \) |
-| \( = (6.626 \times 10^{-34}\ \mathrm{Js}) \times (3 \times 10^8\ \mathrm{ms^{-1}}) \times (12500 \times 10^2\ \mathrm{m^{-1}}) \) | \( = (6.626 \times 10^{-34}\ \mathrm{Js}) \times (3 \times 10^8\ \mathrm{ms^{-1}}) \times (19000 \times 10^2\ \mathrm{m^{-1}}) \) | \( = (6.626 \times 10^{-34}\ \mathrm{Js}) \times (3 \times 10^8\ \mathrm{ms^{-1}}) \times (20000 \times 10^2\ \mathrm{m^{-1}}) \) |
-| \( = 248475 \times 10^{-24}\ \mathrm{J} \) | \( = 377682 \times 10^{-24}\ \mathrm{J} \) | \( = 397560 \times 10^{-24}\ \mathrm{J} \) |
-| \( = 2.48 \times 10^{-22}\ \mathrm{kJ} \) | \( = 3.78 \times 10^{-22}\ \mathrm{kJ} \) | \( = 3.98 \times 10^{-22}\ \mathrm{kJ} \) |
-| To express \( \Delta \) on a per mole basis, multiply it by Avogadro number | To express \( \Delta \) on a per mole basis, multiply it by Avogadro number | To express \( \Delta \) on a per mole basis, multiply it by Avogadro number |
-| \( = (2.48 \times 10^{-22}\ \mathrm{kJ}) \times (6.023 \times 10^{23}\ \mathrm{mol^{-1}}) \) | \( = (3.78 \times 10^{-22}\ \mathrm{kJ}) \times (6.023 \times 10^{23}\ \mathrm{mol^{-1}}) \) | \( = (3.98 \times 10^{-22}\ \mathrm{kJ}) \times (6.023 \times 10^{23}\ \mathrm{mol^{-1}}) \) |
-| \( = 149.4\ \mathrm{kJ\ mol^{-1}} \) | \( = 227.7\ \mathrm{kJ\ mol^{-1}} \) | \( = 239.7\ \mathrm{kJ\ mol^{-1}} \) |
+![](crystal.png)
 
 From the above calculations, it is clear that the crystal field splitting energy of the \( \mathrm{Ti^{3+}} \) in complexes with the three ligands is in the order; \( \mathrm{Br^-} < \mathrm{F^-} < \mathrm{H_2O} \). Similarly, it has been found from the spectral data that the crystal field splitting power of various ligands for a given metal ion, are in the following order
 
@@ -642,7 +537,11 @@ These metal carbonyls do not contain any bridging carbonyl ligands. They may be 
 
 (i) Non-bridged metal carbonyls which contain only terminal carbonyls.
 
+![](metal1.png)
+
 (ii) Non-bridged metal carbonyls which contain terminal carbonyls as well as Metal-Metal bonds. For examples, The structure of \( \mathrm{Mn_2(CO)_{10}} \) actually involves only a metal-metal bond, so the formula is more correctly represented as \( (\mathrm{CO})_5\mathrm{Mn} - \mathrm{Mn}(\mathrm{CO})_5 \)
+
+![](metal2.png)
 
 Other examples of this type are, \( \mathrm{Tc_2(CO)_{10}} \) and \( \mathrm{Re_2(CO)_{10}} \).
 
@@ -652,7 +551,11 @@ These metal carbonyls contain one or more bridging carbonyl ligands along with t
 
 (i) The structure of \( \mathrm{Fe_2(CO)_9} \) di-iron nonacarbonyl molecule consists of three bridging CO ligands, six terminal CO groups.
 
+![](metal3.png)
+
 (ii) For dicobalt octacarbonyl \( \mathrm{Co_2(CO)_8} \) two isomers are possible. One has a metal-metal bond between the cobalt atoms, and the other has two bridging CO ligands.
+
+![](metal4.png)
 
 #### Bonding in metal carbonyls
 
@@ -813,6 +716,8 @@ Cisplatin is a square planar coordination complex (cis- \( [\mathrm{Pt(NH_3)_2Cl
 It is a platinum-based anticancer drug. This drug undergoes hydrolysis and reacts with DNA to produce various crosslinks. These crosslinks hinder the DNA replication and transcription, which results in cell growth inhibition and ultimately cell death.
 
 It also crosslinks with cellular proteins and inhibits mitosis.
+
+![](cis.png)
 
 ## Summary
 
