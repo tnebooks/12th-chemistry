@@ -1,7 +1,7 @@
 ---
 title: 'Metallurgy'
 categories:
-    - science
+    - metallurgy
 weight: 1
 summary: "This unit explains the principles of metallurgy, focusing on the extraction of metals from their ores and the processes involved in purification. It covers key steps such as concentration, roasting, calcination, reduction, and refining techniques used to obtain pure metals. The unit also highlights the importance of alloys and their applications in daily life and industry."
 ---

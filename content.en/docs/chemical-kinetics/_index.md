@@ -1,7 +1,7 @@
 ---
 title: 'Chemical Kinetics'
 categories:
-    - science
+    - chemical-kinetics
 weight: 7
 summary: "This unit explains the rate of chemical reactions and the factors affecting it, such as concentration, temperature, and catalysts. It describes the integrated rate equations for zero and first-order reactions, half-life periods, and pseudo-first-order reactions. The unit also highlights the collision theory of reaction rates and the effect of temperature on reaction rates via the Arrhenius equation."
 ---

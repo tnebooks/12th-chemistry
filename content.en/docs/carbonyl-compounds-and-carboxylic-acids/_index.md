@@ -1,7 +1,7 @@
 ---
 title: 'Carbonyl Compounds and Carboxylic Acids'
 categories:
-    - science
+    - carbonyl-compounds-and-carboxylic-acids
 weight: 12
 summary: "This unit explains the nomenclature, methods of preparation, and chemical mechanisms of aldehydes, ketones, and carboxylic acids. It describes nucleophilic addition reactions of the carbonyl group alongside important named reactions like honest Aldol and Cannizzaro condensations. The unit also highlights the acidity of carboxylic acids, the synthesis of their functional derivatives, and their industrial applications."
 ---
