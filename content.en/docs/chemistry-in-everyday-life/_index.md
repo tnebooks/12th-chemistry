@@ -8,20 +8,6 @@ summary: "This unit explains the vital importance of chemistry in daily life, fo
 
 # 15. CHEMISTRY IN EVERYDAY LIFE
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- recognize the term drug and chemotherapy
-- classify the drugs based on their properties
-- describe the drug-target interaction
-- discuss some important classes of drugs.
-- explain the chemistry of cleansing agents
-- describe the chemicals in food
-- explain the important terms in polymer chemistry.
-- describe the preparation of some important synthetic polymers
-- appreciate the importance of polymers in today life
-
 ## INTRODUCTION
 
 Chemistry touches every aspect of our lives. The three basic requirement of our life: food, clothes, shelter are all basically chemical compounds. In fact, life itself is a complicated system of interrelated chemical process. In this unit, we will learn the chemistry involved in the field of medicines, food materials, cleansing agents and polymers.

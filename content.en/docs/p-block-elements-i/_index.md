@@ -12,17 +12,6 @@ Kenneth wade (1932- 2014)
 
 Kenneth Wade, was a British chemist, and professor emeritus at Durham University. He developed a method for the prediction of shapes of borane clusters. Wade's rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. For his substantial contribution, Kenneth Wade was granted FRS award from royal society, London In 1989. He received the Tilden prize award in 1999 from the Royal Society of Chemistry for advances in chemistry.
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- describe the general trends in the properties of p-block elements
-- explain the anomalous properties of the first element of p-block groups
-- discuss the preparation, properties and uses of boron
-- discuss the preparation of important, compounds of boron and aluminium
-- discuss the preparation and properties of important compounds of carbon and silicon
-
-
 # INTRODUCTION
 
 We have already learnt the classification of elements into four blocks namely s, p, d and f. We have also learnt the properties of s-block elements and their important compounds in the XI standard. This year we learn the elements of remaining blocks, starting with p-block elements.

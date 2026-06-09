@@ -12,19 +12,6 @@ Peter Joseph William Debye
 
 Peter Joseph William Debye was Dutch-American physicist greatly contributed to the theory of electrolyte solutions. He also studied the dipole moments of molecules, Debye won the Nobel Prize in Chemistry (1936) for his contributions to the determination of molecular structure through his investigations on dipole moments and X-rays diffraction.
 
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- classify the substances into acids and bases based on Arrhenius, Lowry - Bronsted and Lewis concepts.
-- define pH scale and establish relationship between pH and pOH
-- describe the equilibrium involved in the ionisation of water.
-- explain Ostwald's dilution Law and derive a relationship between the dissociation constant and degree of dissociation of a weak electrolyte.
-- recognise the concept of common ion effect and explain buffer action.
-- apply Henderson equation for the preparation of buffer solution
-- calculate solubility product and understand the relation between solubility and solubility product.
-- solve numerical problems involving ionic equilibria.
-
 ## INTRODUCTION
 
 We have already learnt the chemical equilibrium in XI standard. In this unit, we discuss the ionic equilibria, specifically acid - base equilibria. Some of the important processes in our body involve aqueous equilibria. For example, the carbonic acid - bicarbonate buffer in the blood.

@@ -12,20 +12,6 @@ G.N. Ramachandran
 
 Dr. G.N. Ramachandran received Master's Degree in Physics from Madras University. In 1954, he identified and published the Triple helical structure of Collagen using X-ray diffraction. He pioneered the field of protein structure validation through the study of available crystal structures of peptides. From his studies, in 1962, he developed the Ramachandran Plot which is used even today for stereochemical validation of protein structures.
 
-## Learning Objectives
-
-After studying this unit, students will be able to
-
-- Describe the importance of carbohydrates and their classification based on structures/functions.
-- Explain the structure of glucose and fructose and their elucidation.
-- List the twenty amino acids and explain the peptide bond formation
-- Explain the four levels of structure of proteins
-- Outline the mechanism of enzyme catalysis
-- Summarise the sources and deficiency diseases of vitamins
-- Outline the composition and the structure of nucleic acids.
-- Differentiate RNA from DNA and explain DNA finger printing
-- Appreciate the importance of biomolecules in our life
-
 # Introduction
 
 All living things are made up of many biomolecules such as carbohydrates, proteins, lipids

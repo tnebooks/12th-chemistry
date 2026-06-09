@@ -8,17 +8,6 @@ summary: "This unit explains the classification, nomenclature, methods of prepar
 
 # 11. HYDROXY COMPOUNDS AND ETHERS
 
-## Learning Objectives
-
-After studying this unit the student will be able to
-
-- describe the important methods of preparation and reactions of alcohols
-- explain the mechanism of Nucleophilic substitution reaction of alcohols and ethers.
-- explain the elimination reaction of alcohols.
-- describe the preparation and properties of phenols
-- discuss the preparation of ethers and explain their chemical reactions.
-- recognise the uses of alcohols and ethers
-
 ### Introduction
 
 We have already learnt in eleventh standard that the hydrolysis of an alkyl halide gives an
