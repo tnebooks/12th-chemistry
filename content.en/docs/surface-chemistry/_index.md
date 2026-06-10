@@ -102,8 +102,8 @@ When amount of adsorption is plotted versus temperature at constant pressure it 
 
 Adsorption isobars of physisorption and chemisorption are different as represented in the graphs.
 
+![](1.png)
 **Figure 10.1 (a) Physical Adsorption**
-
 **Figure 10.1 (b) Chemical Adsorption**
 
 \(x\) is the amount of adsorbate adsorbed on \(m\) g of adsorbent.
@@ -138,6 +138,7 @@ $$
 \log \frac{x}{m} = \log K + \frac{1}{n} \log p
 $$
 
+![](2.png)
 **Figure 10.2 \(\log \frac{x}{m}\) vs \(\log p\) graph**
 
 Hence the intercept represents the value of \(\log k\) and the slope gives \(\frac{1}{n}\).
@@ -177,6 +178,8 @@ Ion exchange resins are working only based on the process of adsorption. Ion exc
 $$
 2RSO_3H + Ca^{2+} (Mg^{2+}) \rightarrow (RSO_3)_2Ca(Mg) + 2H^+
 $$
+
+![](3.png)
 
 5. **Petroleum refining and refining of vegetable oil**
 
@@ -315,6 +318,8 @@ $$
 $$
 
 (vi) In the presence of anhydrous \(AlCl_3\), benzene reacts with ethanol chloride to produce acetophenone
+
+![](4.png)
 
 #### 10.2.1 Characteristics of catalysts
 
@@ -499,6 +504,8 @@ The various steps involved in a heterogeneous catalysed reaction are given as fo
 4. The product molecules are desorbed.
 5. The product diffuse away from the surface of the catalyst.
 
+![](5.png)
+
 **Figure 10.3 Hydrogenation of ethylene in presence of a nickel catalyst.**
 
 **Active centres**
@@ -510,6 +517,8 @@ The presence of such active centres increases the rate of reaction by adsorbing 
 The adsorption theory explains the following
 
 i. Increase in the surface area of metals and metal oxides by reducing the particle size increases acting of the catalyst and hence the rate of the reaction.
+
+![](6.png)
 
 **Figure 10.4 Finely divided catalyst is more effective due to increase in the number of active centres.**
 
@@ -559,6 +568,8 @@ $$
 
 Where E is the enzyme, S the substrate (reactant), ES represents activated complex and P the products.
 
+![](7.png)
+
 **Figure 10.5 Mechanism of Enzyme Catalysis**
 
 Enzyme catalysed reaction show certain general special characteristics.
@@ -597,7 +608,11 @@ Activity of an enzyme is decreased and destroyed by a poison.
 
 The physiological action of drugs is related to their inhibiting action.
 
+![](8.png)
+
 **Figure 10.6 Rate vs Temperature**
+
+![](9.png)
 
 **Figure 10.7 Rate vs pH**
 
@@ -658,6 +673,8 @@ So phase transfer catalyst, speeds up the reaction by transporting one reactant 
 
 Nano materials such a metallic nano particles, metal oxides, etc., are used as catalyst in many chemical transformation. Nanocatalysts carry the advantages of both homogeneous and heterogeneous catalyses. Like homogeneous catalysts, the nanocatalysts give \(100\%\) selective transformations and excellent yield and show extremely high activity. Like the heterogeneous catalysts, nanocatalysts can be recovered and recycled. Nanocatalysts are actually soluble heterogeneous catalysts. An example for nanoparticles catalysed reaction is given below
 
+![](10.png)
+
 ### 10.5 Colloid, Dispersion phase and dispersion medium
 
 Origin of study of colloid starts with Thomas Graham who observed diffusion of that a solution of sugar, urea or sodium chloride through a membrane but not glue, gelatine or gum. He called the former substances as crystalloids and the latter as colloids (In Greek, kola as gum, eidos- like).
@@ -716,6 +733,8 @@ ii. **Condensation method:** In this method, smaller atom or molecules are conve
 
 Using a colloid mill, the solid is ground to colloidal dimension. The colloid mill consists of two metal plates rotating in opposite direction at very high speed of nearly 7000 revolution / minute.
 
+![](11.png)
+
 **Figure 10.8 Colloid mill**
 
 The colloidal particles of required colloidal size is obtained by adjusting the distance between two plates.
@@ -728,6 +747,8 @@ A brown colloidal solution of platinum was first prepared by George Bredig in 18
 
 Svedberg modified this method for the preparation of non aqueous inflammable liquids like
 
+![](12.png)
+
 **Figure 10.9 Bredig's arc method**
 
 pentane, ether and benzene, etc using high frequency alternating current which prevents the decomposition of liquid.
@@ -735,6 +756,8 @@ pentane, ether and benzene, etc using high frequency alternating current which p
 **(iii) Ultrasonic dispersion**
 
 Sound waves of frequency more than \(20 \ \mathrm{kHz}\) (audible limit) could cause transformation of coarse suspension to colloidal dimensions.
+
+![](13.png)
 
 **Figure: 10.10 Ultrasonic dispersion**
 
@@ -834,6 +857,8 @@ In the Dialysis, recycling of patient's blood is done through considerable lengt
 
 The presence of electric field increases the speed of removal of electrolytes from colloidal solution. The colloidal solution containing an electrolyte as impurity is placed between two dialysing membranes enclosed into two compartments filled with water. When current is passed, the impurities pass into water compartment and get removed periodically. This process is faster than dialysis, as the rate of diffusion of electrolytes is increased by the application of electricity.
 
+![](14.png)
+
 **Figure 10.11 Electro Dialysis**
 
 **(iii) Ultrafiltration**
@@ -879,13 +904,18 @@ Unlike true solution, colloids diffuse less readily through membranes.
 
 The colloidal solutions show colligative properties i.e. elevation of boiling point, depression in freezing point and osmotic pressure. Measurements of osmotic pressure is used to find molecular weight of colloidal particle.
 
+
 **9) Shape of colloidal particles**
 
 It is very interesting to know the various shapes of colloidal particles. Here are some examples
 
+![](15.png)
+
 **10) Optical property**
 
 Colloids have optical property. When a homogeneous solution is seen in the direction of light, it appears clear but it appears dark, in a perpendicular direction.
+
+![](16.png)
 
 **Figure 10.12 Tyndall effect**
 
@@ -903,6 +933,8 @@ This can be explained as follows
 
 The colloidal sol particles are continuously bombarded with the molecules of the dispersion medium and hence they follow a zigzag, random, continuous movement.
 
+![](17.png)
+
 **Figure 10.13 Brownian movement**
 
 **Importance of Brownian movement**
@@ -919,6 +951,8 @@ III. to understand the stability of colloids: As the particles in continuous rap
 
 The surface of colloidal particle adsorbs one type of ion due to preferential adsorption. This layer attracts the oppositely charged ions in the medium and hence at the boundary separating the two electrical double layers are setup. This is called as Helmholtz electrical double layer.
 
+![](18.png)
+
 **Figure 10.14 Electrical double layer**
 
 As the particles nearby are having similar charges, they cannot come close and condense. Hence this helps to explain the stability of a colloid.
@@ -929,18 +963,17 @@ When electric potential is applied across two platinum electrodes dipped in a hy
 
 This migration of sol particles under the influence of electric field is called electrophoresis or cataphoresis. If the sol particles migrate to the cathode, then they possess positive \((+)\) charges, and if the sol particles migrate to the anode then they have negative charges \((-)\). Thus from the direction of migration of sol particles we can determine the charge of the sol particles. Hence electrophoresis is used for detection of presence of charges on the sol particles.
 
+![](19.png)
+
 **Figure 10.15 Electrophoresis**
 
 Few examples of charges of sols detected by electrophoresis are given below:
 
-| Positively charged colloids | Negatively charged colloids |
-|---|---|
-| Ferric hydroxide | Ag, Au & Pt |
-| Aluminium hydroxide | Arsenic sulphide |
-| Basic dyes | Clay |
-| Haemoglobin | Starch |
+![](20.png)
 
 **(iii) Electro osmosis**
+
+![](21.png)
 
 **Figure 10.16 Electro osmosis**
 
@@ -1099,6 +1132,8 @@ Latex is the emulsion of natural rubber with negative particles. By heating rubb
 
 Sewage contains dirt, mud and wastes dispersed in water. The passage of electric current deposits the wastes materials which can be used as a manure.
 
+![](22.png)
+
 **Figure 10.17 Sewage disposal**
 
 **(vi) Cortrell's precipitator**
@@ -1116,6 +1151,8 @@ The electrolyte in sea and river water coagulates the solid particles in river w
 Qualitative and quantitative analysis are based on the various properties of colloids.
 
 Hence we can conclude that in our life, there is hardly any field which is not including the applications of colloids.
+
+![](23.png)
 
 ## EVALUATION
 
