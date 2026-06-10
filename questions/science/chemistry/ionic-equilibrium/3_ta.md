@@ -1,9 +1,9 @@
 ﻿---
 choices:
-  - "\( 1.08 \times 10^{-14} \text{ mol}^2 \text{L}^{-2} \)"
-  - "\( 1.08 \times 10^{-12} \text{ mol}^2 \text{L}^{-2} \)"
-  - "\( 1.08 \times 10^{-10} \text{ mol}^2 \text{L}^{-2} \)"
-  - "\( 1.08 \times 10^{-8} \text{ mol}^2 \text{L}^{-2} \)"
+  - '\( 1.08 \times 10^{-14} \text{ mol}^2 \text{L}^{-2} \)'
+  - '\( 1.08 \times 10^{-12} \text{ mol}^2 \text{L}^{-2} \)'
+  - '\( 1.08 \times 10^{-10} \text{ mol}^2 \text{L}^{-2} \)'
+  - '\( 1.08 \times 10^{-8} \text{ mol}^2 \text{L}^{-2} \)'
 answers:
   - ""
 ---

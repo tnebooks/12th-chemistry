@@ -1,9 +1,9 @@
 ﻿---
 choices:
-  - "\( \text{N}(\text{CH}_3)_3 > (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > \text{NH}_3 \)"
-  - "\( \text{CH}_3\text{NH}_2 > (\text{CH}_3)_2\text{NH} > (\text{CH}_3)_3\text{N} > \text{NH}_3 \)"
-  - "\( \text{NH}_3 > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_2\text{NH} > (\text{CH}_3)_3\text{N} \)"
-  - "\( (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_3\text{N} > \text{NH}_3 \)"
+  - '\( \text{N}(\text{CH}_3)_3 > (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > \text{NH}_3 \)'
+  - '\( \text{CH}_3\text{NH}_2 > (\text{CH}_3)_2\text{NH} > (\text{CH}_3)_3\text{N} > \text{NH}_3 \)'
+  - '\( \text{NH}_3 > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_2\text{NH} > (\text{CH}_3)_3\text{N} \)'
+  - '\( (\text{CH}_3)_2\text{NH} > \text{CH}_3\text{NH}_2 > (\text{CH}_3)_3\text{N} > \text{NH}_3 \)'
 answers:
   - ""
 ---

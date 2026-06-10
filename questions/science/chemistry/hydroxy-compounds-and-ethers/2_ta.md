@@ -1,9 +1,9 @@
 ﻿---
 choices:
-  - "\( CH_3CH(OH)CH_2CH_3 \)"
-  - "\( CH_3-CH(OH)-CH_3 \)"
-  - "\( CH_3C(OH)(CH_3)_2 \)"
-  - "\( CH_3-CH_2-CH(OH)-CH_2-CH_3 \)"
+  - '\( CH_3CH(OH)CH_2CH_3 \)'
+  - '\( CH_3-CH(OH)-CH_3 \)'
+  - '\( CH_3C(OH)(CH_3)_2 \)'
+  - '\( CH_3-CH_2-CH(OH)-CH_2-CH_3 \)'
 answers:
   - ""
 ---
