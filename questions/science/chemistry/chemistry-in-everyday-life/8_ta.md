@@ -1,9 +1,9 @@
 ﻿---
 choices:
-  - "\( CH_2=CH-CH=CH_2 \)"
-  - "\( CH_2=CH-CH=CHCl \)"
-  - "\( CH_2 = CH-CH=CH_2 \)"
-  - "\( CH_2 = C-CH=CH_2 \)"
+  - '\( CH_2=CH-CH=CH_2 \)'
+  - '\( CH_2=CH-CH=CHCl \)'
+  - '\( CH_2 = CH-CH=CH_2 \)'
+  - '\( CH_2 = C-CH=CH_2 \)'
 answers:
   - ""
 ---

@@ -1,9 +1,9 @@
 ﻿---
 choices:
-  - "\( [\text{H}^+] = \frac{K_a [\text{அமிலம்}]}{[\text{உப்பு}]} \)"
-  - "\( [\text{H}^+] = K_a [\text{உப்பு}] \)"
-  - "\( [\text{H}^+] = K_a [\text{அமிலம்}] \)"
-  - "\( [\text{H}^+] = \frac{K_a [\text{உப்பு}]}{[\text{அமிலம்}]} \)"
+  - '\( [\text{H}^+] = \frac{K_a [\text{அமிலம்}]}{[\text{உப்பு}]} \)'
+  - '\( [\text{H}^+] = K_a [\text{உப்பு}] \)'
+  - '\( [\text{H}^+] = K_a [\text{அமிலம்}] \)'
+  - '\( [\text{H}^+] = \frac{K_a [\text{உப்பு}]}{[\text{அமிலம்}]} \)'
 answers:
   - ""
 ---
