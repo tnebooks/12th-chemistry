@@ -732,8 +732,8 @@ Eg. Nickel tetracarbonyl \([Ni(CO)_4]\), Iron pentacarbonyl \([Fe(CO)_5]\), Chro
 
 It has a linear structure. In carbon monoxide, three electron pairs are shared between carbon and oxygen. The bonding can be explained using molecular orbital theory as discussed in XI standard. The C- O bond distance is \(1.128\mathrm{\AA}\). The structure can be considered as the resonance hybrid of the following two canonical forms.
 
-![](chapter2.png
-)
+![](chapter2.png)
+
 **Figure 2.9 Structure of carbon monoxide**
 
 **Uses of carbon monoxide:**
@@ -807,7 +807,9 @@ $$
 **Structure of carbon dioxide**
 
 Carbon dioxide has a linear structure with equal bond distance for the both C- O bonds. In this molecule there is two C- O sigma bond. In addition there is 3c- 4e bond covering all the three atoms.
+
 ![](img2.10.png)
+
 **Figure 2.10 Structure of carbon dioxide**
 
 **Uses of carbon dioxide**
