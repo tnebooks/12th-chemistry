@@ -28,6 +28,7 @@ Where 'R' is the resistance of the solution in ohm \( (\Omega) \)
 
 Here the resistance is the opposition that a cell offers to the flow of electric current through it.
 
+![](img9.1.png)
 <center>Figure 9.1 conductivity cell</center>
 
 Let us consider a conductivity cell in which the electrolytic solution is confined between the two electrodes having cross sectional area (A) and are separated by a distance 'l'. Like the metallic conductor, the resistance of such an electrolytic solution is also directly proportional to the length \( (l) \) and inversely proportional to the cross sectional area (A).
@@ -58,6 +59,7 @@ Substitute (R) from (9.2) in (9.3)
 \Rightarrow \text{i.e., } C = \frac{1}{\rho} \frac{A}{l} \qquad \text{(9.4)}
 \]
 
+![](img9.2.png)
 <center>Fig 9.2 conductivity of a cube of an electrolytic solution</center>
 
 The reciprocal of the specific resistance \( \left(\frac{1}{\rho}\right) \) is called the specific conductance (or conductivity). It is represented by the symbol kappa \( (\kappa) \)
@@ -141,7 +143,7 @@ Calculate the molar conductance of \( 0.025\ \mathrm{M} \) aqueous solution of c
 \[
 = 481.6 \times 10^{-5}\ \mathrm{S\ m}^2 \mathrm{mol}^{-1}
 \]
-
+![](img9.3.png)
 #### 9.1.2 Equivalent conductance \( (\Lambda) \)
 
 Equivalent conductance is defined as the conductance of \( V'\ \mathrm{m}^3 \) of electrolytic solution containing one gram equivalent of electrolyte in a conductivity cell in which the electrodes are one metre apart. The relation between the equivalent conductance and the specific conductance is given below.
@@ -219,7 +221,7 @@ Under balanced condition,
 \[
 \therefore R = \frac{P}{Q} \times S
 \]
-
+![](img9.4.png)
 <center>Fig 9.3 Schematic diagram of a conductivity cell in a wheatstone bridge circuit</center>
 
 The resistance of the electrolytic solution (R) is calculated from the known resistance values P, Q and the measured 'S' value under balanced condition using the above expression (9.10).
@@ -268,13 +270,7 @@ R = 190\ \Omega
 
 Friedrich Kohlrausch studied the molar conductance of different electrolytes at different concentrations. He observed that, increase of the molar conductance of an electrolytic solution with the increase in the dilution. One such experimental results is given in the following table for better understanding.
 
-| Concentration (M) | Molar conductance (\( \times 10^{-3}\ \mathrm{S\ m}^2 \mathrm{mol}^{-1} \)) |
-|---|---|
-| | NaCl | KCl | HCl |
-| 0.1 | 10.674 | 12.896 | 39.132 |
-| 0.01 | 11.851 | 14.127 | 41.200 |
-| 0.0001 | 12.374 | 14.695 | 42.136 |
-
+![](img9.5.png)
 Based on the above such results, Kohlrausch deduced the following empirical relationship between the molar conductance \( (\Lambda_{\mathrm{m}}) \) and the concentration of the electrolyte (C).
 
 \[
@@ -286,7 +282,7 @@ The above equation represents a straight line of the form \( y = mx + c \). Henc
 For strong electrolytes such as KCl, NaCl etc., the plot, \( \Lambda_{\mathrm{m}} \) Vs \( \sqrt{C} \), gives a straight line as shown in the graph (9.4). It is also observed that the plot is not a linear one for weak electrolytes.
 
 For a strong electrolyte, at high concentration, the number of constituent ions of the electrolyte in a given volume is high and hence the attractive force between the oppositely charged ions is also high. Moreover the ions also experience a viscous drag due to greater solvation. These factors attribute for the low molar conductivity at high concentration. When the dilution increases, the ions are far apart and the attractive forces decrease.
-
+![](img9.6.png)
 <center>Figure 9.4 Variation of molar conductance with concentration</center>
 
 At infinite dilution the ions are so far apart, the interaction between them becomes insignificant and hence, the molar conductivity increases and reaches a maximum value at infinite dilution.
@@ -454,7 +450,7 @@ The separation of half reaction is the basis for the construction of Daniel cell
 **Joining the half cells**: The zinc and copper strips are externally connected using a wire through a switch (k) and a load (example: volt meter). The electrolytic solution present in the cathodic and anodic compartment are connected using an inverted U tube containing agar-agar gel mixed with an inert electrolytes such as KCl, \( \mathrm{Na_2SO_4} \) etc. The ions of inert electrolyte do not react with other ions present in the half cells and they are not either oxidised (or) reduced at the electrodes. The solution in the salt bridge cannot get poured out, but through which the ions can move into (or) out of the half cells.
 
 When the switch (k) closes the circuit, the electrons flows from zinc strip to copper strip. This is due to the following redox reactions which are taking place at the respective electrodes.
-
+![](img9.7.png)
 <center>Figure 9.5 : Daniel cell</center>
 
 **Anodic oxidation**: The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions by losing its electrons. The \( \mathrm{Zn}^{2+} \) ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative (-ve).
@@ -492,7 +488,7 @@ In the above notation, a single vertical bar (|) represents a phase boundary and
 - The anode half cell is written on the left side of the salt bridge and the cathode half cell on the right side.
 - The anode and cathode are written on the extreme left and extreme right, respectively.
 - The emf of the cell is written on the right side after cell diagram.
-
+![](img9.8.png)
 **Example**
 
 The net redox reaction of a galvanic cell is given below
@@ -554,7 +550,7 @@ If SHE is used as an anode, the oxidation reaction is
 \[
 \mathrm{H}_2(g, 1\ \mathrm{atm}) \rightarrow 2\mathrm{H}^{+}(aq, 1\mathrm{M}) + 2e^{-} \qquad E^{\circ} = 0\ \text{volt}
 \]
-
+![](img9.9.png)
 <center>Figure 9.6 Standard Hydrogen electrode</center>
 
 **Illustration**
@@ -598,7 +594,7 @@ The emf for the reverse reaction will give the reduction potential
 \[
 \mathrm{Zn}^{2+} + 2e^{-} \rightarrow \mathrm{Zn} \quad E^{\circ} = -0.76\ \mathrm{V}
 \]
-
+![](img9.10.png)
 <center>Figure 9.7 emf measurement (Zn | Zn\(^{2+}\) electrode)</center>
 
 **IUPAC definition**
@@ -620,7 +616,7 @@ The emf for the reverse reaction will give the reduction potential
 \[
 \mathrm{Zn(s) | Zn^{2+}(aq, 1M) || Cu^{2+}(aq, 1M) | Cu(s)}
 \]
-
+![](img9.11.png)
 ### 9.4 Thermodynamics of cell reactions
 
 We have just learnt that in a galvanic cell, the chemical energy is converted into electrical energy. The electrical energy produced by the cell is equal to the product of the total charge of electrons and the emf of the cell which drives these electrons between the electrodes.
@@ -818,7 +814,7 @@ What is the change in the cell voltage on increasing the ion concentration in th
 Electrolysis is a process in which the electrical energy is used to cause a non-spontaneous chemical reaction to occur; the energy is often used to decompose a compound into its elements. The device which is used to carry out the electrolysis is called the electrolytic cell. The electrochemical process occurring in the electrolytic cell and galvanic cell are the reverse of each other. Let us understand the function of an electrolytic cell by considering the electrolysis of molten sodium chloride.
 
 The electrolytic cell consists of two electrodes: one is cylindrical steel cathode and another one is graphite anode. They are dipped in molten sodium chloride. They are connected to the external DC power supply via a key as shown in the figure (9.8). The electrode which is attached to the negative end of the power supply is called the cathode, and the one which is attached to the positive end is called the anode. Once the key is closed, the external DC power supply drives the electrons to the cathode and at the same time pulls the electrons from the anode.
-
+![](img9.12.png)
 <center>Figure 9.8 Electrolysis of molten NaCl</center>
 
 **Cell reactions**
@@ -902,7 +898,7 @@ Electrochemical equivalent of \( \mathrm{M}^{n+} = \frac{\text{Molar mass of M}}
 \[
 Z = \frac{\text{Equivalent mass}}{96500} \qquad \text{(9.35)}
 \]
-
+![](img9.13.png)
 <center>Figure 9.9 Electrolysis of various electrolytes using same quantity of charge</center>
 
 #### Second Law
@@ -983,7 +979,7 @@ Equation \( (1) + (2) + (3) \) gives the overall redox reaction
 \]
 
 Ammonia produced at the cathode combines with \( \mathrm{Zn}^{2+} \) to form a complex ion \( [\mathrm{Zn(NH_3)_4}]^{2+}(aq) \). As the reaction proceeds, the concentration of \( \mathrm{NH_4}^{+} \) will decrease and the aqueous \( \mathrm{NH_3} \) will increase which leads to the decrease in the emf of cell.
-
+![](img9.14.png)
 <center>Figure 9.10 Leclanche cell</center>
 
 #### Mercury button cell
@@ -1001,7 +997,7 @@ Overall reaction: \( \mathrm{Zn(s) + HgO(s)} \rightarrow \mathrm{ZnO(s) + Hg(l)}
 Cell emf: about 1.35V.
 
 Uses: It has higher capacity and longer life. Used in pacemakers, electronic watches, cameras etc.
-
+![](img9.15.png)
 <center>Figure 9.11 Mercury button cell</center>
 
 #### Secondary batteries
@@ -1083,7 +1079,7 @@ Thus, the overall cell reaction is exactly the reverse of the redox reaction whi
 - **Electrolyte**: Lithium salt in an organic solvent
 
 During discharge: \( \mathrm{LiCoO_2 + 6C \rightarrow Li_{1-x}CoO_2 + Li_xC_6} \)
-
+![](img9.16.png)
 <center>Figure 9.12 lithium-ion Battery</center>
 
 #### Fuel cells
@@ -1113,6 +1109,8 @@ The overall reaction is
 \]
 
 The above reaction is the same as the hydrogen combustion reaction, however, they do not react directly i.e., the oxidation and reduction reactions take place separately at the anode and cathode respectively. Like \( \mathrm{H_2-O_2} \) fuel cell, other fuel cells like propane-\( \mathrm{O_2} \) and methane-\( \mathrm{O_2} \) have also been developed.
+![](imh9.18.png)
+<center>Figure 9.14 H_2O_2 fuel cell</center>
 
 ### 9.8 Corrosion
 
@@ -1121,7 +1119,7 @@ We are familiar with the rusting of iron. Have you ever noticed a green film for
 #### Electrochemical mechanism of corrosion
 
 The formation of rust requires both oxygen and water. Since it is an electrochemical redox process, it requires an anode and cathode in different places on the surface of iron. The iron surface and a droplet of water on the surface as shown in figure (9.15) form a tiny galvanic cell. The region enclosed by water is exposed to low amount of oxygen and it acts as the anode. The remaining area has high amount of oxygen and it acts as cathode. So based on the oxygen content, an electrochemical cell is formed. Corrosion occurs at the anode i.e., in the region enclosed by the water as discussed below.
-
+![](img9.19.png)
 <center>Figure 9.15 Rusting of iron</center>
 
 At Anode (oxidation)
@@ -1185,6 +1183,7 @@ We have already learnt that the standard single electrode potentials are measure
 This series is called **electrochemical series**.
 
 The standard reduction potential \( (E^{\circ}) \) is a measure of the oxidising tendency of the species. The greater the \( E^{\circ} \) value, greater is the tendency shown by the species to accept electrons and undergo reduction. So higher the \( (E^{\circ}) \) value, lesser is the tendency to undergo corrosion.
+![](img9.20.png)
 
 ## EVALUATION
 

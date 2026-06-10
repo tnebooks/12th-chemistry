@@ -115,7 +115,7 @@ In 1923, Gilbert . N. Lewis proposed a more generalised concept of acids and bas
 A Lewis acid is a positive ion (or) an electron deficient molecule and a Lewis base is a anion (or) neutral molecule with at least one lone pair of electrons.
 
 Let us consider the reaction between Boron trifluoride and ammonia
-
+![](img8.1.png)
 Here, boron has a vacant \(2p\) orbital to accept the lone pair of electrons donated by ammonia to form a new coordinate covalent bond. We have already learnt that in coordination compounds, the Ligands act as a Lewis base and the central metal atom or ion that accepts a pair of electrons from the ligand behaves as a Lewis acid.
 
 | Lewis acids | Lewis bases |
@@ -138,11 +138,11 @@ In the hydration of ion, each of six water molecules donates a pair of electron 
 
 ## Evaluate yourself - 3
 
-Identify the Lewis acid and the Lewis base in the following reactions.
+![](img8.2.png)
 
-$$
-CaO + CO_2 \rightarrow CaCO_3
-$$
+## Evaluate yourself - 4
+
+![](img8.3.png)
 
 ### 8.2 Strength of Acids and Bases
 
@@ -178,9 +178,12 @@ As discussed earlier, due to the complete dissociation, the equilibrium lies alm
 
 The following table illustrates the relative strength of conjugate acid - base pairs.
 
+![](img8.4.png)
+
 ### 8.3 Ionisation of water
 
 We have learnt that when an acidic or a basic substance is dissolved in water, depending upon its nature, it can either donate (or) accept a proton. In addition to that the pure water itself has a little tendency to dissociate. i.e, one water molecule donates a proton to an another water molecule. This is known as auto ionisation of water and it is represented as below.
+![](img8.5.png)
 
 In the above ionisation, one water molecule acts as an acid while the another water molecule acts as a base.
 
@@ -247,7 +250,7 @@ $$
 \(2 \times 10^{-3} > > 5 \times 10^{-12}\)
 
 i.e., \([H_3O^+] > > [OH^-]\), hence the juice is acidic in nature
-
+![](img8.6.png)
 ### 8.4 The pH scale
 
 We usually deal with acid / base solution in the concentration range \(10^{-1}\) to \(10^{-7} M\). To express the strength of such low concentrations, Sorensen introduced a logarithmic scale known as the pH scale. The term pH is derived from the French word Purissance de hydrogene meaning, the power of hydrogen. pH of a solution is defined as the negative logarithm of base 10 of the molar concentration of the hydronium ions present in the solution.
@@ -287,6 +290,7 @@ pH = -\log_{10}[H_3O^+], \quad pOH = -\log_{10}[OH^-] \quad (8.5) \& (8.7)
 $$
 
 Adding equation (8.5) and (8.7)
+![](img8.7.png)
 
 $$
 pH + pOH = -\log_{10}[H_3O^+] - \log_{10}[OH^-]
@@ -320,7 +324,7 @@ $$
 \therefore \text{At } 25^{\circ}C, \quad pH + pOH = 14
 $$
 
-**Figure 8.1 The pH scale**
+
 
 ## Example 8.2
 
@@ -369,7 +373,7 @@ $$
 $$
 = -\log 2 - (-7) \log_{10}10 = 7 - \log 2 = 7 - 0.3010 = 6.6990 = 6.70
 $$
-
+![](img8.8.png)
 ### 8.5 Ionisation of weak acids
 
 We have already learnt that weak acids are partially dissociated in water and there is an equilibrium between the undissociated acid and its dissociated ions.
@@ -871,6 +875,10 @@ and therefore \([OH^-] > [H^+]\), in such cases, the solution is basic due to hy
 Let us find a relation between the equilibrium constant for the hydrolysis reaction (hydrolysis constant) and the dissociation constant of the acid.
 
 $$
+K_h = \frac{[CH_3COOH][OH^-]}{[CH_3COO^-][H_2O]} \quad ...(1)
+$$
+
+$$
 K_h = \frac{[CH_3COOH][OH^-]}{[CH_3COO^-]} \quad ...(1)
 $$
 
@@ -997,44 +1005,7 @@ pH = 7 + \frac{1}{2} pK_a - \frac{1}{2} pK_b
 $$
 
 ## Example 8.8
-
-Calculate i) degree of hydrolysis, ii) the hydrolysis constant and iii) pH of \(0.1 M\) \(CH_3COONa\) solution (\(pK_a\) for \(CH_3COOH\) is 4.74).
-
-**Solution:** (a) \(CH_3COONa\) is a salt of weak acid \((CH_3COOH)\) and a strong base (\(NaOH\)). Hence, the solution is alkaline due to hydrolysis.
-
-$$
-CH_3COO^- (aq) + H_2O(aq) \rightleftharpoons CH_3COOH(aq) + OH^- (aq)
-$$
-
-$$
-h = \sqrt{\frac{K_w}{K_a \times C}}
-$$
-
-Given that \(pK_a = 4.74\)
-
-\(pK_a = -\log K_a\)
-
-i.e., \(K_a = \text{antilog of } (-pK_a) = \text{antilog of } (-4.74) = \text{antilog of } (-5 + 0.26) = 10^{-5} \times 1.8\) [antilog of 0.26 = 1.82 = 1.8]
-
-$$
-K_h = \frac{K_w}{K_a} = \frac{1 \times 10^{-14}}{1.8 \times 10^{-5}} = 5.56 \times 10^{-10}
-$$
-
-$$
-h = \sqrt{\frac{10^{-14}}{1.8 \times 10^{-5} \times 0.1}} = \sqrt{\frac{10^{-14}}{1.8 \times 10^{-6}}} = \sqrt{5.56 \times 10^{-9}} = 7.46 \times 10^{-5}
-$$
-
-$$
-pOH = -\log \sqrt{K_h C} = -\log \sqrt{5.56 \times 10^{-10} \times 0.1} = -\log \sqrt{5.56 \times 10^{-11}}
-$$
-
-$$
-= -\log \sqrt{55.6 \times 10^{-12}} = -\log 7.46 \times 10^{-6} = 6 - \log 7.46 = 6 - 0.87 = 5.13
-$$
-
-$$
-pH = 14 - pOH = 14 - 5.13 = 8.87
-$$
+![](img8.9.png)
 
 ## Evaluate yourself - 10
 
