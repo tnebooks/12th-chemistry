@@ -474,6 +474,69 @@ From the above calculations, it is clear that the crystal field splitting energy
 
 The above series is known as **spectrochemical series**. The ligands present on the right side of the series such as carbonyl causes relatively larger crystal field splitting and are called strong ligands or strong field ligands, while the ligands on the left side are called weak field ligands and causes relatively smaller crystal field splitting.
 
+**Distribution of d electrons in octahedral complexes**
+
+The filling of electrons in the d orbitals in the presence of ligand field also follows Hund's rule. In the octahedral complexes with $\mathrm{d}^2$ and $\mathrm{d}^3$ configurations, the electrons occupy different degenerate $\mathrm{t}_{2g}$ orbitals and remain unpaired.
+
+In case of $\mathrm{d}^4$ configuration, there are two possibilities. The fourth electron may either go to the higher energy $e_g$ orbitals or it may pair with one of the $t_{2g}$ electrons. In this scenario, the preferred configuration will be the one with lowest energy.
+
+If the octahedral crystal field splitting energy ($\Delta_o$) is greater than the pairing energy ($P$), the fourth electron will pair up with an electron in the $\mathrm{t}_{2g}$ orbital. Conversely, if $\Delta_o < P$, the fourth electron will occupy one of the degenerate higher-energy $\mathrm{e}_g$ orbitals.
+
+For example, let us consider two different iron(III) complexes:
+
+- $\mathrm{[Fe(H_2O)_6]^{3+}}$ (weak field complex; $\Delta_o = 14000\ \mathrm{cm}^{-1}$)
+- $\mathrm{[Fe(CN)_6]^{3-}}$ (strong field complex; $\Delta_o = 35000\ \mathrm{cm}^{-1}$)
+
+The pairing energy of $\mathrm{Fe}^{3+}$ is $30000\ \mathrm{cm}^{-1}$.
+
+In both complexes, $\mathrm{Fe}^{3+}$ has a $\mathrm{d}^5$ configuration.
+
+For the aqua complex,
+
+$$
+\Delta_o < P
+$$
+
+Hence, the fourth and fifth electrons enter the $\mathrm{e}_g$ orbitals and the electronic configuration is
+
+$$
+\mathrm{t}_{2g}^{3}\mathrm{e}_g^{2}
+$$
+
+For the cyanide complex,
+
+$$
+\Delta_o > P
+$$
+
+Hence, the fourth and fifth electrons pair up in the $\mathrm{t}_{2g}$ orbitals and the electronic configuration is
+
+$$
+\mathrm{t}_{2g}^{5}\mathrm{e}_g^{0}
+$$
+
+The actual distribution of electrons can be ascertained by calculating the crystal field stabilisation energy (CFSE). The crystal field stabilisation energy is defined as the energy difference between the electronic configuration in the ligand field $(E_{LF})$ and the isotropic field (barycentre) $(E_{iso})$.
+
+$$
+\mathrm{CFSE}(\Delta \mathrm{E}_{\mathrm{o}}) = \{\mathrm{E}_{\mathrm{1F}}\} -\{\mathrm{E}_{\mathrm{iso}}\}
+$$
+$$
+\qquad = \{\mathrm{[n}_{\mathrm{2g}}(\mathrm{-0.4}) + \mathrm{n}_{\mathrm{e_{g}}}(0.6)]\Delta_{\mathrm{o}} + \mathrm{n}_{\mathrm{p}}\mathrm{P}\} -\{\mathrm{n}_{\mathrm{p}}^{\prime}\mathrm{P}\}
+$$
+
+Here, $n_{t_{2g}}$ is the number of electrons in $t_{2g}$ orbitals; $n_{e_g}$ is the number of electrons in $e_g$ orbitals; $n_p$ is the number of electron pairs in the ligand field; and $n_p'$ is the number of electron pairs in the isotropic field (barycentre).
+
+Calculating the CFSE for the Iron complexes
+
+![](complex1.1.png)
+
+![](complex1.2.png)
+
+![](complex2.1.png)
+
+![](complex2.2.png)
+
+
 **Colour of the complex and crystal field splitting energy:**
 
 Most of the transition metal complexes are coloured. A substance exhibits colour when it absorbs the light of a particular wavelength in the visible region and transmit the rest of the visible light. When this transmitted light enters our eye, our brain recognises its colour. The colour of the transmitted light is given by the complementary colour of the absorbed light. For example, the hydrated copper(II) ion is blue in colour as it absorbs orange light, and transmit its complementary colour, blue. A list of absorbed wavelength and their complementary colour is given in the following table.
