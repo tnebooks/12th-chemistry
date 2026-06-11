@@ -59,7 +59,6 @@ For example, in the first series the melting point increases from Scandium (m.pt
 
 ![](img4.3.png)
 
-
 **Figure 4.3-Variation in melting point of 3d series elements**
 
 #### 4.3.2 Variation of atomic and ionic size:
@@ -680,7 +679,7 @@ The stability of different oxidation states has an impact on the properties of t
 As we move across 4f series, the atomic and ionic radii of lanthanoids show gradual decrease with increase in atomic number. This decrease in ionic size is called lanthanoid contraction.
  
 ![](img4.11.png)
-
+ 
 **Figure 4.11 Variation of atomic radii of lanthanoids**
 
 ## Cause of lanthanoid contraction:
