@@ -8,6 +8,12 @@ summary: "This unit continues the study of p-block elements, focusing on importa
 
 # 3. p-BLOCK ELEMENTS-II
 
+![](Ram.png)
+**Sir William Ramsay,**  
+**(1852 – 1916)**  
+
+Sir William Ramsay was a Scottish chemist who discovered the noble gases. During the years 1885–1890 he published several important papers on the oxides of nitrogen. In August 1894, Ramsay had isolated a new heavy element of air, and he named it "argon", (the Greek word meaning "lazy"). In the following years, he worked with Morris Travers and discovered neon, krypton, and xenon. In 1910 he isolated and characterized radon. In recognition of his services in the discovery of the inert gases, he was awarded a noble prize in chemistry in 1904. His work in isolating noble gases led to the development of a new section of the periodic table.
+
 # INTRODUCTION
 
 We have already learnt the general characteristics of p-block elements and the first two group namely icosagens (boron group) and tetragens (carbon group) in the previous unit. In this unit we learn the remaining p-block groups, pnictogens, chalcogens, halogens and inert gases.
@@ -46,10 +52,6 @@ Pure nitrogen gas can be obtained by the thermal decomposition of sodium azide a
 
 $$
 2\mathrm{NaN}_3 \longrightarrow 2\mathrm{Na} + 3\mathrm{N}_2
-$$
-
-$$
-6\mathrm{NH}_3 + 3\mathrm{Br}_2 \longrightarrow 6\mathrm{NH}_4\mathrm{Br} + \mathrm{N}_2
 $$
 
 It can also be obtained by oxidising ammonia using bromine water 
@@ -112,6 +114,8 @@ $$
 $$
 2\mathrm{NH_4Cl + CaO} \longrightarrow \mathrm{CaCl_2 + 2NH_3 + H_2O}
 $$
+
+It can also be prepared by heating a metal nitrides such as magnesium nitride with water.
 
 $$
 \mathrm{Mg_3N_2 + 6H_2O} \longrightarrow 3\mathrm{Mg(OH)_2 + 2NH_3}
@@ -209,8 +213,6 @@ $$
 
 ![](img3.1.png)
 
-<center>Reaction of ammonia with HCl</center>
-
 **With metallic salts:** Ammonia reacts with metallic salts to give metal hydroxides (in case of Fe) or forming complexes (in case Cu)
 
 $$
@@ -232,8 +234,6 @@ For example when excess ammonia is added to aqueous solution copper sulphate a d
 Ammonia molecule is pyramidal in shape. N-H bond distance is 1.016 Å and H-H bond distance is 1.645 Å with a bond angle \( 107^{\circ} \). The structure of ammonia may be regarded as a tetrahedral with one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
 
 ![](img3.2.png)
-
-<center>Figure 3.1 Structure of ammonia</center>
 
 #### 3.1.5 Nitric acid
 
@@ -483,15 +483,11 @@ The freshly prepared white phosphorus is colourless but becomes pale yellow due 
 
 ![](img3.2.1.png)
 
-<center>Figure 3.2 Structure of white phosphorus</center>
-
 The white phosphorus can be changed into red phosphorus by heating it to \( 420^{\circ}\mathrm{C} \) in the absence of air and light. Unlike white phosphorus it is not poisonous and does not show phosphorescence. It also does not ignite at low temperatures. The red phosphorus can be converted back into white phosphorus by boiling it in an inert atmosphere and condensing the vapour under water.
 
 The black phosphorus has a layer structure and also acts as a semiconductor. The four atoms in white phosphorus have polymeric structure with chains of \( \mathrm{P_4} \) linked tetrahedrally. Unlike nitrogen, \( \mathrm{P=P} \) is less stable than P-P single bonds. Hence, phosphorus atoms are linked through single bonds rather than triple bonds. In addition to the above two more allotropes namely scarlet and violet phosphorus are also known for phosphorus.
 
 ![](img3.3.png)
-
-<center>Figure 3.3 Structure of red phosphorus</center>
 
 #### 3.1.8 Properties of phosphorus
 
@@ -563,35 +559,49 @@ Sodium phosphide
 
 Phosphine is the most important hydride of phosphorus 
 
-##### Preparation
+**Preparation:**
 
-Phosphine is prepared by the action of sodium hydroxide with white phosphorus in an inert atmosphere of carbon dioxide or hydrogen.
-
-$$
-4\mathrm{P_4 + 3NaOH + 3H_2O} \longrightarrow 3\mathrm{NaH_2PO_2 + PH_3}
-$$
-
-Phosphine can also be prepared by the hydrolysis of metallic phosphides with water or dilute mineral acids.
+Phosphine is prepared by action of sodium hydroxide with white phosphorus in an inert atmosphere of carbon dioxide or hydrogen.
 
 $$
-\mathrm{Ca_3P_2 + 6H_2O} \longrightarrow 2\mathrm{PH_3 \uparrow + 3Ca(OH)_2}
+P_4 + 3NaOH + 3H_2O \rightarrow 3NaH_2PO_2 + PH_3 \uparrow
 $$
 
+Phosphine is freed from phosphine dihydride (\( P_2H_4 \)) by passing through a freezing mixture. The dihydride condenses while phosphine does not.
+
+Phosphine can also prepared by the hydrolysis of metallic phosphides with water or dilute mineral acids.
+
 $$
-\mathrm{AlP + 3HCl} \longrightarrow \mathrm{PH_3 \uparrow + AlCl_3}
+\text{Ca}_3\text{P}_2 + 6\text{H}_2\text{O} \rightarrow 2\text{PH}_3 \uparrow + 3\text{Ca(OH)}_2
 $$
+
+Phosphine
+
+$$
+\text{AlP} + 3\text{HCl} \rightarrow \text{PH}_3 \uparrow + \text{AlCl}_3
+$$
+
+Phosphine
 
 Phosphine is prepared in pure form by heating phosphorous acid.
 
 $$
-4\mathrm{H_3PO_3 \xrightarrow{\Delta}} 3\mathrm{H_3PO_4 + PH_3 \uparrow}
+4\text{H}_3\text{PO}_3 \xrightarrow{\Delta} 3\text{H}_3\text{PO}_4 + \text{PH}_3 \uparrow
 $$
+
+Phosphorous acid
+
+Ortho phosphoric acid
+
+Phosphine
 
 A pure sample of phosphine is prepared by heating phosphonium iodide with caustic soda solution.
 
 $$
-\mathrm{PH_4I + NaOH} \longrightarrow \mathrm{PH_3 \uparrow + NaI + H_2O}
+\text{PH}_4\text{I} + \text{NaOH} \xrightarrow{\Delta} \text{PH}_3 \uparrow + \text{NaI} + \text{H}_2\text{O}
 $$
+
+Phosphine
 
 ##### Physical properties
 
@@ -649,9 +659,6 @@ In phosphine, phosphorus shows \( \mathrm{sp^3} \) hybridisation. Three orbitals
 
 ![](img3.4.png)
 
-
-<center>Figure 3.4 Structure of phosphine</center>
-
 ##### Uses of phosphine
 
 Phosphine is used for producing smoke screen as it gives large smoke. In a ship, a pierced container with a mixture of calcium carbide and calcium phosphide, liberates phosphine and acetylene when thrown into sea. The liberated phosphine catches fire and ignites acetylene. These burning gases serves as a signal to the approaching ships. This is known as Holmes signal.
@@ -706,8 +713,6 @@ $$
 
 ![](img3.5.png)
 
-<center>Figure 3.5 Structure of phosphorus trichloride</center>
-
 $$
 \mathrm{PCl_3 + Cl_2} \longrightarrow \mathrm{PCl_5}
 $$
@@ -760,18 +765,13 @@ Phosphorus forms phosphorus trioxide, phosphorus tetraoxide and phosphorus pento
 
 In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6 pm.
 
-    
-
 ![](img3.6.png)
-
-<center>Figure 3.6 Structure of \( \mathrm{P_4O_6} \)</center>
 
 pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ bonding and results in considerable double bond character. In P4O10 each P atoms form three bonds to oxygen atom and also an additional coordinate bond with an oxygen atom. Terminal P-O bond length is 143 pm, which is less than the expected single bond distance. This may be due to lateral overlap of filled p orbitals of an oxygen atom with empty d orbital on phosphorous.
 
 ![](img3.7.png)
 
-<center>Figure 3.7 Structure of \( \mathrm{P_4O_10} \)</center>
-
+![](table.png)
 
 **Oxoacids of Phosphorus - Preparation**
 
@@ -783,7 +783,7 @@ pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ
 | Orthophosphoric acid | \( \mathrm{H_3PO_4} \) | +5 | \( \mathrm{P_4O_{10} + 6H_2O \rightarrow 4H_3PO_4} \) |
 | Pyrophosphoric acid | \( \mathrm{H_4P_2O_7} \) | +5 | \( 2\mathrm{H_3PO_4 \rightarrow H_4P_2O_7 + H_2O} \) |
 
-### 3.2 Group 16 (Oxygen group) elements
+## Group 16 (Oxygen group) elements
 
 #### Occurrence
 
@@ -846,8 +846,6 @@ $$
 The ozone molecule has a bent shape and symmetrical with delocalised bonding between the oxygen atoms.
 
 ![](img3.8.png)
-
-<center>Figure 3.8 Structure of ozone</center>
 
 ##### Chemical properties
 
@@ -995,8 +993,6 @@ However, the bleached product (colourless) when allowed to stand in air, is reox
 In sulphur dioxide, sulphur atom undergoes \( \mathrm{sp^2} \) hybridisation. A double bond arises between S and O due to \( p\pi-d\pi \) overlapping.
 
 ![](img3.9.png)
-
-<center>Figure 3.9 Structure of sulphur dioxide</center>
 
 #### 3.2.4 Sulphuric acid \( \mathrm{(H_2SO_4)} \)
 
@@ -1419,11 +1415,29 @@ $$
 \mathrm{Cl_2 + 2NaOH} \longrightarrow \mathrm{NaOCl + NaCl + H_2O}
 $$
 
-With hot concentrated alkali,
+$$
+(Cl_2 + H_2O \rightarrow HCl + HOCl) \times 3
+$$
 
 $$
-3\mathrm{Cl_2 + 6NaOH} \longrightarrow \mathrm{NaClO_3 + 5NaCl + 3H_2O}
+(HCl + NaOH \rightarrow NaCl + H_2O) \times 3
 $$
+
+$$
+(HOCl + NaOH \rightarrow NaOCl + H_2O) \times 3
+$$
+
+$$
+3NaOCl \rightarrow NaClO_3 + 2NaCl
+$$
+
+overall reaction
+
+$$
+3Cl_2 + 6NaOH \rightarrow NaClO_3 + 5NaCl + 3H_2O
+$$
+
+sodium chlorate
 
 **Oxidising and bleaching action:** Chlorine is a strong oxidising and bleaching agent because of the nascent oxygen.
 
@@ -1580,7 +1594,11 @@ $$
 When three parts of concentrated hydrochloric acid and one part of concentrated nitric acid are mixed, Aqua regia (Royal water) is obtained. This is used for dissolving gold, platinum etc.
 
 $$
-3\mathrm{Pt + 16H^+ + 4NO_3^- + 18Cl^-} \longrightarrow 3[\mathrm{PtCl_6}]^{2-} + 4\mathrm{NO + 8H_2O}
+\text{Au} + 4\text{H}^+ + \text{NO}_3^- + 4\text{Cl}^- \rightarrow \text{AuCl}_4^- + \text{NO} + 2\text{H}_2\text{O}
+$$
+
+$$
+3\text{Pt} + 16\text{H}^+ + 4\text{NO}_3^- + 18\text{Cl}^- \rightarrow 3[\text{PtCl}_6]^{2-} + 4\text{NO} + 8\text{H}_2\text{O}
 $$
 
 ##### Uses of hydrochloric acid
@@ -1652,7 +1670,11 @@ $$
 Solutions of hydrogen halides are therefore acidic and known as hydrohalic acids. Hydrochloric, hydrobromic and hydroiodic acids are almost completely ionised and are therefore strong acids but HF is a weak acid i.e. \( 0.1\ \mathrm{mM} \) solution is only \( 10\% \) ionised, but in 5M and 15M solution HF is stronger acid due to the equilibrium.
 
 $$
-\mathrm{HF + F^- \rightleftharpoons HF_2^-}
+\text{HF} + \text{H}_2\text{O} \longrightarrow \text{H}_3\text{O}^+ + \text{F}^-
+$$
+
+$$
+\text{HF} + \text{F}^- \longrightarrow \text{HF}_2^-
 $$
 
 At high concentration, the equilibrium involves the removal of fluoride ions which affects the dissociation of hydrogen fluoride and increases hydrogen ion concentration. Several stable salts \( \mathrm{NaHF_2} \), \( \mathrm{KHF_2} \) and \( \mathrm{NH_4HF_2} \) are known. The other hydrogen halides do not form hydrogen dihalides.
@@ -1746,8 +1768,16 @@ vi. They are strong oxidizing agents.
 When heated with alkalis, the larger halogen forms oxyhalogens and the smaller forms halide.
 
 $$
-\mathrm{BrF_5 \xrightarrow{OH^-} 5F^- + BrO_3^-}
+\text{BrF}_5 \xrightarrow{-\text{OH}} 5\text{F}^- + \text{BrO}_3^-
 $$
+
+Bromate ion
+
+$$
+\text{ICl} \xrightarrow{-\text{OH}} \text{Cl}^- + \text{I}^-
+$$
+
+Hypo iodide ion
 
 ##### Structure of inter halogen compounds
 
@@ -1976,199 +2006,3 @@ The inertness of noble gases is an important feature of their practical uses.
 
 - The inertness of noble gases is an important feature of their practical uses.
 
-## Choose the correct answer
-
-1. In which of the following, \( \mathrm{NH}_3 \) is not used?
-
-a) Nessler's reagent
-b) Reagent for the analysis of IV group basic radical
-c) Reagent for the analysis of III group basic radical
-d) Tollen's reagent
-
-2. Which is true regarding nitrogen?
-
-a) least electronegative element
-b) has low ionisation enthalpy than oxygen
-c) d-orbitals available
-d) ability to form \( p\pi-p\pi \) bonds with itself
-
-3. An element belongs to group 15 and 3rd period of the periodic table, its electronic configuration would be
-
-a) \( 1s^2 2s^2 2p^4 \)
-b) \( 1s^2 2s^2 2p^3 \)
-c) \( 1s^2 2s^2 2p^6 3s^2 3p^2 \)
-d) \( 1s^2 2s^2 2p^6 3s^2 3p^3 \)
-
-4. Solid (A) reacts with strong aqueous NaOH liberating a foul smelling gas (B) which spontaneously burns in air giving smoky rings. A and B are respectively
-
-a) \( \mathrm{P_4}(\mathrm{red}) \) and \( \mathrm{PH_3} \)
-b) \( \mathrm{P_4}(\mathrm{white}) \) and \( \mathrm{PH_3} \)
-c) \( \mathrm{S_8} \) and \( \mathrm{H_2S} \)
-d) \( \mathrm{P_4}(\mathrm{white}) \) and \( \mathrm{H_2S} \)
-
-5. On hydrolysis, \( \mathrm{PCl}_3 \) gives
-
-a) \( \mathrm{H_3PO_3} \)
-b) \( \mathrm{PH_3} \)
-c) \( \mathrm{H_3PO_4} \)
-d) \( \mathrm{POCl_3} \)
-
-6. \( \mathrm{P_4O_6} \) reacts with cold water to give
-
-a) \( \mathrm{H_3PO_3} \)
-b) \( \mathrm{H_4P_2O_7} \)
-c) \( \mathrm{HPO_3} \)
-d) \( \mathrm{H_3PO_4} \)
-
-7. The basicity of pyrophosphorous acid (\( \mathrm{H_4P_2O_5} \)) is
-
-a) 4
-b) 2
-c) 3
-d) 5
-
-8. The molarity of given orthophosphoric acid solution is 2M. Its normality is
-
-a) 6N
-b) 4N
-c) 2N
-d) none of these
-
-9. Assertion: bond dissociation energy of fluorine is greater than chlorine gas
-   Reason: chlorine has more electronic repulsion than fluorine
-
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-c) Assertion is true but reason is false.
-d) Both assertion and reason are false.
-
-10. Among the following, which is the strongest oxidizing agent?
-
-a) \( \mathrm{Cl_2} \)
-b) \( \mathrm{F_2} \)
-c) \( \mathrm{Br_2} \)
-d) \( \mathrm{I_2} \)
-
-11. The correct order of the thermal stability of hydrogen halide is
-
-a) \( \mathrm{HI > HBr > HCl > HF} \)
-b) \( \mathrm{HF > HCl > HBr > HI} \)
-c) \( \mathrm{HCl > HF > HBr > HI} \)
-d) \( \mathrm{HI > HCl > HF > HBr} \)
-
-12. Which one of the following compounds is not formed?
-
-a) \( \mathrm{XeOF_4} \)
-b) \( \mathrm{XeO_3} \)
-c) \( \mathrm{XeF_2} \)
-d) \( \mathrm{NeF_2} \)
-
-13. Most easily liquefiable gas is
-
-a) Ar
-b) Ne
-c) He
-d) Kr
-
-14. \( \mathrm{XeF_6} \) on complete hydrolysis produces
-
-a) \( \mathrm{XeOF_4} \)
-b) \( \mathrm{XeO_2F_2} \)
-c) \( \mathrm{XeO_3} \)
-d) \( \mathrm{XeO_2} \)
-
-15. Which of the following is strongest acid among all?
-
-a) HI
-b) HF
-c) HBr
-d) HCl
-
-16. Which one of the following orders is correct for the bond dissociation enthalpy of halogen molecules? (NEET)
-
-a) \( \mathrm{Br_2 > I_2 > F_2 > Cl_2} \)
-b) \( \mathrm{F_2 > Cl_2 > Br_2 > I_2} \)
-c) \( \mathrm{I_2 > Br_2 > Cl_2 > F_2} \)
-d) \( \mathrm{Cl_2 > Br_2 > F_2 > I_2} \)
-
-17. Among the following the correct order of acidity is (NEET)
-
-a) \( \mathrm{HClO_2 < HClO < HClO_3 < HClO_4} \)
-b) \( \mathrm{HClO_4 < HClO_2 < HClO < HClO_3} \)
-c) \( \mathrm{HClO_3 < HClO_4 < HClO_2 < HClO} \)
-d) \( \mathrm{HClO < HClO_2 < HClO_3 < HClO_4} \)
-
-18. When copper is heated with conc \( \mathrm{HNO_3} \) it produces
-
-a) \( \mathrm{Cu(NO_3)_2, NO\ and\ NO_2} \)
-b) \( \mathrm{Cu(NO_3)_2\ and\ NO_2} \)
-c) \( \mathrm{Cu(NO_3)_2\ and\ NO} \)
-
-## Answer the following questions
-
-1. What is inert pair effect?
-
-2. Chalcogens belongs to p-block. Give reason.
-
-3. Explain why fluorine always exhibits an oxidation state of -1?
-
-4. Give the oxidation state of halogen in the following.
-   a) \( \mathrm{OF_2} \)
-   b) \( \mathrm{O_2F_2} \)
-   c) \( \mathrm{Cl_2O_3} \)
-   d) \( \mathrm{IO_4^-} \)
-
-5. What are interhalogen compounds? Give examples.
-
-6. Why fluorine is more reactive than other halogens?
-
-7. Give the uses of helium.
-
-8. What is the hybridisation of iodine in \( \mathrm{IF_7} \)? Give its structure.
-
-9. Give the balanced equation for the reaction between chlorine with cold NaOH and hot NaOH.
-
-10. How will you prepare chlorine in the laboratory?
-
-11. Give the uses of sulphuric acid.
-
-12. Give a reason to support that sulphuric acid is a dehydrating agent.
-
-13. Write the reason for the anomalous behaviour of Nitrogen.
-
-14. Write the molecular formula and structural formula for the following molecules.
-    a) Nitric acid
-    b) Dinitrogen pentoxide
-    c) Phosphoric acid
-    d) Phosphine
-
-15. Give the uses of argon.
-
-16. Write the valence shell electronic configuration of group-15 elements.
-
-17. Give two equations to illustrate the chemical behaviour of phosphine.
-
-18. Give a reaction between nitric acid and a basic oxide.
-
-19. What happens when \( \mathrm{PCl_5} \) is heated?
-
-20. Suggest a reason why HF is a weak acid, whereas binary acids of all other halogens are strong acids.
-
-21. Deduce the oxidation number of oxygen in hypofluorous acid - HOF.
-
-22. What type of hybridisation occur in a) \( \mathrm{BrF_5} \) b) \( \mathrm{BrF_3} \)
-
-23. Complete the following reactions.
-    1. \( \mathrm{NaCl + MnO_2 + H_2SO_4 \longrightarrow} \)
-    2. \( \mathrm{NaNO_2 + HCl \longrightarrow} \)
-    3. \( \mathrm{P_4 + NaOH + H_2O \longrightarrow} \)
-    4. \( \mathrm{AgNO_3 + PH_3 \longrightarrow} \)
-    5. \( \mathrm{Mg + HNO_3 \longrightarrow} \)
-    6. \( \mathrm{KClO_3 \longrightarrow} \)
-    7. \( \mathrm{Cu + H_2SO_4 \longrightarrow} \)
-    8. \( \mathrm{Sb + Cl_2 \longrightarrow} \)
-    9. \( \mathrm{HBr + H_2SO_4 \longrightarrow} \)
-    10. \( \mathrm{XeF_6 + H_2O \longrightarrow} \)
-    11. \( \mathrm{XeO_6^{4-} + Mn^{2+} + H^+ \longrightarrow} \)
-    12. \( \mathrm{XeOF_4 + SiO_2 \longrightarrow} \)
-    13. \( \mathrm{Xe + F_2 \xrightarrow[Ni/200\ atm]{400^{\circ}C}} \)
