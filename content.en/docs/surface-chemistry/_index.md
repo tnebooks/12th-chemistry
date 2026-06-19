@@ -8,7 +8,8 @@ summary: "This unit explains the core concepts of surface chemistry, focusing on
 
 # 10. SURFACE CHEMISTRY
 
-Irving Langmuir
+![](lang.png)
+**Irving Langmuir**
 
 Irving Langmuir was an American Chemist and Physicist. He was awarded Nobel Prize in the year 1932 in Chemistry for his works in Surface Chemistry. He outlined the concentric theory of atomic structure. He invented the gas filled incandescent lamp and hydrogen welding technique. The Langmuir Laboratory for Atmospheric Research near Socorro, New Mexico was named in his honor. Langmuir and Tonks discovered electron density waves in plasmas that are now known as Langmuir waves.
 
@@ -36,7 +37,9 @@ These examples prove that adsorption is a surface phenomenon. In contrast to ads
 
 1. Adsorption can occur in all interfacial surfaces i.e. the adsorption can occur in between gas-solid, liquid-solid, liquid-liquid, solid-solid and gas-liquid.
 2. Adsorption is a spontaneous process and it is always accompanied by decrease in free energy. When \(\Delta G\) reaches zero, the equilibrium is attained. We know, \(\Delta G = \Delta H - T\Delta S\) where \(\Delta G\) is Change in Free energy. \(\Delta H\) is Change in enthalpy and \(\Delta S =\) Change in entropy.
-3. When molecules are adsorbed, there is always a decrease in randomness of the molecules. ie, \(\Delta S < 0\), and \(T\Delta S\) is negative. Hence, adsorption is exothermic. Adsorption is a quick process whereas absorption is a slow process. M.C. Bain introduced a term 'sorption' to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
+3. When molecules are adsorbed, there is always a decrease in randomness of the molecules. ie, \(\Delta S < 0\), and \(T\Delta S\) is negative. Hence, adsorption is exothermic. Adsorption is a quick process whereas absorption is a slow process.
+
+ M.C. Bain introduced a term 'sorption' to represent the simultaneous adsorption and absorption. T. Graham used a term occlusion for sorption of gases on metal surfaces.
 
 #### 10.1.1 Types of adsorption
 
@@ -139,7 +142,6 @@ $$
 $$
 
 ![](2.png)
-**Figure 10.2 \(\log \frac{x}{m}\) vs \(\log p\) graph**
 
 Hence the intercept represents the value of \(\log k\) and the slope gives \(\frac{1}{n}\).
 
@@ -506,8 +508,6 @@ The various steps involved in a heterogeneous catalysed reaction are given as fo
 
 ![](5.png)
 
-**Figure 10.3 Hydrogenation of ethylene in presence of a nickel catalyst.**
-
 **Active centres**
 
 The surface of a catalyst is not smooth. It bears steps, cracks and corners. Hence the atoms on such locations of the surface are co-ordinatively unsaturated. So, they have much residual force of attraction. Such sites are called active centres. So, the surface carries high surface free energy.
@@ -519,8 +519,6 @@ The adsorption theory explains the following
 i. Increase in the surface area of metals and metal oxides by reducing the particle size increases acting of the catalyst and hence the rate of the reaction.
 
 ![](6.png)
-
-**Figure 10.4 Finely divided catalyst is more effective due to increase in the number of active centres.**
 
 ii. The action of catalytic poison occurs when the poison blocks the active centres of the catalyst.
 
@@ -570,8 +568,6 @@ Where E is the enzyme, S the substrate (reactant), ES represents activated compl
 
 ![](7.png)
 
-**Figure 10.5 Mechanism of Enzyme Catalysis**
-
 Enzyme catalysed reaction show certain general special characteristics.
 
 (i) Effective and efficient conversion is the special characteristic of enzyme catalysed reactions. An enzyme may transform a million molecules of reactant into product in a minute. For eg. \(2H_2O_2 \rightarrow 2H_2O + O_2\)
@@ -610,11 +606,7 @@ The physiological action of drugs is related to their inhibiting action.
 
 ![](8.png)
 
-**Figure 10.6 Rate vs Temperature**
-
 ![](9.png)
-
-**Figure 10.7 Rate vs pH**
 
 Example: Sulpha drugs. Penicillin inhibits the action of bacteria and used for curing diseases like pneumonia, dysentery, cholera and other infectious diseases.
 
@@ -725,6 +717,7 @@ Many lyophillic substances are made in their colloidal form by warming with wate
 In general, colloidal are prepared by the following methods.
 
 i. **Dispersion methods:** In this method larger particles are broken to colloidal dimension.
+
 ii. **Condensation method:** In this method, smaller atom or molecules are converted into larger colloidal sized particles.
 
 **1) Dispersion methods**
@@ -734,8 +727,6 @@ ii. **Condensation method:** In this method, smaller atom or molecules are conve
 Using a colloid mill, the solid is ground to colloidal dimension. The colloid mill consists of two metal plates rotating in opposite direction at very high speed of nearly 7000 revolution / minute.
 
 ![](11.png)
-
-**Figure 10.8 Colloid mill**
 
 The colloidal particles of required colloidal size is obtained by adjusting the distance between two plates.
 
@@ -749,8 +740,6 @@ Svedberg modified this method for the preparation of non aqueous inflammable liq
 
 ![](12.png)
 
-**Figure 10.9 Bredig's arc method**
-
 pentane, ether and benzene, etc using high frequency alternating current which prevents the decomposition of liquid.
 
 **(iii) Ultrasonic dispersion**
@@ -758,8 +747,6 @@ pentane, ether and benzene, etc using high frequency alternating current which p
 Sound waves of frequency more than \(20 \ \mathrm{kHz}\) (audible limit) could cause transformation of coarse suspension to colloidal dimensions.
 
 ![](13.png)
-
-**Figure: 10.10 Ultrasonic dispersion**
 
 Claus obtained mercury sol by subjecting mercury to sufficiently high frequency ultrasonic vibrations.
 
@@ -859,11 +846,13 @@ The presence of electric field increases the speed of removal of electrolytes fr
 
 ![](14.png)
 
-**Figure 10.11 Electro Dialysis**
-
 **(iii) Ultrafiltration**
 
-The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter.
+The pores of ordinary filter papers permit the passage of colloidal solutions. In ultra filtrations, the membranes are made by using collodion cellophane or visiking. When a colloidal solution is filtered using such a filter,
+colloidal particles are separated on the filter and the impurities are removed as washings.
+This process is quickened by application of pressure. The separation of sol particles from
+electrolyte by filteration through an ultrafilter is called ultrafiltration. Collodion is 4% solution
+of nitrocellulose in a mixture of alcohol and water. 
 
 #### 10.5.4 Properties of Colloids
 
@@ -882,7 +871,9 @@ Colour of the sol, generally depends on the following factors.
 
 The size of colloidal particles ranges from \(1 \ \mathrm{nm} \ (10^{-9} \ \mathrm{m})\) to \(1000 \ \mathrm{nm} \ (10^{-6} \ \mathrm{m})\) diameter.
 
-3) Colloidal solutions are heterogeneous in nature having two distinct phases. Though experiments like dialysis, ultrafiltration and ultracentrifuging clearly show the heterogeneous nature in the recent times colloidal solution are considered as border line cases.
+**3) Colloidal solutions are heterogeneous in nature having two distinct phases.**
+
+ Though experiments like dialysis, ultrafiltration and ultracentrifuging clearly show the heterogeneous nature in the recent times colloidal solution are considered as border line cases.
 
 **4) Filtrability:**
 
@@ -917,8 +908,6 @@ Colloids have optical property. When a homogeneous solution is seen in the direc
 
 ![](16.png)
 
-**Figure 10.12 Tyndall effect**
-
 But when light passes through colloidal solution, it is scattered in all directions. This effect was first observed by Faraday, but investigations are made by Tyndall in detail, hence called as Tyndall effect.
 
 The colloidal particles absorb a portion of light and the remaining portion is scattered from the surface of the colloid. Hence the path of light is made clear.
@@ -935,9 +924,7 @@ The colloidal sol particles are continuously bombarded with the molecules of the
 
 ![](17.png)
 
-**Figure 10.13 Brownian movement**
-
-**Importance of Brownian movement**
+**Brownian movement enables us,**
 
 I. to calculate Avogadro number.
 
@@ -953,8 +940,6 @@ The surface of colloidal particle adsorbs one type of ion due to preferential ad
 
 ![](18.png)
 
-**Figure 10.14 Electrical double layer**
-
 As the particles nearby are having similar charges, they cannot come close and condense. Hence this helps to explain the stability of a colloid.
 
 **(ii) Electrophoresis:**
@@ -965,8 +950,6 @@ This migration of sol particles under the influence of electric field is called 
 
 ![](19.png)
 
-**Figure 10.15 Electrophoresis**
-
 Few examples of charges of sols detected by electrophoresis are given below:
 
 ![](20.png)
@@ -974,8 +957,6 @@ Few examples of charges of sols detected by electrophoresis are given below:
 **(iii) Electro osmosis**
 
 ![](21.png)
-
-**Figure 10.16 Electro osmosis**
 
 A sol is electrically neutral. Hence the medium carries an equal but opposite charge to that of dispersed particles. When sol particles are prevented from moving, under the influence of electric field the medium moves in a direction opposite to that of the sol particles. This movement of dispersion medium under the influence of electric potential is called electro osmosis.
 
@@ -1134,8 +1115,6 @@ Sewage contains dirt, mud and wastes dispersed in water. The passage of electric
 
 ![](22.png)
 
-**Figure 10.17 Sewage disposal**
-
 **(vi) Cortrell's precipitator**
 
 Carbon dust in air is solidified by cortrell's precipitator. In it, a high potential difference of about 50,000V is used. The charge on carbon is neutralized and solidified. Thus the air is free from carbon particles.
@@ -1153,195 +1132,3 @@ Qualitative and quantitative analysis are based on the various properties of col
 Hence we can conclude that in our life, there is hardly any field which is not including the applications of colloids.
 
 ![](23.png)
-
-## EVALUATION
-
-## Choose the best answer:
-
-1. For Freundlich isotherm a graph of \(\log \frac{x}{m}\) is plotted against log p. The slope of the line and its y - axis intercept respectively corresponds to
-
-a) \(\frac{1}{n}\), k
-b) \(\log \frac{1}{n}\), k
-c) \(\frac{1}{n}\), \(\log k\)
-d) \(\log \frac{1}{n}\), \(\log k\)
-
-2. Which of the following is incorrect for physisorption?
-
-a) reversible
-b) increases with increase in temperature
-c) low heat of adsorption
-d) increases with increase in surface area
-
-3. Which one of the following characteristics are associated with adsorption? (NEET)
-
-a) \(\Delta G\) and \(\Delta H\) are negative but \(\Delta S\) is positive
-b) \(\Delta G\) and \(\Delta S\) are negative but \(\Delta H\) is positive
-c) \(\Delta G\) is negative but \(\Delta H\) and \(\Delta S\) are positive
-d) \(\Delta G\), \(\Delta H\) and \(\Delta S\) all are negative.
-
-4. Fog is colloidal solution of
-
-a) solid in gas
-b) gas in gas
-c) liquid in gas
-d) gas in liquid
-
-5. Assertion: Coagulation power of \(Al^{3+}\) is more than \(Na^+\).
-
-Reason: greater the valency of the flocculating ion added, greater is its power to cause precipitation
-
-a) if both assertion and reason are true and reason is the correct explanation of assertion.
-b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-c) assertion is true but reason is false
-d) both assertion and reason are false.
-
-6. Statement: To stop bleeding from an injury, ferric chloride can be applied. Which comment about the statement is justified?
-
-a) It is not true, ferric chloride is a poison.
-b) It is true, \(Fe^{3+}\) ions coagulate blood which is a negatively charged sol
-c) It is not true; ferric chloride is ionic and gets into the blood stream.
-d) It is true, coagulation takes place because of formation of negatively charged sol with Cl.
-
-7. Hair cream is
-
-a) gel
-b) emulsion
-c) solid sol
-d) sol.
-
-8. Which one of the following is correctly matched?
-
-a) Emulsion - Smoke
-b) Gel - butter
-c) foam - Mist
-d) whipped cream - sol
-
-9. The most effective electrolyte for the coagulation of \(As_2S_3\) Sol is
-
-a) NaCl
-b) \(Ba(NO_3)_2\)
-c) \(K_3[Fe(CN)_6]\)
-d) \(Al_2(SO_4)_3\)
-
-10. Which one of the is not a surfactant?
-
-a) \(CH_3-(CH_2)_{15}-N^+(CH_3)_2CH_2Br^-\)
-b) \(CH_3-(CH_2)_{15}-NH_2\)
-c) \(CH_3-(CH_2)_{16}-CH_2OSO_2^-Na^+\)
-d) \(OHC-(CH_2)_{14}-CH_2-COO^-Na^+\)
-
-11. The phenomenon observed when a beam of light is passed through a colloidal solution is
-
-a) Cataphoresis
-b) Electrophoresis
-c) Coagulation
-d) Tyndall effect
-
-12. In an electrical field, the particles of a colloidal system move towards cathode. The coagulation of the same sol is studied using \(K_2SO_4\)(i) \(Na_3PO_4\)(ii) \(K_4[Fe(CN)_6]\)(iii) and NaCl (iv) Their coagulating power should be
-
-a) \(II > IV > III\)
-b) \(III > II > IV\)
-c) \(I > II > III > IV\)
-d) none of these
-
-13. Collodion is a \(4\%\) solution of which one of the following compounds in alcohol - ether mixture?
-
-a) Nitroglycerine
-b) Cellulose acetate
-c) Glycolinditrate
-d) Nitrocellulose
-
-14. Which one of the following is an example for homogeneous catalysis?
-
-a) manufacture of ammonia by Haber's process
-b) manufacture of sulphuric acid by contact process
-c) hydrogenation of oil
-d) Hydrolysis of sucrose in presence of dil HCl
-
-15. Match the following
-
-| A) \(V_2O_5\) | i) High density polyethylene |
-|---|---|
-| B) Ziegler – Natta | ii) PAN |
-| C) Peroxide | iii) \(NH_3\) |
-| D) Finely divided Fe | iv) \(H_2SO_4\) |
-
-a) (iv) (i) (ii) (iii)
-b) (i) (ii) (iv) (iii)
-c) (ii) (iii) (iv) (i)
-d) (iii) (iv) (ii) (i)
-
-16. The coagulation values in millimoles per litre of the electrolytes used for the coagulation of \(As_2S_3\) are given below
-
-(I) \(NaCl = 52\) (II) \(BaCl_2 = 0.69\) (III) \(MgSO_4 = 0.22\)
-
-The correct order of their coagulating power is
-
-a) \(III > II > I\)
-b) \(I > II > III\)
-c) \(I > III > II\)
-d) \(II > III > I\)
-
-17. Adsorption of a gas on solid metal surface is spontaneous and exothermic, then
-
-a) \(\Delta H\) increases
-b) \(\Delta S\) increases
-c) \(\Delta G\) increases
-d) \(\Delta S\) decreases
-
-18. If x is the amount of adsorbate and m is the amount of adsorbent, which of the following relations is not related to adsorption process?
-
-a) \(\frac{x}{m} = f(P)\) at constant T
-b) \(\frac{x}{m} = f(T)\) at constant P
-c) \(P = f(T)\) at constant \(\frac{x}{m}\)
-d) \(\frac{x}{m} = PT\)
-
-19. On which of the following properties does the coagulating power of an ion depend? (NEET - 2018)
-
-a) Both magnitude and sign of the charge on the ion.
-b) Size of the ion alone
-c) the magnitude of the charge on the ion alone
-d) the sign of charge on the ion alone.
-
-20. Match the following
-
-| A) Pure nitrogen | i) Chlorine |
-|---|---|
-| B) Haber process | ii) Sulphuric acid |
-| C) Contact process | iii) Ammonia |
-| D) Deacons Process | iv) sodium azide (or) Barium azide |
-
-Which of the following is the correct option?
-
-A B C D
-a) (i) (ii) (iii) (iv)
-b) (ii) (iv) (i) (iii)
-c) (iii) (iv) (ii) (i)
-d) (iv) (iii) (ii) (i)
-
-## Answer the following questions:
-
-1. Give two important characteristics of physisorption
-2. Differentiate physisorption and chemisorption
-3. In case of chemisorption, why adsorption first increases and then decreases with temperature?
-4. Which will be adsorbed more readily on the surface of charcoal and why? \(NH_3\) or \(O_2\)?
-5. Heat of adsorption is greater for chemisorptions than physisorption. Why?
-6. Peptising agent is added to convert precipitate into colloidal solution. Explain with an example.
-7. What happens when a colloidal sol of \(Fe(OH)_3\) and \(As_2S_3\) are mixed?
-8. What is the difference between a sol and a gel?
-9. Why are lyophillic colloidal sols are more stable than lyophobic colloidal sol.
-10. Addition of Alum purifies water. Why?
-11. What are the factors which influence the adsorption of a gas on a solid?
-12. What are enzymes? Write a brief note on the mechanism of enzyme catalysis.
-13. What do you mean by activity and selectivity of catalyst?
-14. Describe some feature of catalysis by Zeolites.
-15. Give three uses of emulsions.
-16. Why does bleeding stop by rubbing moist alum?
-17. Why is desorption important for a substance to act as good catalyst?
-18. Comment on the statement: Colloid is not a substance but it is a state of substance.
-19. Explain any one method for coagulation
-20. Write a note on electro osmosis
-21. Write a note on catalytic poison
-22. Explain intermediate compound formation theory of catalysis with an example
-23. What is the difference between homogenous and heterogenous catalysis?
-24. Describe adsorption theory of catalysis.

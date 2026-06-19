@@ -8,6 +8,26 @@ summary: "This unit explains the classification, nomenclature, methods of prepar
 
 # 11. HYDROXY COMPOUNDS AND ETHERS
 
+![](nobel.png)
+**Alfred Bernhard Nobel**
+
+Alfred Bernhard Nobel was a
+Swedish chemist, engineer, inventor,
+and philanthropist. Nobel found
+that when  nitroglycerine  was
+incorporated in an inert absorbent
+like kieselguhr (diatomaceous
+earth) it became safer and more
+convenient to handle. He patented
+this mixture in 1867 as "dynamite".
+Nobel prizes were established in
+accordance with his will. The Nobel
+prizes is considered as one of the
+precious awards in the fields of
+chemistry, literature, peace activism,
+physics, economics and physiology
+or medicine.
+
 ### Introduction
 
 We have already learnt in eleventh standard that the hydrolysis of an alkyl halide gives an
@@ -117,19 +137,32 @@ The following tests are used to distinguish between \( 1^{\circ} \), \( 2^{\circ
 This test is based on the behaviour of the different nitro alkanes formed by the three types of alcohols with nitrous acid and it consists of the following steps.
 
 i) Alcohols are converted into alkyl iodide by treating it with \( \mathrm{I_2/P} \).
+
 ii) Alkyl iodide so formed is then treated with \( \mathrm{AgNO_2} \) to form nitro alkanes.
+
 iii) Nitro alkanes are finally treated with \( \mathrm{HNO_2} \) (mixture of \( \mathrm{NaNO_2/HCl} \)) and the resultant solution is made alkaline with \( \mathrm{KOH} \).
 
-**Result:** Primary alcohol gives red colour - Secondary alcohol gives blue colour. No colouration will be observed in case of tertiary alcohol.
+**Result:** 
+- Primary alcohol gives red colour 
+
+- Secondary alcohol gives blue colour. 
+
+- No colouration will be observed in case of tertiary alcohol.
+
 ![](img11.11.png)
+
 ### 11.4 Properties of alcohols
 
 #### Physical properties
 
 i. Lower alcohols are colourless liquids and the higher members are waxy solids.
+
 ii. They have higher boiling points than the corresponding other organic compounds such as alkanes, aldehydes, ethers etc., this is due to the presence of intermolecular hydrogen bonding present in alcohols.
+
 iii. Among isomeric alcohols primary alcohols have higher boiling point and the tertiary alcohols have lower boiling points.
+
 iv. The lower members are highly soluble in water due to the formation of intermolecular hydrogen bonding with water.
+
 ![](img11.12.png)
 **Table: Boiling point of alcohols in comparison with other organic compounds.**
 
@@ -273,10 +306,15 @@ When glycerol is heated with dehydrating agents such as conc \( \mathrm{H_2SO_4}
 Glycerol can give rise to a variety of oxidation products depending on the nature of the oxidising agent used for oxidation.
 
 a) Oxidation of glycerol with dil. \( \mathrm{HNO_3} \) gives glyceric acid and tartronic acid.
+
 b) Oxidation of glycerol with conc. \( \mathrm{HNO_3} \) gives mainly glyceric acid.
+
 c) Oxidation of glycerol with bismuth nitrate gives meso oxalic acid.
+
 d) Oxidation of glycerol with \( \mathrm{Br_2/H_2O} \) (or) \( \mathrm{NaOBr} \) (or) Fenton's reagent \( \mathrm{(FeSO_4 + H_2O_2)} \) gives a mixture of glyceraldehyde and dihydroxy acetone (This mixture is named as glycerose).
+
 e) On oxidation with \( \mathrm{HIO_4} \) or Lead tetra acetate (LTA) it gives formaldehyde and formic acid.
+
 f) Acidified \( \mathrm{KMnO_4} \) oxidises glycerol into oxalic acid.
 ![](img11.33.png)
 ### 11.5 Uses of alcohols
@@ -413,6 +451,8 @@ Phenol is colourless, needle shaped crystal, hygroscopic, corrosive and poisonou
 
 We have already learnt in XI standard that the groups like \( -\mathrm{OH} \), \( -\mathrm{NH_2} \), etc., which when directly attached to the benzene ring, activate the ring towards electrophilic substitution reaction and direct the incoming electrophile to occupy either the ortho or para position.
 
+**Common electrophilic aromatic substitutions are as follows:**
+
 **i) Nitrosation:** Phenol can be readily nitrosoated at low temperature with \( \mathrm{HNO_2} \).
 ![](img11.47.png)
 **ii) Nitration:** Phenol can be nitrated using \( 20\% \) nitric acid even at room temperature, a mixture of ortho and para nitrophenols are formed.
@@ -439,24 +479,30 @@ If the reaction is carried out in \( \mathrm{CS_2} \) or \( \mathrm{CCl_4} \) at
 #### Tests to differentiate alcohol and phenols
 
 i) Phenol react with benzene diazonium chloride to form a red orange dye, but ethanol has no reaction with it.
+
 ii) Phenol gives purple colouration with neutral ferric chloride solution, alcohols do not give such coloration with \( \mathrm{FeCl_3} \).
+
 iii) Phenol reacts with NaOH to give sodium phenoxide. Ethyl alcohol does not react with NaOH.
 
 #### Uses of phenol
 
 1) About half of world production of phenol is used for making phenol formaldehyde resin (Bakelite).
+
 2) Phenol is a starting material for the preparation of
    i) drugs such as phenacetin, Salol, aspirin, etc.
    ii) phenolphthalein indicator.
    iii) explosive like picric acid.
+
 3) It is used as an antiseptic - carbolic lotion and carbolic soaps.
 
 ![](img11.56.png)
 ### 11.9 Ethers
 
 Ethers are a class of organic compound in which an oxygen atom is connected to two alkyl/aryl groups (R-O-R). Ethers can be considered as the derivatives of hydrocarbon in which one hydrogen atom is replaced by an alkoxy (-OR) or an aryloxy (-OAr) group. The general formula of aliphatic ether is \( \mathrm{C_nH_{2n+2}O} \).
-![](img11.57.png)
+
 #### Classification
+
+![](img11.57.png)
 
 #### Structure of functional group
 
@@ -577,195 +623,3 @@ The alkoxy group (-OR) is an ortho, para directing group as well as activating g
 
 1. Anisole is a precursor to the synthesis of perfumes and insecticide pheromones.
 2. It is used as a pharmaceutical agent.
-
-## EVALUATION
-
-### Choose the correct answer
-
-1. An alcohol (x) gives blue colour in Victormeyer's test and \( 3.7\mathrm{g} \) of X when treated with metallic sodium liberates \( 560\ \mathrm{mL} \) of hydrogen at \( 273\ \mathrm{K} \) and 1 atm pressure. What will be the possible structure of X?
-   a) \( \mathrm{CH_3CH(OH)CH_2CH_3} \)
-   b) \( \mathrm{CH_3C(OH)(CH_3)_2} \)
-   c) \( \mathrm{CH_3CH_2-CH(OH)-CH_2-CH_3} \)
-
-2. Which of the following compounds on reaction with methyl magnesium bromide will give tertiary alcohol?
-   a) benzaldehyde
-   b) propanoic acid
-   c) methyl propanoate
-   d) acetaldehyde
-
-3. The X is
-
-4. In the reaction sequence, Ethene \( \xrightarrow{\mathrm{HOCl}} \mathrm{A} \xrightarrow{\mathrm{X}} \mathrm{ethane-1,2-diol} \). A and X respectively are
-   a) Chloroethane and NaOH
-   b) ethanol and \( \mathrm{H_2SO_4} \)
-   c) 2-chloroethane-1-ol and \( \mathrm{NaHCO_3} \)
-   d) ethanol and \( \mathrm{H_2O} \)
-
-5. Which one of the following is the strongest acid
-   a) 2-nitrophenol
-   b) 4-chlorophenol
-   c) 4-nitrophenol
-   d) 3-nitrophenol
-
-6. \( \mathrm{CH_2OH-CH_2OH} \) on treatment with conc. \( \mathrm{H_2SO_4} \) predominantly gives
-
-7. Carbolic acid is
-   a) Phenol
-   b) Picric acid
-   c) benzoic acid
-   d) phenylacetic acid
-
-8. Which one of the following will react with phenol to give salicylaldehyde after hydrolysis?
-   a) Dichloromethane
-   b) Trichloroethane
-   c) Trichloromethane
-   d) \( \mathrm{CO_2} \)
-
-9. \( \mathrm{(CH_3)_3C-CH(OH)CH_3 \xrightarrow{Conc.\ H_2SO_4} X} \) (major product)
-   a) \( \mathrm{(CH_3)_3CCH=CH_2} \)
-   b) \( \mathrm{(CH_3)_2C=C(CH_3)_2} \)
-   c) \( \mathrm{CH_2=C(CH_3)CH_2CH_2CH_3} \)
-
-10. The correct IUPAC name of the compound,
-    a) 4-chloro-2,3-dimethylpentan-1-ol
-    b) 2,3-dimethyl-4-chloropentan-1-ol
-    c) 2,3,4-trimethyl-4-chlorobutan-1-ol
-    d) 4-chloro-2,3,4-trimethylpentan-1-ol
-
-11. Assertion: Phenol is more acidic than ethanol
-    Reason: Phenoxide ion is resonance stabilized
-    a) both assertion and reason are true and reason is the correct explanation of assertion.
-    b) both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false
-    d) both assertion and reason are false.
-
-12. In the reaction Ethanol \( \xrightarrow{\mathrm{H_2SO_4}} \mathrm{Y} \xrightarrow{\mathrm{H_2O/H_2SO_4}} \mathrm{Z} \). The Z is
-    a) ethane
-    b) ethoxyethane
-    c) ethylsulphite
-    d) ethanol
-
-13. The reaction can be classified as
-    a) dehydration
-    b) Williamson alcohol synthesis
-    c) Williamson ether synthesis
-    d) dehydrogenation of alcohol
-
-14. Isopropylbenzene on air oxidation in the presence of dilute acid gives
-    a) \( \mathrm{C_6H_5COOH} \)
-    b) \( \mathrm{C_6H_5COCH_3} \)
-    c) \( \mathrm{C_6H_5COC_6H_5} \)
-    d) \( \mathrm{C_6H_5-OH} \)
-
-15. Assertion: Phenol is more reactive than benzene towards electrophilic substitution reaction
-    Reason: In the case of phenol, the intermediate arenium ion is more stabilized by resonance.
-    a) if both assertion and reason are true and reason is the correct explanation of assertion.
-    b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false
-    d) both assertion and reason are false.
-
-16. \( \mathrm{HO-CH_2CH_2-OH} \) on heating with periodic acid gives
-    a) methanoic acid
-    b) Glyoxal
-    c) methanal
-    d) \( \mathrm{CO_2} \)
-
-17. Which of the following compound can be used as antifreeze in automobile radiators?
-    a) methanol
-    b) ethanol
-    c) Neopentyl alcohol
-    d) ethane-1,2-diol
-
-18. The reactions
-    a) Wurtz reaction
-    b) cyclic reaction
-    c) Williamson reaction
-    d) Kolbe reactions
-
-19. One mole of an organic compound (A) with the formula \( \mathrm{C_3H_8O} \) reacts completely with two moles of HI to form X and Y. When Y is boiled with aqueous alkali it forms Z. Z answers the iodoform test. The compound (A) is
-    a) propan-2-ol
-    b) propan-1-ol
-    c) ethoxyethane
-    d) methoxyethane
-
-20. Among the following ethers which one will produce methyl alcohol on treatment with hot HI?
-    a) \( \mathrm{(CH_3)_3C-O-CH_3} \)
-    b) \( \mathrm{(CH_3)_2CH-CH_2-O-CH_3} \)
-    c) \( \mathrm{CH_3(CH_2)_3-O-CH_3} \)
-    d) \( \mathrm{CH_3CH_2CH-O-CH_3} \)
-
-21. Williamson synthesis of preparing dimethyl ether is a/an
-    a) \( \mathrm{S_N^1} \) reaction
-    b) \( \mathrm{S_N^2} \) reaction
-    c) electrophilic addition
-    d) electrophilic substitution
-
-22. On reacting with neutral ferric chloride, phenol gives
-    a) red colour
-    b) violet colour
-    c) dark green colour
-    d) no colouration
-
-### Answer the following questions
-
-1. Identify the product(s) formed when 1-methoxypropane is heated with excess HI. Name the mechanism involved in the reaction.
-
-2. Draw the major product formed when 1-ethoxyprop-1-ene is heated with one equivalent of HI.
-
-3. Suggest a suitable reagent to prepare secondary alcohol with identical group using Grignard reagent.
-
-4. What is the major product obtained when two moles of ethyl magnesium bromide is treated with methyl benzoate followed by acid hydrolysis.
-
-5. Predict the major product, when 2-methylbut-2-ene is converted into an alcohol in each of the following methods.
-   (i) Acid catalysed hydration
-   (ii) Hydroboration
-   (iii) Hydroxylation using Baeyer's reagent
-
-6. Arrange the following in the increasing order of their boiling point and give a reason for your ordering.
-   (i) Butan-2-ol, Butan-1-ol, 2-methylpropan-2-ol
-   (ii) Propan-1-ol, propan-1,2,3-triol, propan-1,3-diol, propan-2-ol
-
-7. Can we use nucleophiles such as \( \mathrm{NH_3}, \mathrm{CH_3O}^- \) for the nucleophilic substitution of alcohols?
-
-8. Is it possible to oxidise t-butyl alcohol using acidified dichromate to form a carbonyl compound?
-
-9. What happens when 1-phenylethanol is treated with acidified \( \mathrm{KMnO_4} \).
-
-10. Write the mechanism of acid catalysed dehydration of ethanol to give ethene.
-
-11. How is phenol prepared from
-    i) chlorobenzene
-    ii) isopropyl benzene
-
-12. Explain Kolbe's reaction.
-
-13. Write the chemical equation for Williamson synthesis of 2-ethoxy-2-methylpentane starting from ethanol and 2-methylpentan-2-ol.
-
-14. Write the structure of the aldehyde, carboxylic acid and ester that yield 4-methylpent-2-en-1-ol.
-
-15. What is metamerism? Give the structure and IUPAC name of metamers of 2-methoxypropane.
-
-16. How are the following conversions effected?
-    i) benzylchloride to benzylalcohol
-    ii) benzyl alcohol to benzoic acid
-
-17. Complete the following reactions.
-
-18. \( 0.44\mathrm{g} \) of a monohydric alcohol when added to methyl magnesium iodide in ether liberates at STP \( 112\ \mathrm{cm}^3 \) of methane. With PCC the same alcohol forms a carbonyl compound that answers silver mirror test. Identify the compound.
-
-19. Complete the following reactions.
-    i) 
-    ii) \( \mathrm{C_6H_5-CHCH(OH)CH(CH_3)_2 \xrightarrow{Conc.\ H_2SO_4}} \)
-
-20. Phenol is distilled with Zn dust followed by Friedel-Crafts alkylation with propyl chloride to give a compound A, A on oxidation gives B. Identify A and B.
-
-22. What will be the product (X and A) for the following reaction
-    \[
-    \text{acetylchloride} \xrightarrow{\text{i) } \mathrm{CH_3MgBr}} \xrightarrow{\text{ii) } \mathrm{CH_3MgBr}} \xrightarrow{\text{iii) } \mathrm{CH_3MgBr}} A
-    \]
-
-23. How will you convert acetylene into n-butyl alcohol.
-
-24. Predict the product A, B, X and Y in the following sequence of reaction.
-
-25. 3,3-dimethylbutan-2-ol on treatment with conc. \( \mathrm{H_2SO_4} \) gives tetramethyl ethylene as a major product. Suggest a suitable mechanism.
