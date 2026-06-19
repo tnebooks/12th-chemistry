@@ -8,7 +8,8 @@ summary: "This unit introduces the chemistry of p-block elements, focusing on th
 
 # 2. p-BLOCK ELEMENTS-I
 
-Kenneth wade (1932- 2014)
+![](wade.png)
+**Kenneth wade (1932- 2014)**
 
 Kenneth Wade, was a British chemist, and professor emeritus at Durham University. He developed a method for the prediction of shapes of borane clusters. Wade's rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. For his substantial contribution, Kenneth Wade was granted FRS award from royal society, London In 1989. He received the Tilden prize award in 1999 from the Royal Society of Chemistry for advances in chemistry.
 
@@ -48,11 +49,9 @@ The tendency of an element to form a cation by loosing electrons is known as ele
 
 ![](img2.1.png)
 
-**Figure 2.1 p-block elements with their ionisation enthalpies, electronegativity and metallic nature.**
+In p- block, the elements present in lower left part are metals while the elements in the upper right part are non metals. Elements of group 13 have metallic character except the first element boron which is a metalloid, having properties intermediate between the metal and nonmetals. The atomic radius of boron is very small and it has relatively high nuclear charge and these properties are responsible for its nonmetallic character. In the subsequent groups the non- metallic character increases. In group 14 elements, carbon is a nonmetal while silicon and germanium are metalloids. In group 15, nitrogen and phosphorus are non metals and arsenic & antimony are metalloids. In group 16, oxygen, sulphur and selenium are non metals and tellurium is a metalloid. All the elements of group 17 and 18 are non metals.
 
 ### 2.1.3 Ionisation Enthalpy:
-
-In p- block, the elements present in lower left part are metals while the elements in the upper right part are non metals. Elements of group 13 have metallic character except the first element boron which is a metalloid, having properties intermediate between the metal and nonmetals. The atomic radius of boron is very small and it has relatively high nuclear charge and these properties are responsible for its nonmetallic character. In the subsequent groups the non- metallic character increases. In group 14 elements, carbon is a nonmetal while silicon and germanium are metalloids. In group 15, nitrogen and phosphorus are non metals and arsenic & antimony are metalloids. In group 16, oxygen, sulphur and selenium are non metals and tellurium is a metalloid. All the elements of group 17 and 18 are non metals.
 
 We have already learnt that as we move down a group, generally there is a steady decrease in ionisation enthalpy of elements due to increase in their atomic radius. In p- block elements, there are some minor deviations to this general trend. In group 13, from boron to aluminium the ionisation enthalpy decreases as expected. But from aluminium to thallium there is only a marginal difference. This is due to the presence of inner d and f- electrons which has poor shielding effect compared to s and p- electrons. As a result, the effective nuclear charge on the valance electrons increases. A similar trend is also observed in group 14. The remaining groups (15 to 18) follow the general trend. In these groups, the ionisation enthalpy decreases, as we move down the group. Here, poor shielding effect of d- and f- electrons are overcome by the increased shielding effect of the additional p- electrons. The ionisation enthalpy of elements in successive groups is higher than the corresponding elements of the previous group as expected.
 
@@ -368,20 +367,44 @@ $$
 B_4H_{10} + H_2 \longrightarrow 2B_2H_6
 $$
 
-**Properties:**
+# Properties:
 
 Boranes are colourless diamagnetic compounds with low thermal stability. Diborane is a gas at room temperature with sweet smell and it is extremely toxic. It is also highly reactive.
 
 At high temperatures it forms higher boranes liberating hydrogen.
 
+$$
+5B_2H_6 \xrightarrow{388 \, \text{K}} 2B_5H_{11} + 4H_2
+$$
+
+$$
+2B_2H_6 \xrightarrow{198 - 373 \, \text{K}} B_4H_{10} + H_2
+$$
+
+$$
+5B_2H_6 \xrightarrow{373 \, \text{K}} B_{10}H_{14} + 8H_2
+$$
+
+$$
+5B_2H_6 \xrightarrow{473 - 523 \, \text{K}} 2B_5H_9 + 6H_2
+$$
+
+$$
+10B_2H_6 \xrightarrow{523 \, \text{K}} 2B_5H_9 + 2B_5H_{10} + 11H_2
+$$
+
+$$
+B_2H_6 \xrightarrow{\text{Red hot}} 2B + 3H_2
+$$
+
 Diboranes reacts with water and alkali to give boric acid and metaborates respectively.
 
 $$
-B_2H_6 + 6H_2O \longrightarrow 2H_3BO_3 + 6H_2
+B_2H_6 + 6H_2O \rightarrow 2H_3BO_3 + 6H_2
 $$
 
 $$
-B_2H_6 + 2NaOH + 2H_2O \longrightarrow 2NaBO_2 + 6H_2
+B_2H_6 + 2NaOH + 2H_2O \rightarrow 2NaBO_2 + 6H_2
 $$
 
 **Action of air:**
@@ -423,7 +446,15 @@ $$
 When treated with excess ammonia at low temperatures diborane gives diboranediammonate. On heating at higher temperatures it gives borazole.
 
 $$
-B_2H_6 + 2NH_3 \xrightarrow{\text{Low temp}} B_2H_6.2NH_3 \xrightarrow{473K} B_3N_3H_6 + 6H_2
+3B_2H_6 + 6NH_3 \xrightarrow{-153 \, K} 3(B_2H_6 \cdot 2NH_3) \, (\text{or}) \, 3[BH_2(NH_3)_2]^+[BH_4]^-
+$$
+
+$$
+3(B_2H_6 \cdot 2NH_3) \xrightarrow{\text{High temp}} \text{Closed vessel} \xrightarrow{+12H_2}
+$$
+
+$$
+2B_3N_3H_6 \, (\text{Borazole or Borazine - Inorganic benzene})
 $$
 
 **Structure of diborane:**
@@ -431,8 +462,6 @@ $$
 In diborane two \(BH_2\) units are linked by two bridged hydrogens. Therefore, it has eight B- H bonds. However, diborane has only 12 valence electrons and are not sufficient to form normal covalent bonds. The four terminal B- H bonds are normal covalent bonds (two centre - two electron bond or 2c- 2e bond). The remaining four electrons have to be used for the bridged bonds. i.e. two three centred B- H- B bonds utilise two electrons each. Hence, these bonds are three centre- two electron bonds (3c- 2e). The bridging hydrogen atoms are in a plane as shown in the figure 2.3. In diborane, the boron is \(sp^3\) hybridised.
 
 ![](img6.png)
-
-**Figure 2.3 Structure of diborane.**
 
 Three of the four \(sp^3\) hybridised orbitals contains single electron and the fourth orbital is empty. Two of the half filled hybridised orbitals of each boron overlap with the 1s orbitals of two hydrogens to form four terminal 2c- 2e bonds, leaving one empty and one half filled hybridised orbitals on each boron. The Three centre - two electron bonds), B- H- B bond formation involves overlapping the half filled hybridised orbital of one boron, the empty hybridised orbital of the other boron and the half filled 1s orbital of hydrogen.
 
@@ -464,22 +493,30 @@ $$
 C_6H_5N_2BF_4 \xrightarrow{\Delta} BF_3 + C_6H_5F + N_2
 $$
 
-**Properties:**
+# Properties:
 
 Boron trifluoride has a planar geometry. It is an electron deficient compound and accepts electron pairs to form coordinate covalent bonds. They form complex of the type \([BX_4]^-\).
 
 $$
-BF_3 + 3NH_3 \longrightarrow [BF_3NH_3] + 2NH_3 \xrightarrow{} [BF(NH_3)_2] + NH_4F
+\text{BF}_3 + \text{NH}_3 \rightarrow \text{F}_3\text{B} \leftarrow \text{NH}_3
+$$
+
+$$
+\text{BF}_3 + \text{H}_2\text{O} \rightarrow \text{F}_3\text{B} \leftarrow \text{OH}_2
 $$
 
 On hydrolysis, boric acid is obtained. This then gets converted into Hydro fluoroboric acid.
 
 $$
-4BF_3 + 6H_2O \longrightarrow 3H_3O^+ + 3[BF_3OH]^- \xrightarrow{} H_3BO_3
+4\text{BF}_3 + 12\text{H}_2\text{O} \rightarrow 4\text{H}_3\text{BO}_3 + 12\text{HF}
 $$
 
 $$
-3[BF_3OH]^- + 3H_3O^+ \longrightarrow 3BF_3 + 3H_2O
+3\text{H}_3\text{BO}_3 + 12\text{HF} \rightarrow 3\text{H}^+ + 3[\text{BF}_4]^- + 9\text{H}_2\text{O}
+$$
+
+$$
+4\text{BF}_3 + 3\text{H}_2\text{O} \rightarrow \text{H}_3\text{BO}_3 + 3\text{H}^+ + 3[\text{BF}_4]^-
 $$
 
 **Uses of Boron trifluoride:**
@@ -628,26 +665,17 @@ Graphite is the most stable allotropic form of carbon at normal temperature and 
 
 ![](img7.png)
 
-**Figure 2.4 Structure of graphite**
-
 Unlike graphite the other allotrope diamond is very hard. The carbon atoms in diamond are \(sp^{3}\) hybridised and bonded to four neighbouring carbon atoms by \(\sigma\) bonds with a C- C bond length of \(1.54\mathrm{\AA}\). This results in a tetrahedral arrangement around each carbon atom that extends to the entire lattice as shown in figure 2.5. Since all four valance electrons of carbon are involved in bonding there is no free electrons for conductivity. Being the hardest element, it used for sharpening hard tools, cutting glasses, making bores and rock drilling.
 
 ![](img8.png)
-
-**Figure 2.5 Structure of diamond**
-
 
 Fullerenes are newly synthesised allotropes of carbon. Unlike graphite and diamond, these allotropes are discrete molecules such as \(C_{32}\), \(C_{50}\), \(C_{60}\), \(C_{70}\), \(C_{76}\) etc. These molecules have cage like structures as shown in the figure. The \(C_{60}\) molecules have a soccer ball like structure and is called buckminster fullerene or buckyballs. It has a fused ring structure consists of 20 six membered rings and 12 five membered rings. Each carbon atom is \(sp^{2}\) hybridised and forms three \(\sigma\) bonds & a delocalised \(\pi\) bond giving aromatic character to these molecules. The C- C bond distance is \(1.44\mathrm{\AA}\) and \(C = C\) distance \(1.38\mathrm{\AA}\)
 
 ![](img9.png)
 
-**Figure 2.6 Structure of Fullerenes**
-
 Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends. Along the axis, these nanotubes are stronger than steel and conduct electricity. These have many applications in nanoscale electronics, catalysis, polymers and medicine.
 
 ![](img2.7.png)
-
-**Figure 2.7 Structure of carbon nanotubes**
 
 ### 2.3.5 Carbon monoxide [CO]:
 
@@ -656,8 +684,6 @@ Carbon nanotubes, another recently discovered allotropes, have graphite like tub
 Carbon monoxide can be prepared by the reaction of carbon with limited amount of oxygen.
 
 ![](img2.8.png)
-
-**Figure 2.8 Structure of graphene**
 
 
 $$
@@ -893,6 +919,7 @@ The hydrolysis of monoalkylchloro silanes \(RSiCl_{3}\) yields to a very complex
 They are obtained by the hydrolysis and subsequent condensation of dialkyl or diaryl silicon chlorides.
 
 a) Silicone rubbers: These silicones are bridged together by methylene or similar groups
+
 b) Silicone resins: They are obtained by blending silicones with organic resins such as acrylic esters.
 
 **(ii) Cyclic silicones**
@@ -926,8 +953,6 @@ Silicates are classified into various types based on the way in which the tetrah
 
 ![](img2.11.png)
 
-**Figure 2.11 Structure of Ortho silicates**
-
 Examples : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surrounded by \(O^{2-}\) ions), Olivine - \((Fe / Mg)_2SiO_4\) (\(Fe^{2+}\) and \(Mg^{2+}\) cations are octahedrally surrounded by \(O^{2-}\) ions),
 
 **Pyro silicate (or Soro silicates):**
@@ -935,8 +960,6 @@ Examples : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surroun
 Silicates which contain \([Si_2O_7]^{6-}\) ions are called pyro silicates (or) Soro silicates. They are formed by joining two \([SiO_4]^{4-}\) tetrahedral units by sharing one oxygen atom at one corner (one oxygen is removed while joining). Example : Thortveitite - \(Sc_2Si_2O_7\)
 
 ![](img2.12.png)
-
-**Figure 2.12 Structure of Pyro silicate**
 
 **Cyclic silicates (or Ring silicates)**
 
@@ -946,8 +969,6 @@ Example: Beryl \([Be_3Al_2(SiO_3)_6]\) (an aluminosilicate with each aluminium i
 
 ![](img2.13.png)
 
-**Figure 2.13 Structure of Cyclic silicates**
-
 **Inosilicates:**
 
 Silicates which contain 'n' number of silicate units linked by sharing two or more oxygen atoms are called insilicates. They are further classified as chain silicates and double chain silicates.
@@ -956,25 +977,21 @@ Silicates which contain 'n' number of silicate units linked by sharing two or mo
 
 ![](img2.14.png)
 
-**Figure 2.14 Structure of Chain silicates**
-
 Example: Spodumene - \(LiAl(SiO_3)_2\)
 
 **Double chain silicates (or amphiboles):** These silicates contains \([Si_4O_{11}]_n^{6n-}\) ions. In these silicates there are two different types of tetrahedra : (i) Those sharing 3 vertices (ii) those sharing only 2 vertices.
 
 ![](img2.15.png)
 
-**Figure 2.15 Structure of Double chain silicates**
+**Examples**
 
-Asbestos: These are fibrous and noncombustible silicates. Therefore they are used for thermal insulation material, brake linings, construction material and filters. Asbestos being carcinogenic silicates, their applications are restricted.
+**1 Asbestos:** These are fibrous and noncombustible silicates. Therefore they are used for thermal insulation material, brake linings, construction material and filters. Asbestos being carcinogenic silicates, their applications are restricted.
 
 **Sheet or phyllo silicates**
 
 Silicates which contain \((Si_{2}O_{5})_n^{2n-}\) are called sheet or phyllo silicates. In these, Each \([SiO_4]^{4-}\) tetrahedron shares three oxygen atoms with others and thus by forming two dimensional sheets. These sheet silicates form layered structures in which silicate sheets are stacked over each other. The attractive forces between these layers are very weak, hence they can be cleaved easily just like graphite.
 
 ![](img2.16.2.png)
-
-**Figure 2.16 Structure of Sheet or phyllo silicates**
 
 Example: Talc, Mica etc...
 
@@ -994,6 +1011,8 @@ Zeolites have porous structure in which the monovalent sodium ions and water mol
 
 Zeolites have a three dimensional crystalline structure looks like a honeycomb consisting of a network of interconnected tunnels and cages. Water molecules move freely in and out of these pores but the zeolite framework remains rigid. Another special aspect of this structure is that the pore/channel sizes are nearly uniform, allowing the crystal to act as a molecular sieve. We have already discussed in XI standard, the removal of permanent hardness of water using zeolites.
 
+**Do You Know**
+
 ## Boron Neutron Capture Therapy:
 
 The affinity of Boron-10 for neutrons is the basis of a technique known as boron neutron capture therapy (BNCT) for treating patients suffering from brain tumours.
@@ -1008,156 +1027,52 @@ Boron compounds are injected into a patient with a brain tumour and the compound
 
 ## Summary
 
-The elements in which their last electron enters the \(p\) orbital, constitute the p- block elements. The p- block elements have a general electronic configuration of \(ns^2\) \(np^{1-6}\). The elements of each group have similar outer shell electronic configuration and differ only in the value of \(n\) (principal quantum number). Generally on descending a group the ionisation energy decreases and hence the metallic character increases. The ionisation enthalpy of elements in successive groups is higher than the corresponding elements of the previous group as expected. As we move down the \(13^{\mathrm{th}}\) group, the electronegativity first decreases from boron to aluminium and then marginally increases.
+- The elements in which their last electron enters the 'p' orbital, constitute the p-block elements.
 
-In p- block elements, the first member of each group differs from the other elements of the corresponding group. In heavier post- transition metals, the outer s electrons (ns) have a tendency to remain inert and show reluctance to take part in the bonding, which is known as inert pair effect. Some elements exist in more than one crystalline or molecular forms in the same physical state. For example, carbon exists as diamond and graphite. This phenomenon is called allotropism Borax is a sodium salt of tetraboric acid. It is obtained from colmenite ore by boiling its solution with sodium carbonate. Boric acid can be extracted from borax and colmenite. Boric acid has a two dimensional layered structure. The name alum is given to the double salt of potassium aluminium sulphate \([K_2SO_4.Al_2(SO_4)_3.24H_2O]\) Carbon is found in the native form as graphite. Silicon occurs as silica (sand and quartz crystal). Silicate minerals and clay are other important sources for silicon. Catenation is the ability of an element to form chain of atoms Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends. Silicones or poly siloxanes are organo silicon polymers with general empirical formula \((R_2SiO)\). Because of their very high thermal stability they are called high - temperature polymers. The mineral which contains silicon and oxygen in tetrahedral \([SiO_4]^{4-}\) units linked together in different patterns are called silicates. Types of Silicates: Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates), Cyclic silicates (or Ring silicates) Inosilicates : Chain silicates (or pyroxenes), Double chain silicates (or amphiboles): Sheet or phyllo silicates Three dimensional silicates (or tecto silicates) Zeolites are three- dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework. Zeolites act as a molecular sieve for the removal of permanent hardness of water
+- The p-block elements have a general electronic configuration of \( ns^2 \), \( np^{1-6} \). The elements of each group have similar outer shell electronic configuration and differ only in the value of \( n \) (principal quantum number).
 
-## Evaluate Yourself
+- Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
 
-1. An aqueous solution of borax is
-a) neutral
-b) acidic
-c) basic
-d) amphoteric
+- The ionisation enthalpy of elements in successive groups is higher than the corresponding elements of the previous group as expected.
 
-2. Boric acid is an acid because its molecule (NEET)
-a) contains replaceable \(H^{+}\) ion
-b) gives up a proton
-c) combines with proton to form water molecule
-d) accepts \(OH^{-}\) from water, releasing proton.
+- As we move down the 13\(^\text{th}\) group, the electronegativity first decreases from boron to aluminium and then marginally increases.
 
-3. Which among the following is not a borane?
-a) \(B_{2}H_{6}\)
-b) \(B_{3}H_{6}\)
-c) \(B_{4}H_{10}\)
-d) none of these
+- In p-block elements, the first member of each group differs from the other elements of the corresponding group.
 
-4. Which of the following metals has the largest abundance in the earth's crust?
-a) Aluminium
-b) Calcium
-c) Magnesium
-d) Sodium
+- In heavier post-transition metals, the outer \( s \) electrons (\( ns \)) have a tendency to remain inert and show reluctance to take part in the bonding, which is known as inert pair effect.
 
-5. In diborane, the number of electrons that accounts for banana bonds is
-a) six
-b) two
-c) four
-d) three
+- Some elements exist in more than one crystalline or molecular forms in the same physical state. For example, carbon exists as diamond and graphite. This phenomenon is called allotropism.
 
-6. The element that does not show catenation among the following p-block elements is
-a) Carbon
-b) silicon
-c) Lead
-d) germanium
+- Borax is a sodium salt of tetraboric acid. It is obtained from colemanite ore by boiling its solution with sodium carbonate.
 
-7. Carbon atoms in fullerene with formula \(C_{60}\) have
-a) \(sp^{3}\) hybridised
-b) sp hybridised
-c) \(sp^{2}\) hybridised
-d) partially \(sp^{2}\) and partially \(sp^{3}\) hybridised
+- Boric acid can be extracted from borax and colemanite.
 
-8. Oxidation state of carbon in its hydrides
-a) \(+4\)
-b) \(-4\)
-c) \(+3\)
-d) \(+2\)
+- Boric acid has a two dimensional layered structure.
 
-9. The basic structural unit of silicates is (NEET)
-a) \((SiO_3)^{2-}\)
-b) \((SiO_4)^{2-}\)
-c) \((SiO)^{-}\)
-d) \((SiO_4)^{4-}\)
+- The name alum is given to the double salt of potassium aluminium sulphate \([K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O]\).
 
-10. The repeating unit in silicone is
-a) \(SiO_2\)
-b) \(R_2SiO\)
-c) \(R_2Si\)
-d) \(R_2Si_2O\)
+- Carbon is found in the native form as graphite.
 
-11. Which of these is not a monomer for a high molecular mass silicone polymer?
-a) \(Me_2SiCl_2\)
-b) \(PhSiCl_3\)
-c) \(MeSiCl_3\)
-d) \(Me_3SiCl\)
+- Silicon occurs as silica (sand and quartz crystal). Silicate minerals and clay are other important sources for silicon.
 
-12. Which of the following is not \(sp^2\) hybridised?
-a) Graphite
-b) graphene
-c) Fullerene
-d) dry ice
+- Catenation is the ability of an element to form chain of atoms.
 
-13. The geometry at which carbon atom in diamond are bonded to each other is
-a) Tetrahedral
-b) hexagonal
-c) Octahedral
-d) none of these
+- Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends.
 
-14. Which of the following statements is not correct?
-a) Beryl is a cyclic silicate
-b) \(Mg_2SiO_4\) is an orthosilicate
-c) \(SiO_4^{4-}\) is the basic structural unit of silicates
-d) Feldspar is not aluminosilicate
+- Silicones or poly siloxanes are organo silicon polymers with general empirical formula \((R_2SiO)\). Because of their very high thermal stability they are called high-temperature polymers.
 
-15. Match items in column - I with the items of column - II and assign the correct code.
+- The mineral which contains silicon and oxygen in tetrahedral \([SiO_4]^{4-}\) units linked together in different patterns are called silicates.
 
-| Column-I | | Column-II | |
-|---|---|---|---|
-| A | Borazole | 1 | \(B(OH)_3\) |
-| B | Boric acid | 2 | \(B_3N_3H_6\) |
-| C | Quartz | 3 | \(Na_2[B_4O_5(OH)_4] \cdot 8H_2O\) |
-| D | Borax | 4 | \(SiO_2\) |
+- Types of Silicates:
+    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates), Cyclic silicates (or Ring silicates)**
 
-Codes:
-a) A-2, B-1, C-4, D-3
-b) A-1, B-2, C-3, D-4
-c) A-2, B-3, C-1, D-4
-d) None of these
+    - **Inosilicates : Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
 
-16. Duralumin is an alloy of
-a) Cu, Mn
-b) Cu, Al, Mg
-c) Al, Mn
-d) Al, Cu, Mn, Mg
+    - Sheet or phyllo silicates
+    
+    - Three dimensional silicates (or tecto silicates)
 
-17. The compound that is used in nuclear reactors as protective shields and control rods is
-a) Metal borides
-b) metal oxides
-c) Metal carbonates
-d) metal carbide
+- Zeolites are three-dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework.
 
-18. The stability of \(+1\) oxidation state increases in the sequence
-a) \(Al < Ga < In < Tl\)
-b) \(Tl < In < Ga < Al\)
-c) \(In < Tl < Ga < Al\)
-d) \(Ga < In < Al < Tl\)
+- Zeolites act as a molecular sieve for the removal of permanent hardness of water.
 
-## Answer the following questions:
-
-1. Write a short note on anomalous properties of the first element of p-block.
-2. Describe briefly allotropism in p- block elements with specific reference to carbon.
-3. Give the uses of Borax.
-4. What is catenation ? describe briefly the catenation property of carbon.
-5. Write a note on Fisher tropsch synthesis.
-6. Give the structure of CO and \(CO_{2}\).
-7. Give the uses of silicones.
-8. Describe the structure of diborane.
-9. Write a short note on hydroboration.
-10. Give one example for each of the following (i) icosagens (ii) tetragens (iii) pnictogens (iv) chalcogens
-11. Write a note on metallic nature of p- block elements.
-12. Complete the following reactions
-a. \(B(OH)_{3} + NH_{3} \longrightarrow\)
-b. \(Na_{2}B_{4}O_{7} + H_{2}SO_{4} + H_{2}O \longrightarrow\)
-c. \(B_{2}H_{6} + 2NaOH + 2H_{2}O \longrightarrow\)
-d. \(B_{2}H_{6} + CH_{3}OH \longrightarrow\)
-e. \(BF_{3} + 9H_{2}O \longrightarrow\)
-f. \(HCOOH + H_{2}SO_{4} \longrightarrow\)
-g. \(SiCl_{4} + NH_{3} \longrightarrow\)
-h. \(SiCl_{4} + C_{2}H_{5}OH \longrightarrow\)
-i. \(B + NaOH \longrightarrow\)
-j. \(H_{2}B_{4}O_{7} \xrightarrow{\text{Red hot}} \longrightarrow\)
-13. How will you identify borate radical?
-14. Write a note on zeolites.
-15. How will you convert boric acid to boron nitride?
-16. A hydride of \(2^{\mathrm{nd}}\) period alkali metal (A) on reaction with compound of Boron (B) to give a reducing agent (C). identify A, B and C.
-17. A double salt which contains fourth period alkali metal (A) on heating at \(500\mathrm{K}\) gives (B). Aqueous solution of (B) gives white precipitate with \(BaCl_{2}\) and gives a red colour compound with alizarin. Identify A and B.
-18. CO is a reducing agent. Justify with an example.
