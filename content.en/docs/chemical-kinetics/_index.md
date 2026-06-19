@@ -8,6 +8,25 @@ summary: "This unit explains the rate of chemical reactions and the factors affe
 
 # 7. CHEMICAL KINETICS
 
+![](August.png)
+**Svante August Arrhenius**
+**(1859 –1927)**
+Svante August Arrhenius was
+a Swedish scientist. Arrhenius
+was one of the founders of the
+science of physical chemistry.
+He focused his attention on the
+conductivities of electrolytes.
+He proposed that crystalline
+salts dissociate into paired
+charged ions when dissolved
+in water, for which he received
+the Nobel Prize for Chemistry
+in 1903. He also proposed
+definitions for acids and bases.
+He formulated the concept of
+activation energy.
+
 # INTRODUCTION
 
 We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( BaCl_2 \) solution and dilute \( H_2SO_4 \) are just mixed, a white precipitate of \( BaSO_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
@@ -18,37 +37,37 @@ The study of chemical kinetics not only help us to determine the rate of a chemi
 
 In this unit, we discuss the rate of a chemical reaction and the factors affecting it. We also discuss the theories of the reaction rate and temperature dependence of a chemical reaction.
 
-### 7.1 Rate of a chemical reaction
-
-We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( \mathrm{BaCl}_2 \) solution and dilute \( \mathrm{H}_2\mathrm{SO}_4 \) are just mixed, a white precipitate of \( \mathrm{BaSO}_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
-
-Chemical kinetics is the study of the rate and the mechanism of chemical reactions, proceeding under given conditions of temperature, pressure, concentration etc.
-
-The study of chemical kinetics not only help us to determine the rate of a chemical reaction, but also useful in optimizing the process conditions of industrial manufacturing processes, organic and inorganic synthesis etc.
-
-In this unit, we discuss the rate of a chemical reaction and the factors affecting it. We also discuss the theories of the reaction rate and temperature dependence of a chemical reaction.
+### 7.1 Rate of a chemical reaction:
 
 A rate is a change in a particular variable per unit time. You have already learnt in physics that change in the displacement of a particle per unit time gives its velocity. Similarly in a chemical reaction, the change in the concentration of the species involved in a chemical reaction per unit time gives the rate of a reaction.
 
 Let us consider a simple general reaction
 
-\[
-\mathrm{A} \longrightarrow \mathrm{B}
-\]
+$$
+A \rightarrow B
+$$
 
-The concentration of the reactant ([A]) can be measured at different time intervals. Let the concentration of A at two different times \( t_2 \) and \( t_1 \), \( (t_2 > t_1) \) be \([A_1]\) and \([A_2]\) respectively. The rate of the reaction can be expressed as
+The concentration of the reactant (\( [A] \)) can be measured at different time intervals. Let the concentration of A at two different times \( t_1 \) and \( t_2 \), (\( t_1 > t_2 \)) be \( [A_1] \) and \( [A_2] \) respectively. The rate of the reaction can be expressed as
 
-\[
-\text{Rate} = \frac{-[\text{Change in the concentration of the reactants}]}{(\text{Change in time})}
-\]
+$$
+\text{Rate} = \frac{-\text{[Change in the concentration of the reactants]}}{\text{(Change in time)}}
+$$
 
-\[
-\text{i.e., Rate} = \frac{-([A_2] - [A_1])}{(t_2 - t_1)} = -\left(\frac{\Delta[A]}{\Delta t}\right) \quad \dots (7.1)
-\]
+i.e.,
 
-During the reaction, the concentration of the reactant decreases i.e. \([A_2] < [A_1]\) and hence the change in concentration \([A_2] - [A_1]\) gives a negative value. By convention the reaction rate is a positive one and hence a negative sign is introduced in the rate expression (equation 7.1).
+$$
+\text{Rate} = \frac{-([A_2] - [A_1])}{(t_2 - t_1)} = \left(\frac{\Delta[A]}{\Delta t}\right) \tag{7.1}
+$$
 
-If the reaction is followed by measuring the product concentration, the rate is given by \( \left(\frac{\Delta[B]}{\Delta t}\right) \) since \([B_2] > [B_1]\), no minus sign is required here.
+During the reaction, the concentration of the reactant decreases i.e. \( [A_2] < [A_1] \) and hence the change in concentration \( [A_2] - [A_1] \) gives a negative value. By convention the reaction rate is a positive one and hence a negative sign is introduced in the rate expression (equation 7.1)
+
+If the reaction is followed by measuring the product concentration, the rate is given by
+
+$$
+\left(\frac{\Delta[B]}{\Delta t}\right)
+$$
+
+since \( [B_2] > [B_1] \), no minus sign is required here.
 
 ![](AB.png)
 
@@ -264,6 +283,10 @@ Therefore the reaction is first order with respect to \( \mathrm{O}_2 \)
 
 \[
 \frac{(3)}{(1)} \Rightarrow \frac{76.8 \times 10^{-2}}{19.26 \times 10^{-2}} = \frac{k[2.6]^{m}[1.1]^{n}}{k[1.3]^{m}[1.1]^{n}}
+\]
+
+\[
+4 = \left(\frac{2.6}{1.3}\right)^{m}
 \]
 
 \[
@@ -486,6 +509,9 @@ This equation is in natural logarithm. To convert it into usual logarithm with b
 \]
 
 ![](plot.png)
+
+**Fig: 7.3** A plot of \( \ln[A] \) vs \( t \) for a first order reaction, \( A \rightarrow \) product with initial concentration of \( [A] = 1.00 \ \mathrm{M} \) and \( k = 2.5 \times 10^{-2} \ \mathrm{min}^{-1} \).
+
 
 \[
 k = \frac{2.303}{t} \log \left( \frac{[A_0]}{[A]} \right) \quad \text{--- (3)}
@@ -1123,6 +1149,7 @@ Take two test tubes and label them as A and B. Add 7 ml of 0.1N oxalic acid solu
 
 Now add few crystals of manganese sulphate to the content in test tube A. The pink colour fades and disappears. In this case, \( \mathrm{MnSO}_4 \) acts as a catalyst and increases the rate of oxidation of \( \mathrm{C_2O_4}^{2-} \) by \( \mathrm{MnO}_4^- \).
 
+**Do You Know**
 ## Chemical kinetics in pharmaceuticals
 
 Chemical kinetics has many applications in the field of pharmaceuticals. It is used to study the lifetimes and bioavailability of drugs within the body and this branch of study is called pharmacokinetics. Doctors usually prescribe drugs to be taken at different times of the day. i.e. some drugs are to be taken twice a day, while others are taken three times a day, or just once a day. Pharmacokinetic studies are used to determine the prescription (dosage and frequency). For example, Paracetamol is a well known antipyretic and analgesic that is prescribed in cases of fever and body pain. Pharmacokinetic studies showed that Paracetamol has a half-life of 2.5 hours within the body i.e. the plasma concentration of the drug is halved after 2.5 hrs. After 10 hours (4 half-lives) only 6.25% of drug remains. Based on such studies the dosage and frequency will be decided. In case of paracetamol, it is usually prescribed to be taken once in 6 hours depending upon the conditions.
@@ -1149,263 +1176,3 @@ Chemical kinetics has many applications in the field of pharmaceuticals. It is u
   3. Surface area of the reactant
   4. Temperature of the reaction
   5. Presence of a catalyst
-
-## Choose the correct answer
-
-1. For a first order reaction \( \mathrm{A} \longrightarrow \mathrm{B} \) the rate constant is \( x\ \mathrm{min}^{-1} \). If the initial concentration of A is \( 0.01\mathrm{M} \), the concentration of A after one hour is given by the expression.
-
-   a) \( 0.01e^{-x} \)
-   b) \( 1 \times 10^{-2}(1 - e^{-60x}) \)
-   c) \( (1 \times 10^{-2})e^{-60x} \)
-   d) none of these
-
-2. A zero order reaction \( \mathrm{X} \longrightarrow \mathrm{Product} \) with an initial concentration \( 0.02\mathrm{M} \) has a half life of \( 10\mathrm{min} \). If one starts with concentration \( 0.04\mathrm{M} \), then the half life is
-
-   a) \( 10\mathrm{s} \)
-   b) \( 5\mathrm{min} \)
-   c) \( 20\mathrm{min} \)
-   d) cannot be predicted using the given information
-
-3. Among the following graphs showing variation of rate constant with temperature (T) for a reaction, the one that exhibits Arrhenius behavior over the entire temperature range is
-
-4. For a first order reaction \( \mathrm{A} \longrightarrow \mathrm{product} \) with initial concentration \( x\ \mathrm{mol}\ \mathrm{L}^{-1} \), has a half life period of 2.5 hours. For the same reaction with initial concentration \( \left(\frac{x}{2}\right) \mathrm{mol}\ \mathrm{L}^{-1} \) the half life is
-
-   a) \( 2.5\ \text{hours} \)
-   b) \( \frac{2.5}{2}\ \text{hours} \)
-   c) \( 2.5\ \text{hours} \)
-   d) Without knowing the rate constant, \( t_{1/2} \) cannot be determined from the given data
-
-5. For the reaction, \( 2\mathrm{NH}_3 \longrightarrow \mathrm{N}_2 + 3\mathrm{H}_2 \), if \( -\frac{d[\mathrm{NH}_3]}{dt} = k_1[\mathrm{NH}_3] \), \( \frac{d[\mathrm{N}_2]}{dt} = k_2[\mathrm{NH}_3] \), \( \frac{d[\mathrm{H}_2]}{dt} = k_3[\mathrm{NH}_3] \) then the relation between \( k_1, k_2 \) and \( k_3 \) is
-
-   a) \( k_1 = k_2 = k_3 \)
-   b) \( k_1 = 3k_2 = 2k_3 \)
-   c) \( 1.5k_1 = 3k_2 = k_3 \)
-   d) \( 2k_1 = k_2 = 3k_3 \)
-
-6. The decomposition of phosphine (PH\(_3\)) on tungsten at low pressure is a first order reaction. It is because the (NEET)
-
-   a) rate is proportional to the surface coverage
-   b) rate is inversely proportional to the surface coverage
-   c) rate is independent of the surface coverage
-   d) rate of decomposition is slow
-
-7. For a reaction Rate = \( k[\text{acetone}]^{3/2} \) then unit of rate constant and rate of reaction respectively is
-
-   a) \( (\mathrm{mol}^{-1/2} \mathrm{L}^{1/2} \mathrm{s}^{-1}), (\mathrm{mol} \mathrm{L}^{-1} \mathrm{s}^{-1}) \)
-   b) \( (\mathrm{mol}^{1/2} \mathrm{L}^{-1/2} \mathrm{s}^{-1}), (\mathrm{mol} \mathrm{L}^{-1} \mathrm{s}^{-1}) \)
-   c) \( (\mathrm{mol}^{-1/2} \mathrm{L}^{1/2} \mathrm{s}^{-1}), (\mathrm{mol} \mathrm{L}^{-1} \mathrm{s}^{-1}) \)
-   d) \( (\mathrm{mol} \mathrm{L}^{-1} \mathrm{s}^{-1}), (\mathrm{mol}^{1/2} \mathrm{L}^{-1/2} \mathrm{s}^{-1}) \)
-
-8. The addition of a catalyst during a chemical reaction alters which of the following quantities? (NEET)
-
-   a) Enthalpy
-   b) Activation energy
-   c) Entropy
-   d) Internal energy
-
-9. Consider the following statements:
-   (i) increase in concentration of the reactant increases the rate of a zero order reaction.
-   (ii) rate constant k is equal to collision frequency A if \( E_a = 0 \)
-   (iii) rate constant k is equal to collision frequency A if \( E_a = \infty \)
-   (iv) a plot of ln k vs \( T \) is a straight line.
-   (v) a plot of ln k vs \( \left(\frac{1}{T}\right) \) is a straight line with a positive slope.
-
-   Correct statements are
-
-   a) (ii) only
-   b) (ii) and (iv)
-   c) (ii) and (v)
-   d) (i), (ii) and (v)
-
-10. In a reversible reaction, the enthalpy change and the activation energy in the forward direction are respectively \( -x\ \mathrm{kJ\ mol^{-1}} \) and \( y\ \mathrm{kJ\ mol^{-1}} \). Therefore, the energy of activation in the backward direction is
-
-    a) \( (y - x)\ \mathrm{kJ\ mol^{-1}} \)
-    b) \( (x + y)\ \mathrm{J\ mol^{-1}} \)
-    c) \( (x - y)\ \mathrm{kJ\ mol^{-1}} \)
-    d) \( (x + y) \times 10^3\ \mathrm{J\ mol^{-1}} \)
-
-11. What is the activation energy for a reaction if its rate doubles when the temperature is raised from \( 200\mathrm{K} \) to \( 400\mathrm{K} \) (\( R = 8.314\ \mathrm{J\ K^{-1}\ mol^{-1}} \))
-
-    a) \( 234.65\ \mathrm{kJ\ mol^{-1}} \)
-    b) \( 434.65\ \mathrm{kJ\ mol^{-1}} \)
-    c) \( 2.305\ \mathrm{kJ\ mol^{-1}} \)
-    d) \( 334.65\ \mathrm{J\ mol^{-1}} \)
-
-12. Cyclopropane undergoes following reaction: \( \Delta \longrightarrow \Delta \longrightarrow \Delta \); This reaction follows first order kinetics. The rate constant at particular temperature is \( 2.303 \times 10^{-2}\ \mathrm{hour}^{-1} \). The initial concentration of cyclopropane is 0.25 M. What will be the concentration of cyclopropane after 1806 minutes? \( (\log 2 = 0.3010) \)
-
-    a) \( 0.125\mathrm{M} \)
-    b) \( 0.215\mathrm{M} \)
-    c) \( 0.25 \times 2.303\mathrm{M} \)
-    d) \( 0.05\mathrm{M} \)
-
-13. For a first order reaction, the rate constant is \( 6.909\ \mathrm{min}^{-1} \). The time taken for \( 75\% \) conversion in minutes is
-
-14. In a first order reaction \( x \longrightarrow y \); if k is the rate constant and the initial concentration of the reactant x is \( 0.1\mathrm{M} \) then, the half life is
-
-15. Predict the rate law of the following reaction based on the data given below
-
-    \[
-    2\mathrm{A} + \mathrm{B} \longrightarrow \mathrm{C} + 3\mathrm{D}
-    \]
-
-    | Reaction number | [A] (min) | [B] (min) | Initial rate (M s\(^{-1}\)) |
-    |---|---|---|---|
-    | 1 | 0.1 | 0.1 | x |
-    | 2 | 0.2 | 0.1 | 2x |
-    | 3 | 0.1 | 0.2 | 4x |
-    | 4 | 0.2 | 0.2 | 8x |
-
-    a) rate = \( k[\mathrm{A}]^1[\mathrm{B}] \)
-    b) rate = \( k[\mathrm{A}][\mathrm{B}]^2 \)
-    c) rate = \( k[\mathrm{A}][\mathrm{B}] \)
-    d) rate = \( k[\mathrm{A}]^2[\mathrm{B}]^2 \)
-
-16. Assertion: rate of reaction doubles when the concentration of the reactant is doubled if it is a first order reaction.
-    Reason: rate constant also doubles
-
-    a) Both assertion and reason are true and reason is the correct explanation of assertion.
-    b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) Assertion is true but reason is false.
-    d) Both assertion and reason are false.
-
-17. The rate constant of a reaction is \( 5.8 \times 10^{-2}\ \mathrm{s}^{-1} \). The order of the reaction is
-
-    a) First order
-    b) zero order
-    c) Second order
-    d) Third order
-
-18. For the reaction \( \mathrm{N}_2\mathrm{O}_5(g) \longrightarrow 2\mathrm{NO}_2(g) + \frac{1}{2}\mathrm{O}_2(g) \), the value of rate of disappearance of \( \mathrm{N}_2\mathrm{O}_5 \) is given as \( 6.5 \times 10^{-2}\ \mathrm{mol\ L^{-1}\ s^{-1}} \). The rate of formation of \( \mathrm{NO}_2 \) and \( \mathrm{O}_2 \) is given
-
-19. During the decomposition of \( \mathrm{H}_2\mathrm{O}_2 \) to give dioxygen, 48 g \( \mathrm{O}_2 \) is formed per minute at certain point of time. The rate of formation of water at this point is
-
-    a) 0.75 mol min\(^{-1}\)
-    b) 1.5 mol min\(^{-1}\)
-    c) 2.25 mol min\(^{-1}\)
-    d) 3.0 mol min\(^{-1}\)
-
-20. If the initial concentration of the reactant is doubled, the time for half reaction is also doubled. Then the order of the reaction is
-
-    a) Zero
-    b) one
-    c) Fraction
-    d) none
-
-21. In a homogeneous reaction \( \mathrm{A} \longrightarrow \mathrm{B} + \mathrm{C} + \mathrm{D} \), the initial pressure was \( \mathrm{P}_0 \) and after time t it was \( \mathrm{P} \). expression for rate constant in terms of \( \mathrm{P}_0 \), \( \mathrm{P} \) and t will be
-
-    a) \( k = \left(\frac{2.303}{t}\right) \log \left(\frac{2\mathrm{P}_0}{3\mathrm{P}_0 - \mathrm{P}}\right) \)
-    b) \( k = \left(\frac{2.303}{t}\right) \log \left(\frac{2\mathrm{P}_0}{\mathrm{P}_0 - \mathrm{P}}\right) \)
-    c) \( k = \left(\frac{2.303}{t}\right) \log \left(\frac{3\mathrm{P}_0 - \mathrm{P}}{2\mathrm{P}_0}\right) \)
-    d) \( k = \left(\frac{2.303}{t}\right) \log \left(\frac{2\mathrm{P}_0}{3\mathrm{P}_0 - 2\mathrm{P}}\right) \)
-
-22. If \( 75\% \) of a first order reaction was completed in 60 minutes, \( 50\% \) of the same reaction under the same conditions would be completed in
-
-    a) 20 minutes
-    b) 30 minutes
-    c) 35 minutes
-    d) 75 minutes
-
-23. The half life period of a radioactive element is 140 days. After 560 days, 1 g of element will be reduced to
-
-    a) \( \left(\frac{1}{2}\right)\mathrm{g} \)
-    b) \( \left(\frac{1}{4}\right)\mathrm{g} \)
-    c) \( \left(\frac{1}{8}\right)\mathrm{g} \)
-    d) \( \left(\frac{1}{16}\right)\mathrm{g} \)
-
-24. The correct difference between first and second order reactions is that (NEET)
-
-    a) A first order reaction can be catalysed; a second order reaction cannot be catalysed.
-    b) The half life of a first order reaction does not depend on \( [\mathrm{A}_0] \); the half life of a second order reaction does depend on \( [\mathrm{A}_0] \).
-    c) The rate of a first order reaction does not depend on reactant concentrations; the rate of a second order reaction does depend on reactant concentrations.
-    d) The rate of a first order reaction does depend on reactant concentrations; the rate of a second order reaction does not depend on reactant concentrations.
-
-25. After 2 hours, a radioactive substance becomes \( \left(\frac{1}{16}\right)^{\text{th}} \) of original amount. Then the half life (in minutes) is
-
-## Answer the following questions
-
-1. Define average rate and instantaneous rate.
-
-2. Define rate law and rate constant.
-
-3. Derive integrated rate law for a zero order reaction \( \mathrm{A} \longrightarrow \mathrm{product} \).
-
-4. Define half life of a reaction. Show that for a first order reaction half life is independent of initial concentration.
-
-5. What is an elementary reaction? Give the differences between order and molecularity of a reaction.
-
-6. Explain the rate determining step with an example.
-
-7. Describe the graphical representation of first order reaction.
-
-8. Write the rate law for the following reactions.
-   (a) A reaction that is \( 3/2 \) order in x and zero order in y.
-   (b) A reaction that is second order in NO and first order in \( \mathrm{Br}_2 \).
-
-9. Explain the effect of catalyst on reaction rate with an example.
-
-10. The rate law for a reaction of A, B and C has been found to be rate \( = k[\mathrm{A}]^2[\mathrm{B}][\mathrm{L}]^{3/2} \). How would the rate of reaction change when
-    (i) Concentration of [L] is quadrupled
-    (ii) Concentration of both [A] and [B] are doubled
-    (iii) Concentration of [A] is halved
-    (iv) Concentration of [A] is reduced to \( \left(\frac{1}{\sqrt{3}}\right) \) and concentration of [L] is quadrupled.
-
-11. The rate of formation of a dimer in a second order reaction is \( 7.5 \times 10^{-3} \) mol \( \mathrm{L}^{-1} \mathrm{s}^{-1} \) at \( 0.05\ \mathrm{mol}\ \mathrm{L}^{-1} \) monomer concentration. Calculate the rate constant.
-
-12. For a reaction \( x + y + z \longrightarrow \) products the rate law is given by rate \( = k[x]^{3/2}[y]^{1/2} \) what is the overall order of the reaction and what is the order of the reaction with respect to z.
-
-13. Explain briefly the collision theory of bimolecular reactions.
-
-14. Write Arrhenius equation and explain the terms involved.
-
-15. The decomposition of \( \mathrm{Cl}_2\mathrm{O}_7 \) at \( 500\mathrm{K} \) in the gas phase to \( \mathrm{Cl}_2 \) and \( \mathrm{O}_2 \) is a first order reaction. After 1 minute at \( 500\mathrm{K} \), the pressure of \( \mathrm{Cl}_2\mathrm{O}_7 \) falls from 0.08 to 0.04 atm. Calculate the rate constant in \( \mathrm{s}^{-1} \).
-
-16. Give two examples for zero order reaction.
-
-17. Explain pseudo first order reaction with an example.
-
-18. Identify the order for the following reactions
-    (i) Rusting of Iron
-    (ii) Radioactive disintegration of \( \mathrm{U}^{238} \)
-    (iii) \( 2\mathrm{A} + 3\mathrm{B} \longrightarrow \) products; rate \( = k[\mathrm{A}]^{1/2}[\mathrm{B}]^2 \)
-
-19. A gas phase reaction has energy of activation \( 200\ \mathrm{kJ\ mol}^{-1} \). If the frequency factor of the reaction is \( 1.6 \times 10^{13}\ \mathrm{s}^{-1} \). Calculate the rate constant at \( 600\mathrm{K} \). \( (e^{-40.09} = 3.8 \times 10^{-18}) \)
-
-20. For the reaction \( 2x + y \longrightarrow \mathrm{L} \) find the rate law from the following data.
-
-    | [x] (M) | [y] (M) | rate (M s\(^{-1}\)) |
-    |---|---|---|
-    | 0.2 | 0.02 | 0.15 |
-    | 0.4 | 0.02 | 0.30 |
-    | 0.4 | 0.08 | 1.20 |
-
-21. How do concentrations of the reactant influence the rate of reaction?
-
-22. How do nature of the reactant influence rate of reaction.
-
-23. The rate constant for a first order reaction is \( 1.54 \times 10^{-3}\ \mathrm{s}^{-1} \). Calculate its half life time.
-
-24. The half life of the homogeneous gaseous reaction \( \mathrm{SO}_2\mathrm{Cl}_2 \rightarrow \mathrm{SO}_2 + \mathrm{Cl}_2 \) which obeys first order kinetics is 8.0 minutes. How long will it take for the concentration of \( \mathrm{SO}_2\mathrm{Cl}_2 \) to be reduced to \( 1\% \) of the initial value?
-
-25. The time for half change in a first order decomposition of a substance A is 60 seconds. Calculate the rate constant. How much of A will be left after 180 seconds?
-
-26. A zero order reaction is \( 20\% \) complete in 20 minutes. Calculate the value of the rate constant. In what time will the reaction be \( 80\% \) complete?
-
-27. The activation energy of a reaction is \( 22.5\ \mathrm{kCal\ mol^{-1}} \) and the value of rate constant at \( 40^{\circ}\mathrm{C} \) is \( 1.8 \times 10^{-5}\ \mathrm{s}^{-1} \). Calculate the frequency factor, A.
-
-28. Benzene diazonium chloride in aqueous solution decomposes according to the equation \( \mathrm{C}_6\mathrm{H}_5\mathrm{N}_2\mathrm{Cl} \longrightarrow \mathrm{C}_6\mathrm{H}_5\mathrm{Cl} + \mathrm{N}_2 \). Starting with an initial concentration of \( 10\ \mathrm{g\ L^{-1}} \), the volume of \( \mathrm{N}_2 \) gas obtained at \( 50^{\circ}\mathrm{C} \) at different intervals of time was found to be as under:
-
-    | t (min): | 6 | 12 | 18 | 24 | 30 | ∞ |
-    |---|---|---|---|---|---|---|
-    | Vol. of N\(_2\) (ml): | 19.3 | 32.6 | 41.3 | 46.5 | 50.4 | 58.3 |
-
-    Show that the above reaction follows the first order kinetics. What is the value of the rate constant?
-
-29. From the following data, show that the decomposition of hydrogen peroxide is a reaction of the first order:
-
-    | t (min) | 0 | 10 | 20 |
-    |---|---|---|---|
-    | V (ml) | 46.1 | 29.8 | 19.3 |
-
-    Where \( t \) is the time in minutes and \( V \) is the volume of standard \( \mathrm{KMnO}_4 \) solution required for titrating the same volume of the reaction mixture.
-
-30. A first order reaction is \( 40\% \) complete in 50 minutes. Calculate the value of the rate constant. In what time will the reaction be \( 80\% \) complete?

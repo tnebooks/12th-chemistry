@@ -8,7 +8,9 @@ summary: "This unit explains the classification of solids, distinguishing betwee
 
 # 6. SOLID STATE
 
-Sir William Henry Bragg (1862-1942) & Sir Lawrence Bragg (1890-1971)
+![](sir.png)
+
+**Sir William Henry Bragg (1862-1942) & Sir Lawrence Bragg (1890-1971)**
 
 Sir William Henry Bragg was a British physicist, chemist, and a mathematician. Sir William Henry Bragg and his son Lawrence Bragg worked on X-rays with much success. They invented the X-ray spectrometer and founded the new science of X-ray crystallography, the analysis of crystal structure using X-ray diffraction. Bragg was joint winner (with his son, Lawrence Bragg) of the Nobel Prize in Physics in 1915, for their services in the "analysis of crystal structure by means of ray". The mineral Braggite (a sulphide ore of platinum, palladium and Nickel) is named after him and his son.
 
@@ -23,9 +25,13 @@ In this chapter, we study the characteristics of solids, classification, structu
 We have already learnt in XI STD that gas molecules move randomly without exerting reasonable forces on one another. Unlike gases, in solids the atoms, ions or molecules are held together by strong force of attraction. The general characteristics of solids are as follows,
 
 (i) Solids have definite volume and shape.
+
 (ii) Solids are rigid and incompressible.
+
 (iii) Solids have strong cohesive forces.
+
 (iv) Solids have short inter atomic, ionic or molecular distances.
+
 (v) Their constituents (atoms, ions or molecules) have fixed positions and can only oscillate about their mean positions.
 
 ### 6.2 Classification of solids:
@@ -55,6 +61,7 @@ The following table shows the differences between crystalline and amorphous soli
 | 6 | They have sharp melting points. | Gradually soften over a range of temperature and so can be moulded. |
 | 7 | Examples: NaCl, diamond etc., | Examples: Rubber, plastics, glass etc. |
 
+**Table 6.1 differences between crystalline and amorphous solids**
 
 # Isotropy 
 
@@ -86,6 +93,17 @@ In covalent solids, the constituents (atoms) are bound together in a three dimen
 #### 6.3.3 Molecular solids:
 
 In molecular solids, the constituents are neutral molecules. They are held together by weak van der Waals forces. Generally molecular solids are soft and they do not conduct electricity. These molecular solids are further classified into three types.
+
+**Do You Know**
+
+Graphite is used
+inside pencils. It slips
+easily off the pencil
+onto the paper and
+leaves a blackmark. Graphite is also
+a component of many lubricants , for
+example bicycle chain oil , because it
+is slippery
 
 #### (i) Non-polar molecular solids:
 
@@ -215,6 +233,8 @@ $$
 \text{mass of one atom} = \frac{\text{molar mass } (M \ g \ mol^{-1})}{\text{Avogadro number } (N_A \ mol^{-1})} = \frac{M}{N_A}
 $$
 
+Substitute (3) in (2)
+
 $$
 \text{mass of the unit cell} = n \times \frac{M}{N_A}
 $$
@@ -256,6 +276,8 @@ $$
 = 3.5 \ g \ cm^{-3}
 $$
 
+![](box.png)
+
 ## Evaluate yourself
 
 1. An element has a face centered cubic unit cell with a length of \(352.4 \ pm\) along an edge. The density of the element is \(8.9 \ g \ cm^{-3}\). How many atoms are present in \(100 \ g\) of an element?
@@ -276,11 +298,11 @@ In a specific direction, there is only one possibility to arrange the spheres in
 
 #### 6.6.2 Two dimensional close packing:
 
-![](two.png)
-
 Two dimensional planar packing can be done in the following two different ways.
 
 #### (i) AAA... type:
+
+![](two.png)
 
 Linear arrangement of spheres in one direction is repeated in two dimension i.e., more number of rows can be generated identical to the one dimensional arrangement such that all spheres of different rows align vertically as well as horizontally as shown in the fig. If we denote the first row as A type arrangement, then the above mentioned packing is called AAA type, because all rows are identical as the first one. In this arrangement each sphere is in contact with four of its neighbours.
 
@@ -413,6 +435,7 @@ The number of voids depends on the number of close packed spheres. If the number
 The third layer of spheres can be formed in two ways to achieve closest packing
 
 (i) aba arrangement - hcp structure
+
 (ii) abc arrangement - ccp structure
 
 The spheres can be arranged so as to fit into the depression in such a way that the third layer is directly over a first layer as shown in the figure. This "aba" arrangement is known as the hexagonal close packed (hcp) arrangement. In this arrangement, the tetrahedral voids of the second layer are covered by the spheres of the third layer.
@@ -433,22 +456,60 @@ $$
 4r = a\sqrt{2} \Rightarrow r = \frac{a\sqrt{2}}{4}
 $$
 
-Volume of the sphere with radius \(r\) is
+In \( \Delta ABC \)
 
 $$
-= \frac{4}{3}\pi \left(\frac{\sqrt{2}a}{4}\right)^3 = \frac{4}{3}\pi \left(\frac{2\sqrt{2}a^3}{64}\right) = \frac{\sqrt{2}\pi a^3}{24}
+AC^2 = AB^2 + BC^2
+$$
+
+$$
+AC = \sqrt{AB^2 + BC^2}
+$$
+
+$$
+AC = \sqrt{a^2 + a^2} = \sqrt{2a^2} = \sqrt{2} \, a
+$$
+
+Volume of the sphere with radius \( r \) is
+
+$$
+= \frac{4}{3} \pi \left( \frac{\sqrt{2}a}{4} \right)^3
+$$
+
+$$
+= \frac{4}{3} \pi \left( \frac{2\sqrt{2}a^3}{64} \right)
+$$
+
+$$
+= \frac{\sqrt{2} \pi a^3}{24}
 $$
 
 Total number of spheres belongs to a single fcc unit cell is 4
 
-the volume of all spheres in a fcc unit cell
+\[
+\therefore \text{the volume of all spheres in a fcc unit cell}
+\]
 
 $$
-\text{Packing efficiency} = \left(\frac{\sqrt{2}\pi a^3}{6}\right) \times 100
+= 4 \times \left( \frac{\sqrt{2} \pi a^3}{24} \right)
 $$
 
 $$
-= \frac{\sqrt{2}\pi}{6} \times 100 = \frac{1.414 \times 3.14 \times 100}{6} = 74\%
+= \frac{\sqrt{2} \pi a^3}{6}
+$$
+
+packing efficiency =
+
+$$
+\frac{\sqrt{2} \pi}{6} \times 100
+$$
+
+$$
+= \frac{\sqrt{2} \pi}{6} \times 100
+$$
+
+$$
+= 74\%
 $$
 
 ### Radius ratio:
@@ -466,7 +527,10 @@ The structure of an ionic compound depends upon the stoichiometry and the size o
 
 ### 6.7 Imperfection in solids:
 
-According to the law of nature nothing is perfect, and so crystals need not be perfect. They always found to have some defects in the arrangement of their constituent particles. These defects affect the physical and chemical properties of the solid and also play an important role in various processes. For example, a process called doping leads to a crystal
+According to the law of nature nothing is perfect, and so crystals need not be perfect. They always found to have some defects in the arrangement of their constituent particles. These defects affect the physical and chemical properties of the solid and also play an important role in various processes. For example, a process called doping leads to a crystal imperfection and it increases the electrical conductivity of a semiconductor material such
+as silicon. The ability of ferromagnetic material such as iron, nickel etc., to be magnetized
+and demagnetized depends on the presence of imperfections. Crystal defects are classified
+as follows 
 
 1) Point defects
 2) Line defects
@@ -487,7 +551,11 @@ Schottky defect arises due to the missing of equal number of cations and anions 
 
 ![](sch.png)
 
-Presence of large number of Schottky defects in a crystal, lowers
+Presence of large number of Schottky defects in a crystal, lowers its density. For example, the theoretical density of vanadium monoxide (VO) calculated
+using the edge length of the unit cell is 6.5 g cm-3, but the actual experimental density
+is 5.6 g cm-3. It indicates that there is approximately 14% Schottky defect in VO crystal.
+Presence of Schottky defect in the crystal provides a simple way by which atoms or ions
+can move within the crystal lattice.
 
 #### 6.7.2 Frenkel defect:
 
@@ -517,7 +585,8 @@ For example, in FeO crystal, some of the \(Fe^{2+}\) ions are missing from the c
 
 A general method of introducing defects in ionic solids is by adding impurity ions. If the impurity ions are in different valance state from that of host, vacancies are created in the crystal lattice of the host. For example, addition of \(CdCl_2\) to \(AgCl\) yields solid solutions where the divalent cation \(Cd^{2+}\) occupies the position of \(Ag^{+}\). This will disturb the electrical neutrality of the crystal. In order to maintain the same, proportional number of \(Ag^{+}\) ions leaves the lattice. This produces a cation vacancy in the lattice, such kind of crystal defects are called impurity defects.
 
-## Energy harvesting by piezoelectric crystals:
+**Do You Know**
+#### Energy harvesting by piezoelectric crystals:
 
 Piezoelectricity (also called the piezoelectric effect) is the appearance of an electrical potential across the sides of a crystal when you subject it to mechanical stress. The word piezoelectricity means electricity resulting from pressure and latent heat. Even the inverse is possible which is known as inverse piezoelectric effect.
 
@@ -550,215 +619,3 @@ In a body centered cubic unit cell, each corner is occupied by an identical part
 In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The coordination number is 12.
 
 X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data \(2d\sin \theta = n\lambda\). The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. Crystals always found to have some defects in the arrangement of their constituent particles. Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. Metal excess defect arises due to the presence of more number of metal ions as compared to anions. Metal deficiency defect arises due to the presence of less number of cations than the anions.
-
-## EVALUATION
-
-## Choose the best answer:
-
-1. Graphite and diamond are
-
-a) Covalent and molecular crystals
-b) ionic and covalent crystals
-c) both covalent crystals
-d) both molecular crystals
-
-2. An ionic compound \(A_xB_y\) crystallizes in fcc type crystal structure with B ions at the centre of each face and A ion occupying corners of the cube. the correct formula of \(A_xB_y\) is
-
-a) AB
-b) \(AB_3\)
-c) \(A_3B\)
-d) \(A_8B_6\)
-
-3. The ratio of close packed atoms to tetrahedral hole in cubic packing is
-
-a) 1:1
-b) 1:2
-c) 2:1
-d) 1:4
-
-4. Solid \(CO_2\) is an example of
-
-a) Covalent solid
-b) metallic solid
-c) molecular solid
-d) ionic solid
-
-5. Assertion: monoclinic sulphur is an example of monoclinic crystal system
-
-Reason: for a monoclinic system, \(a \neq b \neq c\) and \(\alpha = \gamma = 90^{\circ}, \beta \neq 90^{\circ}\)
-
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-c) Assertion is true but reason is false.
-d) Both assertion and reason are false.
-
-6. In calcium fluoride, having the flurite structure the coordination number of \(Ca^{2+}\) ion and F Ion are (NEET)
-
-a) 4 and 2
-b) 6 and 6
-c) 8 and 4
-d) 4 and 8
-
-7. The number of unit cells in \(8 \ g\) of an element X (atomic mass 40) which crystallizes in bcc pattern is (\(N_A\) is the Avogadro number)
-
-a) \(6.023 \times 10^{23}\)
-b) \(6.023 \times 10^{22}\)
-c) \(60.23 \times 10^{23}\)
-d) \(\left(\frac{6.023 \times 10^{23}}{8 \times 40}\right)\)
-
-8. In a solid atom M occupies ccp lattice and \(\left(\frac{1}{3}\right)\) of tetrahedral voids are occupied by atom N. find the formula of solid formed by M and N.
-
-a) MN
-b) \(M_3N\)
-c) \(MN_3\)
-d) \(M_3N_2\)
-
-9. The ionic radii of \(A^{+}\) and \(B^{-}\) are \(0.98 \times 10^{-10} \ m\) and \(1.81 \times 10^{-10} \ m\). the coordination number of each ion in AB is
-
-a) 8
-b) 2
-c) 6
-d) 4
-
-10. CsCl has bcc arrangement, its unit cell edge length is \(400 \ pm\), its inter atomic distance is
-
-a) 400 pm
-b) 800 pm
-c) \(\sqrt{3} \times 100 \ pm\)
-d) \(\left(\frac{\sqrt{3}}{2}\right) \times 400 \ pm\)
-
-11. A solid compound XY has NaCl structure. if the radius of the cation is \(100 \ pm\), the radius of the anion will be
-
-a) \(\left(\frac{100}{0.414}\right)\)
-b) \(\left(\frac{0.732}{100}\right)\)
-c) \(100 \times 0.414\)
-d) \(\left(\frac{0.414}{100}\right)\)
-
-12. The vacant space in bcc lattice unit cell is
-
-a) \(48\%\)
-b) \(23\%\)
-c) \(32\%\)
-d) \(26\%\)
-
-13. The radius of an atom is \(300 \ pm\), if it crystallizes in a face centered cubic lattice, the length of the edge of the unit cell is
-
-a) \(488.5 \ pm\)
-b) \(848.5 \ pm\)
-c) \(884.5 \ pm\)
-d) \(484.5 \ pm\)
-
-14. The fraction of total volume occupied by the atoms in a simple cubic is
-
-a) \(\left(\frac{\pi}{4\sqrt{2}}\right)\)
-b) \(\left(\frac{\pi}{6}\right)\)
-c) \(\left(\frac{\pi}{4}\right)\)
-d) \(\left(\frac{\pi}{3\sqrt{2}}\right)\)
-
-15. The yellow colour in NaCl crystal is due to
-
-a) excitation of electrons in F centers
-b) reflection of light from Cl ion on the surface
-c) refraction of light from Na+ ion
-d) all of the above
-
-16. If 'a' stands for the edge length of the cubic system; sc, bcc, and fcc. Then the ratio of radii of spheres in these systems will be respectively.
-
-a) \(\left(\frac{1}{2}a : \frac{\sqrt{3}}{2}a : \frac{\sqrt{2}}{2}a\right)\)
-b) \(\left(\sqrt{1}a : \sqrt{3}a : \sqrt{2}a\right)\)
-c) \(\left(\frac{1}{2}a : \frac{\sqrt{3}}{4}a : \frac{1}{2\sqrt{2}}a\right)\)
-d) \(\left(\frac{1}{2}a : \sqrt{3}a : \frac{1}{\sqrt{2}}a\right)\)
-
-17. If 'a' is the length of the side of the cube, the distance between the body centered atom and one corner atom in the cube will be
-
-a) \(\left(\frac{2}{\sqrt{3}}a\right)\)
-b) \(\left(\frac{4}{\sqrt{3}}a\right)\)
-c) \(\left(\frac{\sqrt{3}}{4}a\right)\)
-d) \(\left(\frac{\sqrt{3}}{2}a\right)\)
-
-18. Potassium has a bcc structure with nearest neighbor distance \(4.52 \ \text{Å}\). its atomic weight is 39. its density will be
-
-a) \(915 \ kg \ m^{-3}\)
-b) \(2142 \ kg \ m^{-3}\)
-c) \(452 \ kg \ m^{-3}\)
-d) \(390 \ kg \ m^{-3}\)
-
-19. Schottky defect in a crystal is observed when
-
-a) unequal number of anions and cations are missing from the lattice
-b) equal number of cations and anions are missing from the lattice
-c) an ion leaves its normal site and occupies an interstitial site
-d) no ion is missing from its lattice.
-
-20. The cation leaves its normal position in the crystal and moves to some interstitial position, the defect in the crystal is known as
-
-a) Schottky defect
-b) F center
-c) Frenkel defect
-d) non-stoichiometric defect
-
-21. Assertion: due to Frenkel defect, density of the crystalline solid decreases.
-
-Reason: in Frenkel defect cation and anion leaves the crystal.
-
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-c) Assertion is true but reason is false.
-d) Both assertion and reason are false
-
-22. The crystal with a metal deficiency defect is
-
-a) NaCl
-b) FeO
-c) ZnO
-d) KCl
-
-23. A two dimensional solid pattern formed by two different atoms X and Y is shown below. The black and white squares represent atoms X and Y respectively. the simplest formula for the compound based on the unit cell from the pattern is
-
-a) \(XY_8\)
-b) \(X_4Y_9\)
-c) \(XY_2\)
-d) \(XY_4\)
-
-## Answer the following questions:
-
-1. Define unit cell.
-2. Give any three characteristics of ionic crystals.
-3. Differentiate crystalline solids and amorphous solids.
-4. Classify the following solids
-   a. \(P_4\)
-   b. Brass
-   c. diamond
-   d. NaCl
-   e. Iodine
-5. Explain briefly seven types of unit cell.
-6. Distinguish between hexagonal close packing and cubic close packing.
-7. Distinguish tetrahedral and octahedral voids.
-8. What are point defects?
-9. Explain Schottky defect.
-10. Write short note on metal excess and metal deficiency defect with an example.
-11. Calculate the number of atoms in a fcc unit cell.
-12. Explain AAAA and ABAB and ABCABC type of three dimensional packing with the help of neat diagram.
-13. Why ionic crystals are hard and brittle?
-14. Calculate the percentage efficiency of packing in case of body centered cubic crystal.
-15. What is the two dimensional coordination number of a molecule in square close packed layer?
-16. What is meant by the term "coordination number"? What is the coordination number of atoms in a bcc structure?
-17. An element has bcc structure with a cell edge of \(288 \ pm\). the density of the element is \(7.2 \ g \ cm^{-3}\). how many atoms are present in \(208 \ g\) of the element.
-18. Aluminium crystallizes in a cubic close packed structure. Its metallic radius is \(125 \ pm\). calculate the edge length of unit cell.
-19. If NaCl is doped with \(10^{-2}\) mol percentage of strontium chloride, what is the concentration of cation vacancy?
-20. KF crystallizes in fcc structure like sodium chloride. calculate the distance between \(K^{+}\) and \(F^{-}\) in KF (given: density of KF is \(2.48 \ g \ cm^{-3}\))
-21. An atom crystallizes in fcc crystal lattice and has a density of \(10 \ g \ cm^{-3}\) with unit cell edge length of \(100 \ pm\). calculate the number of atoms present in \(1 \ g\) of crystal.
-22. Atoms X and Y form bcc crystalline structure. Atom X is present at the corners of the cube and Y is at the centre of the cube. What is the formula of the compound?
-23. Sodium metal crystallizes in bcc structure with the edge length of the unit cell \(4.3 \times 10^{-8} \ cm\). calculate the radius of sodium atom.
-24. Write a note on Frenkel defect.
-
-## CRYSTAL SYSTEMS
-
-By using this tool, you will be able to visualize different crystal systems and know their unit cell parameters.
-
-Please go to the URL http://vlab.amrita.edu (or) Scan the QR code on the right side
-
-**Steps**
-
-- Open the Browser and type the URL given (or) Scan the QR Code. In the webpage click physical science tab and then click solid state virtual lab. Then go to crystal structure and then click simulator. Note: One time sign up is needed to access this webpage. Login using your username and password. Once logged in click the simulator tab.
-- Now using the menu (box 1) select any one of the seven crystal systems and the lattice type. Now the unit cell of the selected crystal system will appear on screen (box 2) and the unit cell parameters will also be displayed in the measurement tab (box 3)
