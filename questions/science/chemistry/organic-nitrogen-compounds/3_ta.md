@@ -1,11 +1,15 @@
 ﻿---
 choices:
-  - '\( \text{CH}_3\text{CH}_2\text{NH}_2 + \text{HNO}_2 \rightarrow \text{CH}_3\text{CH}_2\text{OH} + \text{N}_2 \)'
-  - '\( (\text{CH}_3)_2\text{NH} \xrightarrow{\text{NaNO}_2 / \text{HCl}} (\text{CH}_3)_2\text{N} - \text{N}=\text{O} \)'
-  - '\( \text{CH}_3\text{CONH}_2 \xrightarrow{\text{Br}_2 / \text{NaOH}} \text{CH}_3\text{NH}_2 \)'
-  - "இவற்றுள் எதுவுமில்லை"
+  - "CH₃CH₂CONH₂"
+  - "CH₃CONH₂"
+  - "C₆H₅CONH₂"
 answers:
-  - ""
+  - "CH₃CONHCH₃"
 ---
 
-பின்வரும் வினைகளில் தவறானது எது?
+**பின்வருவனவற்றுள் எது ஆரம்ப புரோமைடு (ஹாஃப்மேன் புரோமைடு சிதைவு) வினைக்கு உட்படாது?**
+
+```markdown
+ஹாஃப்மேன் புரோமைடு சிதைவு வினைக்கு முதன்மை அமைடுகள் (R-CONH₂) மட்டுமே உட்படுகின்றன. CH₃CONHCH₃ ஒரு இரண்டாம் நிலை அமைடு ஆகும். இது ஹாஃப்மேன் சிதைவிற்கு உட்படாது, ஏனெனில் இந்த வினைக்கு -NH₂ குழு தேவை. CH₃CH₂CONH₂, CH₃CONH₂, C₆H₅CONH₂ ஆகியவை முதன்மை அமைடுகள் மற்றும் ஹாஃப்மேன் சிதைவிற்கு உட்படுகின்றன.
+சரியான விடை (அ) CH₃CONHCH₃.
+```
