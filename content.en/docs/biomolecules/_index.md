@@ -1,38 +1,33 @@
 ---
 title: 'Biomolecules'
 categories:
-    - science
+    - biomolecules
 weight: 14
 summary: "This unit explains the structure, classification, and biological functions of essential biomolecules like carbohydrates, proteins, nucleic acids, and vitamins. It describes the chemical reactions of glucose and fructose, properties of amino acids, and the structural levels of proteins. The unit also highlights the components of DNA and RNA, along with the vital roles of vitamins and hormones in metabolic processes."
 ---
 
 # 14. BIOMOLECULES
 
-G.N. Ramachandran
+![](img14.png)
+**G.N. Ramachandran**
 
 Dr. G.N. Ramachandran received Master's Degree in Physics from Madras University. In 1954, he identified and published the Triple helical structure of Collagen using X-ray diffraction. He pioneered the field of protein structure validation through the study of available crystal structures of peptides. From his studies, in 1962, he developed the Ramachandran Plot which is used even today for stereochemical validation of protein structures.
 
-## Learning Objectives
+# Introduction
 
-After studying this unit, students will be able to
-
-- Describe the importance of carbohydrates and their classification based on structures/functions.
-- Explain the structure of glucose and fructose and their elucidation.
-- List the twenty amino acids and explain the peptide bond formation
-- Explain the four levels of structure of proteins
-- Outline the mechanism of enzyme catalysis
-- Summarise the sources and deficiency diseases of vitamins
-- Outline the composition and the structure of nucleic acids.
-- Differentiate RNA from DNA and explain DNA finger printing
-- Appreciate the importance of biomolecules in our life
+All living things are made up of many biomolecules such as carbohydrates, proteins, lipids
+and nucleic acids etc... The major elements present in the human body are carbon, hydrogen,
+oxygen, nitrogen and phosphorous, and they combine to form a variety of biomolecules. These
+biomolecules are used as fuel to provide the necessary energy for the various functions of
+living systems in addition to many other biological functions. The field of studying about the
+chemistry behind the biological processes is called ‘Biochemistry’. In this unit, we will learn
+about some essential informations of the biomolecules, their structure and their importance.
 
 ### 14.1 Carbohydrates
 
-All living things are made up of many biomolecules such as carbohydrates, proteins, lipids and nucleic acids etc... The major elements present in the human body are carbon, hydrogen, oxygen, nitrogen and phosphorous, and they combine to form a variety of biomolecules. These biomolecules are used as fuel to provide the necessary energy for the various functions of living systems in addition to many other biological functions. The field of studying about the chemistry behind the biological processes is called 'Biochemistry'. In this unit, we will learn about some essential informations of the biomolecules, their structure and their importance.
-
 Carbohydrates are the most abundant organic compounds in every living organism. They are also known as saccharides (derived from Greek word 'sakcharon' which means sugar) as many of them are sweet. They are considered as hydrates of carbon, containing hydrogen and oxygen in the same ratio as in water. Chemically, they are defined as polyhydroxy aldehydes or ketones with a general formula \(C_n(H_2O)_n\). Some common examples are glucose (monosaccharide), sucrose (disaccharide) and starch (polysaccharide)
 
-**Figure 14.1. Structure of carbohydrates**
+![](1.png)
 
 Carbohydrates are synthesised by green leaves during photosynthesis, a complex process in which sun light provides the energy to convert carbon dioxide and water into glucose and oxygen. Glucose is then converted into other carbohydrates and is consumed by animals.
 
@@ -46,7 +41,7 @@ Almost all carbohydrates are optically active as they have one or more chiral ca
 
 The \(+\) and \(-\) sign indicates the dextrorotatory and levorotatory respectively. Dextrorotatory compounds rotate the plane of plane polarised light in clockwise direction while the levorotatory compounds rotate in anticlockwise direction. The D or L isomers can either be dextro or levo rotatory compounds. Dextrorotatory compounds are represented as \(D-(+)\) or \(L-(+)\) and the levorotatory compounds as \(D-(-)\) or \(L-(-)\).
 
-**Figure 14.2 Configuration of carbohydrates**
+![](2.png)
 
 #### 14.1.2 Classification of carbohydrates
 
@@ -73,7 +68,7 @@ Monosaccharides are further classified based on the functional group present (al
 
 Glucose is a simple sugar which serves as a major energy source for us. It is the most important and most abundant sugar. It is present in honey, sweet fruits such as grapes and mangoes etc... Human blood contains about \(100 \ \mathrm{mg/dL}\) of glucose, hence it is also known as blood sugar. In the combined form it is present in sucrose, starch, cellulose etc.,
 
-**Figure 14.3 Structure of aldoses and ketoses**
+![](3.png)
 
 **Preparation of glucose**
 
@@ -94,7 +89,7 @@ $$
 Glucose is an aldehyde. It is optically active with four asymmetric carbons. Its solution is dextrorotatory and hence it is also called as dextrose. The proposed structure of glucose is shown in the figure 14.4 which was derived based on the following evidences.
 
 1. Elemental analysis and molecular weight determination show that the molecular formula of glucose is \(C_6H_{12}O_6\)
-
+![](4.png)
 2. On reduction with concentrated HI and red phosphorus at \(373 \ \mathrm{K}\) glucose gives a mixture of n-hexane and 2-iodohexane indicating that the six carbon atoms are bonded linearly.
 
 $$
@@ -104,35 +99,29 @@ $$
 
 3. Glucose reacts with hydroxylamine to form oxime and with HCN to form cyanohydrin. These reactions indicate the presence of carbonyl group in glucose.
 
+![](5.png)
+
 4. Glucose gets oxidized to gluconic acid with mild oxidizing agents like bromine water suggesting that the carbonyl group is an aldehyde group and it occupies one end of the carbon chain. When oxidised using strong oxidising agent such as conc. nitric acid gives glucaric acid (saccharic acid) suggesting the other end is occupied by a primary alcohol group.
 
-$$
-CHO-(CHOH)_4-CH_2OH \xrightarrow{[O] \text{Br}_2/H_2O} COOH-(CHOH)_4-CH_2OH \quad \text{(Gluconic acid)}
-$$
-
-$$
-CHO-(CHOH)_4-CH_2OH \xrightarrow{[O] \text{conc. HNO}_3} COOH-(CHOH)_4-COOH \quad \text{(Glucaric acid)}
-$$
+![](6.png)
 
 5. Glucose is oxidised to gluconic acid with ammonical silver nitrate (Tollen's reagent) and alkaline copper sulphate (Fehling's solution). Tollen's reagent is reduced to metallic silver and Fehling's solution to cuprous oxide which appears as red precipitate. These reactions further confirm the presence of an aldehyde group.
 
-$$
-CHO-(CHOH)_4-CH_2OH + 2[Ag(NH_3)_2]^+ + 2OH^- \rightarrow COO^--(CHOH)_4-CH_2OH + 2Ag + 4NH_3 + H_2O
-$$
+![](7.png)
 
 6. Glucose forms penta acetate with acetic anhydride suggesting the presence of five alcohol groups.
+
+![](8.png)
 
 7. Glucose is a stable compound and does not undergo dehydration easily. It indicates that not more than one hydroxyl group is bonded to a single carbon atom. Thus the five hydroxyl groups are attached to five different carbon atoms and the sixth carbon is an aldehyde group.
 
 8. The exact spatial arrangement of -OH groups was given by Emil Fischer as shown in Figure 14.4. The glucose is referred to as \(D(+)\) glucose as it has D configuration and is dextrorotatory.
 
-**Figure 14.4 Structure of \(\mathbf{D}(+)\) glucose**
-
 **Cyclic structure of glucose**
 
 Fischer identified that the open chain penta hydroxyl aldehyde structure of glucose, that he proposed, did not completely explain its chemical behaviour. Unlike simple aldehydes, glucose did not form crystalline bisulphite compound with sodium bisulphite. Glucose does not give Schiff's test and the penta acetate derivative of glucose was not oxidized by Tollen's reagent or Fehling's solution. This behaviour could not be explained by the open chain structure.
 
-**Figure 14.5 Cyclic structures of glucose**
+![](9.png)
 
 In addition, glucose is found to crystallise in two different forms depending upon the crystallisation conditions with different melting points (419 and 423 K). In order to explain these it was proposed that one of the hydroxyl group reacts with the aldehyde group to form a cyclic structure (hemiacetal form) as shown in figure 14.5. This also results in the conversion of the achiral aldehyde carbon into a chiral one leading to the possibility of two isomers. These two isomers differ only in the configuration of C1 carbon. These isomers are called anomers. The two anomeric forms of glucose are called \(\alpha\) and \(\beta\)-forms. This cyclic structure of glucose is similar to pyran, a cyclic compound with 5 carbon and one oxygen atom, and hence is called pyranose form. The specific rotation of pure \(\alpha\) and \(\beta\)-(D) glucose are \(112^{\circ}\) and \(18.7^{\circ}\) respectively. However, when a pure form of any one of these sugars is dissolved in water, slow interconversion of \(\alpha\)-D glucose and \(\beta\)-D glucose via open chain form occurs until equilibrium is established giving a constant specific rotation \(+53^{\circ}\). This phenomenon is called mutarotation.
 
@@ -140,7 +129,7 @@ In addition, glucose is found to crystallise in two different forms depending up
 
 Sugars differing in configuration at an asymmetric centre are known as epimers. The process by which one epimer is converted into other is called epimerisation and it requires the enzymes epimerase. Galactose is converted to glucose by this manner in our body.
 
-**Figure 14.6 Epimers: glucose and mannose are epimers at C2 carbon and glucose and galactose are epimers at C4 carbon**
+![](10.png)
 
 #### 14.1.4 Fructose
 
@@ -168,9 +157,17 @@ $$
 
 **Structure of Fructose**
 
+Fructose is the sweetest of all known sugars. It is readily soluble in water. Fresh solution of
+fructose has a specific rotation -1330
+ which changes to – 920
+ at equilibrium due to mutarotation.
+Similar to glucose the structure of fructose is deduced from the following facts. 
+
 1. Elemental analysis and molecular weight determination of fructose show that it has the molecular formula \(C_6H_{12}O_6\).
 
 2. Fructose on reduction with HI and red phosphorus gives a mixture of n-hexane (major product) and 2-iodohexane (minor product). This reaction indicates that the six carbon atoms in fructose are in a straight chain.
+
+![](11.png)
 
 3. Fructose reacts with \(NH_2OH\) and \(HCN\). It shows the presence of a carbonyl groups in the fructose.
 
@@ -180,11 +177,23 @@ $$
 
 6. Partial reduction of fructose with sodium amalgam and water produces mixtures of sorbitol and mannitol which are epimers at the second carbon. New asymmetric carbon is formed at C-2. This confirms the presence of a keto group.
 
-$$
-CH_2OH-CO-(CHOH)_3-CH_2OH \xrightarrow{Na(Hg)/H_2O} CH_2OH-CHOH-(CHOH)_3-CH_2OH \quad \text{(Sorbitol & Mannitol)}
-$$
+![](12.png)
 
 7. On oxidation with nitric acid, it gives glycollic acid and tartaric acids which contain smaller number of carbon atoms than in fructose.
+
+![](13.png)
+
+This shows that a keto group is present in C-2. It also shows that 1O alcoholic groups are present at C- 1 and C- 6. Based on these evidences, the following structure is proposed for fructose (Figure 14-7) 
+
+![](14.png)
+
+#### Cyclic structure of fructose
+
+Like glucose, fructose also forms cyclic structure. Unlike glucose it forms a five membered
+ring similar to furan. Hence it is called furanose form. When fructose is a component of a
+saccharide as in sucrose, it usually occurs in furanose form. 
+
+![](15.png)
 
 #### 14.1.5 Disaccharides
 
@@ -196,7 +205,7 @@ Example: Sucrose, Lactose, Maltose
 
 On hydrolysis sucrose yields equal amount of glucose and fructose units.
 
-**Figure 14.9 Structure of sucrose**
+![](16.png)
 
 $$
 \text{Sucrose} \xrightarrow{\text{Invertase}} \text{Glucose + Fructose}
@@ -208,11 +217,12 @@ Sucrose \((+66.6^{\circ})\) and glucose \((+52.5^{\circ})\) are dextrorotatory c
 
 **Lactose:** Lactose is a disaccharide found in milk of mammals and hence it is referred to as milk sugar. On hydrolysis, it yields galactose and glucose. Here, the \(\beta\)-D-galactose and \(\beta\)-D-glucose are linked by \(\beta\)-1,4 glycosidic bond as shown in the figure 14.10. The aldehyde carbon is not involved in the glycosidic bond hence, it retains its reducing property and is called a reducing sugar.
 
-**Figure 14.10 Structure of Lactose** (\(\beta\)-D-galactopyranosyl-(1→4)-\(\beta\)-D-glucopyranose)
+![](17.png)
+
 
 **Maltose:** Maltose derives its name from malt from which it is extracted. It is commonly called as malt sugar. Malt from sprouting barley is the major source of maltose. Maltose is produced during digestion of starch by the enzyme \(\alpha\)-amylase.
 
-**Figure 14.11 Structure of Maltose** (\(\alpha\)-D-glucopyranosyl-(1→4)-\(\alpha\)-D-glucopyranose)
+![](18.png)
 
 Maltose consists of two molecules of \(\alpha\)-D-glucose units linked by an \(\alpha\)-1,4 glycosidic bond between anomeric carbon of one unit and C-4 of the other unit. Since one of the glucose has the carbonyl group intact, it also acts as a reducing sugar.
 
@@ -228,15 +238,23 @@ Starch is used for energy storage in plants. Potatoes, corn, wheat and rice are 
 
 Amylose is composed of unbranched chains up to 4000 \(\alpha\)-D-glucose molecules joined by \(\alpha(1,4)\) glycosidic bonds. Amylopectin contains chains up to 10000 \(\alpha\)-D-glucose molecules linked by \(\alpha(1,4)\) glycosidic bonds. In addition, there is a branching from linear chain. At branch points, new chains of 24 to 30 glucose molecules are linked by \(\alpha(1,6)\) glycosidic bonds. With iodine solution amylose gives blue colour while amylopectin gives a purple colour.
 
-**Figure 14.12 Structure of Starch (Amylose & Amylopectin)**
+![](19.png)
 
 **Cellulose**
 
 Cellulose is the major constituent of plant cell walls. Cotton is almost pure cellulose. On hydrolysis cellulose yields D-glucose molecules. Cellulose is a straight chain polysaccharide. The glucose molecules are linked by \(\beta(1,4)\) glycosidic bond.
 
-**Figure 14.13 Structure of Cellulose**
+![](20.png)
 
 Cellulose is used extensively in the manufacturing paper, cellulose fibres, rayon explosive (Gun cotton - Nitrated ester of cellulose) and so on. Human cannot use cellulose as food because our digestive systems do not contain the necessary enzymes (glycosidases or cellulases) that can hydrolyse the cellulose.
+
+**Glycogen**
+
+Glycogen: Glycogen is the storage polysaccharide of animals. It is present in the liver and
+muscles of animals. Glycogen is also called as animal starch. On hydrolysis it gives glucose
+molecules. Structurally, glycogen resembles amylopectin with more branching. In glycogen
+the branching occurs every 8-14 glucose units opposed to 24-30 units in amylopectin. The
+excessive glucose in the body is stored in the form of glycogen.
 
 #### 14.1.7 Importance of carbohydrates
 
@@ -255,15 +273,15 @@ Proteins are most abundant biomolecules in all living organisms. The term protei
 
 Amino acids are compounds which contain an amino group and a carboxylic acid group. The protein molecules are made up of \(\alpha\)-amino acids which can be represented by the following general formula.
 
-$$
-R-CH(COOH)-NH_2
-$$
+![](img14.1.png)
 
 There are 20 \(\alpha\)-amino acids commonly found in the protein molecules. Each amino acid is given a trivial name, a three letter code and a one letter code. In writing the amino acid sequence of a protein, generally either one letter or three letter codes are used.
 
 #### 14.2.2 Classification of \(\alpha\)-amino acids
 
 The amino acids are classified based on the nature of their R groups commonly known as side chain. They can be classified as acidic, basic and neutral amino acids. They can also be classified as polar and non-polar (hydrophobic) amino acids.
+
+![](21.png)
 
 Amino acids can also be classified as essential and non-essential amino acids based on the ability to be synthesised by the human. The amino acids that can be synthesised by us are called non-essential amino acids (Gly, Ala, Glu, Asp, Gln, Asn, Ser, Cys, Tyr & Pro) and those needs to be obtained through diet are called essential amino acids (Phe, Val, Thr, Trp, Ile, Met, His, Arg, Leu and Lys). These ten essential amino acids can be memorised by mnemonic called PVT TIM HALL.
 
@@ -275,15 +293,15 @@ Amino acids are colourless, water soluble crystalline solids. Since they have bo
 
 In aqueous solution the proton from carboxyl group can be transferred to the amino group of an amino acid leaving these groups with opposite charges. Despite having both positive and negative charges this molecule is neutral and has amphoteric behaviour. These ions are called zwitter ions.
 
-$$
-R-CH(COOH)-NH_2 \rightleftharpoons R-CH(COO^-)-NH_3^+
-$$
+![](22.png)
 
 Except glycine all other amino acids have at least one chiral carbon atom and hence are optically active. They exist in two forms namely D and L amino acids. However, L-amino acids are used predominantly by the living organism for synthesising proteins. Presence of D-amino acids has been observed rarely in certain organisms.
 
 #### 14.2.4 Peptide bond formation
 
 The amino acids are linked covalently by peptide bonds. The carboxyl group of the first amino acid react with the amino group of the second amino acid to give an amide linkage between these amino acids. This amide linkage is called peptide bond. The resulting compound is called a dipeptide. Addition of another amino acid to this dipeptide a second peptide bond results in tripeptide. Thus we can generate tetra peptide, penta peptide etc... When you have more number of amino acids linked this way you get a polypeptide. If the number of amino acids are less it is called as a polypeptide, if it has large number of amino acids (and preferably has a function) then it is called a protein.
+
+![](23.png)
 
 The amino end of the peptide is known as N-terminal or amino terminal while the carboxy end is called C-terminal or carboxy terminal. In general protein sequences are written from N-Terminal to C-Terminal. The atoms other than the side chains (R-groups) are called main chain or the back bone of the polypeptide.
 
@@ -299,7 +317,7 @@ Fibrous proteins are linear molecules similar to fibres. These are generally ins
 
 Globular proteins have an overall spherical shape. The polypeptide chain is folded into a spherical shape. These proteins are usually soluble in water and have many functions including catalysis (enzyme). Example: myoglobin, insulin
 
-**Figure 14.15 (b) Structure of globular proteins**
+![](24.png)
 
 #### 14.2.6 Structure of proteins
 
@@ -308,6 +326,8 @@ Proteins are polymers of amino acids. Their three dimensional structure depends 
 **1. Primary structure of proteins:**
 
 Proteins are polypeptide chains, made up of amino acids connected through peptide bonds. The relative arrangement of the amino acids in the polypeptide chain is called the primary structure of the protein. Knowledge of this is essential as even small changes have potential to alter the overall structure and function of a protein.
+
+![](25.png)
 
 **2. Secondary structure of proteins:**
 
@@ -321,7 +341,7 @@ In the \(\alpha\)-helix sub-structure, the amino acids are arranged in a right h
 
 \(\beta\)-Strands are extended peptide chain rather than coiled. The hydrogen bonds occur between main chain carbonyl group of one such strand and the amino group of the adjacent strand resulting in the formation of a sheet like structure. This arrangement is called \(\beta\)-sheets.
 
-**Figure 14.16 Secondary structure of proteins**
+![](26.png)
 
 **3. Tertiary structure:**
 
@@ -331,7 +351,7 @@ The secondary structure elements (\(\alpha\)-helix & \(\beta\)-sheets) further f
 
 Some proteins are made up of more than one polypeptide chains. For example, the oxygen transporting protein, haemoglobin contains four polypeptide chains while DNA polymerase enzyme that make copies of DNA, has ten polypeptide chains. In these proteins the individual polypeptide chains (subunits) interacts with each other to form the multimeric structure which are known as quaternary structure. The interactions that stabilises the tertiary structures also stabilises the quaternary structures.
 
-**Figure 14.17 Four levels of protein structure**
+![](27.png)
 
 #### 14.2.7 Denaturation of proteins
 
@@ -341,7 +361,7 @@ Since the primary structure is intact, this process can be reversed in certain p
 
 Example: coagulation of egg white by action of heat.
 
-**Figure 14.18 Denaturation of proteins**
+![](28.png)
 
 #### 14.2.8 Importance of proteins
 
@@ -363,7 +383,7 @@ There are many biochemical reactions that occur in our living cells. Digestion o
 
 Enzymes are biocatalysts that catalyse a specific biochemical reaction. They generally activate the reaction by reducing the activation energy by stabilising the transition state. In a typical reaction enzyme (E) binds with the substrate (S) molecule reversibly to produce an enzyme-substrate complex (ES). During this stage the substrate is converted into product and the enzyme becomes free, and ready to bind to another substrate molecule. More detailed mechanism is discussed in the unit XI surface chemistry.
 
-**Figure 14.19 Mechanism of enzyme action (lock and key model)**
+![](29.png)
 
 ### 14.3 Lipids
 
@@ -401,21 +421,8 @@ Vitamins are classified into two groups based on their solubility either in wate
 
 **Table 14.2: Vitamins, their Sources, Functions and their Deficiency disease**
 
-| Vitamin | Sources | Functions | Deficiency Disease |
-|---|---|---|---|
-| Vitamin A (Retinol) | Liver oil, Fish, Carrot, Milk, spinach and fruits such as Papaya and mango | Vision and growth | Night blindness, Xerophthalmia, Keratinisation of skin |
-| Vitamin B1 (Thiamine) | Yeast, Milk, Cereals, Green vegetables, Liver, Pork | Co-enzyme in the form of Thiamine pyrophosphate (TPP) in glycolysis | Beri-Beri (peripheral nerve damage) |
-| Vitamin B2 (Riboflavin) | Soybean, Green vegetable, Yeast, Egg white, Milk, Liver kidney | Co enzyme in the form of FMN (Flavin mononucleotide) and FAD (Flavin adenine dinucleotide) in redox reactions | Cheilosis (lesions of corner of mouth, lips and tongue) |
-| Vitamin B3 (Niacin) | Cereals, Green leafy vegetables, Liver, Kidney | Co enzyme in the form of NAD and NADP+ in redox reactions | Pellagra (photo sensitive dermatitis) |
-| Vitamin B5 (Pantothenic acid) | Mushroom, Avocado, Egg yolk, Sunflower oil | Part of coenzyme A in carbohydrate protein and Fat metabolism | Inadequate growth |
-| Vitamin B6 (Pyridoxine) | Meat, Cereals, Milk, Whole grains, Egg | Co enzyme in amino acid metabolism, formation of Heme in Hemoglobin | Convulsions |
-| Vitamin B7 (Biotin) | Liver, kidney, Milk, Egg yolk, Vegetables, Grains | Co enzyme in fatty acid Biosynthesis | Depression, Hair loss, muscle pain |
-| Vitamin B9 (Folic acid) | Egg, Meat, Beet root, Leafy vegetables, Cereals, Yeast | Nucleic acid synthesis, maturation of red blood cells | Megaloblastic anaemia |
-| Vitamin B12 (Cobalamin) | Egg, Meat, Fish | Co-enzyme in amino acid metabolism, Red blood cells maturation | Pernicious Anaemia |
-| Vitamin C (Ascorbic acid) | Citrus fruits (Orange, Lemon etc…), Tomato, Amla, Leafy Vegetables | Coenzyme in Antioxidant, building of collagen | Scurvy (bleeding gums) |
-| Vitamin D (Cholecalciferol(D3), Ergocalciferol (D2)) | Fish liver oil, Milk, Egg yolk, (exposure to sunlight) | Absorption and maintenance of calcium | Rickets (children), Osteomalacia (adults) |
-| Vitamin E (Tocopherols) | Cotton seed oil, Sun flower oil, wheat germ oil, Vegetable oils | Antioxidant | Muscular dystrophy (muscular weakness) and neurological dysfunction |
-| Vitamin K (Phylloquinone & Menaquinones) | Green leafy vegetable, soybean oil, tomato | Blood clotting | Increased blood clotting time, Haemorrhagic diseases |
+![](30.png)
+![](31.png)
 
 ### 14.5 Nucleic acids
 
@@ -429,9 +436,13 @@ Nucleic acids are biopolymers of nucleotides. Controlled hydrolysis of DNA and R
 
 These are nitrogen containing organic compounds which are derivatives of two parent compounds, pyrimidine and purine. Both DNA and RNA have two major purine bases, adenine (A) and guanine (G). In both DNA and RNA, one of the pyrimidines is cytosine (C), but the second pyrimidine is thymine (T) in DNA and uracil (U) in RNA.
 
+![](32.png)
+
 **Pentose sugar**
 
 Nucleic acids have two types of pentoses. The recurring deoxyribonucleotide units of DNA contain 2'-deoxy-D-ribose and the ribonucleotide units of RNA contain D-ribose. In nucleotides, both types of pentoses are in their \(\beta\)-furanose (closed five membered rings) form.
+
+![](33.png)
 
 **Phosphate group**
 
@@ -459,15 +470,17 @@ In early 1950s, Rosalind Franklin and Maurice Wilkins used X-ray diffraction to 
 
 The central X shaped pattern indicates a helix, whereas the heavy black arcs at the top and bottom of the diffraction pattern reveal the spacing of the stacked bases.
 
-**Figure 14.20 DNA X-ray diffraction**
+![](34.png)
 
 The structure elucidation of DNA by Watson and Crick in 1953 was a momentous event in science. They postulated a 3-dimensional model of DNA structure which consisted of two antiparallel helical DNA chains wound around the same axis to form a right-handed double helix.
 
 The hydrophilic backbones of alternating deoxyribose and phosphate groups are on the outside of the double helix, facing the surrounding water. The purine and pyrimidine bases of both strands are stacked inside the double helix, with their hydrophobic and ring structures very close together and perpendicular to the long axis, thereby reducing the repulsions between the charged phosphate groups. The offset pairing of the two strands creates a major groove and minor groove on the surface of the duplex.
 
-**Figure 14.21 DNA Double Helix**
+![](35.png)
 
 The model revealed that, there are 10.5 base pairs (36 Å) per turn of the helix and \(3.4 \ \text{Å}\) between the stacked bases. They also found that each base is hydrogen bonded to a base in opposite strand to form a planar base pair.
+
+![](36.png)
 
 Two hydrogen bonds are formed between adenine and thymine and three hydrogen bonds are formed between guanine and cytosine. Other pairing tends to destabilize the double helical structure. This specific association of the two chains of the double helix is known as complementary base pairing. The DNA double helix or duplex is held together by two forces,
 a) Hydrogen bonding between complementary base pairs
@@ -482,7 +495,9 @@ Ribonucleic acids are similar to DNA. Cells contain up to eight times high quant
 RNA molecules are classified according to their structure and function into three major types
 
 i. Ribosomal RNA (rRNA)
+
 ii. Messenger RNA (mRNA)
+
 iii. Transfer RNA (tRNA)
 
 **rRNA**
@@ -499,15 +514,7 @@ mRNA is present in small quantity and very short lived. They are single stranded
 
 **Table 14.3 Difference between DNA and RNA**
 
-| DNA | RNA |
-|---|---|
-| It is mainly present in nucleus, mitochondria and chloroplast | It is mainly present in cytoplasm, nucleolus and ribosomes |
-| It contains deoxyribose sugar | It contains ribose sugar |
-| Base pair A = T, G ≡ C | Base pair A = U, C ≡ G |
-| Double stranded molecules | Single stranded molecules |
-| Its life time is high | It is short lived |
-| It is stable and not hydrolysed easily by alkalis | It is unstable and hydrolysed easily by alkalis |
-| It can replicate itself | It cannot replicate itself. It is formed from DNA |
+![](37.png)
 
 **More to know**
 
@@ -517,6 +524,8 @@ Traditionally, one of the most accurate methods for placing an individual at the
 
 In this method, the extracted DNA is cut at specific points along the strand with restriction enzymes resulting in the formation of DNA fragments of varying lengths which were analysed by technique called gel electrophoresis. This method separates the fragments based on their size. The gel containing the DNA fragments is then transferred to a nylon sheet using a technique called blotting. Then, the fragments will undergo autoradiography in which they were exposed to DNA probes (pieces of synthetic DNA that were made radioactive and that bound to the fragments). A piece of X-ray film was then exposed to the fragments, and a dark mark was produced at any point where a radioactive probe had become attached. The resultant pattern of marks could then be compared with other samples. DNA fingerprinting is based on slight sequence differences (usually single base-pair changes) between individuals. These methods are proving decisive in court cases worldwide.
 
+![](38.png)
+
 **Figure 14.22 DNA finger printing**
 
 #### 14.5.4 Biological functions of nucleic acids
@@ -525,9 +534,15 @@ In addition to their roles as the subunits of nucleic acids, nucleotides have a 
 
 i. Energy carriers (ATP)
 
+![](39.png)
+
 ii. Components of enzyme cofactors (Example: Coenzyme A, NAD\(^+\), FAD)
 
+![](40.png)
+
 iii. Chemical messengers (Example: Cyclic AMP, cAMP)
+
+![](41.png)
 
 Adenosine \(3',5'\)-cyclic monophosphate (cyclic AMP; cAMP)
 
@@ -541,209 +556,6 @@ Hormone is an organic substance (e.g. a peptide or a steroid) that is secreted b
 
 **Autocrine hormones** act on the same cell that released them. For example, protein growth factor interleukin-2 (IL-2).
 
-**Figure 14.22 Endocrine Paracrine and Autocrine hormones**
+![](42.png)
 
 Only those cells with a specific receptor for a given hormone will respond to its presence even though nearly all cells in the body may be exposed to the hormone. Hormonal messages are therefore quite specifically addressed.
-
-## EVALUATION
-
-## Choose the best answer:
-
-1. Which one of the following rotates the plane polarized light towards left? (NEET Phase - II)
-   a) D(+) Glucose
-   b) L(+) Glucose
-   c) D(-) Fructose
-   d) D(+) Galactose
-
-2. The correct corresponding order of names of four aldoses with configuration given below respectively is, (NEET Phase - I)
-   a) L-Erythrose, L-Threose, L-Erythrose, D-Threose
-   b) D-Threose, D-Erythrose, L-Threose, L-Erythrose
-   c) L-Erythrose, L-Threose, D-Erythrose, D-Threose
-   d) D-Erythrose, D-Threose, L-Erythrose, L-Threose
-
-3. Which one given below is a non-reducing sugar? (NEET Phase - I)
-   a) Glucose
-   b) Sucrose
-   c) Maltose
-   d) Lactose
-
-4. Glucose \(\xrightarrow{HCN}\) Product \(\xrightarrow{\text{hydrolysis}}\) Product \(\xrightarrow{HI + \text{Heat}}\) A, the compound A is
-   a) Heptanoic acid
-   b) 2-Iodohexane
-   c) Heptane
-   d) Heptanol
-
-5. Assertion: A solution of sucrose in water is dextrorotatory. But on hydrolysis in the presence of little hydrochloric acid, it becomes levorotatory. (AIMS)
-   Reason: Sucrose hydrolysis gives equal amounts of glucose and fructose. As a result of this change in sign of rotation is observed.
-   a) If both assertion and reason are true and reason is the correct explanation of assertion
-   b) If both assertion and reason are true but reason is not the correct explanation of assertion
-   c) If assertion is true but reason is false
-   d) If both assertion and reason are false
-
-6. The central dogma of molecular genetics states that the genetic information flows from (NEET Phase - II)
-   a) Amino acids → Protein → DNA
-   b) DNA → Carbohydrates → Proteins
-   c) DNA → RNA → Proteins
-   d) DNA → RNA → Carbohydrates
-
-7. In a protein, various amino acids linked together by (NEET Phase - I)
-   a) Peptide bond
-   b) Dative bond
-   c) \(\alpha\)-Glycosidic bond
-   d) \(\beta\)-Glycosidic bond
-
-8. Among the following the achiral amino acid is (AIIMS)
-   a) 2-ethylalanine
-   b) 2-methylglycine
-   c) 2-hydroxymethylserine
-   d) Tryptophan
-
-9. The correct statement regarding RNA and DNA respectively is (NEET Phase - I)
-   a) the sugar component in RNA is an arabinose and the sugar component in DNA is ribose
-   b) the sugar component in RNA is \(2'\)-deoxyribose and the sugar component in DNA is arabinose
-   c) the sugar component in RNA is an arabinose and the sugar component in DNA is \(2'\)-deoxyribose
-   d) the sugar component in RNA is ribose and the sugar component in DNA is \(2'\)-deoxyribose
-
-10. In aqueous solution of amino acids mostly exists in,
-    a) \(NH_2-CH(R)-COOH\)
-    b) \(NH_2-CH(R)-COO^-\)
-    c) \(H_3N^+-CH(R)-COOH\)
-    d) \(H_3N^+-CH(R)-COO^-\)
-
-11. Which one of the following is not produced by body?
-    a) DNA
-    b) Enzymes
-    c) Hormones
-    d) Vitamins
-
-12. The number of \(sp^2\) and \(sp^3\) hybridised carbon in fructose are respectively
-    a) 1 and 4
-    b) 4 and 2
-    c) 5 and 1
-    d) 1 and 5
-
-13. Vitamin B2 is also known as
-    a) Riboflavin
-    b) Thiamine
-    c) Nicotinamide
-    d) Pyridoxine
-
-14. The pyrimidine bases present in DNA are
-    a) Cytosine and Adenine
-    b) Cytosine and Guanine
-    c) Cytosine and Thymine
-    d) Cytosine and Uracil
-
-15. Among the following L-serine is
-
-16. The secondary structure of a protein refers to
-    a) fixed configuration of the polypeptide backbone
-    b) hydrophobic interaction
-    c) sequence of \(\alpha\)-amino acids
-    d) \(\alpha\)-helical backbone
-
-17. Which of the following vitamins is water soluble?
-    a) Vitamin E
-    b) Vitamin K
-    c) Vitamin A
-    d) Vitamin B
-
-18. Complete hydrolysis of cellulose gives
-    a) L-Glucose
-    b) D-Fructose
-    c) D-Ribose
-    d) D-Glucose
-
-19. Which of the following statement is not correct?
-    a) Ovalbumin is a simple food reserve in egg-white
-    b) Blood proteins thrombin and fibrinogen are involved in blood clotting
-    c) Denaturation makes protein more active
-    d) Insulin maintains the sugar level in the human body
-
-20. Glucose is an aldose. Which one of the following reactions is not expected with glucose?
-    a) It does not form oxime
-    b) It does not react with Grignard reagent
-    c) It does not form osazones
-    d) It does not reduce Tollen's reagent
-
-21. If one strand of the DNA has the sequence 'ATGCTTG'A, then the sequence of complementary strand would be
-    a) TACGAACT
-    b) TCCGAACT
-    c) TACGTACT
-    d) TACRGAGT
-
-22. Insulin, a hormone chemically is
-    a) Fat
-    b) Steroid
-    c) Protein
-    d) Carbohydrate
-
-23. \(\alpha\)-D \((+)\) Glucose and \(\beta\)-D \((+)\) glucose are
-    a) Epimers
-    b) Anomers
-    c) Enantiomers
-    d) Conformational isomers
-
-24. Which of the following are epimers
-    a) D \((+)\)-Glucose and D \((+)\)-Galactose
-    b) D \((+)\)-Glucose and D \((+)\)-Mannose
-    c) Neither (a) nor (b)
-    d) Both (a) and (b)
-
-25. Which of the following amino acids are achiral?
-    a) Alanine
-    b) Leucine
-    c) Proline
-    d) Glycine
-
-## Short Answer Questions
-
-1. What type of linkages hold together monomers of DNA?
-
-2. Give the differences between primary and secondary structure of proteins.
-
-3. Name the Vitamins whose deficiency cause i) rickets ii) scurvy
-
-4. Write the Zwitter ion structure of alanine
-
-5. Give any three difference between DNA and RNA
-
-6. Write a short note on peptide bond
-
-7. Give two difference between Hormones and vitamins
-
-8. Write a note on denaturation of proteins
-
-9. What are reducing and non-reducing sugars?
-
-10. Why carbohydrates are generally optically active?
-
-11. Classify the following into monosaccharides, oligosaccharides and polysaccharides.
-    i) Starch
-    ii) fructose
-    iii) sucrose
-    iv) lactose
-    v) maltose
-
-12. How are vitamins classified?
-
-13. What are hormones? Give examples
-
-14. Write the structure of all possible dipeptides which can be obtained from glycine and alanine
-
-15. Define enzymes
-
-16. Write the structure of \(\alpha\)-D \((+)\) glucopyranose
-
-17. What are different types of RNA which are found in cell?
-
-18. Write a note on formation of \(\alpha\)-helix.
-
-19. What are the functions of lipids in living organism?
-
-20. Is the following sugar, D-sugar or L-sugar?
-    CHO
-    OH
-    OH
-    OH
-    CH\(_2\)-OH

@@ -1,26 +1,32 @@
 ---
 title: 'Chemistry in Everyday Life'
 categories:
-    - science
+    - chemistry-in-everyday-life
 weight: 15
 summary: "This unit explains the vital importance of chemistry in daily life, focusing on the roles of medicines, food additives, and cleansing agents. It describes the classification of drugs, drug-target interactions, and their therapeutic mechanisms in the human body. The unit also highlights food preservatives, artificial sweeteners, and the chemical composition and cleansing action of soaps and detergents."
 ---
 
 # 15. CHEMISTRY IN EVERYDAY LIFE
 
-## Learning Objectives
+![](vladimir.png)
+**Vladimir Prelog**
 
-After studying this unit, the students will be able to
-
-- recognize the term drug and chemotherapy
-- classify the drugs based on their properties
-- describe the drug-target interaction
-- discuss some important classes of drugs.
-- explain the chemistry of cleansing agents
-- describe the chemicals in food
-- explain the important terms in polymer chemistry.
-- describe the preparation of some important synthetic polymers
-- appreciate the importance of polymers in today life
+Prof. Vladimir Prelog was a
+Swiss Chemist who shared 1975
+Nobel Prize for Chemistry with
+John W Cornforth for his work
+on Stereo Chemistry. He has
+done wide ranging research on
+alkaloids, antibiotics, enzymes
+and other natural compounds.
+He was distinguished for his
+contribution to the development
+of modern stereo chemistry.
+Prelog synthesized many
+natural products and worked on
+problems of stereo chemistry like
+adamenline, boromycin analoids
+and rifamycins
 
 ## INTRODUCTION
 
@@ -36,13 +42,7 @@ Drugs are classified based on their properties such as chemical structure, pharm
 
 **Classification based on the chemical structure:** In this classification, drugs with a common chemical skeleton are classified into a single group. For example, ampicillin, amoxicillin, methicillin etc. all have similar structure and are classified into a single group called penicillin. Similarly, we have other group of drugs such as opiates, steroids, catecholamines etc. Compounds having similar chemical structure are expected to have similar chemical properties. However, their biological actions are not always similar. For example, all drugs belonging to penicillin group have same biological action, while groups such as barbiturates, steroids etc. have different biological action.
 
-**Penicillin:**
-
-| R group | Drug Name |
-|---|---|
-| \( \mathrm{CH_3CH=CH-} \) | Penicillin G |
-| \( \mathrm{C_6H_5CH_2-} \) | Penicillin V |
-| \( \mathrm{p-CH_3C_6H_4OCH_2-} \) | Ampicillin |
+![](1.png)
 
 **Classification based on Pharmacological effect:** In this classification, the drugs are grouped based on their biological effect that they produce on the recipient. For example, the medicines that have the ability to kill the pathogenic bacteria are grouped as antibiotics. This kind of grouping will provide the full range of drugs that can be used for a particular condition (disease). The physician has to carefully choose a suitable medicine from the available drugs based on the clinical condition of the recipient.
 
@@ -66,12 +66,15 @@ We have already learnt that in enzyme catalysed reactions, the substrate molecul
 
 When a drug molecule that has a similar geometry (shape) as the substrate is administered, it can also bind to the enzyme and inhibit its activity. In other words, the drug acts as an inhibitor to the enzyme catalyst. These type of inhibitors are often called competitive inhibitors. For example the antibiotic sulphanilamide, which is structurally similar to \( p \)-aminobenzoic acid (PABA) inhibits the bacterial growth. Many bacteria need PABA in order to produce an important coenzyme, folic acid. When the antibiotic sulphanilamide is administered, it acts as a competitive inhibitor to the enzyme dihydroperoate synthase (DHPS) in the biosynthetic pathway of converting PABA into folic acid in the bacteria. It leads to the folic acid deficiency which retards the growth of the bacteria and can eventually kill them.
 
-<center>Sulphanilamide</center>
-<center>p-aminobenzoic acid</center>
+![](2.png)
+
+![](3.png)
 
 In certain enzymes, the inhibitor molecule binds to a different binding site, which is commonly referred to as allosteric site, and causes a change in its active site geometry (shape). As a result, the substrate cannot bind to the enzyme. This type of inhibitors are called allosteric inhibitors.
 
 **Receptor as drug targets:** Many drugs exert their physiological effects by binding to a specific molecule called a receptor whose role is to trigger a response in a cell. Most of the receptors are integrated with the cell membranes in such a way that their active site is exposed to outside region of the cell membrane. The chemical messengers, the compounds that carry messages to cells, bind to the active site of these receptors. This brings about the transfer of message into the cell. These receptors show high selectivity for one chemical messenger over the others. If we want to block a message, a drug that binds to the receptor site should inhibit its natural function. Such drugs are called antagonists. In contrast, there are drugs which mimic the natural messenger by switching on the receptor. These type of drugs are called agonists and are used when there is lack of chemical messenger.
+
+![](4.png)
 
 For example, when adenosine binds to the adenosine receptors, it induces sleepiness. On the other hand, the antagonist drug caffeine binds to the adenosine receptor and makes it inactive. This results in the reduced sleepiness (wakefulness).
 
@@ -79,26 +82,18 @@ The agonist drug, morphine, which is used as a pain killer, binds to the opioid 
 
 Most receptors are chiral and hence different enantiomers of a drug can have different effect.
 
+![](5.png)
+
 #### Therapeutic action of Different classes of Drugs
 
 The developments in the field of biology allowed us to understand various biological process and their mechanism in detail. This enabled to develop new safer efficient drugs. For example, to treat acidity, we have been using weak bases such as aluminium and magnesium hydroxides. But these can make the stomach alkaline and trigger the production of more acid. Moreover, this treatment only relieves the symptoms and does not control the cause. Detailed studies reveal that histamines stimulate the secretion of HCl by activating the receptor in the stomach wall. This findings lead to the design of new drugs such as cimetidine, ranitidine etc., which bind the receptor and inactivate them. These drugs are structurally similar to histamine. In this section, we shall discuss the therapeutic action of a few important classes of drugs.
 
-| Class of Drugs | Mode of action | Chemical structure of some important structures |
-|---|---|---|
-| **1) Tranquilizers** <br>They are neurologically active drugs.<br>i) Major tranquilizers: Haloperidol, clozapine<br>ii) Minor tranquilizers: Diazepam (Valium), alprazolam | Acts on the central nervous system by blocking the neurotransmitter dopamine in the brain<br>**Uses:** Treatment of stress, anxiety, depression, sleep disorders and severe mental diseases like schizophrenia | Haloperidol |
-| **2) Analgesics (Non-narcotic)** <br>Analgesics reduce the pain without causing impairment of consciousness.<br>i) Anti-inflammatory drugs<br>Example: Acetaminophen or paracetamol, Ibuprofen, Aspirin.<br>ii) Antipyretics<br>Example: Salicylates, Acetylsalicylic acid (aspirin), Acetaminophen or Paracetamol<br>iii) Nonsteroidal anti-inflammatory drugs (NSAIDs): Ibuprofen | They alleviate pain by reducing local inflammatory responses<br>**Uses:** Used for short-term pain relief and for modest pain like headache, muscle strain, bruising, or arthritis.<br>These drugs have many other effects such as reducing fever (antipyretic) and preventing platelet coagulation. Due to this property, aspirin finds useful in the prevention of heart attacks.<br>Reduces fever by causing the hypothalamus to override a prostaglandin-induced increase in temperature. | Acetylsalicylic acid (aspirin)<br><br>Paracetamol<br><br>Ibuprofen |
-| **3) Opioids (Narcotic Analgesics)** <br>Examples: Morphine, codeine | Relieve pain and produce sleep. These drugs are addictive. In poisonous dose, these produce coma and ultimately death.<br>**Uses:** Used for either short-term or long-term relief of severe pain. Mainly used for post operative pain, pain of terminal cancer. | Morphine |
-| **4) Anaesthetics** <br>i) Local anaesthetics<br>Examples: Ester-linked local anaesthetic - Procaine; Amide-linked local anaesthetic - Lidocaine<br>ii) General anaesthetics<br>Example: Intravenous general anaesthetics – Propofol; Inhalational general anaesthetics - Isoflurane | It causes loss of sensation, in the area in which it is applied without losing consciousness. They block pain perception that is transmitted via peripheral nerve fibres to the brain.<br>**Uses:** They are often used during minor surgical procedures.<br>Cause a controlled and reversible loss of consciousness by affecting central nervous system.<br>**Uses:** They are often used for major surgical procedures. | Procaine<br><br>Lidocaine<br><br>Propofol |
-| **5) Antacids** <br>Examples: Milk of Magnesia, Sodium bicarbonate, calcium bicarbonate, aluminium hydroxide<br>Ranitidine, Cimetidine<br>Omeprazole, rabeprazole | Neutralize the acid in the stomach that causes acidity.<br>**Uses:** To relieve symptoms such as burning sensation in the chest/throat area (heartburns) caused by acid reflux. | aluminium hydroxide |
-| **6) Antihistamines** <br>Examples: Cetirizine, levocetirizine, desloratadine, brompheniramine, Terfenadine | Block histamine release from histamine-1 receptors<br>**Uses:** To provide relief from the allergic effects | Cetirizine |
-| **7) Antimicrobials** <br>i) Beta-Lactams<br>Examples: Penicillins, ampicillin, cephalosporins, carbapenems, and monobactams | Inhibits bacterial cell wall biosynthesis<br>**Uses:** To treat skin infections, dental infections, ear infections, respiratory tract infections, pneumonia, urinary tract infections, and gonorrhoea | Penicillins<br><br>Ampicillin |
-| ii) Macrolides<br>Examples: Erythromycin, azithromycin | Targets bacterial ribosomes and prevent protein production<br>**Uses:** To treat respiratory tract infections, genital, gastrointestinal tract and skin infections | Erythromycin |
-| iii) Fluoroquinolones<br>Examples: Clinafloxacin, ciprofloxacin, levofloxacin | Inhibits bacterial enzyme DNA gyrase<br>**Uses:** To treat urinary tract infections, skin infections, and respiratory infections (such as sinusitis, pneumonia, bronchitis), pulmonary infections in cystic fibrosis | Ciprofloxacin |
-| iv) Tetracyclines<br>Examples: Doxycycline, minocycline, oxytetracycline | Inhibit the bacterial protein synthesis via interaction with the 30S subunit of the bacterial ribosome<br>**Uses:** Used in the treatment of peptic ulcer disease, infections of the respiratory tract, cholera, acne vulgaris | Oxytetracycline |
-| v) Aminoglycosides<br>Examples: Kanamycin, gentamicin, neomycin | Bind to the 30S subunit of the bacterial ribosome, thus stopping bacteria from making proteins<br>**Uses:** Used to treat infections caused by gram-negative bacteria | Kanamycin |
-| **8) Antiseptics** <br>Examples: Hydrogen peroxide, povidone-iodine, benzalkonium chloride | Stop or slow down the growth of microorganisms - Applied to living tissue<br>**Uses:** To reduce the risk of infection during surgery and other procedures | Povidone-iodine |
-| **9) Disinfectants** <br>Examples: Chlorine compounds, alcohol, Hydrogen peroxide | Stop or slow down the growth of microorganisms - Generally used on inanimate objects | Hydrogen peroxide |
-| **10) Antifertility drugs** <br>Example: Synthetic oestrogen - Ethynylestradiol, Mestranol<br>Synthetic Progesterone - Norethindrone, Norethynodrel | These synthetic hormones that suppress ovulation/fertilisation.<br>**Uses:** Used in birth control pills. | Ethynylestradiol |
+![](6.png)
+![](7.png)
+![](8.png)
+![](9.png)
+![](10.png)
+![](11.png)
 
 ### 15.2 Food additives
 
@@ -152,17 +147,17 @@ As per BIS standards, Grade-1 soaps should have \( 76\% \) minimum TFM, while Gr
 
 **The cleansing action of soap:** To understand how a soap works as a cleansing agent, let us consider sodium palmitate as an example of a soap. The cleansing action of soap is directly related to the structure of carboxylate ions (palmitate ion) present in soap. The structure of palmitate exhibits dual polarity. The hydrocarbon portion is non polar and the carboxyl portion is polar.
 
+![](12.png)
+
 The nonpolar portion is hydrophobic while the polar end is hydrophilic. The hydrophobic hydrocarbon portion is soluble in oils and greases, but not in water. The hydrophilic carboxylate group is soluble in water. The dirt in the cloth is due to the presence of dust particles intact or grease which stick. When the soap is added to an oily or greasy part of the cloth, the hydrocarbon part of the soap dissolves in the grease, leaving the negatively charged carboxylate end exposed on the grease surface. At the same time the negatively charged carboxylate groups are strongly attracted by water, thus leading to the formation of small droplets called micelles and grease is floated away from the solid object. When the water is rinsed away, the grease goes with it. As a result, the cloth gets free from dirt and the droplets are washed away with water. The micelles do not combine into large drops because their surfaces are all negatively charged and repel each other. The cleansing ability of a soap depends upon its tendency to act as an emulsifying agent between water and water insoluble greases.
+
+![](13.png)
 
 #### 15.3.2 Detergents
 
 Synthetic detergents are formulated products containing either sodium salts of alkyl hydrogen sulphates or sodium salts of long chain alkyl benzene sulphonic acids. There are three types of detergents.
 
-| Detergent Type | Example |
-|---|---|
-| Anionic detergent | Sodium Lauryl sulphate (SLS) |
-| Cationic detergent | n-hexadecyltrimethyl ammonium chloride |
-| Non-ionic detergent | Pentaerythrityl stearate.<br>3-hydroxy-2,2-bis(hydroxymethyl)propyl heptanoate |
+![](14.png)
 
 Detergents are superior to soaps as they can be used even in hard water and in acidic conditions. The cleansing action of detergents are similar to the cleansing action of soaps.
 
@@ -172,33 +167,50 @@ The term Polymer is derived from the Greek word 'polumeres' meaning "having many
 
 #### 15.4.1 Classification of Polymers
 
+![](15.png)
+
 #### 15.4.2 Types of polymerisation
 
 The process of forming a very large, high molecular mass polymer from small structural units i.e., monomer is called polymerisation. Polymerisation occurs in the following two ways:
 
 i. Addition polymerisation or chain growth polymerisation
+
 ii. Condensation polymerisation or step growth polymerisation
 
 **Addition polymerisation:** Many alkenes undergo polymerisation under suitable conditions. The chain growth mechanism involves the addition of the growing chain across the double bond of the monomer. The addition polymerisation can follow any of the following three mechanisms depending upon the reactive involved in the process.
 
 i. Free radical polymerisation
+
 ii. Cationic polymerisation
+
 iii. Anionic polymerisation
 
-**Free radical polymerisation:** When alkenes are heated with free radical initiator such as benzoyl peroxide, they undergo polymerisation reaction. For example styrene polymerises to polystyrene when it is heated to ionic with a peroxide initiator. The mechanism involves the following steps.
+**Free radical polymerisation:**
 
-**1. Initiation step:**
+ When alkenes are heated with free radical initiator such as benzoyl peroxide, they undergo polymerisation reaction. For example styrene polymerises to polystyrene when it is heated to ionic with a peroxide initiator. The mechanism involves the following steps.
 
-**2. Propagation step:** The stabilized radical attacks another monomer molecule to give an elongated radical.
+**1. initiation – formation of free radical**
+
+![](16.png)
+
+**2. Propagation step:** 
+
+![](17.png)
 
 Chain growth will continue with the successive addition of several thousands of monomer units.
 
-**Termination:** The above chain reaction can be stopped by stopping the supply of monomer or by coupling of two chains or reaction with an impurity such as oxygen.
+**Termination:** 
+
+![](18.png)
+
+The above chain reaction can be stopped by stopping the supply of monomer or by coupling of two chains or reaction with an impurity such as oxygen.
 
 #### 15.4.3 Preparation of some important addition polymers
 
 **1. Polythene:** It is an addition polymer of ethene. There are two types of polyethylene.
+
 i) HDPE (High Density Polyethylene)
+
 ii) LDPE (Low Density polyethylene)
 
 **LDPE:** It is formed by heating ethene at \( 200^{\circ} \) to \( 300^{\circ}C \) under oxygen as a catalyst. The reaction follows free radical mechanism. The peroxides formed from oxygen acts as a free radical initiator.
@@ -221,9 +233,7 @@ It is used for coating articles and preparing non-stick utensils.
 
 **Preparation of Orlon (polyacrylonitrile - PAN):** It is prepared by the addition polymerisation of vinyl cyanide (acrylonitrile) using a peroxide initiator.
 
-\[
-\mathrm{n(CH_2=CH-C\equiv N) \xrightarrow[Peroxides]{\Delta} (-CH_2-CH-)_{n}}
-\]
+![](img15.1.png)
 
 It is used as a substitute of wool for making blankets, sweaters etc.
 
@@ -231,35 +241,44 @@ It is used as a substitute of wool for making blankets, sweaters etc.
 
 **Nylon-6,6:** Nylon-6,6 can be prepared by mixing equimolar adipic acid and hexamethylene-diamine to form a nylon salt which on heating eliminates a water molecule to form amide bonds.
 
-\[
-\mathrm{HOOC-(CH_2)_4-COOH + H_2N-(CH_2)_6-NH_2 \longrightarrow}
-\]
-
-\[
-\mathrm{HOOC-(CH_2)_4-COO^-NH_3^+-(CH_2)_6-NH_3^+ \xrightarrow{-\mathrm{H_2O}}}
-\]
-
-\[
-\mathrm{[-OC-(CH_2)_4-CONH-(CH_2)_6-NH-]_{n}}
-\]
+![](19.png)
 
 It is used in textiles, manufacture of cards etc.
 
 **Nylon-6:** Caprolactam (monomer) on heating at 533K in an inert atmosphere with traces of water gives \( \epsilon \)-aminocaproic acid which polymerises to give nylon-6.
 
-\[
-\mathrm{n \xrightarrow{533K \atop H_2O} n\ H_2N-(CH_2)_5-COOH \xrightarrow{-nH_2O} [-NH-(CH_2)_5-CO-]_{n}}
-\]
+![](20.png)
 
 It is used in the manufacture of tyre cords, fabrics etc.
 
 **Preparation of Terylene (Dacron):** The monomers are ethylene glycol and terephthalic acid (or) dimethyl terephthalate. When these monomers are mixed and heated at 500K in the presence of zinc acetate and antimony trioxide catalyst, terylene is formed.
 
+![](21.png)
+
+It is used in blending with cotton or wool fibres and as glass reinforcing materials in safety helmets.
+
+**Preparation of Bakelite**
+
+The monomers are phenol and formaldehyde. The polymer is obtained by the condensation polymerization of these monomers in presence of either an acid or a base catalyst.
+
+Phenol reacts with methanol to form ortho or para hydroxyl methylphenols which on further reaction with phenol gives linear polymer called novolac. Novolac on further heating with formaldehyde undergo cross linkages to form bakelite.
+
+![](img15.2.png)
+
+**Uses:**
+
+Navolac is used in paints. Soft bakelites are used for making glue for binding laminated wooden
+planks and in varinishes, Hard bakelites are used to prepare combs, pens etc..
+
 **Melamine (Formaldehyde melamine):** The monomers are melamine and formaldehyde. These monomers undergo condensation polymerization to form melamine formaldehyde resin.
+
+![](23.png)
 
 **Uses:** It is used for making unbreakable crockery.
 
 **Urea formaldehyde polymer:** It is formed by the condensation polymerization of the monomers urea and formaldehyde.
+
+![](24.png)
 
 #### 15.4.4 Co-polymers
 
@@ -268,6 +287,8 @@ A polymer containing two or more different kinds of monomer units is called a co
 #### 15.4.5 Natural and Synthetic rubbers
 
 Rubber is a naturally occurring polymer. It is obtained from the latex that exudes from cuts in the bark of rubber tree (Ficus elastica). The monomer unit of natural rubber is cis isoprene (2-methylbuta-1,3-diene). Thousands of isoprene units are linearly linked together in natural rubber. Natural rubber is not so strong or elastic. The properties of natural rubber can be modified by the process called vulcanization.
+
+![](25.png)
 
 **Vulcanization: Cross linking of Rubber:** In the year 1839, Charles Goodyear accidentally dropped a mixture of natural rubber and sulphur onto a hot stove. He was surprised to find that the rubber had become strong and elastic. This discovery led to the process that Goodyear called vulcanization.
 
@@ -295,147 +316,30 @@ It is used in the manufacture of hoses and tank linings.
 
 **Preparation of Buna-S:** It is a copolymer. It is obtained by the polymerisation of buta-1,3-diene and styrene in the ratio 3:1 in the presence of sodium.
 
+![](26.png)
+
 #### 15.4.6 Biodegradable Polymers
 
 The materials that are readily decomposed by microorganisms in the environment are called biodegradable. Natural polymers degrade on their own after certain period of time but the synthetic polymers do not. It leads to serious environmental pollution. One of the solution to this problem is to produce biodegradable polymers which can be broken down by soil microorganism.
 
-**Examples:** Polyhydroxy butyrate (PHB), Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV), Polyglycolic acid (PGA), Polylactic acid (PLA), Poly(\( \epsilon \) caprolactone) (PCL)
+**Examples:**
+
+ Polyhydroxy butyrate (PHB),
+
+ Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV),
+ 
+ Polyglycolic acid (PGA), Polylactic acid (PLA),
+   
+ Poly(\( \epsilon \) caprolactone) (PCL)
 
 Biodegradable polymers are used in medical field such as surgical sutures, plasma substitute etc. These polymers are decomposed by enzyme action and are either metabolized or excreted from the body.
 
 **Preparation of PHBV:** It is the copolymer of the monomers 3-hydroxybutanoic acid and 3-hydroxypentanoic acid. In PHBV, the monomer units are joined by ester linkages.
 
+![](27.png)
+
 **Uses:** It is used in orthopaedic devices, and in controlled release of drugs.
 
 **Nylon-2-Nylon-6:** It is a copolymer which contains polyamide linkages. It is obtained by the condensation polymerisation of the monomers, glycine and \( \epsilon \)-aminocaproic acid.
 
-## EVALUATION
-
-### Choose the correct answer
-
-1. Which of the following is an analgesic?
-   a) Streptomycin
-   b) Chloromycetin
-   c) Aspirin
-   d) Penicillin
-
-2. Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following statement is not true.
-   a) dilute solutions of boric acid and hydrogen peroxide are strong antiseptics.
-   b) Disinfectants harm the living tissues.
-   c) A \( 0.2\% \) solution of phenol is an antiseptic while \( 1\% \) solution acts as a disinfectant.
-   d) Chlorine and iodine are used as strong disinfectants.
-
-3. Drugs that bind to the receptor site and inhibit its natural function are called
-   a) antagonists
-   b) agonists
-   c) enzymes
-   d) molecular targets
-
-4. Aspirin is a/an
-   a) acetylsalicylic acid
-   b) benzoyl salicylic acid
-   c) chlorobenzoic acid
-   d) anthranilic acid
-
-5. Which one of the following structures represents nylon 6,6 polymer?
-
-6. Natural rubber has
-   a) alternate cis- and trans- configuration
-   b) random cis- and trans- configuration
-   c) all cis- configuration
-   d) all trans- configuration
-
-7. Nylon is an example of
-   a) polyamide
-   b) polythene
-   c) polyester
-   d) polysaccharide
-
-8. Terylene is an example of
-   a) polyamide
-   b) polythene
-   c) polyester
-   d) polysaccharide
-
-9. Which is the monomer of neoprene in the following?
-   a) \( \mathrm{CH_2=CCl-CH=CH_2} \)
-   b) \( \mathrm{CH_2=CH-C\equiv CH} \)
-   c) \( \mathrm{CH_2=CH-CH=CH_2} \)
-   d) \( \mathrm{CH_2=C(CH_3)-CH=CH_2} \)
-
-10. Which one of the following is a biodegradable polymer?
-    a) HDPE
-    b) PVC
-    c) Nylon 6
-    d) PHBV
-
-11. Non stick cookwares generally have a coating of a polymer, whose monomer is
-    a) ethane
-    b) prop-2-enenitrile
-    c) chloroethene
-    d) 1,1,2,2-tetrafluoroethene
-
-12. Assertion: 2-methyl-1,3-butadiene is the monomer of natural rubber
-    Reason: Natural rubber is formed through anionic addition polymerisation.
-    a) If both assertion and reason are true and reason is the correct explanation of assertion.
-    b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false.
-    d) both assertion and reason are false.
-
-13. Which of the following is a copolymer?
-    a) Orlon
-    b) PVC
-    c) Teflon
-    d) PHBV
-
-14. The polymer used in making blankets (artificial wool) is
-    a) polystyrene
-    b) PAN
-    c) polyester
-    d) polythene
-
-15. Regarding cross-linked or network polymers, which of the following statement is incorrect? (NEET)
-    a) Examples are Bakelite and melamine
-    b) They are formed from bi and tri-functional monomers
-    c) They contain covalent bonds between various linear polymer chains
-    d) They contain strong covalent bonds in their polymer chain
-
-### Answer the following questions
-
-1. What are antibiotics?
-
-2. Name one substance which can act as both analgesic and antipyretic.
-
-3. Write a note on synthetic detergents.
-
-4. How do antiseptics differ from disinfectants?
-
-5. What are food preservatives?
-
-6. What are drugs? How are they classified?
-
-7. How do the tranquilizers work in body?
-
-8. Write the structural formula of aspirin.
-
-9. Explain the mechanism of cleansing action of soaps and detergents.
-
-10. Which sweetening agent are used to prepare sweets for a diabetic patient?
-
-11. What are narcotic and non-narcotic drugs? Give examples.
-
-12. What are antifertility drugs? Give examples.
-
-13. Write a note on copolymer.
-
-14. What are biodegradable polymers? Give examples.
-
-15. How is terylene prepared?
-
-16. Write a note on vulcanization of rubber.
-
-17. Classify the following as linear, branched or cross linked polymers:
-    a) Bakelite
-    b) Nylon-6,6
-    c) LDPE
-    d) HDPE
+![](28.png)

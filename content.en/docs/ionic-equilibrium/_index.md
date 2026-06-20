@@ -1,29 +1,17 @@
 ---
 title: 'Ionic Equilibrium'
 categories:
-    - science
+    - ionic-equilibrium
 weight: 8
 summary: "This unit explains ionic equilibrium in aqueous solutions, including acid-base theories and the self-ionization of water. It describes the pH scale, Ostwald's dilution law, the common ion effect, and the mechanism of buffer solutions. The unit also highlights salt hydrolysis and the solubility product of sparingly soluble salts."
 ---
 
 # 8. IONIC EQUILIBRIUM
 
-Peter Joseph William Debye
+![](peter.png)
+**Peter Joseph William Debye**
 
 Peter Joseph William Debye was Dutch-American physicist greatly contributed to the theory of electrolyte solutions. He also studied the dipole moments of molecules, Debye won the Nobel Prize in Chemistry (1936) for his contributions to the determination of molecular structure through his investigations on dipole moments and X-rays diffraction.
-
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- classify the substances into acids and bases based on Arrhenius, Lowry - Bronsted and Lewis concepts.
-- define pH scale and establish relationship between pH and pOH
-- describe the equilibrium involved in the ionisation of water.
-- explain Ostwald's dilution Law and derive a relationship between the dissociation constant and degree of dissociation of a weak electrolyte.
-- recognise the concept of common ion effect and explain buffer action.
-- apply Henderson equation for the preparation of buffer solution
-- calculate solubility product and understand the relation between solubility and solubility product.
-- solve numerical problems involving ionic equilibria.
 
 ## INTRODUCTION
 
@@ -107,6 +95,8 @@ $$
 
 The species that remains after the donation of a proton is a base \((Base_1)\) and is called the conjugate base of the Bronsted acid \((Acid_1)\). In other words, chemical species that differ only by a proton are called conjugate acid - base pairs.
 
+![](basepair.png)
+
 \(HCl\) and \(Cl^-\), \(H_2O\) and \(H_3O^+\) are two conjugate acid - base pairs. i.e., \(Cl^-\) is the conjugate base of the acid \(HCl\) (or) \(HCl\) is conjugate acid of \(Cl^-\). Similarly \(H_3O^+\) is the conjugate acid of \(H_2O\).
 
 **Limitations of Lowry - Bronsted theory**
@@ -128,7 +118,7 @@ In 1923, Gilbert . N. Lewis proposed a more generalised concept of acids and bas
 A Lewis acid is a positive ion (or) an electron deficient molecule and a Lewis base is a anion (or) neutral molecule with at least one lone pair of electrons.
 
 Let us consider the reaction between Boron trifluoride and ammonia
-
+![](img8.1.png)
 Here, boron has a vacant \(2p\) orbital to accept the lone pair of electrons donated by ammonia to form a new coordinate covalent bond. We have already learnt that in coordination compounds, the Ligands act as a Lewis base and the central metal atom or ion that accepts a pair of electrons from the ligand behaves as a Lewis acid.
 
 | Lewis acids | Lewis bases |
@@ -151,11 +141,11 @@ In the hydration of ion, each of six water molecules donates a pair of electron 
 
 ## Evaluate yourself - 3
 
-Identify the Lewis acid and the Lewis base in the following reactions.
+![](img8.2.png)
 
-$$
-CaO + CO_2 \rightarrow CaCO_3
-$$
+## Evaluate yourself - 4
+
+![](img8.3.png)
 
 ### 8.2 Strength of Acids and Bases
 
@@ -191,9 +181,12 @@ As discussed earlier, due to the complete dissociation, the equilibrium lies alm
 
 The following table illustrates the relative strength of conjugate acid - base pairs.
 
+![](img8.4.png)
+
 ### 8.3 Ionisation of water
 
 We have learnt that when an acidic or a basic substance is dissolved in water, depending upon its nature, it can either donate (or) accept a proton. In addition to that the pure water itself has a little tendency to dissociate. i.e, one water molecule donates a proton to an another water molecule. This is known as auto ionisation of water and it is represented as below.
+![](img8.5.png)
 
 In the above ionisation, one water molecule acts as an acid while the another water molecule acts as a base.
 
@@ -260,7 +253,7 @@ $$
 \(2 \times 10^{-3} > > 5 \times 10^{-12}\)
 
 i.e., \([H_3O^+] > > [OH^-]\), hence the juice is acidic in nature
-
+![](img8.6.png)
 ### 8.4 The pH scale
 
 We usually deal with acid / base solution in the concentration range \(10^{-1}\) to \(10^{-7} M\). To express the strength of such low concentrations, Sorensen introduced a logarithmic scale known as the pH scale. The term pH is derived from the French word Purissance de hydrogene meaning, the power of hydrogen. pH of a solution is defined as the negative logarithm of base 10 of the molar concentration of the hydronium ions present in the solution.
@@ -300,6 +293,7 @@ pH = -\log_{10}[H_3O^+], \quad pOH = -\log_{10}[OH^-] \quad (8.5) \& (8.7)
 $$
 
 Adding equation (8.5) and (8.7)
+![](img8.7.png)
 
 $$
 pH + pOH = -\log_{10}[H_3O^+] - \log_{10}[OH^-]
@@ -333,7 +327,7 @@ $$
 \therefore \text{At } 25^{\circ}C, \quad pH + pOH = 14
 $$
 
-**Figure 8.1 The pH scale**
+
 
 ## Example 8.2
 
@@ -382,7 +376,7 @@ $$
 $$
 = -\log 2 - (-7) \log_{10}10 = 7 - \log 2 = 7 - 0.3010 = 6.6990 = 6.70
 $$
-
+![](img8.8.png)
 ### 8.5 Ionisation of weak acids
 
 We have already learnt that weak acids are partially dissociated in water and there is an equilibrium between the undissociated acid and its dissociated ions.
@@ -425,56 +419,119 @@ $$
 
 Ostwald's dilution law relates the dissociation constant of the weak acid \((K_a)\) with its degree of dissociation \((\alpha)\) and the concentration (c). Degree of dissociation \((\alpha)\) is the fraction of the total number of moles of a substance that dissociates at equilibrium.
 
-For a weak acid \(HA\),
+\[
+\alpha = \frac{\text{Number of moles dissociated}}{\text{total number of moles}}
+\]
 
-$$
-\begin{array}{c|c|c|c}
- & HA & \rightleftharpoons & H^+ & + & A^- \\
-\hline
-\text{Initial concentration} & c & & 0 & & 0 \\
-\text{Concentration at equilibrium} & c(1-\alpha) & & c\alpha & & c\alpha
-\end{array}
-$$
+We shall derive an expression for Ostwald's law by considering a weak acid, i.e. acetic acid (CH\(_3\)COOH). The dissociation of acetic acid can be represented as
 
-Substituting the equilibrium concentration in equation (8.11)
+\[
+\text{CH}_3\text{COOH} \rightleftharpoons \text{H}^+ + \text{CH}_3\text{COO}^-
+\]
 
-$$
-K_a = \frac{(c\alpha)(c\alpha)}{c(1-\alpha)} = \frac{c\alpha^2}{(1-\alpha)}
-$$
+The dissociation constant of acetic acid is,
 
-For weak acids, \(\alpha\) is very small when compared to unity, i.e., \(\alpha << 1\). So, \((1-\alpha) \approx 1\)
+\[
+k_a = \frac{[\text{H}^+][\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]}
+\]
 
-$$
-K_a = c\alpha^2
-$$
+\[
+\text{......(8.13)}
+\]
 
-$$
-\alpha = \sqrt{\frac{K_a}{c}} \quad (8.15)
-$$
+|    | CH\(_3\)COOH | H\(^+\) | CH\(_3\)COO\(^-\) |
+|---|---|---|---|
+| Initial number of moles | 1 | - | - |
+| Degree of dissociation of CH\(_3\)COOH | \(\alpha\) | - | - |
+| Number of moles at equilibrium | \(1 - \alpha\) | \(\alpha\) | \(\alpha\) |
+| Equilibrium concentration | \((1 - \alpha)C\) | \(\alpha C\) | \(\alpha C\) |
 
-Similarly, for a weak base,
+Substituting the equilibrium concentration in equation (8.13)
 
-$$
-K_b = c\alpha^2 \quad \text{and} \quad \alpha = \sqrt{\frac{K_b}{c}} \quad (8.16)
-$$
+\[
+K_a = \frac{(\alpha C)(\alpha C)}{(1 - \alpha)C}
+\]
 
-Thus, from equations (8.15) and (8.16), it is clear that when the concentration c decreases, \(\alpha\) increases. For example, for acetic acid at 298 K, the \(K_a\) is \(1.8 \times 10^{-5}\). For \(1 \times 10^{-2} M\) acid,
+\[
+K_a = \frac{\alpha^2 C}{1 - \alpha}
+\]
 
-$$
-\alpha = \sqrt{\frac{1.8 \times 10^{-5}}{1 \times 10^{-2}}} = \sqrt{1.8 \times 10^{-3}} = \sqrt{18 \times 10^{-4}} = 4.24 \times 10^{-2}
-$$
+\[
+\text{......(8.14)}
+\]
 
-For \(1 \times 10^{-4} M\) acid, \(\alpha = \sqrt{\frac{1.8 \times 10^{-5}}{1 \times 10^{-4}}} = \sqrt{1.8 \times 10^{-1}} = \sqrt{18 \times 10^{-2}} = 0.424\)
+We know that weak acid dissociates only to a very small extent. Compared to one, \(\alpha\) is so small and hence in the denominator \((1 - \alpha) \approx 1\). The above expression (8.14) now becomes,
 
-Thus, when the dilution increases by 100 times, (Concentration decreases from \(1 \times 10^{-2} M\) to \(1 \times 10^{-4} M\)), the dissociation increases by 10 times. Thus, we can conclude that, when dilution increases, the degree of dissociation of weak electrolyte also increases. This statement is known as Ostwald's dilution Law. The concentration of \(H^+ (H_3O^+)\) can be calculated using the \(K_a\) value as below.
+\[
+K_a = \alpha^2 C
+\]
 
-\([H^+] = \alpha c\)
+\[
+\Rightarrow \alpha^2 = \frac{K_a}{C}
+\]
 
-\(\therefore [H^+] = \left(\sqrt{\frac{K_a}{c}}\right) c = \sqrt{K_a c}\)
+\[
+\alpha = \sqrt{\frac{K_a}{C}}
+\]
+
+\[
+\text{......(8.15)}
+\]
+
+Let us consider an acid with \(K_a\) value \(4 \times 10^{-4}\) and calculate the degree of dissociation of that acid at two different concentration \(1 \times 10^{-2}\) M and \(1 \times 10^{-4}\) M using the above expression (8.15)
+
+For \(1 \times 10^{-2}\) M,
+
+\[
+\alpha = \sqrt{\frac{4 \times 10^{-4}}{10^{-2}}} = \sqrt{4 \times 10^{-2}} = 2 \times 10^{-1} = 0.2
+\]
+
+For \( 1 \times 10^{-4} \) M acid,
+
+\[
+\alpha = \sqrt{\frac{4 \times 10^{-4}}{10^{-4}}} = 2
+\]
+
+i.e., When the dilution increases by 100 times (concentration decreases from \( 1 \times 10^{-2} \) M to \( 1 \times 10^{-4} \) M), the dissociation increases by 10 times.
+
+Thus, we can conclude that, when dilution increases, the degree of dissociation of weak electrolyte also increases. This statement is known as **Ostwald’s dilution Law**.
+
+The concentration of \( \text{H}^+ \) (\( \text{H}_3\text{O}^+ \)) can be calculated using the \( K_a \) value as below.
+
+\[
+[\text{H}^+] = \alpha C \quad \text{(Refer table)} \tag{8.16}
+\]
+
+Equilibrium molar concentration of \( [\text{H}^+] \) is equal to \( \alpha C \).
+
+\[
+\therefore [\text{H}^+] = \sqrt{\frac{K_a}{C}} \times C
+\]
+
+\[
+= \sqrt{\frac{K_a C^2}{C}}
+\]
+
+\[
+[\text{H}^+] = \sqrt{K_a C}
+\]
 
 Similarly, for a weak base
 
-\([OH^-] = \sqrt{K_b c}\)
+\[
+K_b = \alpha^2 C \quad \text{and} \quad \alpha = \sqrt{\frac{K_b}{C}}
+\]
+
+\[
+[\text{OH}^-] = \alpha C
+\]
+
+(or)
+
+\[
+[\text{OH}^-] = \sqrt{K_b C}
+\]
+
 
 ## Example 8.4
 
@@ -671,21 +728,26 @@ $$
 [H_3O^+] = K_a \frac{[acid]_{eq}}{[base]_{eq}} \quad (8.20)
 $$
 
-Since the degree of dissociation of the weak acid is very small, its equilibrium concentration is nearly equal to its initial concentration. Similarly, the salt being a strong electrolyte, the concentration of the base (conjugate base) will be equal to the concentration of the salt.
+The weak acid is dissociated only to a small extent. Moreover, due to common ion effect,the dissociation is further suppressed and hence the equilibrium concentration of the acid is nearly equal to the initial concentration of the unionised acid.Similarly, the concentration of the conjugate base is nearly equal to the initial concentration of the added salt. 
 
 $$
 [H_3O^+] = K_a \frac{[acid]}{[salt]}
 $$
 
-Taking logarithms on both sides
+Here [acid] and [salt] represent the initial concentration of the acid and salt, respectively used to prepare the buffer solution
+Taking logarithm on both sides of the equation
 
 $$
 \log[H_3O^+] = \log K_a + \log \frac{[acid]}{[salt]}
 $$
 
+reverse the sign on both sides
+
 $$
 -\log[H_3O^+] = -\log K_a - \log \frac{[acid]}{[salt]}
 $$
+
+We know that 
 
 $$
 pH = pK_a - \log \frac{[acid]}{[salt]}
@@ -694,8 +756,6 @@ $$
 $$
 pH = pK_a + \log \frac{[salt]}{[acid]} \quad (8.21)
 $$
-
-Equation (8.21) is known as Henderson - Hasselbalch equation.
 
 Similarly for a basic buffer,
 
@@ -818,6 +878,10 @@ $$
 and therefore \([OH^-] > [H^+]\), in such cases, the solution is basic due to hydrolysis and the pH is greater than 7.
 
 Let us find a relation between the equilibrium constant for the hydrolysis reaction (hydrolysis constant) and the dissociation constant of the acid.
+
+$$
+K_h = \frac{[CH_3COOH][OH^-]}{[CH_3COO^-][H_2O]} \quad ...(1)
+$$
 
 $$
 K_h = \frac{[CH_3COOH][OH^-]}{[CH_3COO^-]} \quad ...(1)
@@ -946,44 +1010,7 @@ pH = 7 + \frac{1}{2} pK_a - \frac{1}{2} pK_b
 $$
 
 ## Example 8.8
-
-Calculate i) degree of hydrolysis, ii) the hydrolysis constant and iii) pH of \(0.1 M\) \(CH_3COONa\) solution (\(pK_a\) for \(CH_3COOH\) is 4.74).
-
-**Solution:** (a) \(CH_3COONa\) is a salt of weak acid \((CH_3COOH)\) and a strong base (\(NaOH\)). Hence, the solution is alkaline due to hydrolysis.
-
-$$
-CH_3COO^- (aq) + H_2O(aq) \rightleftharpoons CH_3COOH(aq) + OH^- (aq)
-$$
-
-$$
-h = \sqrt{\frac{K_w}{K_a \times C}}
-$$
-
-Given that \(pK_a = 4.74\)
-
-\(pK_a = -\log K_a\)
-
-i.e., \(K_a = \text{antilog of } (-pK_a) = \text{antilog of } (-4.74) = \text{antilog of } (-5 + 0.26) = 10^{-5} \times 1.8\) [antilog of 0.26 = 1.82 = 1.8]
-
-$$
-K_h = \frac{K_w}{K_a} = \frac{1 \times 10^{-14}}{1.8 \times 10^{-5}} = 5.56 \times 10^{-10}
-$$
-
-$$
-h = \sqrt{\frac{10^{-14}}{1.8 \times 10^{-5} \times 0.1}} = \sqrt{\frac{10^{-14}}{1.8 \times 10^{-6}}} = \sqrt{5.56 \times 10^{-9}} = 7.46 \times 10^{-5}
-$$
-
-$$
-pOH = -\log \sqrt{K_h C} = -\log \sqrt{5.56 \times 10^{-10} \times 0.1} = -\log \sqrt{5.56 \times 10^{-11}}
-$$
-
-$$
-= -\log \sqrt{55.6 \times 10^{-12}} = -\log 7.46 \times 10^{-6} = 6 - \log 7.46 = 6 - 0.87 = 5.13
-$$
-
-$$
-pH = 14 - pOH = 14 - 5.13 = 8.87
-$$
+![](img8.9.png)
 
 ## Evaluate yourself - 10
 
@@ -1144,259 +1171,3 @@ Hydrolysis of Salt of weak acid and weak base
 \(pH = 7 + \frac{1}{2} pK_a - \frac{1}{2} pK_b\)
 
 The solubility product of a compound is defined as the product of the molar concentration of the constituent ions, each raised to the power of its stoichiometric co-efficient in a balanced equilibrium equation.
-
-## EVALUATION
-
-## Choose the correct answer:
-
-1. Concentration of the \(Ag^+\) ions in a saturated solution of \(Ag_2C_2O_4\) is \(2.24 \times 10^{-4} \ mol \ L^{-1}\) solubility product of \(Ag_2C_2O_4\) is (NEET – 2017)
-
-a) \(2.42 \times 10^{-8} \ mol^3 L^{-3}\)
-b) \(2.66 \times 10^{-12} \ mol^3 L^{-3}\)
-c) \(4.5 \times 10^{-11} \ mol^3 L^{-3}\)
-d) \(5.619 \times 10^{-12} \ mol^3 L^{-3}\)
-
-2. Following solutions were prepared by mixing different volumes of \(NaOH\) and \(HCl\) of different concentrations. (NEET – 2018)
-
-i. \(60 \ mL \ \frac{M}{10} \ HCl + 40 \ mL \ \frac{M}{10} \ NaOH\)
-ii. \(55 \ mL \ \frac{M}{10} \ HCl + 45 \ mL \ \frac{M}{10} \ NaOH\)
-iii. \(75 \ mL \ \frac{M}{5} \ HCl + 25 \ mL \ \frac{M}{5} \ NaOH\)
-iv. \(100 \ mL \ \frac{M}{10} \ HCl + 100 \ mL \ \frac{M}{10} \ NaOH\)
-
-pH of which one of them will be equal to 1?
-
-a) iv
-b) i
-c) ii
-d) iii
-
-3. The solubility of \(BaSO_4\) in water is \(2.42 \times 10^{-3} \ g L^{-1}\) at 298K. The value of its solubility product \(K_{sp}\) will be (NEET - 2018). (Given molar mass of \(BaSO_4 = 233 \ g \ mol^{-1}\))
-
-a) \(1.08 \times 10^{-14} \ mol^2 L^{-2}\)
-b) \(1.08 \times 10^{-12} \ mol^2 L^{-2}\)
-c) \(1.08 \times 10^{-10} \ mol^2 L^{-2}\)
-d) \(1.08 \times 10^{-8} \ mol^2 L^{-2}\)
-
-4. pH of a saturated solution of \(Ca(OH)_2\) is 9. The Solubility product (\(K_{sp}\)) of \(Ca(OH)_2\)
-
-a) \(0.5 \times 10^{-15}\)
-b) \(0.25 \times 10^{-10}\)
-c) \(0.125 \times 10^{-15}\)
-d) \(0.5 \times 10^{-10}\)
-
-5. Conjugate base for Bronsted acids \(H_2O\) and \(HF\) are
-
-a) \(OH^-\) and \(H_2F^+\), respectively
-b) \(H_3O^+\) and \(F^-\), respectively
-c) \(OH^-\) and \(F^-\), respectively
-d) \(H_3O^+\) and \(H_2F^+\), respectively
-
-6. Which will make basic buffer?
-
-a) 50 mL of 0.1M NaOH + 25 mL of 0.1M \(CH_3COOH\)
-b) 100 mL of 0.1M \(CH_3COOH\) + 100 mL of 0.1M \(NH_4OH\)
-c) 100 mL of 0.1M HCl + 200 mL of 0.1M \(NH_4OH\)
-d) 100 mL of 0.1M HCl + 100 mL of 0.1M NaOH
-
-7. Which of the following fluro compounds is most likely to behave as a Lewis base? (NEET - 2016)
-
-a) \(BF_3\)
-b) \(PF_3\)
-c) \(CF_4\)
-d) \(SiF_4\)
-
-8. Which of these is not likely to act as Lewis base?
-
-a) \(BF_3\)
-b) \(PF_3\)
-c) CO
-d) \(F^-\)
-
-9. The aqueous solutions of sodium formate, anilinium chloride and potassium cyanide are respectively
-
-a) acidic, acidic, basic
-b) basic, acidic, basic
-c) basic, neutral, basic
-d) none of these
-
-10. The percentage of pyridine \((C_5H_5N)\) that forms pyridinium ion \((C_5H_5NH^+)\) in a \(0.10 M\) aqueous pyridine solution \((K_b\) for \(C_5H_5N = 1.7 \times 10^{-9})\) is
-
-a) \(0.006\%\)
-b) \(0.013\%\)
-c) \(0.77\%\)
-d) \(1.6\%\)
-
-11. Equal volumes of three acid solutions of pH 1, 2 and 3 are mixed in a vessel. What will be the \(H^+\) ion concentration in the mixture?
-
-a) \(3.7 \times 10^{-2}\)
-b) \(10^{-6}\)
-c) 0.111
-d) none of these
-
-12. The solubility of \(AgCl\) (s) with solubility product \(1.6 \times 10^{-10}\) in \(0.1 M\) \(NaCl\) solution would be
-
-a) \(1.26 \times 10^{-5} M\)
-b) \(1.6 \times 10^{-9} M\)
-c) \(1.6 \times 10^{-11} M\)
-d) Zero
-
-13. If the solubility product of lead iodide is \(3.2 \times 10^{-8}\), its solubility will be
-
-a) \(2 \times 10^{-3} M\)
-b) \(4 \times 10^{-4} M\)
-c) \(1.6 \times 10^{-5} M\)
-d) \(1.8 \times 10^{-5} M\)
-
-14. \(MY\) and \(NY_3\), are insoluble salts and have the same \(K_{sp}\) values of \(6.2 \times 10^{-13}\) at room temperature. Which statement would be true with regard to \(MY\) and \(NY_3\)?
-
-a) The salts \(MY\) and \(NY_3\) are more soluble in \(0.5 M\) \(KY\) than in pure water
-b) The addition of the salt of \(KY\) to the suspension of \(MY\) and \(NY_3\) will have no effect on their solubility's
-c) The molar solubilities of \(MY\) and \(NY_3\) in water are identical
-d) The molar solubility of \(MY\) in water is less than that of \(NY_3\)
-
-15. What is the pH of the resulting solution when equal volumes of \(0.1 M\) \(NaOH\) and \(0.01 M\) \(HCl\) are mixed?
-
-a) 2.0
-b) 3
-c) 7.0
-d) 12.65
-
-16. The dissociation constant of a weak acid is \(1 \times 10^{-3}\). In order to prepare a buffer solution with a \(pH = 4\), the \(\frac{[Acid]}{[Salt]}\) ratio should be
-
-a) 4:3
-b) 3:4
-c) 10:1
-d) 1:10
-
-17. The pH of \(10^{-5} M\) \(KOH\) solution will be
-
-a) 9
-b) 5
-c) 19
-d) none of these
-
-18. \(H_2PO_4^-\) the conjugate base of
-
-a) \(PO_4^{3-}\)
-b) \(P_2O_5\)
-c) \(H_3PO_4\)
-d) \(HPO_4^{2-}\)
-
-19. Which of the following can act as Lowry - Bronsted acid as well as base?
-
-a) \(HCl\)
-b) \(SO_4^{2-}\)
-c) \(HPO_4^{2-}\)
-d) \(Br^-\)
-
-20. The pH of an aqueous solution is Zero. The solution is
-
-a) slightly acidic
-b) strongly acidic
-c) neutral
-d) basic
-
-21. The hydrogen ion concentration of a buffer solution consisting of a weak acid and its salts is given by
-
-a) \([H^+] = \frac{K_a[acid]}{[salt]}\)
-b) \([H^+] = K_a[salt]\)
-c) \([H^+] = K_a[acid]\)
-d) \([H^+] = \frac{K_a[salt]}{[acid]}\)
-
-22. Which of the following relation is correct for degree of hydrolysis of ammonium acetate?
-
-a) \(h = \sqrt{\frac{K_h}{C}}\)
-b) \(h = \sqrt{\frac{K_a}{K_b}}\)
-c) \(h = \sqrt{\frac{K_w}{K_a K_b}}\)
-d) \(h = \sqrt{\frac{K_a K_b}{K_w}}\)
-
-23. Dissociation constant of \(NH_4OH\) is \(1.8 \times 10^{-5}\) the hydrolysis constant of \(NH_4Cl\) would be
-
-a) \(1.8 \times 10^{-19}\)
-b) \(5.55 \times 10^{-10}\)
-c) \(5.55 \times 10^{-5}\)
-d) \(1.80 \times 10^{-5}\)
-
-## Answer the following questions:
-
-1. What are Lewis acids and bases? Give two example for each.
-
-2. Discuss the Lowry - Bronsted concept of acids and bases.
-
-3. Identify the conjugate acid base pair for the following reaction in aqueous solution
-
-i) \(HS^- (aq) + HF \rightleftharpoons F^- (aq) + H_2S (aq)\)
-ii) \(HPO_4^{2-} + SO_3^{2-} \rightleftharpoons PO_4^{3-} + HSO_3^-\)
-iii) \(NH_4^+ + CO_3^{2-} \rightleftharpoons NH_3 + HCO_3^-\)
-
-4. Account for the acidic nature of \(HClO_4\) in terms of Bronsted - Lowry theory, identify its conjugate base.
-
-5. When aqueous ammonia is added to \(CuSO_4\) solution, the solution turns deep blue due to the formation of tetraminiceopper (II) complex, \([Cu(H_2O)_4]_{(aq)}^{2+} + 4NH_3(aq) \rightleftharpoons [Cu(NH_3)_4]_{(aq)}^{2+}\), among \(H_2O\) and \(NH_3\) which is stronger Lewis base.
-
-6. The concentration of hydroxide ion in a water sample is found to be \(2.5 \times 10^{-6} M\). Identify the nature of the solution.
-
-7. A lab assistant prepared a solution by adding a calculated quantity of \(HCl\) gas at \(25^{\circ}C\) to get a solution with \([H_3O^+] = 4 \times 10^{-5} M\). Is the solution neutral (or) acidic (or) basic.
-
-8. Calculate the pH of \(0.04 M\) \(HNO_3\) Solution.
-
-9. Define solubility product.
-
-10. Define ionic product of water. Give its value at room temperature.
-
-11. Explain common ion effect with an example.
-
-12. Derive an expression for Ostwald's dilution law.
-
-13. Define pH.
-
-14. Calculate the pH of \(1.5 \times 10^{-3} M\) solution of \(Ba(OH)_2\).
-
-15. 50 ml of \(0.05 M\) \(HNO_3\) is added to 50 ml of \(0.025 M\) \(KOH\). Calculate the pH of the resultant solution.
-
-16. The \(K_a\) value for \(HCN\) is \(10^{-9}\). What is the pH of \(0.4 M\) \(HCN\) solution?
-
-17. Calculate the extent of hydrolysis and the pH of \(0.1 M\) ammonium acetate Given that \(K_a = K_b = 1.8 \times 10^{-5}\).
-
-18. Derive an expression for the hydrolysis constant and degree of hydrolysis of salt of strong acid and weak base.
-
-19. Solubility product of \(Ag_2CrO_4\) is \(1 \times 10^{-12}\). What is the solubility of \(Ag_2CrO_4\) in \(0.01 M\) \(AgNO_3\) solution?
-
-20. Write the expression for the solubility product of \(Ca_3(PO_4)_2\).
-
-21. A saturated solution, prepared by dissolving \(CaF_2(s)\) in water, has \([Ca^{2+}] = 3.3 \times 10^{-4} M\). What is the \(K_{sp}\) of \(CaF_2\)?
-
-22. \(K_{sp}\) of \(AgCl\) is \(1.8 \times 10^{-10}\). Calculate molar solubility in \(1 M\) \(AgNO_3\).
-
-23. A particular saturated solution of silver chromate \(Ag_2CrO_4\) has \([Ag^+] = 5 \times 10^{-5}\) and \([CrO_4]^{2-} = 4.4 \times 10^{-4} M\). What is the value of \(K_{sp}\) for \(Ag_2CrO_4\)?
-
-24. Write the expression for the solubility product of \(Hg_2Cl_2\).
-
-25. \(K_{sp}\) of \(Ag_2CrO_4\) is \(1.1 \times 10^{-12}\). what is solubility of \(Ag_2CrO_4\) in \(0.1 M\) \(K_2CrO_4\)?
-
-26. Will a precipitate be formed when \(0.150 L\) of \(0.1 M\) \(Pb(NO_3)_2\) and \(0.100 L\) of \(0.2 M\) \(NaCl\) are mixed? \(K_{sp}(PbCl_2) = 1.2 \times 10^{-5}\).
-
-27. \(K_{sp}\) of \(Al(OH)_3\) is \(1 \times 10^{-15} M\). At what pH does \(1.0 \times 10^{-3} M Al^{3+}\) precipitate on the addition of buffer of \(NH_4Cl\) and \(NH_4OH\) solution?
-
-## ICT Corner
-
-## Buffers and pH
-
-By using this tool you can simulate the preparation of a buffer and measure its pH values
-
-Please go to the URL http://pages.uoregon.edu/tgreenbo/pHbuffer20.html (or) Scan the QR code on the right side
-
-**Step-1**
-
-Open the Browser and type the URL given (or) Scan the QR Code. You can see a webpage as shown in the figure.
-
-**Step-2**
-
-Now you can select a combination of an acid/base (Box 1) and its corresponding salt (Box 2) from the given choices and also select the desired concentrations (Box 3) and volume (Box 4) of these for the buffer.
-
-**Step-3**
-
-In order to measure the pH of the made-up buffer click the 'Insert Probe' (Box 5) on the pH meter. Now the pH meter shows the pH. After measuring you need to remove the probe by clicking 'Remove Probe' (Box 5) to make any changes in the composition.
-
-**Step-4**
-
-Now you can vary the concentration and volume of the components and see how the pH changes.

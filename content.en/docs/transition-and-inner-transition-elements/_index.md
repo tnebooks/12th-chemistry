@@ -1,29 +1,17 @@
 ---
 title: 'Transition and Inner Transition Elements'
 categories:
-    - science
+    - transition-and-inner-transition-elements
 weight: 4
 summary: "This unit explains the chemistry of transition and inner transition elements, focusing on d-block and f-block elements in the periodic table. It describes their electronic configurations, variable oxidation states, magnetic properties, and formation of colored compounds. The unit also highlights the importance of these elements in catalysts, alloys, and industrial applications."
 ---
 
 # 4. TRANSITION AND INNER TRANSITION ELEMENTS
 
-Martin Heinrich Klaproth, (1743- 1817)
+![](Martin.png)
+**Martin Heinrich Klaproth, (1743- 1817)**
 
 Martin Heinrich Klaproth, German chemist who discovered uranium, zirconium and cerium . He described them as distinct elements, though he did not obtain them in the pure metallic state. He verified the discoveries of titanium, tellurium, and strontium, His role is the most significant in systematizing analytical chemistry and mineralogy.
-
-## Learning Objectives
-
-After studying this unit, the students will be able to
-
-- recognise the position of d and f block elements in the periodic table
-- describe the general trend in properties of elements of 3d series
-- discuss the trends in \(M^{n+} / M\) standard electrode potential
-- predict the oxidising and reducing property based in \(E^{\circ}\) values
-- explain the tendencies of d-block elements towards the formation of alloy, complex and interstitial compounds
-- describe the preparation and properties of potassium permanganate and potassium dichromate
-- describe the properties of f-block elements
-- compare the properties of lanthanoides and actinides
 
 ## INTRODUCTION
 
@@ -33,11 +21,12 @@ Transition metals, iron and copper play an important role in the development of 
 
 In this unit we study the general trend in properties of d block elements with specific reference to 3d series, their characteristics, chemical reactivity, some important compounds \(KMnO_4\) and \(K_2Cr_2O_7\), we also discuss the f- block elements later in this unit.
 
+
 ### 4.1 Position of d-block elements in the periodic table:
 
 We have already learnt the periodic classification of elements in XI std. the transition metals occupy from group - 3 to group- 12 of the modern periodic table.
 
-**Figure 4.1-Position of d-block elements in the periodic table**
+![](img4.1.png)
 
 d- Block elements composed of 3d series (4th period) Scandium to Zinc (10 elements), 4d series (5th period) Yttrium to Cadmium (10 elements) and 5d series (6th period) Lanthanum, Hafnium to mercury. As we know that the group- 12 elements Zinc, Cadmium and Mercury do not have partially filled d- orbital either in their elemental state or in their normal oxidation states. However they are treated as transition elements, because their properties are an extension of the properties of the respective transition elements. As per the IUPAC definition, the seventh period elements, starting from Ac, Rf to Cn also belong to transition metals. All of them are radioactive. Except Actinium; all the remaining elements are synthetically prepared and have very low half life periods.
 
@@ -47,7 +36,7 @@ We have already learnt in XI STD to write the electronic configuration of the el
 
 The electronic configurations of \(Cr\) and \(Cu\) are \([Ar]3d^{5}4s^{1}\) and \([Ar]3d^{10}4s^{1}\) respectively. The extra stability of half filled and fully filled d orbitals, as already explained in XI STD, is due to symmetrical distribution of electrons and exchange energy.
 
-Note: The extra stability due to symmetrical distribution can also be visualized as follows. When the d orbitals are considered together, they will constitute a sphere. So the half filled and fully filled configuration leads to complete symmetrical distribution of electron density. On the other hand, an unsymmetrical distribution of electron density as in the case of partially filled configuration will result in building up of a potential difference. To decrease this and to achieve a tension free state with lower energy, a symmetrical distribution is preferred.
+**Note:** The extra stability due to symmetrical distribution can also be visualized as follows. When the d orbitals are considered together, they will constitute a sphere. So the half filled and fully filled configuration leads to complete symmetrical distribution of electron density. On the other hand, an unsymmetrical distribution of electron density as in the case of partially filled configuration will result in building up of a potential difference. To decrease this and to achieve a tension free state with lower energy, a symmetrical distribution is preferred.
 
 With these two exceptions and minor variation in certain individual cases, the general electronic configuration of d- block elements can be written as [Noble gas] \((n - 1)d^{1 - 10}ns^{1 - 2}\) Here, \(n = 4\) to 7. In periods 6 and 7, (except La and Ac) the configuration includes \(((n - 2)f\) orbital; [Noble gas] \((n - 2)f^{14}(n - 1)d^{1 - 10}ns^{1 - 2}\).
 
@@ -59,13 +48,13 @@ All the transition elements are metals. Similar to all metals the transition met
 
 Most of the transition elements are hexagonal close packed, cubic close packed or body centered cubic which are the characteristics of true metals.
 
-**Figure 4.2 lattice structures of 3d, 4d and 5d transition metals**
+![](img4.2.png)
 
 As we move from left to right along the transition metal series, melting point first increases as the number of unpaired d electrons available for metallic bonding increases, reach a maximum value and then decreases, as the d electrons pair up and become less available for bonding.
 
 For example, in the first series the melting point increases from Scandium (m.pt 1814K) to a maximum of 2183 K for vanadium, which is close to 2180K for chromium. However, manganese in 3d series and Tc in 4d series have low melting point. The maximum melting point at about the middle of transition metal series indicates that \(d^5\) configuration is favorable for strong interatomic attraction. The following figure shows the trends in melting points of transition elements.
 
-**Figure 4.3-Variation in melting point of 3d series elements**
+![](img4.3.png)
 
 #### 4.3.2 Variation of atomic and ionic size:
 
@@ -75,17 +64,14 @@ At the end of the series, d - orbitals of Zinc contain 10 electrons in which the
 
 Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d elements which have nearly same atomic radius as that of corresponding 4d elements. This is due to lanthanide contraction which is to be discussed later in this unit under inner transition elements.
 
-**Figure 4.4 (a) Atomic radius of 3d Elements**
+![](img4.3.2.png)
 
-**Figure 4.4 (b) Atomic radius of 4d Elements**
-
-**Figure 4.4 (c) Atomic radius of 5d Elements**
 
 #### 4.3.3 Ionization enthalpy:
 
 Ionization energy of transition element is intermediate between those of s and p block elements. As we move from left to right in a transition metal series, the ionization enthalpy increases as expected. This is due to increase in nuclear charge corresponding to the filling of d electrons. The following figure show the trends in ionisation enthalpy of transition elements.
 
-**Figure 4.5 Variation in ionisation energy of 3d series elements**
+![](img4.3.3.png)
 
 The increase in first ionisation enthalpy with increase in atomic number along a particular series is not regular. The added electron enters (n- 1)d orbital and the inner electrons act as a shield and decrease the effect of nuclear charge on valence ns electrons. Therefore, it leads to variation in the ionization energy values.
 
@@ -101,20 +87,13 @@ $$
 
 Since, the energy required to form \(Ni^{2+}\) is less than that of \(Pt^{2+}\), Ni(II) compounds are thermodynamically more stable than Pt(II) compounds.
 
+![](evaluate.png)
+
 #### 4.3.4 Oxidation state:
 
 The first transition metal Scandium exhibits only \(+3\) oxidation state, but all other transition elements exhibit variable oxidation states by losing electrons from (n- 1)d orbital and ns orbital as the energy difference between them is very small. Let us consider the 3d series; the following table summarizes the oxidation states of the 3d series elements.
 
-| Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu |
-|---|---|---|---|---|---|---|---|---|
-| | | | \(+7\) | | | | | |
-| | | | \(+6\) | \(+6\) | | | | |
-| | | \(+5\) | \(+5\) | \(+5\) | | | | |
-| | | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | | |
-| | \(+3\) | \(+4\) | \(+4\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| | | \(+3\) | \(+3\) | \(+2\) | \(+2\) | \(+2\) | \(+2\) | \(+2\) |
-| | | | | | | | \(+3\) | \(+2\) |
-| | | | | | | | | \(+1\) |
+![](img4.3.4.png)
 
 At the beginning of the series, \(+3\) oxidation state is stable but towards the end \(+2\) oxidation state becomes stable.
 
@@ -123,6 +102,8 @@ The number of oxidation states increases with the number of electrons available,
 The relative stability of different oxidation states of 3d metals is correlated with the extra stability of half filled and fully filled electronic configurations. Example: \(Mn^{2+}(3d^{5})\) is more stable than \(Mn^{4+}(3d^{3})\)
 
 The oxidation states of 4d and 5d metals vary from \(+3\) for Y and La to \(+8\) for Ru and Os. The highest oxidation state of 4d and 5d elements are found in their compounds with the higher electronegative elements like O, F and Cl. for example: \(RuO_4\), \(OsO_4\) and \(WCl_6\). Generally in going down a group, a stability of the higher oxidation state increases while that of lower oxidation state decreases. It is evident from the Frost diagram \((\Delta G^{0} \ vs\) oxidation number) as shown below, For titanium, vanadium and chromium, the most thermodynamically stable oxidation state is \(+3\). For iron, the stabilities of \(+3\) and \(+2\) oxidation states are similar. Copper is unique in 3d series having a stable \(+1\) oxidation state. It is prone to disproportionate to the \(+2\) and 0 oxidation states.
+
+![](img4.6.png)
 
 **Figure 4.6 Frost diagram**
 
@@ -152,6 +133,8 @@ If the standard electrode potential \((E^0)\), of a metal is large and negative,
 
 In 3d series as we move from Ti to Zn, the standard reduction potential \((E_{M^{2+}/M}^{0})\) value is approaching towards less negative value and copper has a positive reduction potential. i.e., elemental copper is more stable than \(Cu^{2+}\). There are two deviations., Fig shows that \((E_{M^{2+}/M}^{0})\) value for manganese and zinc are more negative than the regular trend. It is due to extra stability which arises due to the half filled \(d^{5}\) configuration in \(Mn^{2+}\) and completely filled \(d^{10}\) configuration in \(Zn^{2+}\).
 
+![](img4.7.png)
+
 Transition metals in their high oxidation states tend to be oxidizing . For example, \(Fe^{3+}\) is moderately a strong oxidant, and it oxidises copper to \(Cu^{2+}\) ions. The feasibility of the reaction is predicted from the following standard electrode potential values.
 
 $$
@@ -173,7 +156,7 @@ The standard electrode potential for the \(M^{3+} / M^{2+}\) half- cell gives th
 | \(Fe^{3+} + e^- \rightarrow Fe^{2+}\) | \(+0.77\) |
 | \(Co^{3+} + e^- \rightarrow Co^{2+}\) | \(+1.81\) |
 
-**Figure 4.7 (b) \((E_{M^{3+}/M^{2+}}^{0})\) -3d series**
+![](img4.7b.png)
 
 The negative values for titanium, vanadium and chromium indicate that the higher oxidation state is preferred. If we want to reduce such a stable \(Cr^{3+}\) ion, strong reducing agent which has high negative value for reduction potential like metallic zinc \((E^{0} = -0.76 \ \mathrm{V})\) is required.
 
@@ -215,6 +198,8 @@ $$
 
 The magnetic moment calculated using the above equation is compared with the experimental values in the following table. In most of the cases, the agreement is good.
 
+![](tableimg.png)
+
 #### 4.3.7 Catalytic properties
 
 The chemical industries manufacture a number of products such as polymers, flavours, drugs etc., Most of the manufacturing processes have adverse effect on the environment so there is an interest for eco friendly alternatives. In this context, catalyst based manufacturing processes are advantageous, as they require low energy, minimize waste production and enhance the conversion of reactants to products.
@@ -223,29 +208,13 @@ Many industrial processes use transition metals or their compounds as catalysts.
 
 The \(\sigma\) bond in the hydrogen molecule breaks, and each hydrogen atom forms a bond with a d electron on an atom in the catalyst. The two hydrogen atoms then bond with the partially broken \(\pi\)- bond in the alkene to form an alkane.
 
+![](img4.3.7.png)
+
 In certain catalytic processes the variable oxidation states of transition metals find applications. For example, in the manufacture of sulphuric acid from \(SO_3\), vanadium pentoxide \((V_2O_5)\) is used as a catalyst to oxidise \(SO_2\). In this reaction \(V_2O_5\) is reduced to vanadium (IV) Oxide \((VO_2)\).
 
 Some more examples are discussed below,
 
-(i) Hydroformylation of olefins
-
-$$
-RCH=CH_2 + CO + H_2 \xrightarrow{[Co(CO)_4H]} RCH_2CH_2CHO + RCH(CH_3)CHO
-$$
-
-(ii) Preparation acetic acid from acetaldehyde.
-
-$$
-CH_3CHO + O_2 \xrightarrow{Mn(OAc)_2} CH_3COOH
-$$
-
-(iii) Zeigler - Natta catalyst
-
-A mixture of \(TiCl_4\) and trialkyl aluminium is used for polymerization.
-
-$$
-nCH_2=CHR \xrightarrow{TiCl_4 + AlR_3} [CH_2-CHR]_n
-$$
+![](formulas.png)
 
 #### 4.3.8 Alloy formation
 
@@ -256,7 +225,12 @@ An alloy is formed by blending a metal with one or more other elements. The elem
 An interstitial compound or alloy is a compound that is formed when small atoms like hydrogen, boron, carbon or nitrogen are trapped in the interstitial holes in a metal lattice. They are usually non- stoichiometric compounds. Transition metals form a number of interstitial compounds such as \(TiC\), \(ZrH_{1.92}\), \(Mn_4N\) etc. The elements that occupy the metal lattice provide them new properties.
 
 (i) They are hard and show electrical and thermal conductivity
+
 (ii) They have high melting points higher than those of pure metals
+
+(iii) Transition metal hydrides are used as powerful reducing agents
+
+(iv) Metallic carbides are chemically inert.
 
 #### 4.3.10 Formation of complexes
 
@@ -304,9 +278,10 @@ $$
 
 ## Structure of dichromate ion:
 
-**Figure 4.8 (a) Structure of chromate ion**
+![](img4.8a.png)
 
-**Figure 4.8 (b) Structure of dichromate ion**
+
+![](img4.8b.png)
 
 Both chromate and dichromate ion are oxo anions of chromium and they are moderately strong oxidizing agents. In these ions chromium is in \(+6\) oxidation state. In an aqueous solution, chromate and dichromate ions can be interconvertible, and in an alkaline solution chromate ion is predominant, whereas dichromate ion becomes predominant in acidic solutions. Structures of these ions are shown in the figure.
 
@@ -445,7 +420,7 @@ Potassium permanganate exists in the form of dark purple crystals which melts at
 
 Permanganate ion has tetrahedral geometry in which the central \(Mn^{7+}\) is \(d^{3}s\) hybridised.
 
-**Figure 4.9 Structure of permanganate ion**
+![](img4.9.png)
 
 ## Chemical properties:
 
@@ -585,7 +560,7 @@ $$
 4. It is used as Bayer's reagent for detecting unsaturation in an organic compound.
 5. It is used in quantitative analysis for the estimation of ferrous salts, oxalates, hydrogen peroxide and iodides.
 
-Note: \(HCl\) cannot be used for making the medium acidic since it reacts with \(KMnO_4\) as follows.
+**Note:** \(HCl\) cannot be used for making the medium acidic since it reacts with \(KMnO_4\) as follows.
 
 $$
 2MnO_4^{-} + 10Cl^{-} + 16H^{+} \longrightarrow 2Mn^{2+} + 5Cl_2 + 8H_2O
@@ -595,7 +570,7 @@ $$
 
 However, \(H_2SO_4\) is found to be most suitable since it does not react with potassium permanganate.
 
-# Note
+**Note**
 
 Equivalent weight of \(KMnO_4\) in acid medium = \(\frac{\text{Molecular weight of } KMnO_4}{\text{no of mols of electrons transferred}} = \frac{158}{5} = 31.6\)
 
@@ -622,7 +597,7 @@ The actual position of Lanthanoids in the periodic table is at group number 3 an
 
 Similarly the fourteen elements following actinium resemble in their physical and chemical properties. If we place these elements after Lanthanum in the periodic table below 4d series, the properties of the elements belongs to a group would be different and it would affect the proper structure of the periodic table. Hence a separate position is provided to the inner transition elements as shown in the figure.
 
-**Figure 4.10 position of inner transition elements**
+![](img4.10.png)
 
 ## Electronic configuration of Lanthanoids:
 
@@ -668,18 +643,14 @@ Similarly Cerium and Terbium attain \(4f^{0}\) and \(4f^{7}\) configurations res
 
 The stability of different oxidation states has an impact on the properties of these elements. the following table shows the different oxidation states of lanthanoids.
 
-| Ce | Pr | Nd | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| \(+2\) | | | | \(+2\) | \(+2\) | | | | | | | \(+2\) | |
-| \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| \(+4\) | \(+4\) | \(+4\) | | | | | \(+4\) | | | | | | |
+![](lanthanoids.png)
 
 ## Atomic and ionic radii:
 
 As we move across 4f series, the atomic and ionic radii of lanthanoids show gradual decrease with increase in atomic number. This decrease in ionic size is called lanthanoid contraction.
-
-**Figure 4.11 Variation of atomic radii of lanthanoids**
-
+ 
+![](img4.11.png)
+ 
 ## Cause of lanthanoid contraction:
 
 As we move from one element to another in 4f series (Ce to Lu) the nuclear charge increases by one unit and an additional electron is added into the same inner 4f sub shell. We know that 4f sub shell have a diffused shapes and therefore the shielding effect of 4f electrons relatively poor. hence, with increase of nuclear charge, the valence shell is pulled slightly towards nucleus. As a result, the effective nuclear charge experienced by the 4f electrons increases and the size of \(Ln^{3+}\) ions decreases. Lanthanoid contraction of various lanthanoids is shown in the graph
@@ -740,14 +711,7 @@ Like lanthanoids, the most common state of actinoids is \(+3\). In addition to t
 
 The elements Americium(Am) and Thorium (Th) show \(+2\) oxidation state in some compounds, for example thorium iodide \((ThI_2)\). The elements Th, Pa, U, Np, Pu and Am show \(+5\) oxidation states. Np and Pu exhibit \(+7\) oxidation state.
 
-| Th | Pa | U | Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| | | | | | \(+2\) | | | | | | | | |
-| \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) | \(+3\) |
-| \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | \(+4\) | | | | | | |
-| | \(+5\) | \(+5\) | \(+5\) | \(+5\) | \(+5\) | | | | | | | | |
-| | | \(+6\) | \(+6\) | \(+6\) | | | | | | | | | |
-| | | | \(+7\) | \(+7\) | | | | | | | | | |
+![](actinoids.png)
 
 **Differences between lanthanoids and actinoids:**
 
@@ -780,177 +744,3 @@ In 3d series as we move from Ti to Zn, the standard reduction potential \((E_{M^
 
 Most of the compounds of transition elements are paramagnetic. Magnetic properties are related to the electronic configuration of atoms. Many industrial processes use transition metals or their compounds as catalysts. Transition metal has energetically available d orbitals that can accept electrons from reactant molecule or metal can form bond with reactant molecule using its d electrons. Transition metals form a number of interstitial compounds such as TiC, \(ZrH_{1.92}\), \(Mn_4N\) etc. Transition elements have a tendency to form coordination compounds with a species that has an ability to donate an electron pair to form a coordinate covalent bond. In the inner transition elements there are two series of elements. 1) Lanthanoids (previously called lanthanides) 2) Actinoids (previously called actinides) Lanthanoids have general electronic configuration [Xe] \(4f^{1-4}5d^{0-1}6s^{2}\) The common oxidation state of lanthanoides is \(+3\) As we move across 4f series, the atomic and ionic radii of lanthanoids show gradual decrease with increase in atomic number. This decrease in ionic size is called lanthanoid contraction. The electronic configuration of actinoids is not definite. The general valence shell electronic configuration of 5f elements is represented as [Rn]5f \(^{0-14}6d^{0-2}7s^{2}\) Like lanthanoids, the most common state of actinoids is \(+3\). In addition to that actinoids show variable oxidation states such as \(+2\), \(+3\), \(+4\), \(+5\), \(+6\) and \(+7\).
 
-## EVALUATION
-
-## Choose the best answer:
-
-1. Sc(\(Z = 21\)) is a transition element but Zinc \((z = 30)\) is not because
-
-a) both \(Sc^{3+}\) and \(Zn^{2+}\) ions are colourless and form white compounds.
-b) in case of Sc, 3d orbital are partially filled but in Zn these are completely filled
-c) last electron as assumed to be added to 4s level in case of zinc
-d) both Sc and Zn do not exhibit variable oxidation states
-
-2. Which of the following d block element has half filled penultimate d sub shell as well as half filled valence sub shell?
-
-a) Cr
-b) Pd
-c) Pt
-d) none of these
-
-3. Among the transition metals of 3d series, the one that has highest negative \((M^{2+} / M)\) standard electrode potential is
-
-a) Ti
-b) Cu
-c) Mn
-d) Zn
-
-4. Which one of the following ions has the same number of unpaired electrons as present in \(V^{3+}\)?
-
-a) \(Ti^{3+}\)
-b) \(Fe^{3+}\)
-c) \(Ni^{2+}\)
-d) \(Cr^{3+}\)
-
-5. The magnetic moment of \(Mn^{2+}\) ion is
-
-a) 5.92 BM
-b) 2.80 BM
-c) 8.95 BM
-d) 3.90 BM
-
-6. The catalytic behaviour of transition metals and their compounds is ascribed mainly due to
-
-a) their magnetic behaviour
-b) their unfilled d orbitals
-c) their ability to adopt variable oxidation states
-d) their chemical reactivity
-
-7. The correct order of increasing oxidizing power in the series
-
-a) \(VO_2^{+} < Cr_2O_7^{2-} < MnO_4^{-}\)
-b) \(Cr_2O_7^{2-} < MnO_4^{-} < VO_2^{+}\)
-c) \(VO_2^{+} < MnO_4^{-} < Cr_2O_7^{2-}\)
-d) \(Cr_2O_7^{2-} < VO_2^{+} < MnO_4^{-}\)
-
-8. In acid medium, potassium permanganate oxidizes oxalic acid to
-
-a) oxalate
-b) Carbon dioxide
-c) acetate
-d) acetic acid
-
-9. Which of the following statements is not true?
-
-a) on passing \(H_2S\), through acidified \(K_2Cr_2O_7\) solution, a milky colour is observed.
-b) \(Na_2Cr_2O_7\) is preferred over \(K_2Cr_2O_7\) in volumetric analysis
-c) \(K_2Cr_2O_7\) solution in acidic medium is orange in colour
-d) \(K_2Cr_2O_7\) solution becomes yellow on increasing the \(P^{H}\) beyond 7
-
-10. Permanganate ion changes to in acidic medium
-
-a) \(MnO_4^{2-}\)
-b) \(Mn^{2+}\)
-c) \(Mn^{3+}\)
-d) \(MnO_2\)
-
-11. How many moles of \(I_2\) are liberated when 1 mole of potassium dichromate react with potassium iodide?
-
-a) 1
-b) 2
-c) 3
-d) 4
-
-12. The number of moles of acidified \(KMnO_4\) required to oxidize 1 mole of ferrous oxalate \((FeC_2O_4)\) is
-
-a) 5
-b) 3
-c) 0.6
-d) 1.5
-
-13. Which one of the following statements related to lanthanons is incorrect?
-
-a) Europium shows \(+2\) oxidation state.
-b) The basicity decreases as the ionic radius decreases from Pr to Lu.
-c) All the lanthanons are much more reactive than aluminium.
-d) \(Ce^{4+}\) solutions are widely used as oxidising agents in volumetric analysis.
-
-14. Which of the following lanthanoid ion is diamagnetic?
-
-a) \(Eu^{2+}\)
-b) \(Yb^{2+}\)
-c) \(Ce^{2+}\)
-d) \(Sm^{2+}\)
-
-15. Which of the following oxidation state is most common among the lanthanoids?
-
-a) \(+4\)
-b) \(+2\)
-c) \(+5\)
-d) \(+3\)
-
-16. Assertion : \(Ce^{4+}\) is used as an oxidizing agent in volumetric analysis.
-
-Reason: \(Ce^{4+}\) has the tendency of attaining \(+3\) oxidation state.
-
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-c) Assertion is true but reason is false.
-d) Both assertion and reason are false.
-
-17. The most common oxidation state of actinoids is
-
-a) \(+2\)
-b) \(+3\)
-c) \(+4\)
-d) \(+6\)
-
-18. The actinoid elements which show the highest oxidation state of \(+7\) are
-
-a) Np, Pu, Am
-b) U, Fm, Th
-c) U, Th, Md
-d) Es, No, Lr
-
-19. Which one of the following is not correct?
-
-a) \(La(OH)_3\) is less basic than \(Lu(OH)_3\)
-b) In lanthanoid series ionic radius of \(Ln^{3+}\) ions decreases
-c) La is actually an element of transition metal series rather than lanthanoid series
-d) Atomic radii of Zr and Hf are same because of lanthanoid contraction
-
-## Answer the following questions:
-
-1. What are transition metals? Give four examples.
-2. Explain the oxidation states of 4d series elements.
-3. What are inner transition elements?
-4. Justify the position of lanthanoids and actinoids in the periodic table.
-5. What are actinides? Give three examples.
-6. Describe the preparation of potassium dichromate.
-7. What is lanthanoid contraction and what are the effects of lanthanoid contraction?
-8. Complete the following
-a. \(MnO_4^{2-} + H^+ \longrightarrow ?\)
-b. \(C_6H_5CH_3 \xrightarrow{\text{acidified } KMnO_4} ?\)
-c. \(MnO_4^{-} + Fe^{2+} \longrightarrow ?\)
-d. \(KMnO_4 \xrightarrow{\Delta \text{ Red hot}} ?\)
-e. \(Cr_2O_7^{2-} + I^{-} + H^{+} \longrightarrow ?\)
-f. \(Na_2Cr_2O_7 + KCl \longrightarrow ?\)
-9. What are interstitial compounds?
-10. Calculate the number of unpaired electrons in \(Ti^{3+}\), \(Mn^{2+}\) and calculate the spin only magnetic moment.
-11. Write the electronic configuration of \(Ce^{4+}\) and \(Co^{2+}\).
-12. Explain briefly how \(+2\) states becomes more and more stable in the first half of the first row transition elements with increasing atomic number.
-13. Which is more stable? \(Fe^{3+}\) or \(Fe^{2+}\) - explain.
-14. Explain the variation in \(E_{M^{3+} / M^{2+}}^{0}\) 3d series.
-15. Compare lanthanoids and actinoids.
-16. Explain why \(Cr^{2+}\) is strongly reducing while \(Mn^{3+}\) is strongly oxidizing.
-17. Compare the ionization enthalpies of first series of the transition elements.
-18. Actinoid contraction is greater from element to element than the lanthanoid contraction, why?
-19. Out of \(Lu(OH)_3\) and \(La(OH)_3\) which is more basic and why?
-20. Why Europium (II) is more stable than Cerium (II)?
-21. Why do Zirconium and Hafnium exhibit similar properties?
-22. Which is stronger reducing agent \(Cr^{2+}\) or \(Fe^{2+}\)?
-23. The \(E^{0}_{M^{2+} / M}\) value for copper is positive. Suggest a possible reason for this.
-24. Describe the variable oxidation state of 3d series elements.
-25. Which metal in the 3d series exhibits \(+1\) oxidation state most frequently and why?
-26. Why first ionization enthalpy of chromium is lower than that of zinc?
-27. Transition metals show high melting points. Why?
