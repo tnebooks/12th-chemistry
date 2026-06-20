@@ -8,6 +8,28 @@ summary: "This unit explains the nomenclature, preparation methods, and properti
 
 # 13. ORGANIC NITROGEN COMPOUNDS
 
+![](img13.png)
+**Donald James Cram**
+
+Donald James Cram  was
+an American  chemist  who
+shared the 1987  Nobel
+Prize  in  Chemistry  with  Jean-Marie
+Lehn and Charles J. Pedersen "for their
+development and use of molecules with
+structure-specific interactions of high
+selectivity." They were the founders of
+the field of host–guest chemistry Cram
+expanded upon  Charles Pedersen's
+ground-breaking synthesis of  crown
+ethers, two-dimensional  organic
+compounds  that are able to recognize
+and selectively combine with the ions
+of certain metal elements. He also did
+work in  stereochemistry  and  Cram's
+rule of asymmetric induction is named
+after him.
+
 ## INTRODUCTION
 
 Organic compounds containing nitrogen are essential to life. For example; amines, the organic derivatives of ammonia play an important role in bioregulation, neurotransmission, etc. Pyridoxine, Vitamin \( \mathrm{B_6} \) is an organic nitrogen compound which is needed to maintain the health of nerves, skin and red blood cells. Plants synthesise alkaloids, and biologically active amines to protect them from being eaten away by insects and other animals. Diazonium salts finds important applications in synthetic organic chemistry. Nitrogen compounds are the important constituents of explosives, drugs, dyes, fuels, polymers, synthetic rubbers, etc.
@@ -116,6 +138,9 @@ On direct nitration of nitrobenzene m-dinitrobenzene is obtained.
 **2) Indirect method**
 
 Nitration of nitrobenzene gives m-dinitrobenzene. The following method is adopted for the preparation of p-dinitrobenzene.
+
+**For example**
+
 ![](img13.10.png)
 Amino group can be directly converted into nitro group, using caro’s acid (H SO ) 25 (or) persulphuric acid (H SO ) 22 8 (or)
 peroxytrifluro acetic acid (F C.CO H) 33 as oxidising agent. 
@@ -309,11 +334,13 @@ They form salts with mineral acids.
 
 In the aqueous solutions, the following equilibrium exists and it lies far to the left, hence amines are weak bases compared to NaOH.
 ![](img13.36.png)
-The basicity constant \( K_b \) gives a measure of the extent to which the amine accepts the hydrogen ion \( (H^+) \) from water.
 
+basicity constant
 \[
 K_b = \frac{[\mathrm{RNH_3^+}][\mathrm{OH^-}]}{[\mathrm{RNH_2}]}
 \]
+
+The basicity constant \( K_b \) gives a measure of the extent to which the amine accepts the hydrogen ion \( (H^+) \) from water.
 
 We know that, larger the value of \( K_b \) or smaller the value of \( pK_b \), stronger is the base.
 
@@ -328,6 +355,8 @@ We know that, larger the value of \( K_b \) or smaller the value of \( pK_b \), 
 **Influence of structure on basic character of amines**
 
 The factors which increase the availability of electron pair on nitrogen for sharing with an acid will increase the basic character of an amine. When a \( +I \) group like an alkyl group is attached to the nitrogen, it increases the electron density on nitrogen which makes the electron pair readily available for protonation.
+
+Consider the reaction of an alkyl amine \( \text{R-NH}_2 \) with a proton.
 
 a) Hence alkyl amines are stronger bases than ammonia.
 ![](img13.37.png)
@@ -413,7 +442,7 @@ This reaction is known as Libermann's nitroso test.
 **c) Tertiary amine**
 
 i) Aliphatic tertiary amine reacts with nitrous acid to form trialkyl ammonium nitrite salt, which is soluble in water.
-
+![](ab13.png)
 ii) Aromatic tertiary amine reacts with nitrous acid at 273K to give p-nitroso compound.
 ![](img13.46.png)
 **5) Carbylamine reaction**
@@ -484,11 +513,13 @@ We have already learnt that benzene diazonium chloride is prepared by the reacti
 
 Benzene diazonium chloride gives two types of chemical reactions:
 
-**A. Replacement reactions involving loss of nitrogen**
+A. Replacement reactions involving loss of nitrogen
 
 In these reactions diazonium group is replaced by nucleophiles such as \( \mathrm{X, CN, H, OH} \) etc.
 
-**B. Reactions involving retention of diazo group (Coupling reaction).**
+B. Reactions involving retention of diazo group (Coupling reaction).
+
+**A. Replacement reactions involving loss of nitrogen**
 
 **1. Replacement by hydrogen**
 
@@ -621,9 +652,7 @@ Both aromatic as well as aliphatic amines on treatment with \( \mathrm{CHCl_3} \
 Ethyl bromide on heating with ethanolic solution of AgCN give ethyl isocyanide as major product and ethyl cyanide as minor product.
 ![](img13.75.png)
 
-**3. From N-alkyl formamide**
-
-By reaction with \( \mathrm{POCl_3} \) in pyridine.
+**3. From N-alkyl formamide By reaction with \( \mathrm{POCl_3} \) in pyridine.**
 ![](img13.76.png)
 #### 13.4.7 Properties of isocyanides
 
@@ -654,198 +683,6 @@ By reaction with \( \mathrm{POCl_3} \) in pyridine.
 1. Alkyl cyanides are important intermediates in the organic synthesis of larger number of compounds like acids, amides, esters, amines etc.
 2. Nitriles are used in textile industry in the manufacture of nitrile rubber and also as a solvent particularly in perfume industry.
 
+**Do You Know**
+
 **Cancer Drug:** Mitomycin C, an anticancer agent used to treat stomach and colon cancer, contains an aziridine ring. The aziridine functional group participates in the drug's degradation by DNA, resulting in the death of cancerous cells.
-
-## EVALUATION
-
-### Choose the correct answer
-
-1. Which of the following reagent can be used to convert nitrobenzene to aniline?
-   a) Sn/HCl
-   b) ZnHg/NaOH
-   c) Zn/NH\(_4\)Cl
-   d) All of these
-
-2. The method by which aniline cannot be prepared is
-   a) degradation of benzamide with \( \mathrm{Br_2/NaOH} \)
-   b) potassium salt of phthalimide treated with chlorobenzene followed by hydrolysis with aqueous NaOH solution.
-   c) reduction of Nitrobenzene with \( \mathrm{LiAlH_4} \)
-   d) reduction of nitrobenzene by Sn/HCl.
-
-3. Which one of the following will not undergo Hofmann bromamide reaction?
-   a) \( \mathrm{CH_3CONHCH_3} \)
-   b) \( \mathrm{CH_3CH_2CONH_2} \)
-   c) \( \mathrm{CH_3CONH_2} \)
-   d) \( \mathrm{C_6H_5CONH_2} \)
-
-4. Assertion: Acetamide on reaction with KOH and bromine gives acetic acid.
-   Reason: Bromine catalyses hydrolysis of acetamide.
-   a) if both assertion and reason are true and reason is the correct explanation of assertion.
-   b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-   c) assertion is true but reason is false
-   d) both assertion and reason are false.
-
-5. \( \mathrm{CH_3CH_2Br \xrightarrow{aq\ NaOH} A \xrightarrow{KMnO_4/H^+} B \xrightarrow{NH_3} C \xrightarrow{Br_2/NaOH} D \xrightarrow{D^+} D^+} \) is
-   a) bromomethane
-   b) \( \alpha \)-bromo sodium acetate
-   c) methanamine
-   d) acetamide
-
-6. Which one of the following nitro compounds does not react with nitrous acid?
-   a) \( \mathrm{CH_3CH_2CH_2-NO_2} \)
-   b) \( \mathrm{(CH_3)_2CH-CH_2NO_2} \)
-   c) \( \mathrm{(CH_3)_3C-NO_2} \)
-   d) \( \mathrm{CH_3CH_2CH(NO_2)CH_3} \)
-
-7. Aniline + benzylchloride \( \xrightarrow{NaOH} \mathrm{C_6H_5NHCOC_6H_5} \) this reaction is known as
-   a) Friedel-Crafts reaction
-   b) HVZ reaction
-   c) Schotten-Baumann reaction
-   d) none of these
-
-8. The product formed by the reaction of an aldehyde with a primary amine (NEET)
-   a) carboxylic acid
-   b) aromatic acid
-   c) Schiff's base
-   d) ketone
-
-9. Which of the following reaction is not correct?
-
-10. When aniline reacts with acetic anhydride the product formed is
-    a) o-aminoacetophenone
-    b) m-aminoacetophenone
-    c) p-aminoacetophenone
-    d) acetanilide
-
-11. The order of basic strength for methyl substituted amines in aqueous solution is
-
-12. The reagent used in the following reaction is
-    a) \( \mathrm{H_3PO_2} \) and \( \mathrm{H_2O} \)
-    b) \( \mathrm{H^+/H_2O} \)
-    c) \( \mathrm{HgSO_4/H_2SO_4} \)
-    d) \( \mathrm{Cu_2Cl_2} \)
-
-13. The product (Y) in the following reaction is
-    a) \( \mathrm{C_6H_5-OH} \)
-    b) \( \mathrm{C_6H_5-CH_2OH} \)
-    c) \( \mathrm{C_6H_5-CHO} \)
-    d) \( \mathrm{C_6H_5NH_2} \)
-
-14. Nitrobenzene on reaction with \( \mathrm{Conc.\ HNO_3/H_2SO_4} \) at \( 80-100^{\circ}C \) forms which one of the following products?
-    a) 1,4-dinitrobenzene
-    b) 2,4,6-trinitrobenzene
-    c) 1,2-dinitrobenzene
-    d) 1,3-dinitrobenzene
-
-15. \( \mathrm{C_5H_{13}N} \) reacts with \( \mathrm{HNO_2} \) to give an optically active compound. The compound is
-    a) pentan-1-amine
-    b) pentan-2-amine
-    c) N,N-dimethylpropan-2-amine
-    d) diethyl methyl amine
-
-16. Secondary nitro alkanes react with nitrous acid to form
-    a) red solution
-    b) blue solution
-    c) green solution
-    d) yellow solution
-
-17. Which of the following amines does not undergo acetylation?
-    a) t-butylamine
-    b) ethylamine
-    c) diethylamine
-    d) triethylamine
-
-18. Which one of the following is most basic?
-    a) 2,4-dichloroaniline
-    b) 2,4-dimethyl aniline
-    c) 2,4-dinitroaniline
-    d) 2,4-dibromoaniline
-
-19. When \( \mathrm{C_2H_5-O-N=O} \) is reduced with \( \mathrm{Sn/HCl} \) the pair of compounds formed are
-    a) Ethanol, hydroxylamine hydrochloride
-    b) Ethanol, ammonium hydroxide
-    c) Ethanol, \( \mathrm{NH_2OH} \)
-    d) \( \mathrm{C_2H_5NH_2, H_2O} \)
-
-20. IUPAC name for the amine
-
-21. Identify the product in the following reaction
-
-22. Ammonium salt of benzoic acid is heated strongly with \( \mathrm{P_2O_5} \) and the product so formed is reduced and then treated with \( \mathrm{NaNO_2/HCl} \) at low temperature. The final compound formed is
-    a) Benzene diazonium chloride
-    b) Benzyl alcohol
-    c) Phenol
-    d) Nitrosobenzene
-
-23. Identify X in the sequence given below.
-
-24. Among the following, the reaction that proceeds through an electrophilic substitution is
-
-25. The major product of the following reaction
-
-### Answer the following questions
-
-1. Write down the possible isomers of \( \mathrm{C_4H_9NO_2} \) and give their IUPAC names.
-
-2. There are two isomers with the formula \( \mathrm{CH_3NO_2} \). How will you distinguish between them?
-
-3. What happens when
-   i. 2-Nitropropane boiled with HCl
-   ii. Nitrobenzene undergo electrolytic reduction in strongly acidic medium.
-   iii. Oxidation of tert-butylamine with \( \mathrm{KMnO_4} \)
-   iv. Oxidation of acetone oxime with trifluoroperoxy acetic acid.
-
-4. How will you convert nitrobenzene into
-   i. 1,3,5-trinitrobenzene
-   ii. o- and p-nitrophenol
-   iii. m-nitroaniline
-   iv. azoxybenzene
-   v. hydrazobenzene
-   vi. N-phenylhydroxylamine
-   vii. aniline
-
-5. Identify compounds A, B and C in the following sequence of reactions.
-
-6. Write short notes on the following
-   i. Hofmann's bromide reaction
-   ii. Ammonolysis
-   iii. Gabriel phthalimide synthesis
-   iv. Schotten-Baumann reaction
-   v. Carbylamine reaction
-   vi. Mustard oil reaction
-   vii. Coupling reaction
-   viii. Diazotisation
-   ix. Gomberg reaction
-
-7. How will you distinguish between primary, secondary and tertiary aliphatic amines?
-
-8. Account for the following
-   i. Aniline does not undergo Friedel-Crafts reaction.
-   ii. Diazonium salts of aromatic amines are more stable than those of aliphatic amines.
-   iii. \( pK_b \) of aniline is more than that of methylamine.
-   iv. Gabriel phthalimide synthesis is preferred for synthesising primary amines.
-   v. Ethylamine is soluble in water whereas aniline is not.
-   vi. Amines are more basic than amides.
-   vii. Although amino group is o- and p-directing in aromatic electrophilic substitution reactions, aniline on nitration gives a substantial amount of m-nitroaniline.
-
-9. Arrange the following
-   i. In increasing order of solubility in water: \( \mathrm{C_6H_5NH_2}, \mathrm{(C_2H_5)_2NH}, \mathrm{C_2H_5NH_2} \)
-   ii. In increasing order of basic strength
-      a) aniline, p-toluidine and p-nitroaniline
-      b) \( \mathrm{C_6H_5NH_2}, \mathrm{C_6H_5NHCH_3}, \mathrm{p-Cl-C_6H_4-NH_2} \)
-   iii. In decreasing order of basic strength in gas phase: \( \mathrm{(C_2H_5)NH_2}, \mathrm{(C_2H_5)_2NH}, \mathrm{(C_2H_5)_3N} \) and \( \mathrm{NH_3} \)
-   iv. In increasing order of boiling point: \( \mathrm{C_2H_5OH}, \mathrm{(CH_3)_2NH}, \mathrm{C_2H_5NH_2} \)
-   v. In decreasing order of the \( pK_b \) values: \( \mathrm{C_2H_5NH_2}, \mathrm{C_6H_5NHCH_3}, \mathrm{(C_2H_5)_2NH} \) and \( \mathrm{CH_3NH_2} \)
-   vi. Increasing order of basic strength: \( \mathrm{C_6H_5NH_2}, \mathrm{C_6H_5N(CH_3)_2}, \mathrm{(C_2H_5)_2NH} \) and \( \mathrm{CH_3NH_2} \)
-
-11. Identify A, B, and C.
-
-14. Identify A: aniline + benzaldehyde \( \rightarrow \) A.
-
-15. Complete the following reaction.
-
-16. Predict A, B, C and D for the following reaction.
-
-17. A dibromo derivative (A) on treatment with KCN followed by acid hydrolysis and heating gives a monobasic acid (B) along with liberation of \( \mathrm{CO_2} \). (B) on heating with liquid ammonia followed by treating with \( \mathrm{Br_2/KOH} \) gives (C) which on treating with \( \mathrm{NaNO_2} \) and HCl at low temperature followed by oxidation gives a monobasic acid (D) having molecular mass 74. Identify A to D.
-
-18. Identify A to E in the following sequence of reactions.
