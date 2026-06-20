@@ -8,9 +8,14 @@ summary: "This unit explains the nomenclature, methods of preparation, and chemi
 
 # 12. CARBONYL COMPOUNDS AND CARBOXYLIC ACIDS
 
-Adolf von Baeyer
+![](von.png)
+**Adolf von Baeyer**
 
 Adolf Von Baeyer, German research chemist who synthesized indigo (1880) and formulated its structure (1883). He was awarded the Nobel Prize for Chemistry in 1905. Notable among Baeyer's many achievements were the discovery of the phthalein dyes and his investigations of uric acid derivatives, polyacetylenes, and oxonium salts. One derivative of uric acid that he discovered was barbituric acid, the parent compound of the sedative-hypnotic drugs known as barbiturates.
+
+# INTRODUCTION
+
+We come across many organic compounds containing a **group** in our everyday Life. Biomolecules such as protein, carbohydrate etc… that makeup all plants and animals contains carbonyl group. They play an important role in the metabolic process. For example, pyridoxal, an aldehyde derived from vitamin B, function as a co –enzyme. Carbonyl compounds are important constituents of fabrics, plastics and drugs. For example, Formaldehyde is used for the manufacture of Bakelite and paracetamol, (p– acetylated aminophenol) a drug used to reduce fever, contains a carbonyl group. In this unit, we will learn the preparation, properties and uses of aldhydes, ketones and carboxylic acids.
 
 ### 12.1 Nomenclature of Aldehydes and ketones
 
@@ -31,8 +36,6 @@ The carbonyl carbon \(\left( \begin{array}{c} \text{II} \\ \text{O} \end{array} 
 ![](form1.png)
 
 ![](fig12.1.png)
-
-**Fig 12.1 structure of carbonyl group**
 
 ### 12.3 General methods of preparation of aldehydes and ketones
 
@@ -129,21 +132,20 @@ When chromylchloride is used as an oxidising agent, toluene gives benzaldehyde. 
 
 ![](form7.png)
 
+Oxidation of toluene by chromic oxide gives benzylidine diacetate which on hydrolysis
+gives benzaldehyde.
+
 **2. Gattermann - Koch reaction**
 
 This reaction is a variant of Friedel - Crafts acylation reaction. In this method, reaction of carbon monoxide and HCl generate an intermediate which reacts like formyl chloride.
 
-$$
-C_6H_6 + CO + HCl \xrightarrow{AlCl_3/Cu_2Cl_2} C_6H_5-CHO
-$$
+![](img12.png)
 
 **3. Manufacture of benzaldehyde from toluene**
 
 Side chain chlorination of toluene gives benzal chloride, which on hydrolysis gives benzaldehyde.
 
-$$
-C_6H_5-CH_3 \xrightarrow{Cl_2/h\nu} C_6H_5-CHCl_2 \xrightarrow{H_2O} C_6H_5-CHO + 2HCl
-$$
+![](img12.1.png)
 
 This is the commercial method for the manufacture of benzaldehyde.
 
@@ -156,6 +158,8 @@ Ketones can be prepared by the action of acid chloride with dialkyl cadmium.
 ![](form8.png)
 
 **2) Preparation of phenyl ketones - Friedel - Crafts acylation**
+
+**Friedel – Crafts acylation**
 
 It is the best method for preparing alkyl aryl ketones or diaryl ketones. This reaction succeeds only with benzene and activated benzene derivatives.
 
@@ -170,6 +174,8 @@ It is the best method for preparing alkyl aryl ketones or diaryl ketones. This r
 2. **Boiling points**
 
 Aldehydes and ketones have relatively high boiling point as compared to hydrocarbons and ethers of comparable molecular mass. It is due to the weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions.
+
+![](img12.4.png)
 
 These dipole-dipole interactions are weaker than intermolecular H-bonding. The boiling points of aldehydes and ketones are much lower than those of corresponding alcohols and carboxylic acids which possess inter molecular hydrogen bonding.
 
@@ -203,6 +209,8 @@ This reaction is the most common reactions of aldehydes and ketones. The carbony
 
 
 In general, aldehydes are more reactive than ketones towards nucleophilic addition reactions due to \(+I\) and steric effect of alkyl groups.
+
+**Examples**
 
 **1) Addition of HCN**
 
@@ -275,6 +283,7 @@ $$
 **Uses**
 
 (i) Urotropine is used as a medicine to treat urinary infection.
+
 (ii) Nitration of Urotropine under controlled condition gives an explosive RDX (Research and development explosive). It is also called cyclonite or cyclotri methylene trinitramine.
 
 iii) Acetone reacts with ammonia to form diacetone amine.
@@ -419,7 +428,11 @@ Benzaldehyde on treatment with concentrated NaOH \((50\%)\) gives benzyl alcohol
 
 ![](form45.png)
 
-**Mechanism**
+This reaction is an example disproportionation reaction
+
+**Mechanism of Cannizaro reaction**
+
+Cannizaro reaction involves three steps.
 
 **Step 1:** Attack of OH on the carbonyl carbon.
 
@@ -487,7 +500,7 @@ Benzaldehyde condenses with tertiary aromatic amines like N,N-dimethyl aniline i
 
 ![](form54.png)
 
-Electrophilic substitution reaction of acetophenone
+**Electrophilic substitution reaction of acetophenone**
 
 Acetophenone reacts with Nitrating mixture to form m-nitroacetophenone.
 
@@ -524,39 +537,52 @@ Dilute solution of aldehydes when added to Schiff's reagent (Rosaniline hydrochl
 **Formaldehyde**
 
 (i) \(40\%\) aqueous solution of formaldehyde is called formalin. It is used for preserving biological specimens.
+
 (ii) Formalin has hardening effect, hence it is used for tanning.
+
 (iii) Formalin is used in the production of thermo setting plastic known as bakelite, which is obtained by heating phenol with formalin.
 
 **Acetaldehyde**
 
 (i) Acetaldehyde is used for silvering of mirrors
+
 (ii) Paraldehyde is used in medicine as a hypnotic.
+
 (iii) Acetaldehyde is used in the commercial preparation of number of organic compounds like acetic acid, ethyl acetate etc.,
 
 **Acetone**
 
 (i) Acetone is used as a solvent, in the manufacture of smokeless gun powder (cordite)
+
 (ii) It is used as a nail polish remover.
+
 (iii) It is used in the preparation of sulphonal, a hypnotic.
+
 (iv) It is used in the manufacture of thermosoftening plastic Perspex.
 
 **Benzaldehyde is used**
 
 (i) as a flavoring agent
+
 (ii) in perfumes
+
 (iii) in dye intermediates
+
 (iv) as starting material for the synthesis of several other organic compounds like cinnamaldehyde, cinnamic acid, benzoyl chloride etc.
 
 **Aromatic Ketones**
 
 (i) Acetophenone has been used in perfumery and as a hypnotic under the name hypnone.
+
 (ii) Benzophenone is used in perfumery and in the preparation of benzhydrol eye drop.
 
-### 12.8 IUPAC nomenclature of Carboxylic acids
+### CARBOXYLIC ACIDS
 
 ## Introduction
 
 Carbon compounds containing a carboxyl functional group, -COOH are called carboxylic acids. The Carboxyl group is the combination of carbonyl group (\(>C=O\)) and the hydroxyl group (-OH). However, carboxyl group has its own characteristic reaction. Carboxylic acids may be aliphatic (R-COOH) or aromatic (Ar-COOH) depending on the alkyl or aryl group attached to carboxylic carbon. Some higher members of aliphatic carboxylic acids \(C_{12}\) to \(C_{18}\) known as fatty acids occur in natural fats as esters of glycerol.
+
+### 12.8 IUPAC nomenclature of Carboxylic acids
 
 ![](form59.png)
 
@@ -610,6 +636,9 @@ Grignard reagent reacts with carbon dioxide (dry ice) to form salts of carboxyli
 
 ![](form65.png)
 
+Formic acid cannot be prepared by Grignard reagent since the acid contains only one
+carbon atom
+
 **5. Hydrolysis of acyl halides and anhydrides**
 
 a) Acid chlorides when hydrolysed with water give Carboxylic acids.
@@ -656,8 +685,11 @@ Carboxylic acid do not give the characteristic reaction of carbonyl group \(C=O\
 The reactions of carboxylic acids can be classified as follows:
 
 A) Reactions involving cleavage of O-H bond.
+
 B) Reactions involving cleavage of C-OH bond.
+
 C) Reactions involving -COOH group.
+
 D) Substitution reactions involving hydrocarbon part.
 
 #### A) Reactions involving cleavage of O-H bond
@@ -684,7 +716,7 @@ Carboxylic acids decompose carbonates and bicarbonates evolving carbon dioxide g
 
 ![](form72.png)
 
-**4)** All Carboxylic acids turn blue litmus red
+**4) All Carboxylic acids turn blue litmus red**
 
 #### B) Reactions involving cleavage of C-OH bond
 
@@ -767,7 +799,7 @@ Carboxylic acid on heating in the presence of a strong dehydrating agent such as
 
 ![](form78.png)
 
-#### D) Substitution reactions
+#### D) Substitution reactions in the hydrocarbon part 
 
 **1) \(\alpha\)-Halogenation**
 
@@ -792,11 +824,13 @@ Aromatic carboxylic acid undergoes electrophilic substitution reactions. The car
 
 ![](form82.png)
 
-**Note:** Benzoic acid does not undergo Friedel-Craft's reaction. This is due to the strong deactivating nature of the carboxyl group.
+**iv)** Benzoic acid does not undergo Friedel-Craft's reaction. This is due to the strong deactivating nature of the carboxyl group.
 
 #### E) Reducing action of Formic acid
 
 Formic acid contains both an aldehyde as well as an acid group. Hence, like other aldehydes, formic acid can easily be oxidised and therefore acts as a strong reducing agent
+
+![](img12.5.png)
 
 i) Formic acid reduces Tollen's reagent (ammonical silver nitrate solution) to metallic silver.
 
@@ -813,22 +847,24 @@ $$
 ### Tests for carboxylic acid group
 
 i) In aqueous solution carboxylic acid turn blue litmus red.
+
 ii) Carboxylic acids give brisk effervescence with sodium bicarbonate due to the evolution of carbon-dioxide.
+
 iii) When carboxylic acid is warmed with alcohol and Conc. \(H_2SO_4\) it forms an ester, which is detected by its fruity odour.
 
 ### 12.13 Acidity of Carboxylic acids
 
 Carboxylic acids undergo ionisation to produce \(H^+\) and carboxylate ions in aqueous solution. The carboxylate anion is stabilised by resonance which make the Carboxylic acid to donate the proton easily.
 
-$$
-R-COOH + H_2O \rightleftharpoons R-COO^- + H_3O^+
-$$
+![](img12.6.png)
+
+he resonance structure of carboxylate ion are given below.
+
+![](img12.7.png)
 
 The strength of carboxylic acid can be expressed in terms of the dissociation constant (Ka):
 
-$$
-K_a = \frac{[RCOO^-][H_3O^+]}{[RCOOH]}
-$$
+![](img12.8.png)
 
 The dissociation constant is generally called acidity constant because it measures the relative strength of an acid. The stronger the acid, the higher will be its \(K_a\) value.
 
@@ -909,13 +945,12 @@ Compounds such as acid chlorides, amides, esters etc., are called carboxylic aci
 
 The reactivity of the acid derivatives follows the order
 
-$$
-R-CO-Cl > R-CO-O-CO-R > R-CO-OR' > R-CO-NH_2
-$$
+![](img12.9.png)
 
 The above order of reactivity can be explained in terms of
 
 i) Basicity of the leaving group
+
 ii) Resonance effect
 
 **(i) Basicity of the leaving group**
@@ -954,7 +989,9 @@ This method is superior to others as the by products being gases escape leaving 
 
 **Physical properties:**
 
-They emit pale fumes of hydrogen chloride when exposed to air on account of their reaction with water vapour. They are insoluble in water but slowly begins to dissolve due to hydrolysis.
+They emit pale fumes of hydrogen chloride when exposed to air on account of their reaction with water vapour.
+
+ They are insoluble in water but slowly begins to dissolve due to hydrolysis.
 
 **Chemical properties:**
 
@@ -1089,7 +1126,11 @@ Why is acid anhydride preferred to acyl chloride for carrying out acylation reac
 
 #### 12.14.5 Acid Amides
 
-Acid amides are derivatives of carboxylic acid in which the -OH part of carboxylic group has been replaced by -\(NH_2\) group. The general formula of amides are given as follows. Now, we shall focus our attention mainly on the study of chemistry of acetamide.
+Acid amides are derivatives of carboxylic acid in which the -OH part of carboxylic group has been replaced by -\(NH_2\) group. The general formula of amides are given as follows.
+
+![](img12.10.png)
+
+ Now, we shall focus our attention mainly on the study of chemistry of acetamide.
 
 **Methods of Preparation**
 
@@ -1155,239 +1196,57 @@ Amides on reduction with \(LiAlH_4\) or Sodium and ethyl alcohol to form corresp
 **Formic acid**
 
 It is used
+
 i) for the dehydration of hides.
+
 ii) as a coagulating agent for rubber latex
+
 iii) in medicine for treatment of gout
+
 iv) as an antiseptic in the preservation of fruit juice.
 
 **Acetic acid**
 
 It is used
+
 i) as table vinegar
+
 ii) for coagulating rubber latex
+
 iii) for manufacture of cellulose acetate and polyvinyl acetate
 
 **Benzoic acid**
 
 It is used
+
 i) as food preservative either in the pure form or in the form of sodium benzoate
+
 ii) in medicine as an urinary antiseptic
+
 iii) for manufacture of dyes
 
 **Acetyl Chloride**
 
 It is used
+
 i) as acetylating agent in organic synthesis
+
 ii) in detection and estimation of -OH, -\(NH_2\) groups in organic compounds
 
 **Acetic anhydride**
 
 It is used
+
 i) acetylating agent
+
 ii) in the preparation of medicine like aspirin and phenacetin
+
 iii) for the manufacture plastics like cellulose acetate and poly vinyl acetate.
 
 **Ethyl acetate** is used
+
 i) in the preparation of artificial fruit essences.
+
 ii) as a solvent for lacquers.
+
 iii) in the preparation of organic synthetic reagent like ethyl acetoacetate.
-
-## EVALUATION
-
-## Choose the best answer:
-
-1. The correct structure of the product 'A' formed in the reaction (NEET)
-
-![](obj1.png)
-
-2. The formation of cyanohydrin from acetone is an example of
-a) nucleophilic substitution
-b) electrophilic substitution
-c) electrophilic addition
-d) Nucleophilic addition
-
-3. Reaction of acetone with one of the following reagents involves nucleophilic addition followed by elimination of water. The reagent is
-a) Grignard reagent
-b) Sn / HCl
-c) hydrazine in presence of slightly acidic solution
-d) hydrocyanic acid
-
-4. In the following reaction,
-   \(CH \equiv CH \xrightarrow{HCl} X \xrightarrow{H_2SO_4/HgSO_4} Y\)
-   Product 'Y' will not give
-a) Tollen's test
-b) Victor meyer test
-c) Iodoform test
-d) Fehling solution test
-
-5. \(CH_2=CH_2 \xrightarrow{(i) O_3 \\ (ii) Zn/H_2O} X \xrightarrow{(i) NH_3 \\ (ii) H_2/Ni} Y \xrightarrow{(i) HCHO \\ (ii) H_2O} Z\). Z is
-a) Formaldehyde
-b) diacetone ammonia
-c) hexamethylene tetramine
-d) oxime
-
-6. Predict the product Z in the following series of reactions
-   Ethanoic acid \(\xrightarrow{PCl_5} X \xrightarrow{C_6H_6} Y \xrightarrow{CH_3MgBr} Z\)
-a) \((CH_3)_2C(OH)C_6H_5\)
-b) \(CH_3CH(OH)CH_2CH_3\)
-c) \(CH_3CH(OH)CH_2-CH_3\)
-
-7. Assertion: 2,2-dimethyl propanoic acid does not give HVZ reaction.
-   Reason: 2,2-dimethyl propanoic acid does not have \(\alpha\)-hydrogen atom
-a) if both assertion and reason are true and reason is the correct explanation of assertion.
-b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-c) assertion is true but reason is false
-d) both assertion and reason are false.
-
-8. Which of the following represents the correct order of acidity in the given compounds
-a) \(CH_2ClCOOH > CH_3COOH > BrCH_2COOH > ClCH_2COOH\)
-b) \(CH_2ClCOOH > ClCH_2COOH > BrCH_2COOH > CH_3COOH\)
-c) \(CH_3COOH > ClCH_2COOH > FCH_2COOH > Br-CH_2COOH\)
-d) \(ClCH_2COOH > CH_3COOH > BrCH_2COOH > ICH_2COOH\)
-
-9. Benzoic acid \(\xrightarrow{NH_3} A \xrightarrow{NaOBr} B \xrightarrow{NaNO_2/HCl} C\). C is
-a) anilinium chloride
-b) o-nitro aniline
-c) benzene diazonium chloride
-d) m-nitro benzoic acid
-
-10. Ethanoic acid \(\xrightarrow{P/Br_2} 2\)-bromoethanoic acid. This reaction is called
-a) Finkelstein reaction
-b) Haloform reaction
-c) Hell-Volhard-Zelinsky reaction
-d) none of these
-
-11. \(CH_3Br \xrightarrow{KCN} (A) \xrightarrow{H_3O^+} (B) \xrightarrow{PCl_3} (C)\) product (C) is
-a) acetyl chloride
-b) chloro acetic acid
-c) \(\alpha\)-chlorocyano ethanoic acid
-d) none of these
-
-12. Which one of the following reduces Tollen's reagent
-a) formic acid
-b) acetic acid
-c) benzophenone
-d) none of these
-
-13. ![](obj2.png)
-
-14. The IUPAC name of
-![](obj3.png)
-
-![](14ans.png)
-
-15. Identify the product formed in the reaction 
-![](obj4.png)
-
-![](obj5.png)
-
-16. In which case chiral carbon is not generated by reaction with HCN
-
-![](obj6.png)
-
-17. Assertion: p-N,N-dimethylaminobenzaldehyde undergoes benzoin condensation
-    Reason: The aldehyde (-CHO) group is meta directing
-a) if both assertion and reason are true and reason is the correct explanation of assertion.
-b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-c) assertion is true but reason is false
-d) both assertion and reason are false.
-
-18. Which one of the following reaction is an example of disproportionation reaction
-a) Aldol condensation
-b) Cannizzaro reaction
-c) Benzoin condensation
-d) none of these
-
-19. Which one of the following undergoes reaction with \(50\%\) sodium hydroxide solution to give the corresponding alcohol and acid
-a) Phenylmethanal
-b) ethanol
-c) ethanol
-d) methanol
-
-20. The reagent used to distinguish between acetaldehyde and benzaldehyde is
-a) Tollen's reagent
-b) Fehling's solution
-c) 2,4-dinitrophenyl hydrazine
-d) semicarbazide
-
-21. Phenyl methanal is reacted with concentrated NaOH to give two products X and Y. X reacts with metallic sodium to liberate hydrogen. X and Y are
-a) sodium benzoate and phenol
-b) Sodium benzoate and phenyl methanol
-c) phenyl methanol and sodium benzoate
-d) none of these
-
-22. In which of the following reactions new carbon-carbon bond is not formed?
-a) Aldol condensation
-b) Friedel craft reaction
-c) Kolbe's reaction
-d) Wolff Kishner reduction
-
-23. An alkene "A" on reaction with \(O_3\) and \(Zn-H_2O\) gives propanone and ethanol in equimolar ratio. Addition of HCl to alkene "A" gives "B" as the major product. The structure of product "B" is
-
-![](obj7.png)
-24. Carboxylic acids have higher boiling points than aldehydes, ketones and even alcohols of comparable molecular mass. It is due to their (NEET)
-a) more extensive association of carboxylic acid via van der Waals force of attraction
-b) formation of carboxylate ion
-c) formation of intramolecular H-bonding
-d) formation of intermolecular H-bonding
-
-## Short Answer Questions
-
-1. How is propanoic acid prepared starting from
-   (a) an alcohol
-   (b) an alkyl halide
-   (c) an alkene
-
-2. A Compound (A) with molecular formula \(C_2H_3N\) on acid hydrolysis gives (B) which reacts with thionyl chloride to give compound (C). Benzene reacts with compound (C) in presence of anhydrous \(AlCl_3\) to give compound (D). Compound (D) on reduction with \(Zn/Hg\) and Conc. HCl gives (E). Identify (A), (B), (C), (D) and (E). Write the equations.
-
-3. Identify X and Y.
-   \(CH_3COCH_2CH_2COOC_2H_5 \xrightarrow{CH_3MgBr} X \xrightarrow{H_3O^+} Y\)
-
-4. Identify A, B and C
-![](obj8.png)
-
-5. Identify A, B, C and D
-![](obj9.png)
-
-6. An alkene (A) on ozonolysis gives propanone and aldehyde (B). When (B) is oxidised (C) is obtained. (C) is treated with \(Br_2/P\) gives (D) which on hydrolysis gives (E). When propanone is treated with HCN followed by hydrolysis gives (E). Identify A, B, C, D and E.
-
-7. How will you convert benzaldehyde into the following compounds?
-   (i) benzophenone
-   (ii) benzoic acid
-   (iii) \(\alpha\)-hydroxyphenylacetic acid
-
-8. What is the action of HCN on
-   (i) propanone
-   (ii) 2,4-dichlorobenzaldehyde
-   (iii) ethanol
-
-9. A carbonyl compound A having molecular formula \(C_5H_{10}O\) forms crystalline precipitate with sodium bisulphite and gives positive iodoform test. A does not reduce Fehling solution. Identify A.
-
-10. Write the structure of the major product of the aldol condensation of benzaldehyde with acetone.
-
-11. How are the following conversions effected
-    (a) propanal into butanone
-    (b) Hex-3-yne into hexan-3-one
-    (c) phenylmethanal into benzoic acid
-    (d) phenylmethanal into benzoin
-
-12. Complete the following reaction.
-    \(CH_3-CH_2-CH_2-CO-CH_3 \xrightarrow{HO-CH_2-CH_2-CH_2-OH}\)
-
-13. Identify A, B and C
-
-![](obj10.png)
-
-14. Oxidation of ketones involves carbon-carbon bond cleavage. Name the product(s) is/are formed on oxidising 2,5-dimethylhexan-3-one using strong oxidising agent.
-
-15. How will you prepare
-    i. Acetic anhydride from acetic acid
-    ii. Ethyl acetate from methyl acetate
-    iii. Acetamide from methyl cyanide
-    iv. Lactic acid from ethanol
-    v. Acetophenone from acetyl chloride
-    vi. Ethane from sodium acetate
-    vii. Benzoic acid from toluene
-    viii. Malachite green from benzaldehyde
-    ix. Cinnamic acid from benzaldehyde
-    x. Acetaldehyde from ethyne

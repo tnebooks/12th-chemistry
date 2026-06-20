@@ -8,6 +8,26 @@ summary: "This unit explains the vital importance of chemistry in daily life, fo
 
 # 15. CHEMISTRY IN EVERYDAY LIFE
 
+![](vladimir.png)
+**Vladimir Prelog**
+
+Prof. Vladimir Prelog was a
+Swiss Chemist who shared 1975
+Nobel Prize for Chemistry with
+John W Cornforth for his work
+on Stereo Chemistry. He has
+done wide ranging research on
+alkaloids, antibiotics, enzymes
+and other natural compounds.
+He was distinguished for his
+contribution to the development
+of modern stereo chemistry.
+Prelog synthesized many
+natural products and worked on
+problems of stereo chemistry like
+adamenline, boromycin analoids
+and rifamycins
+
 ## INTRODUCTION
 
 Chemistry touches every aspect of our lives. The three basic requirement of our life: food, clothes, shelter are all basically chemical compounds. In fact, life itself is a complicated system of interrelated chemical process. In this unit, we will learn the chemistry involved in the field of medicines, food materials, cleansing agents and polymers.
@@ -154,25 +174,28 @@ The term Polymer is derived from the Greek word 'polumeres' meaning "having many
 The process of forming a very large, high molecular mass polymer from small structural units i.e., monomer is called polymerisation. Polymerisation occurs in the following two ways:
 
 i. Addition polymerisation or chain growth polymerisation
+
 ii. Condensation polymerisation or step growth polymerisation
 
 **Addition polymerisation:** Many alkenes undergo polymerisation under suitable conditions. The chain growth mechanism involves the addition of the growing chain across the double bond of the monomer. The addition polymerisation can follow any of the following three mechanisms depending upon the reactive involved in the process.
 
 i. Free radical polymerisation
+
 ii. Cationic polymerisation
+
 iii. Anionic polymerisation
 
-**Free radical polymerisation:** When alkenes are heated with free radical initiator such as benzoyl peroxide, they undergo polymerisation reaction. For example styrene polymerises to polystyrene when it is heated to ionic with a peroxide initiator. The mechanism involves the following steps.
+**Free radical polymerisation:**
 
-**1. Initiation step:**
+ When alkenes are heated with free radical initiator such as benzoyl peroxide, they undergo polymerisation reaction. For example styrene polymerises to polystyrene when it is heated to ionic with a peroxide initiator. The mechanism involves the following steps.
+
+**1. initiation – formation of free radical**
 
 ![](16.png)
 
 **2. Propagation step:** 
 
 ![](17.png)
-
-The stabilized radical attacks another monomer molecule to give an elongated radical.
 
 Chain growth will continue with the successive addition of several thousands of monomer units.
 
@@ -185,7 +208,9 @@ The above chain reaction can be stopped by stopping the supply of monomer or by 
 #### 15.4.3 Preparation of some important addition polymers
 
 **1. Polythene:** It is an addition polymer of ethene. There are two types of polyethylene.
+
 i) HDPE (High Density Polyethylene)
+
 ii) LDPE (Low Density polyethylene)
 
 **LDPE:** It is formed by heating ethene at \( 200^{\circ} \) to \( 300^{\circ}C \) under oxygen as a catalyst. The reaction follows free radical mechanism. The peroxides formed from oxygen acts as a free radical initiator.
@@ -208,9 +233,7 @@ It is used for coating articles and preparing non-stick utensils.
 
 **Preparation of Orlon (polyacrylonitrile - PAN):** It is prepared by the addition polymerisation of vinyl cyanide (acrylonitrile) using a peroxide initiator.
 
-\[
-\mathrm{n(CH_2=CH-C\equiv N) \xrightarrow[Peroxides]{\Delta} (-CH_2-CH-)_{n}}
-\]
+![](img15.1.png)
 
 It is used as a substitute of wool for making blankets, sweaters etc.
 
@@ -231,6 +254,21 @@ It is used in the manufacture of tyre cords, fabrics etc.
 **Preparation of Terylene (Dacron):** The monomers are ethylene glycol and terephthalic acid (or) dimethyl terephthalate. When these monomers are mixed and heated at 500K in the presence of zinc acetate and antimony trioxide catalyst, terylene is formed.
 
 ![](21.png)
+
+It is used in blending with cotton or wool fibres and as glass reinforcing materials in safety helmets.
+
+**Preparation of Bakelite**
+
+The monomers are phenol and formaldehyde. The polymer is obtained by the condensation polymerization of these monomers in presence of either an acid or a base catalyst.
+
+Phenol reacts with methanol to form ortho or para hydroxyl methylphenols which on further reaction with phenol gives linear polymer called novolac. Novolac on further heating with formaldehyde undergo cross linkages to form bakelite.
+
+![](img15.2.png)
+
+**Uses:**
+
+Navolac is used in paints. Soft bakelites are used for making glue for binding laminated wooden
+planks and in varinishes, Hard bakelites are used to prepare combs, pens etc..
 
 **Melamine (Formaldehyde melamine):** The monomers are melamine and formaldehyde. These monomers undergo condensation polymerization to form melamine formaldehyde resin.
 
@@ -284,7 +322,15 @@ It is used in the manufacture of hoses and tank linings.
 
 The materials that are readily decomposed by microorganisms in the environment are called biodegradable. Natural polymers degrade on their own after certain period of time but the synthetic polymers do not. It leads to serious environmental pollution. One of the solution to this problem is to produce biodegradable polymers which can be broken down by soil microorganism.
 
-**Examples:** Polyhydroxy butyrate (PHB), Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV), Polyglycolic acid (PGA), Polylactic acid (PLA), Poly(\( \epsilon \) caprolactone) (PCL)
+**Examples:**
+
+ Polyhydroxy butyrate (PHB),
+
+ Poly(3-hydroxybutyrate-co-3-hydroxyvalerate) (PHBV),
+ 
+ Polyglycolic acid (PGA), Polylactic acid (PLA),
+   
+ Poly(\( \epsilon \) caprolactone) (PCL)
 
 Biodegradable polymers are used in medical field such as surgical sutures, plasma substitute etc. These polymers are decomposed by enzyme action and are either metabolized or excreted from the body.
 
@@ -297,136 +343,3 @@ Biodegradable polymers are used in medical field such as surgical sutures, plasm
 **Nylon-2-Nylon-6:** It is a copolymer which contains polyamide linkages. It is obtained by the condensation polymerisation of the monomers, glycine and \( \epsilon \)-aminocaproic acid.
 
 ![](28.png)
-
-## EVALUATION
-
-### Choose the correct answer
-
-1. Which of the following is an analgesic?
-   a) Streptomycin
-   b) Chloromycetin
-   c) Aspirin
-   d) Penicillin
-
-2. Antiseptics and disinfectants either kill or prevent growth of microorganisms. Identify which of the following statement is not true.
-   a) dilute solutions of boric acid and hydrogen peroxide are strong antiseptics.
-   b) Disinfectants harm the living tissues.
-   c) A \( 0.2\% \) solution of phenol is an antiseptic while \( 1\% \) solution acts as a disinfectant.
-   d) Chlorine and iodine are used as strong disinfectants.
-
-3. Drugs that bind to the receptor site and inhibit its natural function are called
-   a) antagonists
-   b) agonists
-   c) enzymes
-   d) molecular targets
-
-4. Aspirin is a/an
-   a) acetylsalicylic acid
-   b) benzoyl salicylic acid
-   c) chlorobenzoic acid
-   d) anthranilic acid
-
-5. Which one of the following structures represents nylon 6,6 polymer?
-
-![](29.png)
-
-6. Natural rubber has
-   a) alternate cis- and trans- configuration
-   b) random cis- and trans- configuration
-   c) all cis- configuration
-   d) all trans- configuration
-
-7. Nylon is an example of
-   a) polyamide
-   b) polythene
-   c) polyester
-   d) polysaccharide
-
-8. Terylene is an example of
-   a) polyamide
-   b) polythene
-   c) polyester
-   d) polysaccharide
-
-9. Which is the monomer of neoprene in the following?
-   a) \( \mathrm{CH_2=CCl-CH=CH_2} \)
-   b) \( \mathrm{CH_2=CH-C\equiv CH} \)
-   c) \( \mathrm{CH_2=CH-CH=CH_2} \)
-   d) \( \mathrm{CH_2=C(CH_3)-CH=CH_2} \)
-
-10. Which one of the following is a biodegradable polymer?
-    a) HDPE
-    b) PVC
-    c) Nylon 6
-    d) PHBV
-
-11. Non stick cookwares generally have a coating of a polymer, whose monomer is
-    a) ethane
-    b) prop-2-enenitrile
-    c) chloroethene
-    d) 1,1,2,2-tetrafluoroethene
-
-12. Assertion: 2-methyl-1,3-butadiene is the monomer of natural rubber
-    Reason: Natural rubber is formed through anionic addition polymerisation.
-    a) If both assertion and reason are true and reason is the correct explanation of assertion.
-    b) if both assertion and reason are true but reason is not the correct explanation of assertion.
-    c) assertion is true but reason is false.
-    d) both assertion and reason are false.
-
-13. Which of the following is a copolymer?
-    a) Orlon
-    b) PVC
-    c) Teflon
-    d) PHBV
-
-14. The polymer used in making blankets (artificial wool) is
-    a) polystyrene
-    b) PAN
-    c) polyester
-    d) polythene
-
-15. Regarding cross-linked or network polymers, which of the following statement is incorrect? (NEET)
-    a) Examples are Bakelite and melamine
-    b) They are formed from bi and tri-functional monomers
-    c) They contain covalent bonds between various linear polymer chains
-    d) They contain strong covalent bonds in their polymer chain
-
-### Answer the following questions
-
-1. What are antibiotics?
-
-2. Name one substance which can act as both analgesic and antipyretic.
-
-3. Write a note on synthetic detergents.
-
-4. How do antiseptics differ from disinfectants?
-
-5. What are food preservatives?
-
-6. What are drugs? How are they classified?
-
-7. How do the tranquilizers work in body?
-
-8. Write the structural formula of aspirin.
-
-9. Explain the mechanism of cleansing action of soaps and detergents.
-
-10. Which sweetening agent are used to prepare sweets for a diabetic patient?
-
-11. What are narcotic and non-narcotic drugs? Give examples.
-
-12. What are antifertility drugs? Give examples.
-
-13. Write a note on copolymer.
-
-14. What are biodegradable polymers? Give examples.
-
-15. How is terylene prepared?
-
-16. Write a note on vulcanization of rubber.
-
-17. Classify the following as linear, branched or cross linked polymers:
-    a) Bakelite
-    b) Nylon-6,6
-    c) LDPE
-    d) HDPE
