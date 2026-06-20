@@ -6,28 +6,7 @@ weight: 7
 summary: "This unit explains the rate of chemical reactions and the factors affecting it, such as concentration, temperature, and catalysts. It describes the integrated rate equations for zero and first-order reactions, half-life periods, and pseudo-first-order reactions. The unit also highlights the collision theory of reaction rates and the effect of temperature on reaction rates via the Arrhenius equation."
 ---
 
-# 7. CHEMICAL KINETICS
-
-![](August.png)
-**Svante August Arrhenius**
-**(1859 –1927)**
-Svante August Arrhenius was
-a Swedish scientist. Arrhenius
-was one of the founders of the
-science of physical chemistry.
-He focused his attention on the
-conductivities of electrolytes.
-He proposed that crystalline
-salts dissociate into paired
-charged ions when dissolved
-in water, for which he received
-the Nobel Prize for Chemistry
-in 1903. He also proposed
-definitions for acids and bases.
-He formulated the concept of
-activation energy.
-
-# INTRODUCTION
+### INTRODUCTION
 
 We have already learnt in XI standard that the feasibility of a chemical reaction under a given set of conditions can be predicted, using the principles of thermodynamics. However, thermodynamics does not provide an answer to a very important question of how fast a chemical reaction takes place. We know from our practical experience that all chemical reactions take some time for completion. Reaction speeds ranging from extremely fast (in femto seconds) to extremely slow (in years). For example, when the reactants \( BaCl_2 \) solution and dilute \( H_2SO_4 \) are just mixed, a white precipitate of \( BaSO_4 \) is immediately formed; on the other hand reactions such as rusting of Iron take many years to complete. The answers to the questions such as (i) how fast a chemical change can occur and (ii) What happens in a chemical reaction during the period between the initial stage and final stage are provided by the chemical kinetics. The word kinetics is derived from the Greek word "kinesis" meaning movement.
 
@@ -37,7 +16,7 @@ The study of chemical kinetics not only help us to determine the rate of a chemi
 
 In this unit, we discuss the rate of a chemical reaction and the factors affecting it. We also discuss the theories of the reaction rate and temperature dependence of a chemical reaction.
 
-### 7.1 Rate of a chemical reaction:
+### Rate of a chemical reaction:
 
 A rate is a change in a particular variable per unit time. You have already learnt in physics that change in the displacement of a particle per unit time gives its velocity. Similarly in a chemical reaction, the change in the concentration of the species involved in a chemical reaction per unit time gives the rate of a reaction.
 
@@ -75,7 +54,7 @@ since \( [B_2] > [B_1] \), no minus sign is required here.
 
 **Unit of rate of a reaction:**
 
-\[
+>\[
 \text{unit of rate} = \frac{\text{unit of concentration}}{\text{unit of time}}
 \]
 
@@ -83,7 +62,7 @@ Usually, concentration is expressed in number of moles per litre and time is exp
 
 For a gas phase reaction, the concentration of the gaseous species is usually expressed in terms of their partial pressures and in such cases the unit of reaction rate is atm \( \mathrm{s}^{-1} \).
 
-#### 7.1.1 Stoichiometry and rate of a reaction
+#### Stoichiometry and rate of a reaction
 
 In a reaction \( \mathrm{A} \longrightarrow \mathrm{B} \), the stoichiometry of both reactant and product are same, and hence the rate of disappearance of reactant (A) and the rate of appearance of product (B) are same.
 
@@ -115,7 +94,7 @@ x\mathrm{A} + y\mathrm{B} \longrightarrow l\mathrm{C} + m\mathrm{D}
 \text{Rate} = \frac{-1}{x}\frac{d[\mathrm{A}]}{dt} = \frac{-1}{y}\frac{d[\mathrm{B}]}{dt} = \frac{1}{l}\frac{d[\mathrm{C}]}{dt} = \frac{1}{m}\frac{d[\mathrm{D}]}{dt}
 \]
 
-#### 7.1.2 Average and instantaneous rate
+#### Average and instantaneous rate
 
 Let us understand the average rate and instantaneous rate by considering the isomerisation of cyclopropane.
 
@@ -185,7 +164,7 @@ Let us calculate the instantaneous rate of isomerisation of cyclopropane at diff
 | 1 | \( 3.46 \times 10^{-2} \) |
 | 0.5 | \( 1.73 \times 10^{-2} \) |
 
-### 7.3 Rate law and rate constant
+### Rate law and rate constant
 
 We have just learnt that, the rate of the reaction depends upon the concentration of the reactant. Now let us understand how the reaction rate is related to concentration by considering the following general reaction.
 
@@ -309,7 +288,7 @@ The overall order of the reaction \( = (2 + 1) = 3 \)
 | 2 | It is measured as decrease in the concentration of the reactants or increase in the concentration of products. | It is equal to the rate of reaction, when the concentration of each of the reactants is unity. |
 | 3 | It depends on the initial concentration of reactants. | It does not depend on the initial concentration of reactants. |
 
-### 7.4 Molecularity
+### Molecularity
 
 Kinetic studies involve not only measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
 
@@ -373,20 +352,19 @@ Consider the oxidation of nitric oxide to form \( \mathrm{NO}_2 \)
 = 0.4\ \mathrm{mol\ L^{-1}\ s^{-1}}
 \]
 
-**Evaluate yourself 1**
-
-1) Write the rate expression for the following reactions, assuming them as elementary reactions.
-
-(i) \( 3\mathrm{A} + 5\mathrm{B}_2 \longrightarrow 4\mathrm{CD} \)
-
-(ii) \( \mathrm{X}_2 + \mathrm{Y}_2 \longrightarrow 2\mathrm{XY} \)
-
-2) Consider the decomposition of \( \mathrm{N}_2\mathrm{O}_5(g) \) to form \( \mathrm{NO}_2(g) \) and \( \mathrm{O}_2(g) \). At a particular instant \( \mathrm{N}_2\mathrm{O}_5 \) disappears at a rate of \( 2.5 \times 10^{-2}\ \mathrm{mol\ dm^{-3}\ s^{-1}} \). At what rates are \( \mathrm{NO}_2 \) and \( \mathrm{O}_2 \) formed? What is the rate of the reaction?
+>**Evaluate yourself 1**
+>
+>1) Write the rate expression for the following reactions, assuming them as elementary reactions.
+>
+>(i) \( 3\mathrm{A} + 5\mathrm{B}_2 \longrightarrow 4\mathrm{CD} \)
+>
+>(ii) \( \mathrm{X}_2 + \mathrm{Y}_2 \longrightarrow 2\mathrm{XY} \)
+>
+>2) Consider the decomposition of \( \mathrm{N}_2\mathrm{O}_5(g) \) to form \( \mathrm{NO}_2(g) \) and \( \mathrm{O}_2(g) \). At a particular instant \( \mathrm{N}_2\mathrm{O}_5 \) disappears at a rate of \( 2.5 \times 10^{-2}\ \mathrm{mol\ dm^{-3}\ s^{-1}} \). At what rates are \( \mathrm{NO}_2 \) and \( \mathrm{O}_2 \) formed? What is the rate of the reaction?
 
 **Example 2**
 
 1. What is the order with respect to each of the reactant and overall order of the following reactions?
-
 (a) \( 5\mathrm{Br}^-(aq) + \mathrm{BrO}_3^-(aq) + 6\mathrm{H}^+(aq) \longrightarrow 3\mathrm{Br}_2(l) + 3\mathrm{H}_2\mathrm{O}(l) \)
 
 The experimental rate law is Rate = \( k[\mathrm{Br}^-][\mathrm{BrO}_3^-][\mathrm{H}^+]^2 \)
@@ -427,24 +405,23 @@ Comparing the powers on both sides
 
 The overall order of the reaction \( n + m = 1 \)
 
-**Evaluate yourself 2**
-
-1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order?
-
-2) Find the individual and overall order of the following reaction using the given data.
-
-\[
+>**Evaluate yourself 2**
+>
+>1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order?
+>2) Find the individual and overall order of the following reaction using the given data.
+>
+>\[
 2\mathrm{NO}(g) + \mathrm{Cl}_2(g) \longrightarrow 2\mathrm{NOCl}(g)
 \]
+>
+>| Experiment | Initial concentration | Initial rate NOCl mol L\(^{-1}\) s\(^{-1}\) |
+>|---|---|---|
+>| | NO | Cl\(_2\) | |
+>| 1 | 0.1 | 0.1 | \( 7.8 \times 10^{-5} \) |
+>| 2 | 0.2 | 0.1 | \( 3.12 \times 10^{-4} \) |
+>| 3 | 0.2 | 0.3 | \( 9.36 \times 10^{-4} \) |
 
-| Experiment | Initial concentration | Initial rate NOCl mol L\(^{-1}\) s\(^{-1}\) |
-|---|---|---|
-| | NO | Cl\(_2\) | |
-| 1 | 0.1 | 0.1 | \( 7.8 \times 10^{-5} \) |
-| 2 | 0.2 | 0.1 | \( 3.12 \times 10^{-4} \) |
-| 3 | 0.2 | 0.3 | \( 9.36 \times 10^{-4} \) |
-
-### 7.5 The integrated rate equation
+### The integrated rate equation
 
 We have just learnt that the rate of change of concentration of the reactant is directly proportional to that of concentration of the reactant. For a general reaction,
 
@@ -458,7 +435,7 @@ The rate law is
 
 Where k is the rate constant, and \( x \) is the order of the reaction. The above equation is a differential equation, \( \frac{-d[\mathrm{A}]}{dt} \), so it gives the rate at any instant. However, using the above expression, we cannot answer questions such as how long will it take for a specific concentration of A to be used up in the reaction? What will be the concentration of reactant after a time 't'? To answer such questions, we need the integrated form of the above rate law which contains time as a variable.
 
-#### 7.5.1 Integrated rate law for a first order reaction
+#### Integrated rate law for a first order reaction
 
 A reaction whose rate depends on the reactant concentration raised to the first power is called a first order reaction. Let us consider the following first order reaction,
 
@@ -547,7 +524,7 @@ N_2O_5(g) \longrightarrow 2NO_2(g) + \frac{1}{2}O_2(g)
 
 (iv) Isomerisation of cyclopropane to propene.
 
-#### 7.5.2 Pseudo first order reaction
+**Pseudo first order reaction:**
 
 Kinetic study of a higher order reaction is difficult to follow, for example, in a study of a second order reaction involving two different reactants; the simultaneous measurement of change in the concentration of both the reactants is very difficult. To overcome such difficulties, a second order reaction can be altered to a first order reaction by taking one of the reactant in large excess, such reaction is called pseudo first order reaction. Let us consider the acid hydrolysis of an ester,
 
@@ -569,7 +546,7 @@ Now, we can define \( k[\mathrm{H}_2\mathrm{O}] = k' \); Therefore the above rat
 
 Thus it follows first order kinetics.
 
-#### 7.5.3 Integrated rate law for a zero order reaction
+#### Integrated rate law for a zero order reaction
 
 A reaction in which the rate is independent of the concentration of the reactant over a wide range of concentrations is called as zero order reactions. Such reactions are rare. Let us consider the following hypothetical zero order reaction.
 
@@ -628,12 +605,10 @@ A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept o
    \[
    \mathrm{H}_2(g) + \mathrm{Cl}_2(g) \xrightarrow{h\nu} 2\mathrm{HCl}(g)
    \]
-
 2. Decomposition of \( \mathrm{N}_2\mathrm{O} \) on hot platinum surface
    \[
    \mathrm{N}_2\mathrm{O}(g) \xrightarrow{\mathrm{Pt}} \mathrm{N}_2(g) + \frac{1}{2}\mathrm{O}_2(g)
    \]
-
 3. Iodination of acetone in acid medium is zero order with respect to iodine.
    \[
    \mathrm{CH}_3\mathrm{COCH}_3 + \mathrm{I}_2 \xrightarrow{\mathrm{H}^+} \mathrm{ICH}_2\mathrm{COCH}_3 + \mathrm{HI}
@@ -642,21 +617,21 @@ A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept o
    \text{Rate} = k[\mathrm{CH}_3\mathrm{COCH}_3][\mathrm{H}^+]
    \]
 
-General rate equation for a \( n^{\text{th}} \) order reaction involving one reactant [A].
-
-A \( \longrightarrow \) product
-
-\[
+>General rate equation for a \( n^{\text{th}} \) order reaction involving one reactant [A].
+>
+>A \( \longrightarrow \) product
+>
+>\[
 \text{Rate law } \frac{-d[\mathrm{A}]}{dt} = k[\mathrm{A}]^n
 \]
-
-Consider the case in which \( n \neq 1 \), integration of above equation between \( [\mathrm{A}_0] \) and [A] at time \( t = 0 \) and \( t = t \) respectively gives
-
-\[
+>
+>Consider the case in which \( n \neq 1 \), integration of above equation between \( [\mathrm{A}_0] \) and [A] at time \( t = 0 \) and \( t = t \) respectively gives
+>
+>\[
 \frac{1}{[\mathrm{A}]^{n-1}} - \frac{1}{[\mathrm{A}_0]^{n-1}} = (n-1)k t
 \]
 
-### 7.6 Half life period of a reaction
+### Half life period of a reaction
 
 The half life of a reaction is defined as the time required for the reactant concentration to reach one half its initial value. For a first order reaction, the half life is a constant i.e., it does not depend on the initial concentration.
 
@@ -706,13 +681,14 @@ t_{1/2} = \frac{[\mathrm{A}_0]}{2k}
 
 Hence, in contrast to the half life of a first order reaction, the half life of a zero order reaction is directly proportional to the initial concentration of the reactant.
 
-**More to know**
-
-Half life for an \( n^{\text{th}} \) order reaction involving reactant A and \( n \neq 1 \)
-
-\[
+>**More to know**
+>
+>Half life for an \( n^{\text{th}} \) order reaction involving reactant A and \( n \neq 1 \)
+>
+>\[
 t_{1/2} = \frac{2^{n-1} - 1}{(n-1)k[\mathrm{A}_0]^{n-1}}
 \]
+>
 
 **Example 4**
 
@@ -834,21 +810,23 @@ t_{99.9\%} = \frac{6.909}{k}
 t_{99.9\%} \approx 10 \times \frac{0.69}{k} \approx 10 \times t_{1/2}
 \]
 
-**Evaluate yourself:**
+>**Evaluate yourself:**
+>
+>(1) In a first order reaction A \( \longrightarrow \) products, 60% of the given sample of A decomposes in 40 min. what is the half life of the reaction?
+>
+>(2) The rate constant for a first order reaction is \( 2.3 \times 10^{-4} \ \mathrm{s}^{-1} \). If the initial concentration of the reactant is 0.01M. What concentration will remain after 1 hour?
+>
+>(3) Hydrolysis of an ester in an aqueous solution was studied by titrating the liberated carboxylic acid against sodium hydroxide solution. The concentrations of the ester at different time intervals are given below.
+>
+>| Time (min) | 0 | 30 | 60 | 90 |
+>|---|---|---|---|---|
+>| Ester concentration (mol L\(^{-1}\)) | 0.85 | 0.80 | 0.754 | 0.71 |
+>
+>
+>
+>Show that, the reaction follows first order kinetics.
 
-(1) In a first order reaction A \( \longrightarrow \) products, 60% of the given sample of A decomposes in 40 min. what is the half life of the reaction?
-
-(2) The rate constant for a first order reaction is \( 2.3 \times 10^{-4} \ \mathrm{s}^{-1} \). If the initial concentration of the reactant is 0.01M. What concentration will remain after 1 hour?
-
-(3) Hydrolysis of an ester in an aqueous solution was studied by titrating the liberated carboxylic acid against sodium hydroxide solution. The concentrations of the ester at different time intervals are given below.
-
-| Time (min) | 0 | 30 | 60 | 90 |
-|---|---|---|---|---|
-| Ester concentration (mol L\(^{-1}\)) | 0.85 | 0.80 | 0.754 | 0.71 |
-
-Show that, the reaction follows first order kinetics.
-
-### 7.7 Collision theory
+### Collision theory
 
 Collision Theory was proposed independently by Max Trautz in 1916 and William Lewis in 1918. This theory is based on the kinetic theory of gases. According to this theory, chemical reactions occur as a result of collisions between the reacting molecules. Let us understand this theory by considering the following reaction.
 
@@ -859,6 +837,7 @@ Collision Theory was proposed independently by Max Trautz in 1916 and William Le
 ![](reaction.png)
 
 <center>Figure 7.5 progress of the reaction</center>
+
 
 If we consider that, the reaction between \( \mathrm{A}_2 \) and \( \mathrm{B}_2 \) molecules proceeds through collisions between them, then the rate would be proportional to the number of collisions per second.
 
@@ -896,6 +875,7 @@ Thus, out of \( 10^{18} \) collisions only four collisions are sufficiently ener
 
 <center>Figure 7.6 - Orientation of reactants - schematic representation</center>
 
+
 The figure 7.6 illustrates the importance of proper alignment of molecules which leads to reaction.
 
 The fraction of effective collisions (f) having proper orientation is given by the steric factor p.
@@ -922,27 +902,27 @@ On comparing equation (1) and (2), the rate constant k is
 k = p Z e^{\frac{-E_a}{RT}}
 \]
 
-### 7.8 Arrhenius equation - The effect of temperature on reaction rate
+### Arrhenius equation - The effect of temperature on reaction rate
 
 Generally, the rate of a reaction increase with increasing temperature. However, there are very few exceptions. The magnitude of this increase in rate is different for different reactions. As a rough rule, for many reactions near room temperature, reaction rate tends to double when the temperature is increased by \( 10^{\circ}\mathrm{C} \).
 
-**Activity**
+>#### Activity
 
-Let us understand the effect of temperature on reaction rate by doing this activity.
-
-i. Take two test tubes, label them as A and B.
-ii. Take \( 5\mathrm{ml} \) of cold water in A, add a drop of phenolphthalein indicator and then add Magnesium granules.
-iii. Repeat the above with \( 5\mathrm{ml} \) of hot water in test tube B.
-iv. Observe the two test tubes.
-v. The observation shows that the solution in test tube B changes to pink colour and there is no such colour change in test tube A. That is, hot water reacts with magnesium according to the following reaction and there is no such reaction in cold water.
-
-\[
+>Let us understand the effect of temperature on reaction rate by doing this activity.
+>
+>i. Take two test tubes, label them as A and B.
+>ii. Take \( 5\mathrm{ml} \) of cold water in A, add a drop of phenolphthalein indicator and then add Magnesium granules.
+>iii. Repeat the above with \( 5\mathrm{ml} \) of hot water in test tube B.
+>iv. Observe the two test tubes.
+>v. The observation shows that the solution in test tube B changes to pink colour and there is no such colour change in test tube A. That is, hot water reacts with magnesium according to the following reaction and there is no such reaction in cold water.
+>
+>\[
 \mathrm{Mg} + 2\mathrm{H}_2\mathrm{O} \longrightarrow \mathrm{Mg}^{2+} + 2\mathrm{OH}^- + \mathrm{H}_2\uparrow
 \]
-
-![](activity.png)
-
-vi. The resultant solution is basic and it is indicated by phenolphthalein.
+>
+>![](activity.png)
+>
+>vi. The resultant solution is basic and it is indicated by phenolphthalein.
 
 A large number of reactions are known which do not take place at room temperature but occur readily at higher temperatures. Example: Reaction between \( \mathrm{H}_2 \) and \( \mathrm{O}_2 \) to form \( \mathrm{H}_2\mathrm{O} \) takes place only when an electric spark is passed.
 
@@ -1066,11 +1046,11 @@ Where \( E_a \) is the activation energy. When a graph is plotted for \( \log k 
 
 \( E_a = 76589\ \mathrm{J\ mol^{-1}} = 76.589\ \mathrm{kJ\ mol^{-1}} \)
 
-**Evaluate yourself**
+>**Evaluate yourself**
+>
+>For a first order reaction the rate constant at 500K is \( 8 \times 10^{-4}\ \mathrm{s}^{-1} \). Calculate the frequency factor, if the energy of activation for the reaction is 190 kJ mol\(^{-1}\).
 
-For a first order reaction the rate constant at 500K is \( 8 \times 10^{-4}\ \mathrm{s}^{-1} \). Calculate the frequency factor, if the energy of activation for the reaction is 190 kJ mol\(^{-1}\).
-
-### 7.9 Factors affecting the reaction rate
+### Factors affecting the reaction rate
 
 The rate of a reaction is affected by the following factors.
 
@@ -1080,7 +1060,7 @@ The rate of a reaction is affected by the following factors.
 4. Temperature of the reaction
 5. Presence of a catalyst
 
-#### 7.9.1 Nature and state of the reactant
+#### Nature and state of the reactant
 
 We know that a chemical reaction involves breaking of certain existing bonds of the reactant and forming new bonds which lead to the product. The net energy involved in this process is dependent on the nature of the reactant and hence the rates are different for different reactants.
 
@@ -1097,78 +1077,78 @@ Let us consider another example that you carried out in inorganic qualitative an
 
 ![](concen.png)
 
-#### 7.9.2 Concentration of the reactants
+#### Concentration of the reactants
 
 The rate of a reaction increases with the increase in the concentration of the reactants. The effect of concentration is explained on the basis of collision theory of reaction rates. According to this theory, the rate of a reaction depends upon the number of collisions between the reacting molecules. Higher the concentration, greater is the possibility for collision and hence the rate.
 
-**Activity**
+>#### Activity
+>
+>1. Take three conical flasks and label them as A, B, and C.
+>2. Using a burette, add 10, 20 and 40 ml of 0.1M sodium thiosulphate solution to the flask A, B and C respectively. And then add 40, 30 and 10 ml of distilled water to the respective flasks so that the volume of solution in each flask is 50 ml.
+>3. Add 10 ml of 1M HCl to the conical flask A. Start the stop watch when half of the HCl has been added. Shake the contents carefully and place it on the tile with a cross mark as shown in the figure. Observe the conical flask from top and stop the stop watch when the cross mark just becomes invisible. Note the time.
+>4. Repeat the experiment with the contents on B and C. Record the observation.
+>
+>| Flask | Volume of Na\(_2\)S\(_2\)O\(_3\) | Volume of water | Strength of Na\(_2\)S\(_2\)O\(_3\) | Time taken (t) |
+>|---|---|---|---|---|
+>| A | 10 | 40 | 0.02 | |
+>| B | 20 | 30 | 0.04 | |
+>| C | 40 | 10 | 0.08 | |
+>
+>Draw a graph between \( \frac{1}{t} \) Vs concentration of sodium thiosulphate. \( \frac{1}{t} \) is a direct measure of rate of reaction and therefore, the increase in the concentration of reactants i.e \( \mathrm{Na}_2\mathrm{S}_2\mathrm{O}_3 \) increases the rate.
+>
+>![](acti.png)
+>
+>![](glass.png)
 
-1. Take three conical flasks and label them as A, B, and C.
-2. Using a burette, add 10, 20 and 40 ml of 0.1M sodium thiosulphate solution to the flask A, B and C respectively. And then add 40, 30 and 10 ml of distilled water to the respective flasks so that the volume of solution in each flask is 50 ml.
-3. Add 10 ml of 1M HCl to the conical flask A. Start the stop watch when half of the HCl has been added. Shake the contents carefully and place it on the tile with a cross mark as shown in the figure. Observe the conical flask from top and stop the stop watch when the cross mark just becomes invisible. Note the time.
-4. Repeat the experiment with the contents on B and C. Record the observation.
-
-| Flask | Volume of Na\(_2\)S\(_2\)O\(_3\) | Volume of water | Strength of Na\(_2\)S\(_2\)O\(_3\) | Time taken (t) |
-|---|---|---|---|---|
-| A | 10 | 40 | 0.02 | |
-| B | 20 | 30 | 0.04 | |
-| C | 40 | 10 | 0.08 | |
-
-Draw a graph between \( \frac{1}{t} \) Vs concentration of sodium thiosulphate. \( \frac{1}{t} \) is a direct measure of rate of reaction and therefore, the increase in the concentration of reactants i.e \( \mathrm{Na}_2\mathrm{S}_2\mathrm{O}_3 \) increases the rate.
-
-![](acti.png)
-
-
-![](glass.png)
-
-#### 7.9.3 Effect of surface area of the reactant
+#### Effect of surface area of the reactant
 
 In heterogeneous reactions, the surface areas of the solid reactants play an important role in deciding the rate. For a given mass of a reactant, when the particle size decreases surface area increases. Increase in surface area of reactant leads to more collisions per litre per second, and hence the rate of reaction is increased. For example, powdered calcium carbonate reacts much faster with dilute HCl than with the same mass of \( \mathrm{CaCO}_3 \) as marble chips.
 
-**Activity**
+>#### Activity
+>
+>A known mass of marble chips are taken in a flask and a known volume of dilute HCl is added to the content, a stop clock is started when half the volume of HCl is added. The mass is noted at regular intervals until the reaction is complete. Same experiment is repeated with the same mass of powdered marble chips and the observations are recorded.
+>
+>Reaction: \( \mathrm{CaCO}_3(s) + 2\mathrm{HCl}(aq) \longrightarrow \mathrm{CaCl}_2(aq) + \mathrm{H}_2\mathrm{O}(l) + \mathrm{CO}_2(g) \)
+>
+>Since, carbon dioxide escapes during reaction, the mass of the flask gets lighter as the reaction proceeds. So, by measuring the loss in mass of the flask, we can follow the rate of the reaction. A plot of loss in mass Vs time is drawn.
+>
+>For the powdered marble chips, the reaction is completed in less time. i.e., rate of a reaction increases when the surface area of a solid reactant is increased.
+>
+>![](activi.png)
 
-A known mass of marble chips are taken in a flask and a known volume of dilute HCl is added to the content, a stop clock is started when half the volume of HCl is added. The mass is noted at regular intervals until the reaction is complete. Same experiment is repeated with the same mass of powdered marble chips and the observations are recorded.
-
-Reaction: \( \mathrm{CaCO}_3(s) + 2\mathrm{HCl}(aq) \longrightarrow \mathrm{CaCl}_2(aq) + \mathrm{H}_2\mathrm{O}(l) + \mathrm{CO}_2(g) \)
-
-Since, carbon dioxide escapes during reaction, the mass of the flask gets lighter as the reaction proceeds. So, by measuring the loss in mass of the flask, we can follow the rate of the reaction. A plot of loss in mass Vs time is drawn.
-
-For the powdered marble chips, the reaction is completed in less time. i.e., rate of a reaction increases when the surface area of a solid reactant is increased.
-
-![](activi.png)
-
-#### 7.9.4 Effect of presence of catalyst
+#### Effect of presence of catalyst
 
 So far we have learnt, that rate of reaction can be increased to certain extent by increasing the concentration, temperature and surface area of the reactant. However significant changes in the reaction can be brought out by the addition of a substance called catalyst. A catalyst is a substance which alters the rate of a reaction without itself undergoing any permanent chemical change. They may participate in the reaction, but are regenerated at the end of the reaction. In the presence of a catalyst, the energy of activation is lowered and hence, greater number of molecules can cross the energy barrier and change over to products, thereby increasing the rate of the reaction.
 
 ![](effect.png)
 
-**Activity**
+>#### Activity
+>
+>Take two test tubes and label them as A and B. Add 7 ml of 0.1N oxalic acid solution, 5 ml of 0.1N KMnO\(_4\) solution and 5 ml of 2N dilute \( \mathrm{H}_2\mathrm{SO}_4 \) in both the test tubes. The colour of the solution is pink in both the test tubes.
+>
+>Now add few crystals of manganese sulphate to the content in test tube A. The pink colour fades and disappears. In this case, \( \mathrm{MnSO}_4 \) acts as a catalyst and increases the rate of oxidation of \( \mathrm{C_2O_4}^{2-} \) by \( \mathrm{MnO}_4^- \).
 
-Take two test tubes and label them as A and B. Add 7 ml of 0.1N oxalic acid solution, 5 ml of 0.1N KMnO\(_4\) solution and 5 ml of 2N dilute \( \mathrm{H}_2\mathrm{SO}_4 \) in both the test tubes. The colour of the solution is pink in both the test tubes.
-
-Now add few crystals of manganese sulphate to the content in test tube A. The pink colour fades and disappears. In this case, \( \mathrm{MnSO}_4 \) acts as a catalyst and increases the rate of oxidation of \( \mathrm{C_2O_4}^{2-} \) by \( \mathrm{MnO}_4^- \).
-
-**Do You Know**
-## Chemical kinetics in pharmaceuticals
-
-Chemical kinetics has many applications in the field of pharmaceuticals. It is used to study the lifetimes and bioavailability of drugs within the body and this branch of study is called pharmacokinetics. Doctors usually prescribe drugs to be taken at different times of the day. i.e. some drugs are to be taken twice a day, while others are taken three times a day, or just once a day. Pharmacokinetic studies are used to determine the prescription (dosage and frequency). For example, Paracetamol is a well known antipyretic and analgesic that is prescribed in cases of fever and body pain. Pharmacokinetic studies showed that Paracetamol has a half-life of 2.5 hours within the body i.e. the plasma concentration of the drug is halved after 2.5 hrs. After 10 hours (4 half-lives) only 6.25% of drug remains. Based on such studies the dosage and frequency will be decided. In case of paracetamol, it is usually prescribed to be taken once in 6 hours depending upon the conditions.
+>#### Do You Know
+>
+>**Chemical kinetics in pharmaceuticals**
+>
+>Chemical kinetics has many applications in the field of pharmaceuticals. It is used to study the lifetimes and bioavailability of drugs within the body and this branch of study is called pharmacokinetics. Doctors usually prescribe drugs to be taken at different times of the day. i.e. some drugs are to be taken twice a day, while others are taken three times a day, or just once a day. Pharmacokinetic studies are used to determine the prescription (dosage and frequency). For example, Paracetamol is a well known antipyretic and analgesic that is prescribed in cases of fever and body pain. Pharmacokinetic studies showed that Paracetamol has a half-life of 2.5 hours within the body i.e. the plasma concentration of the drug is halved after 2.5 hrs. After 10 hours (4 half-lives) only 6.25% of drug remains. Based on such studies the dosage and frequency will be decided. In case of paracetamol, it is usually prescribed to be taken once in 6 hours depending upon the conditions.
 
 ## Summary
 
-- Chemical kinetics is the study of the rate and the mechanism of chemical reactions, proceeding under given conditions of temperature, pressure, concentration etc.
+* Chemical kinetics is the study of the rate and the mechanism of chemical reactions, proceeding under given conditions of temperature, pressure, concentration etc.
 
 - The change in the concentration of the species involved in a chemical reaction per unit time gives the rate of a reaction.
 
-- The rate of the reaction, at a particular instant during the reaction is called the instantaneous rate. The shorter the time period, we choose, the closer we approach to the instantaneous rate.
+* The rate of the reaction, at a particular instant during the reaction is called the instantaneous rate. The shorter the time period, we choose, the closer we approach to the instantaneous rate.
 
 - The rate represents the speed at which the reactants are converted into products at any instant.
 
-- The rate constant is a proportionality constant and it is equal to the rate of reaction, when the concentration of each of the reactants is unity.
+* The rate constant is a proportionality constant and it is equal to the rate of reaction, when the concentration of each of the reactants is unity.
 
 - Molecularity of a reaction is the total number of reactant species that are involved in an elementary step.
 
-- The half life of a reaction is defined as the time required for the reactant concentration to reach one half its initial value. For a first order reaction, the half life is a constant.
+* The half life of a reaction is defined as the time required for the reactant concentration to reach one half its initial value. For a first order reaction, the half life is a constant.
 
 - The rate of a reaction is affected by the following factors:
   1. Nature and state of the reactant
