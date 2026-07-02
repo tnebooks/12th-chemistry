@@ -39,8 +39,8 @@ Some of the physical properties of the group 15 elements are listed below
 | Electronic configuration | \( [\mathrm{He}]2s^2 2p^3 \) | \( [\mathrm{Ne}]3s^2 3p^3 \) | \( [\mathrm{Ar}]3d^{10} 4s^2 4p^3 \) | \( [\mathrm{Kr}]4d^{10} 5s^2 5p^3 \) | \( [\mathrm{Xe}]4f^{14}5d^{10}6s^2 6p^3 \) |
 | Atomic radius (Å) | 1.55 | 1.80 | 1.85 | 2.06 | 2.07 |
 | Density (g cm\(^{-3}\) at 293 K) | \( 1.14 \times 10^{-3} \) | 1.82 (white phosphorus) | 5.75 | 6.68 | 9.79 |
-| Melting point (K) | 63 | 317 | Sublimes at 904 | 544 | 544 |
-| Boiling point (K) | 77 | 553 | 548 | 891 | 860 |
+| Melting point (K) | 63 | 317 | Sublimes at 889 | 904 | 544 |
+| Boiling point (K) | 77 | 554 | Sublimes at 889 | 1860 | 1837 |
 
 #### 3.1.3 Nitrogen
 
@@ -62,7 +62,15 @@ $$
 
 ##### Properties
 
-Nitrogen gas is rather inert. Terrestrial nitrogen contains \( 14.5\% \) and \( 0.4\% \) of nitrogen-14 and nitrogen-15 respectively. The latter is used for isotopic labelling. The chemically inert character of nitrogen is largely due to high bonding energy of the molecules 225 cal mol\(^{-1}\) (946 kJ mol\(^{-1}\)). Interestingly the triply bonded species is notable for its less reactivity in comparison with other iso-electronic triply bonded systems such as \( \mathrm{-C=C-} \), \( \mathrm{C=O} \), \( \mathrm{X-C=N} \), \( \mathrm{X-N=C} \), \( \mathrm{-C=C-} \), and \( \mathrm{-C=N} \). These groups can act as donor where as dinitrogen cannot. However, it can form complexes with metal (\( \mathrm{M-N=N} \)) like CO to a less extent.
+  Nitrogen gas is rather inert. Terrestrial nitrogen contains 99.6% and 0.4% of nitrogen-14 
+and nitrogen-15 respectively. The latter is used for isotopic labelling. The chemically inert 
+character of nitrogen is largely due to the high bonding energy of the molecules, 225 kcal mol⁻¹ 
+(946 kJ mol⁻¹). Interestingly, the triply bonded species is notable for its lower reactivity in 
+comparison with other isoelectronic triply bonded systems such as -C≡C-, C≡O, X-C≡N, X-N=C, 
+and -C≡N. These groups can act as donors whereas dinitrogen cannot. However, it can form 
+complexes with metals (M ← N≡N) like CO to a lesser extent.
+
+
 
 The only reaction of nitrogen at room temperature is with lithium forming \( \mathrm{Li_3N} \). With other elements, nitrogen combines only at elevated temperatures. Group 2 metals and Th forms ionic nitrides.
 
@@ -130,13 +138,14 @@ Ammonia is a pungent smelling gas and is lighter than air. It can be readily liq
 At low temperatures two soluble hydrate \( \mathrm{NH_3.H_2O} \) and \( 2\mathrm{NH_3.H_2O} \) are isolated. In these molecules ammonia and water are linked by hydrogen bonds. In aqueous solutions also ammonia may be hydrated in a similar manner and we call the same as \( \mathrm{(NH_3,H_2O)} \).
 
 $$
-\mathrm{NH_3 + H_2O \Longrightarrow NH_4^+ + OH^-}
+\mathrm{NH_3 + H_2O \rightleftharpoons NH_4^+ + OH^-}
 $$
+
 
 The dielectric constant of ammonia is considerably high to make it a fairly good ionising solvent like water.
 
 $$
-2\mathrm{NH_3 \Longrightarrow NH_4^+ + NH_2^-}
+2\mathrm{NH_3 \rightleftharpoons NH_4^+ + NH_2^-}
 $$
 
 $$
@@ -144,7 +153,7 @@ $$
 $$
 
 $$
-2\mathrm{H_2O \Longrightarrow H_3O^+ + OH^-}
+2\mathrm{H_2O \rightleftharpoons H_3O^+ + OH^-}
 $$
 
 $$
@@ -162,13 +171,13 @@ $$
 **Reaction with air/oxygen:** Ammonia does not burn in air but burns freely in free oxygen with a yellowish flame to give nitrogen and steam.
 
 $$
-4\mathrm{NH_3 + 3O_2} \longrightarrow 2\mathrm{N_2 + 6H_2O}
+4\mathrm{NH_3 + 3O_2} \rightleftharpoons 2\mathrm{N_2 + 6H_2O}
 $$
 
 In presence of catalyst like platinum, it burns to produce nitric oxide. This process is used for the manufacture of nitric acid and is known as Ostwald's process.
 
 $$
-4\mathrm{NH_3 + 5O_2} \longrightarrow 4\mathrm{NO + 6H_2O}
+4\mathrm{NH_3 + 5O_2} \rightleftharpoons 4\mathrm{NO + 6H_2O}
 $$
 
 **Reducing property:** Ammonia acts as a reducing agent. It reduces the metal oxides to metal when passed over heated metallic oxide.
@@ -335,9 +344,12 @@ All metals with the exception of gold, platinum, rhodium, iridium and tantalum r
 
 With weak electropositive metals like tin, arsenic, antimony, tungsten and molybdenum, nitric acid gives metal oxides in which the metal is in the higher oxidation state and the acid is reduced to a lower oxidation state. The most common products evolved when nitric acid reacts with a metal are gases \( \mathrm{NO_2} \), NO and \( \mathrm{H_2O} \). Occasionally \( \mathrm{N_2} \), \( \mathrm{NH_2OH} \) and \( \mathrm{NH_3} \) are also formed.
 
-$$
-\mathrm{HNO_3 \xrightarrow{+5} NO_2 \xrightarrow{+4} NO_2 \xrightarrow{+3} HNO_2 \xrightarrow{+2} NO \xrightarrow{+1} N_2O \xrightarrow{0} N_2 \xrightarrow{-3} NH_3}
-$$
+
+
+| $+5$ | $+4$ | $+3$ | $+2$ | $+1$ | $0$ | $-3$ |
+| --- | --- | --- | --- | --- | --- | --- |
+| $\text{HNO}_3$ | $\text{NO}_2$ | $\text{HNO}_2$ | $\text{NO}$ | $\text{N}_2\text{O}$ | $\text{N}_2$ | $\text{NH}_3$ |
+
 
 The reactions of metals with nitric acid are explained in 3 steps as follows:
 
@@ -349,37 +361,26 @@ $$
 
 **Secondary reaction:** Nascent hydrogen produces the reduction products of nitric acid.
 
-$$
-\mathrm{HNO_3 + 2(H)} \longrightarrow \mathrm{HNO_2 + H_2O}
-$$
+$$\text{HNO}_3 + 2[\text{H}] \longrightarrow \underset{\text{Nitrous acid}}{\text{HNO}_2} + \text{H}_2\text{O}$$
 
-$$
-\mathrm{HNO_3 + 6(H)} \longrightarrow \mathrm{NH_2OH + 2H_2O}
-$$
 
-$$
-\mathrm{HNO_3 + 8(H)} \longrightarrow \mathrm{NH_3 + 3H_2O}
-$$
+$$\text{HNO}_3 + 6[\text{H}] \longrightarrow \underset{\text{Hydroxylamine}}{\text{NH}_2\text{OH}} + 2\text{H}_2\text{O}$$
 
-$$
-2\mathrm{HNO_3 + 8(H)} \longrightarrow \mathrm{H_2N_2O_2 + 4H_2O}
-$$
+
+$$\text{HNO}_3 + 8[\text{H}] \longrightarrow \underset{\text{Ammonia}}{\text{NH}_3} + 3\text{H}_2\text{O}$$
+
+
+$$2\text{HNO}_3 + 8[\text{H}] \longrightarrow \underset{\text{Hyponitrous acid}}{\text{H}_2\text{N}_2\text{O}_2} + 4\text{H}_2\text{O}$$
+
 
 **Tertiary reaction:** The secondary products either decompose or react to give final products
 
 Decomposition of the secondary:
+$$3\text{HNO}_2 \longrightarrow \underset{\text{Nitric acid}}{\text{HNO}_3} + 2\underset{\text{Nitric oxide}}{\text{NO}} + \text{H}_2\text{O}$$
 
-$$
-3\mathrm{HNO_2} \longrightarrow \mathrm{HNO_3 + 2NO_2 + H_2O}
-$$
+$$2\text{HNO}_2 \longrightarrow \underset{\text{Dinitrogentrioxide}}{\text{N}_2\text{O}_3} + \text{H}_2\text{O}$$
 
-$$
-2\mathrm{HNO_2} \longrightarrow \mathrm{N_2O_3 + H_2O}
-$$
-
-$$
-\mathrm{H_2N_2O_2} \longrightarrow \mathrm{N_2O + H_2O}
-$$
+$$\text{H}_2\text{N}_2\text{O}_2 \longrightarrow \underset{\text{Nitrous oxide}}{\text{N}_2\text{O}} + \text{H}_2\text{O}$$
 
 Reaction of secondary products:
 
@@ -485,7 +486,7 @@ The freshly prepared white phosphorus is colourless but becomes pale yellow due 
 
 The white phosphorus can be changed into red phosphorus by heating it to \( 420^{\circ}\mathrm{C} \) in the absence of air and light. Unlike white phosphorus it is not poisonous and does not show phosphorescence. It also does not ignite at low temperatures. The red phosphorus can be converted back into white phosphorus by boiling it in an inert atmosphere and condensing the vapour under water.
 
-The black phosphorus has a layer structure and also acts as a semiconductor. The four atoms in white phosphorus have polymeric structure with chains of \( \mathrm{P_4} \) linked tetrahedrally. Unlike nitrogen, \( \mathrm{P=P} \) is less stable than P-P single bonds. Hence, phosphorus atoms are linked through single bonds rather than triple bonds. In addition to the above two more allotropes namely scarlet and violet phosphorus are also known for phosphorus.
+The black phosphorus has a layer structure and also acts as a semiconductor. The four atoms in white phosphorus have polymeric structure with chains of \( \mathrm{P_4} \) linked tetrahedrally. Unlike nitrogen, \( \mathrm{P≡P} \) is less stable than P-P single bonds. Hence, phosphorus atoms are linked through single bonds rather than triple bonds. In addition to the above two more allotropes namely scarlet and violet phosphorus are also known for phosphorus.
 
 ![](img3.3.png)
 
@@ -495,58 +496,31 @@ Phosphorus is highly reactive and has the following important chemical propertie
 
 **Reaction with oxygen:** Yellow phosphorus readily catches fire in air giving dense white fumes of phosphorus pentoxide. Red phosphorus also reacts with oxygen on heating to give phosphorus trioxide or phosphorus pentoxide.
 
-\[
-P_4 + 3O_2 \xrightarrow{\Delta} P_4O_6
-\]
-Phosphorus trioxide
+$$P_4 + 3O_2 \xrightarrow{\Delta} \underset{\text{Phosphorous trioxide}}{P_4O_6}$$
 
-\[
-P_4 + 5O_2 \xrightarrow{\Delta} P_4O_{10}
-\]
-Phosphorus pentaoxide
+$$P_4 + 5O_2 \xrightarrow{\Delta} \underset{\text{Phosphorous pentoxide}}{P_4O_{10}}$$
 
 **Reaction with chlorine:** Phosphorus reacts with chlorine to form tri and penta chloride. Yellow phosphorus reacts violently at room temperature, while red phosphorus reacts on heating
 
-\[
-P_4 + 6Cl_2 \xrightarrow{\Delta} 4PCl_3
-\]
-Phosphorus trichloride
+$$P_4 + 6Cl_2 \longrightarrow \underset{\text{Phosphorous tri chloride}}{4PCl_3}$$
 
-\[
-P_4 + 10Cl_2 \xrightarrow{\Delta} 4PCl_5
-\]
-Phosphorus pentachloride
+$$P_4 + 10Cl_2 \longrightarrow \underset{\text{Phosphorous penta chloride}}{4PCl_5}$$
 
 **Reaction with alkali:** Yellow phosphorus reacts with alkali on boiling in an inert atmosphere liberating phosphine. Here phosphorus acts as reducing agent.
 
-\[
-P_4 + 3NaOH + 3H_2O \xrightarrow{\Delta} 3NaH_2PO_2 + PH_3\uparrow
-\]
-Sodium hypophosphite
+$$P_4 + 3NaOH + 3H_2O \longrightarrow \underset{\text{sodium hypo phosphite}}{3NaH_2PO_2} + \underset{\text{Phosphine}}{PH_3}\uparrow$$
 
 **Reaction with nitric acid:** When phosphorus is treated with conc. nitric acid it is oxidised to phosphoric acid. This reaction is catalysed by iodine crystals.
 
-\[
-P_4 + 20HNO_3 \xrightarrow{\Delta} 4H_3PO_4 + 20NO_2 + 4H_2O
-\]
-Orthophosphoric acid
+$$P_4 + 20HNO_3 \longrightarrow \underset{\text{Ortho phosphoric acid}}{4H_3PO_4} + 20NO_2 + 4H_2O$$
 
 **Reaction with metals:** Phosphorus reacts with metals like Ca and Mg to give phosphides. Metals like sodium and potassium react with phosphorus vigorously.
 
-\[
-P_4 + 6Mg \xrightarrow{\Delta} 2Mg_3P_2
-\]
-Magnesium phosphide
+$$P_4 + 6Mg \longrightarrow \underset{\text{Magnesium phosphide}}{2Mg_3P_2}$$
 
-\[
-P_4 + 6Ca \xrightarrow{\Delta} 2Ca_3P_2
-\]
-Calcium phosphide
+$$P_4 + 6Ca \longrightarrow \underset{\text{Calcium phosphide}}{2Ca_3P_2}$$
 
-\[
-P_4 + 12Na \xrightarrow{\Delta} 4Na_3P
-\]
-Sodium phosphide
+$$P_4 + 12Na \longrightarrow \underset{\text{Sodium phosphide}}{4Na_3P}$$
 
 ---
 
@@ -563,95 +537,55 @@ Phosphine is the most important hydride of phosphorus
 
 Phosphine is prepared by action of sodium hydroxide with white phosphorus in an inert atmosphere of carbon dioxide or hydrogen.
 
-$$
-P_4 + 3NaOH + 3H_2O \rightarrow 3NaH_2PO_2 + PH_3 \uparrow
-$$
+$$P_4 + 3NaOH + 3H_2O \longrightarrow \underset{\text{sodium hypo phosphite}}{3NaH_2PO_2} + \underset{\text{Phosphine}}{PH_3}\uparrow$$
 
 Phosphine is freed from phosphine dihydride (\( P_2H_4 \)) by passing through a freezing mixture. The dihydride condenses while phosphine does not.
 
 Phosphine can also prepared by the hydrolysis of metallic phosphides with water or dilute mineral acids.
 
-$$
-\text{Ca}_3\text{P}_2 + 6\text{H}_2\text{O} \rightarrow 2\text{PH}_3 \uparrow + 3\text{Ca(OH)}_2
-$$
+$$Ca_3P_2 + 6H_2O \longrightarrow \underset{\text{Phosphine}}{2PH_3}\uparrow + 3Ca(OH)_2$$
 
-Phosphine
+$$AlP + 3HCl \longrightarrow \underset{\text{Phosphine}}{PH_3}\uparrow + AlCl_3$$
 
-$$
-\text{AlP} + 3\text{HCl} \rightarrow \text{PH}_3 \uparrow + \text{AlCl}_3
-$$
-
-Phosphine
-
-Phosphine is prepared in pure form by heating phosphorous acid.
-
-$$
-4\text{H}_3\text{PO}_3 \xrightarrow{\Delta} 3\text{H}_3\text{PO}_4 + \text{PH}_3 \uparrow
-$$
-
-Phosphorous acid
-
-Ortho phosphoric acid
-
-Phosphine
+$$\underset{\text{Phosphorous acid}}{4H_3PO_3} \xrightarrow{\Delta} \underset{\text{Ortho phosphoric acid}}{3H_3PO_4} + \underset{\text{Phosphine}}{PH_3}\uparrow$$
 
 A pure sample of phosphine is prepared by heating phosphonium iodide with caustic soda solution.
 
-$$
-\text{PH}_4\text{I} + \text{NaOH} \xrightarrow{\Delta} \text{PH}_3 \uparrow + \text{NaI} + \text{H}_2\text{O}
-$$
+$$PH_4I + NaOH \xrightarrow{\Delta} \underset{\text{Phosphine}}{PH_3}\uparrow + NaI + H_2O$$
 
-Phosphine
-
-##### Physical properties
+**Physical properties:**
 
 It is colourless, poisonous gas with rotten fish smell. It is slightly soluble in water and is neutral to litmus test. It condenses to a colourless liquid at 188 K and freezes to a solid at 139.5 K.
 
-##### Chemical properties
+**Chemical properties:**
 
 **Thermal stability:** Phosphine decomposes into its elements when heated in absence of air at 317 K or when electric current is passed through it.
 
-$$
-4\mathrm{PH_3 \xrightarrow{317K}} \mathrm{P_4 + 6H_2}
-$$
+$$4PH_3 \xrightarrow{317K} P_4 + 6H_2$$
 
 **Combustion:** When phosphine is heated with air or oxygen it burns to give meta phosphoric acid.
 
-$$
-4\mathrm{PH_3 + 8O_2 \xrightarrow{\Delta}} \mathrm{P_4O_{10} + 6H_2O}
-$$
+$$4PH_3 + 8O_2 \xrightarrow{\Delta} \underset{\text{Phosphorous pentoxide}}{P_4O_{10}} + 6H_2O$$
 
-$$
-\mathrm{P_4O_{10} + 6H_2O \xrightarrow{\Delta}} 4\mathrm{HPO_3 + 4H_2O}
-$$
+$$P_4O_{10} + 6H_2O \xrightarrow{\Delta} \underset{\text{Meta phosphoric acid}}{4HPO_3} + 4H_2O$$
 
 **Basic nature:** Phosphine is weakly basic and forms phosphonium salts with halogen acids.
 
-$$
-\mathrm{PH_3 + HI} \longrightarrow \mathrm{PH_4I}
-$$
+$$PH_3 + HI \longrightarrow PH_4I$$
 
-$$
-\mathrm{PH_4I + H_2O} \longrightarrow \mathrm{PH_3 + H_3O^+ + I^-}
-$$
+$$PH_4I + H_2O \rightleftharpoons \underset{\text{Phosphine}}{PH_3} + H_3O^+ + I^-$$
 
 It reacts with halogens to give phosphorus penta halides.
 
-$$
-\mathrm{PH_3 + 4Cl_2} \longrightarrow \mathrm{PCl_5 + 3HCl}
-$$
+$$PH_3 + 4Cl_2 \longrightarrow PCl_5 + 3HCl$$
 
-**Reducing property:** Phosphine precipitates some metal as phosphide from their salt solutions.
+**Reducing property :** Phosphine precipitates some metal as phosphide from their salt solutions.
 
-$$
-3\mathrm{AgNO_3 + PH_3} \longrightarrow \mathrm{Ag_3P + 3HNO_3}
-$$
+$$3AgNO_3 + PH_3 \longrightarrow Ag_3P + 3HNO_3$$
 
 It forms coordination compounds with lewis acids such as boron trichloride.
 
-$$
-\mathrm{BCl_3 + PH_3} \longrightarrow [\mathrm{Cl_3B \longleftarrow :PH_3}]
-$$
+$$BCl_3 + PH_3 \longrightarrow \underset{\text{Coordination compound}}{[Cl_3B \leftarrow PH_3]}$$
 
 ##### Structure
 
@@ -797,7 +731,7 @@ The common physical properties of the group 16 elements are listed in the Table.
 
 ![](img1.png)
 ![](img2.png)
-#### 3.2.1 Oxygen
+#### 3.2Oxygen
 
 ##### Preparation
 
@@ -806,7 +740,7 @@ The atmosphere and water contain \( 23\% \) and \( 83\% \) by mass of oxygen res
 The decomposition of hydrogen peroxide in the presence of catalyst \( \mathrm{(MnO_2)} \) or by oxidation with potassium permanganate.
 
 $$
-2\mathrm{H_2O_2} \longrightarrow 2\mathrm{H_2O + O_2}
+2\mathrm{H_2O_2} \rightleftharpoons 2\mathrm{H_2O + O_2}
 $$
 
 $$
@@ -823,9 +757,7 @@ $$
 2\mathrm{BaO_2 \xrightarrow{\Delta}} 2\mathrm{BaO + O_2}
 $$
 
-$$
-2\mathrm{KClO_3 \xrightarrow{\Delta}} 2\mathrm{KCl + 3O_2}
-$$
+$$2\text{KClO}_3 \xrightarrow[\text{MnO}_2]{\Delta} 2\text{KCl} + 3\text{O}_2$$
 
 $$
 2\mathrm{KNO_3 \xrightarrow{\Delta}} 2\mathrm{KNO_2 + O_2}
@@ -835,13 +767,9 @@ $$
 
 Under ordinary condition oxygen exists as a diatomic gas. Oxygen is paramagnetic. Like nitrogen and fluorine, oxygen form strong hydrogen bonds. Oxygen exists in two allotropic forms namely dioxygen \( \mathrm{(O_2)} \) and ozone or trioxygen \( \mathrm{(O_3)} \). Although negligible amounts of ozone occurs at sea level it is formed in the upper atmosphere by the action of ultraviolet light. In the laboratory ozone is prepared by passing electrical discharge through oxygen. At a potential of 20,000 V about \( 10\% \) of oxygen is converted into ozone it gives a mixture known as ozonised oxygen. Pure ozone is obtained as a pale blue gas by the fractional distillation of liquefied ozonised oxygen.
 
-$$
-\mathrm{O_2 \longrightarrow 2(O)}
-$$
+$$\underset{\text{Oxygen}}{\text{O}_2} \rightleftharpoons \underset{\text{atomic oxygen}}{2(\text{O})}$$
 
-$$
-\mathrm{O_2 + (O) \longrightarrow O_3}
-$$
+$$\text{O}_2 + (\text{O}) \rightleftharpoons \underset{\text{Ozone}}{\text{O}_3}$$
 
 The ozone molecule has a bent shape and symmetrical with delocalised bonding between the oxygen atoms.
 
@@ -865,7 +793,7 @@ Ozone is commonly used for oxidation of organic compounds. In acidic solution oz
 2. It is used in welding (oxyacetylene welding).
 3. Liquid oxygen is used as fuel in rockets etc.
 
-#### 3.2.2 Allotropic forms of sulphur
+#### 3.2.1Allotropic forms of sulphur
 
 Sulphur exists in crystalline as well as amorphous allotropic forms. The crystalline form includes rhombic sulphur (\( \alpha \) sulphur) and monoclinic sulphur (\( \beta \) sulphur). Amorphous allotropic form includes plastic sulphur (\( \gamma \) sulphur), milk of sulphur and colloidal sulphur.
 
@@ -875,7 +803,7 @@ When molten sulphur is poured into cold water a yellow rubbery ribbon of plastic
 
 Sulphur also exists in liquid and gaseous states. At around \( 140^{\circ}\mathrm{C} \) the monoclinic sulphur melts to form mobile pale yellow liquid called \( \lambda \) sulphur. The vapour over the liquid sulphur consists of \( 90\% \) of \( \mathrm{S_8} \), \( \mathrm{S_7} \) and \( \mathrm{S_6} \) and small amount of mixture of \( \mathrm{S_2} \), \( \mathrm{S_3} \), \( \mathrm{S_4} \), \( \mathrm{S_5} \) molecules.
 
-#### 3.2.3 Sulphur dioxide
+#### 3.2.2 Sulphur dioxide
 
 ##### Preparation
 
@@ -915,71 +843,49 @@ Sulphur dioxide gas is found in volcanic eruptions. A large amount of sulphur di
 
 ##### Chemical properties
 
+
 Sulphur dioxide is an acidic oxide. It dissolves in water to give sulphurous acid.
 
-$$
-\mathrm{SO_2 + H_2O \rightleftharpoons H_2SO_3}
-$$
+$$SO_2 + H_2O \rightleftharpoons \underset{\text{Sulphurous acid}}{H_2SO_3}$$
 
-$$
-\mathrm{H_2SO_3 \rightleftharpoons 2H^+ + SO_3^{2-}}
-$$
+$$H_2SO_3 \rightleftharpoons 2H^+ + SO_3^{2-}$$
 
 **Reaction with sodium hydroxide and sodium carbonate:** Sulphur dioxide reacts with sodium hydroxide and sodium carbonate to form sodium bisulphite and sodium sulphite respectively.
 
-$$
-\mathrm{SO_2 + NaOH} \longrightarrow \mathrm{NaHSO_3}
-$$
+$$SO_2 + NaOH \longrightarrow \underset{\text{Sodium bisulphite}}{NaHSO_3}$$
 
-$$
-2\mathrm{SO_2 + Na_2CO_3 + H_2O} \longrightarrow 2\mathrm{NaHSO_3 + CO_2}
-$$
+$$2SO_2 + Na_2CO_3 + H_2O \longrightarrow 2NaHSO_3 + CO_2$$
 
-$$
-2\mathrm{NaHSO_3} \longrightarrow \mathrm{Na_2SO_3 + H_2O + SO_2}
-$$
+$$2 NaHSO_3 \longrightarrow \underset{\text{Sodium sulphite}}{Na_2SO_3} + H_2O + SO_2$$
 
-**Oxidising property:** Sulphur dioxide oxidises hydrogen sulphide to sulphur and magnesium to magnesium oxide.
+**Oxidising property:** Sulphur dioxide, oxidises hydrogen sulphide to sulphur and magnesium to magnesium oxide.
 
-$$
-2\mathrm{H_2S + SO_2} \longrightarrow 3\mathrm{S + 2H_2O}
-$$
+$$2H_2S + SO_2 \longrightarrow 3S + 2H_2O$$
 
-$$
-2\mathrm{Mg + SO_2} \longrightarrow 2\mathrm{MgO + S}
-$$
+$$2Mg + SO_2 \longrightarrow 2MgO + S$$
+
 
 **Reducing property:** As it can readily be oxidised, it acts as a reducing agent. It reduces chlorine into hydrochloric acid.
 
-$$
-\mathrm{SO_2 + 2H_2O + Cl_2} \longrightarrow \mathrm{H_2SO_4 + 2HCl}
-$$
+$$SO_2 + 2H_2O + Cl_2 \longrightarrow H_2SO_4 + 2HCl$$
 
-It also reduces potassium permanganate and dichromate to \( \mathrm{Mn^{2+}} \) and \( \mathrm{Cr^{3+}} \) respectively.
+It also reduces potassium permanganate and dichromate to $Mn^{2+}$ and $Cr^{3+}$ respectively.
 
-$$
-2\mathrm{KMnO_4 + 5SO_2 + 2H_2O} \longrightarrow \mathrm{K_2SO_4 + 2MnSO_4 + 2H_2SO_4}
-$$
+$$2KMnO_4 + 5SO_2 + 2H_2O \longrightarrow K_2SO_4 + 2MnSO_4 + 2H_2SO_4$$
 
-$$
-\mathrm{K_2Cr_2O_7 + 3SO_2 + H_2SO_4} \longrightarrow \mathrm{K_2SO_4 + Cr_2(SO_4)_3 + H_2O}
-$$
+$$K_2Cr_2O_7 + 3SO_2 + H_2SO_4 \longrightarrow K_2SO_4 + Cr_2(SO_4)_3 + H_2O$$
 
 **Reaction with oxygen:** Sulphur dioxide is oxidised to sulphur trioxide upon heating with oxygen at high temperature. This reaction is used for the manufacture of sulphuric acid by contact process.
 
-$$
-2\mathrm{SO_2(g) + O_2(g) \xrightarrow[450^{\circ}\mathrm{C}]{V_2O_5}} 2\mathrm{SO_3(g)}
-$$
+$$2SO_2(g) + O_2(g) \xrightarrow[450^\circ C]{V_2O_5} 2SO_3(g)$$
 
 **Bleaching action of sulphur dioxide:** In presence of water, sulphur dioxide bleaches coloured wool, silk, sponges and straw into colourless due to its reducing property.
 
-$$
-\mathrm{SO_2 + 2H_2O} \longrightarrow \mathrm{H_2SO_4 + 2(H)}
-$$
+$$SO_2 + 2H_2O \longrightarrow H_2SO_4 + 2(H)$$
 
-$$
-\mathrm{X_{Coloured} + 2(H)} \longrightarrow \mathrm{XH_2}
-$$
+$$\underset{\text{Coloured}}{X} + 2(H) \longrightarrow \underset{\text{Colourless}}{XH_2}$$
+
+
  
 However, the bleached product (colourless) when allowed to stand in air, is reoxidised by atmospheric oxygen to its original colour. Hence bleaching action of sulphur dioxide is temporary.
 
@@ -994,7 +900,7 @@ In sulphur dioxide, sulphur atom undergoes \( \mathrm{sp^2} \) hybridisation. A 
 
 ![](img3.9.png)
 
-#### 3.2.4 Sulphuric acid \( \mathrm{(H_2SO_4)} \)
+#### 3.2.3 Sulphuric acid \( \mathrm{(H_2SO_4)} \)
 
 ##### Preparation
 
@@ -1005,7 +911,10 @@ Sulphuric acid can be manufactured by lead chamber process, cascade process or c
 The contact process involves the following steps:
 
 i. Initially sulphur dioxide is produced by burning sulphur or iron pyrites in oxygen/air.
-![](sulphuric1.png)
+
+$$S + O_2 \longrightarrow SO_2$$
+
+$$4FeS_2 + 11O_2 \longrightarrow 2Fe_2O_3 + 8SO_2$$
 
 ii. Sulphur dioxide formed is oxidised to sulphur trioxide by air in the presence of a catalyst such as \( \mathrm{V_2O_5} \) or platinised asbestos.
 
@@ -1025,17 +934,11 @@ The acid freezes at 283.4 K and boils at 590 K. It is highly soluble in water an
 
 The dehydrating property can also be illustrated by its reaction with organic compounds such as sugar, oxalic acid and formic acid.
 
-$$
-\mathrm{C_{12}H_{22}O_{11} + H_2SO_4} \longrightarrow 12\mathrm{C + H_2SO_4.11H_2O}
-$$
+$$\underset{\text{Sucrose}}{C_{12}H_{22}O_{11}} + H_2SO_4 \longrightarrow 12C + H_2SO_4.11H_2O$$
 
-$$
-\mathrm{HCOOH + H_2SO_4} \longrightarrow \mathrm{CO + H_2SO_4.H_2O}
-$$
+$$\underset{\text{Formic acid}}{HCOOH} + H_2SO_4 \longrightarrow CO + H_2SO_4.H_2O$$
 
-$$
-\mathrm{(COOH)_2 + H_2SO_4} \longrightarrow \mathrm{CO + CO_2 + H_2SO_4.H_2O}
-$$
+$$\underset{\text{Oxalic acid}}{(COOH)_2} + H_2SO_4 \longrightarrow CO + CO_2 + H_2SO_4.H_2O$$
 
 ##### Chemical Properties
 
@@ -1048,24 +951,14 @@ $$
 $$
 
 **Acidic nature:** It is a strong dibasic acid. Hence it forms two types of salts namely sulphates and bisulphates.
+$$H_2SO_4 + NaOH \longrightarrow \underset{\text{sodium bisulphate}}{NaHSO_4} + H_2O$$
 
-$$
-\mathrm{H_2SO_4 + NaOH} \longrightarrow \mathrm{NaHSO_4 + H_2O}
-$$
+$$H_2SO_4 + 2NaOH \longrightarrow \underset{\text{sodium sulphate}}{Na_2SO_4} + 2H_2O$$
 
-$$
-\mathrm{H_2SO_4 + 2NaOH} \longrightarrow \mathrm{Na_2SO_4 + 2H_2O}
-$$
-
-$$
-\mathrm{H_2SO_4 + 2NH_3} \longrightarrow \mathrm{(NH_4)_2SO_4}
-$$
-
+$$H_2SO_4 + 2NH_3 \longrightarrow \underset{\text{Ammonium sulphate}}{(NH_4)_2SO_4}$$
 **Oxidising property:** Sulphuric acid is an oxidising agent as it produces nascent oxygen as shown below.
 
-$$
-\mathrm{H_2SO_4} \longrightarrow \mathrm{H_2O + SO_2 + (O)}
-$$
+$$H_2SO_4 \longrightarrow H_2O + SO_2 + \underset{\text{nascent oxygen}}{(O)}$$
 
 Sulphuric acid oxidises elements such as carbon, sulphur and phosphorus. It also oxidises bromide and iodide to bromine and iodine respectively.
 
@@ -1138,7 +1031,7 @@ $$
 **Reaction with organic compounds:** It reacts with organic compounds such as benzene to give sulphonic acids.
 
 $$
-\mathrm{C_6H_6 + H_2SO_4} \longrightarrow \mathrm{C_6H_5SO_3H + H_2O}
+\underset{\text{Benzene}}{C_6H_6 + H_2SO_4} \longrightarrow \underset{\text{Benzene sulphonic acid}}{C_6H_5SO_3H + H_2O}
 $$
 
 ##### Uses of sulphuric acid
@@ -1150,13 +1043,9 @@ $$
 
 Dilute solution of sulphuric acid/aqueous solution of sulphates gives white precipitate (barium sulphate) with barium chloride solution. It can also be detected using lead acetate solution. Here a white precipitate of lead sulphate is obtained.
 
-$$
-\mathrm{BaCl_2 + H_2SO_4} \longrightarrow \mathrm{BaSO_4 \downarrow + 2HCl}
-$$
+$$\text{BaCl}_2 + \text{H}_2\text{SO}_4 \longrightarrow \underset{\substack{\text{Barium sulphate} \\ \text{(White precipitate)}}}{\text{BaSO}_4}\downarrow + 2\text{HCl}$$
 
-$$
-\mathrm{(CH_3COO)_2Pb + H_2SO_4} \longrightarrow \mathrm{PbSO_4 \downarrow + 2CH_3COOH}
-$$
+$$(\text{CH}_3\text{COO})_2\text{Pb} + \text{H}_2\text{SO}_4 \longrightarrow \underset{\substack{\text{Lead sulphate} \\ \text{(White precipitate)}}}{\text{PbSO}_4}\downarrow + 2\text{CH}_3\text{COOH}$$
 
 ##### Structure of oxoacids of sulphur
 
@@ -1190,7 +1079,7 @@ The common physical properties of the group 17 elements are listed in the table.
 | Electronic configuration | \( [\mathrm{He}]2s^2 2p^5 \) | \( [\mathrm{Ne}]3s^2 3p^5 \) | \( [\mathrm{Ar}]3d^{10} 4s^2 4p^5 \) | \( [\mathrm{Kr}]4d^{10} 5s^2 5p^5 \) | \( [\mathrm{Xe}]4f^{14}5d^{10}6s^2 6p^5 \) |
 | Atomic radius (Å) | 1.47 | 1.75 | 1.85 | 1.98 | 2.02 |
 | Density (g cm\(^{-3}\) at 293 K) | \( 1.55 \times 10^{-3} \) | \( 2.89 \times 10^{-3} \) | 3.10 | 4.93 | — |
-| Melting point (K) | 53 | 172 | 266 | 387 | 573 |
+| Melting point (K) | 53 | 171 | 266 | 387 | 573 |
 | Boiling point (K) | 85 | 239 | 332 | 457 | 623 |
 
 ##### Properties
@@ -1246,7 +1135,7 @@ $$
 $$
 \mathrm{H_2O \longrightarrow H^+ + OH^-}
 $$
-
+$$\text{Na}^+ + \text{OH}^- \longrightarrow \text{NaOH}$$
 At the cathode:
 
 $$
@@ -1275,17 +1164,11 @@ $$
 
 The chlorine obtained by this method is dilute and is employed for the manufacture of bleaching powder. The catalysed reaction is given below:
 
-$$
-2\mathrm{Cu_2Cl_2 + O_2} \longrightarrow 2\mathrm{Cu_2OCl_2}
-$$
+$$2\text{Cu}_2\text{Cl}_2 + \text{O}_2 \longrightarrow \underset{\text{Cuprous oxy chloride}}{2\text{Cu}_2\text{OCl}_2}$$
 
-$$
-\mathrm{Cu_2OCl_2 + 2HCl} \longrightarrow 2\mathrm{CuCl_2 + H_2O}
-$$
+$$\text{Cu}_2\text{OCl}_2 + 2\text{HCl} \longrightarrow \underset{\text{Cupric chloride}}{2\text{CuCl}_2} + \text{H}_2\text{O}$$
 
-$$
-2\mathrm{CuCl_2} \longrightarrow 2\mathrm{Cu_2Cl_2 + Cl_2}
-$$
+$$2\text{CuCl}_2 \longrightarrow \underset{\text{Cuprous chloride}}{\text{Cu}_2\text{Cl}_2} + \text{Cl}_2$$
 
 ##### Physical properties
 
@@ -1412,7 +1295,7 @@ $$
 Overall reaction
 
 $$
-\mathrm{Cl_2 + 2NaOH} \longrightarrow \mathrm{NaOCl + NaCl + H_2O}
+\mathrm{Cl_2 + 2NaOH} \longrightarrow \underset{\text{Sodium hypo chlorite}}{NaOCl + NaCl + H_2O}
 $$
 
 $$
@@ -1434,7 +1317,7 @@ $$
 overall reaction
 
 $$
-3Cl_2 + 6NaOH \rightarrow NaClO_3 + 5NaCl + 3H_2O
+3Cl_2 + 6NaOH \rightarrow \underset{\text{Sodium chlorate}}{NaClO_3} + 5NaCl + 3H_2O
 $$
 
 sodium chlorate
@@ -1442,7 +1325,7 @@ sodium chlorate
 **Oxidising and bleaching action:** Chlorine is a strong oxidising and bleaching agent because of the nascent oxygen.
 
 $$
-\mathrm{H_2O + Cl_2} \longrightarrow \mathrm{HCl + HOCl}
+\mathrm{H_2O + Cl_2} \longrightarrow \mathrm{HCl} +\underset{\text{Hypo chlorous acid}} {HOCl}
 $$
 
 $$
@@ -1506,31 +1389,15 @@ $$
 $$
 
 **Formation of addition compounds:** Chlorine forms addition products with sulphur dioxide, carbon monoxide and ethylene. It forms substituted products with alkanes/arenes.
+$$\text{SO}_2 + \text{Cl}_2 \longrightarrow \underset{\text{Sulphuryl chloride}}{\text{SO}_2\text{Cl}_2}$$
 
-\[
-SO_2 + Cl_2 \rightarrow SO_2Cl_2
-\]
+$$\text{CO} + \text{Cl}_2 \longrightarrow \underset{\text{Carbonyl chloride}}{\text{COCl}_2}$$
 
+$$\text{C}_2\text{H}_4 + \text{Cl}_2 \longrightarrow \underset{\text{ethylene dichloride}}{\text{C}_2\text{H}_4\text{Cl}_2}$$
 
-\[
-CO + Cl_2 \rightarrow COCl_2
-\]
+$$\text{CH}_4 + \text{Cl}_2 \longrightarrow \text{CH}_3\text{Cl} + \text{HCl}$$
 
-
-\[
-CH_4 + 2Cl_2 \rightarrow CH_2Cl_2
-\]
-
-
-\[
-CH_4 + Cl_2 \rightarrow CH_3Cl + HCl
-\]
-
-
-\[
-CH_4 + Cl_2 \rightarrow CH_3Cl + HCl
-\]
-
+$$\text{C}_6\text{H}_6 + \text{Cl}_2 \xrightarrow{\text{FeCl}_3} \text{C}_6\text{H}_5\text{Cl} + \text{HCl}$$
 ##### Uses of chlorine
 
 1. Purification of drinking water
@@ -1651,7 +1518,7 @@ Hydrogen chloride is obtained as a by-product of the reactions between hydrocarb
 | | HF | HCl | HBr | HI |
 |---|---|---|---|---|
 | Bond dissociation enthalpy (kJ mol\(^{-1}\)) | +562 | +431 | +366 | +299 |
-| % of ionic character | 43 | 13 | 7 | 3 |
+| % of ionic character | 43 | 17 | 13 | 7 |
 
 In line with the decreasing bond dissociation enthalpy, the thermal stability of hydrogen halides decreases from fluoride to iodide.
 
@@ -1664,17 +1531,17 @@ At room temperature, hydrogen halides are gases but hydrogen fluoride can be rea
 The hydrogen halides are extremely soluble in water due to the ionisation.
 
 $$
-\mathrm{HX + H_2O} \longrightarrow \mathrm{H_3O^+ + X^-} \ (\text{X = F, Cl, Br, or I})
+\mathrm{HX + H_2O} \longrightarrow \mathrm{H_3O^+ + X^-} \ (\text{X - F, Cl, Br, or I})
 $$
 
 Solutions of hydrogen halides are therefore acidic and known as hydrohalic acids. Hydrochloric, hydrobromic and hydroiodic acids are almost completely ionised and are therefore strong acids but HF is a weak acid i.e. \( 0.1\ \mathrm{mM} \) solution is only \( 10\% \) ionised, but in 5M and 15M solution HF is stronger acid due to the equilibrium.
 
 $$
-\text{HF} + \text{H}_2\text{O} \longrightarrow \text{H}_3\text{O}^+ + \text{F}^-
+\text{HF} + \text{H}_2\text{O} \rightleftharpoons \text{H}_3\text{O}^+ + \text{F}^-
 $$
 
 $$
-\text{HF} + \text{F}^- \longrightarrow \text{HF}_2^-
+\text{HF} + \text{F}^- \rightleftharpoons \text{HF}_2^-
 $$
 
 At high concentration, the equilibrium involves the removal of fluoride ions which affects the dissociation of hydrogen fluoride and increases hydrogen ion concentration. Several stable salts \( \mathrm{NaHF_2} \), \( \mathrm{KHF_2} \) and \( \mathrm{NH_4HF_2} \) are known. The other hydrogen halides do not form hydrogen dihalides.
@@ -1767,17 +1634,9 @@ vi. They are strong oxidizing agents.
 
 When heated with alkalis, the larger halogen forms oxyhalogens and the smaller forms halide.
 
-$$
-\text{BrF}_5 \xrightarrow{-\text{OH}} 5\text{F}^- + \text{BrO}_3^-
-$$
+$$\text{BrF}_5 \xrightarrow{^-\text{OH}} 5\text{F}^- + \underset{\text{Bromate ion}}{\text{BrO}_3^-}$$
 
-Bromate ion
-
-$$
-\text{ICl} \xrightarrow{-\text{OH}} \text{Cl}^- + \text{I}^-
-$$
-
-Hypo iodide ion
+$$\text{ICl} \xrightarrow{^-\text{OH}} \text{Cl}^- + \underset{\text{Hypo iodite ion}}{\text{OI}^-}$$
 
 ##### Structure of inter halogen compounds
 
@@ -1857,19 +1716,11 @@ As we move along the noble gas elements, their atomic radius and boiling point i
 ##### Chemical Properties
 
 Only xenon and krypton show some chemical reactivity. Xenon fluorides are prepared by direct reaction of xenon and fluorine under different conditions as shown below.
+$$\text{Xe} + \text{F}_2 \xrightarrow[400^\circ\text{C}]{\text{Ni}} \text{XeF}_2$$
 
-$$
-\mathrm{Xe + F_2 \xrightarrow{Ni} XeF_2}
-$$
+$$\text{Xe} + 2\text{F}_2 \xrightarrow[400^\circ\text{C}]{\text{Ni / acetone}} \text{XeF}_4$$
 
-$$
-\mathrm{Xe + 2F_2 \xrightarrow[Ni]{aceton?} XeF_4}
-$$
-
-$$
-\mathrm{Xe + 3F_2 \xrightarrow[Ni]{200\ atm} XeF_6}
-$$
-
+$$\text{Xe} + 3\text{F}_2 \xrightarrow[400^\circ\text{C}]{\text{Ni / 200 atm}} \text{XeF}_6$$
 When \( \mathrm{XeF_6} \) is heated at \( 50^{\circ}\mathrm{C} \) in a sealed quartz vessel it forms \( \mathrm{XeOF_4} \)
 
 $$
