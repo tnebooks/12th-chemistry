@@ -1,8 +1,8 @@
 ﻿---
 choices:
   - "1s² 2s² 2p⁴"
+  - "1s² 2s² 2p³"
   - "1s² 2s² 2p⁶ 3s² 3p²"
-  - "1s² 2s² 2p⁶ 3s² 2p³"
 answers:
   - "1s² 2s² 2p⁶ 3s² 3p³"
 ---
