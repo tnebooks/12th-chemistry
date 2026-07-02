@@ -219,37 +219,28 @@ Using these values the edge length of the unit cell can be calculated.
 
 #### 6.5.5 Calculation of density:
 
-Using the edge length of a unit cell, we can calculate the density \((\rho)\) of the crystal by considering a cubic unit cell as follows.
 
-$$
-\text{Density of the unit cell } \rho = \frac{\text{mass of the unit cell}}{\text{volume of the unit cell}}
-$$
+Using the edge length of a unit cell, we can calculate the density ($\rho$) of the crystal by considering a cubic unit cell as follows:
 
-$$
-\text{mass of the unit cell} = \left( \text{total number of atoms belongs to that unit cell} \right) \times \left( \text{mass of one atom} \right)
-$$
+$$\text{Density of the unit cell, } \rho = \frac{\text{mass of the unit cell}}{\text{volume of the unit cell}} \quad \text{--- (1)}$$
 
-$$
-\text{mass of one atom} = \frac{\text{molar mass } (M \ g \ mol^{-1})}{\text{Avogadro number } (N_A \ mol^{-1})} = \frac{M}{N_A}
-$$
+$$\text{mass of the unit cell} = \left[ \begin{gathered} \text{total number of} \\ \text{atoms belongs to} \\ \text{that unit cell} \end{gathered} \right] \times \left[ \begin{gathered} \text{mass of} \\ \text{one atom} \end{gathered} \right] \quad \text{--- (2)}$$
 
-Substitute (3) in (2)
+$$\text{mass of one atom, } m = \frac{\text{molar mass } (\text{g mol}^{-1})}{\text{Avogadro number } (\text{mol}^{-1})}$$
+$$m = \frac{M}{N_A} \quad \text{--- (3)}$$
 
-$$
-\text{mass of the unit cell} = n \times \frac{M}{N_A}
-$$
+Substitute equation (3) in (2):
+$$\text{mass of the unit cell} = n \times \frac{M}{N_A} \quad \text{--- (4)}$$
 
-For a cubic unit cell, all the edge lengths are equal i.e, \(a = b = c\)
+For a cubic unit cell, all the edge lengths are equal i.e., $a = b = c$:
+$$\text{volume of the unit cell} = a \times a \times a = a^3 \quad \text{--- (5)}$$
 
-$$
-\text{volume of the unit cell} = a \times a \times a = a^3
-$$
+Substituting equations (4) and (5) into equation (1):
+$$\therefore \text{Density of the unit cell, } \rho = \frac{n M}{a^3 N_A} \quad \text{--- (6)}$$
 
-$$
-\therefore \text{Density of the unit cell } \rho = \frac{nM}{a^3 N_A}
-$$
+Equation (6) contains four variables namely $\rho$, $n$, $M$ and $a$. If any three variables are known, the fourth one can be calculated.
 
-Equation (6) contains four variables namely \(\rho\), \(n\), \(M\) and \(a\). If any three variables are known, the fourth one can be calculated.
+
 
 **Example 1**
 
@@ -335,20 +326,19 @@ $$
 Let us consider a cube with an edge length \(a\) as shown in fig. Volume of the cube with edge length a is \(= a \times a \times a = a^3\)
 
 Let \(r\) be the radius of the sphere. From the figure, \(a = 2r \Rightarrow r = \frac{a}{2}\)
+$\therefore$ Volume of the sphere with radius '$r$'
+$$= \frac{4}{3} \pi r^3$$
+$$= \frac{4}{3} \pi \left(\frac{a}{2}\right)^3$$
+$$= \frac{4}{3} \pi \left(\frac{a^3}{8}\right)$$
+$$= \frac{\pi a^3}{6} \quad \text{... (1)}$$
 
-Volume of the sphere with radius \(r\)
+In a simple cubic arrangement, number of spheres belongs to a unit cell is equal to one
+$$\therefore \begin{gathered} \text{Total volume} \\ \text{occupied by the} \\ \text{spheres in sc unit cell} \end{gathered} = 1 \times \left( \frac{\pi a^3}{6} \right) \quad \text{... (2)}$$
 
-$$
-= \frac{4}{3}\pi r^3 = \frac{4}{3}\pi \left(\frac{a}{2}\right)^3 = \frac{4}{3}\pi \left(\frac{a^3}{8}\right) = \frac{\pi a^3}{6}
-$$
+Dividing (2) by (3)
 
-In a simple cubic arrangement, number of spheres belongs to a unit cell is equal to one.
-
-Total volume occupied by the spheres in sc unit cell
-
-$$
-\text{Packing fraction} = \frac{\left(\frac{\pi a^3}{6}\right)}{(a^3)} \times 100 = \frac{100\pi}{6} = 52.38\%
-$$
+$$\text{Packing fraction} = \frac{\left( \frac{\pi a^3}{6} \right)}{(a^3)} \times 100 = \frac{100 \pi}{6}$$
+$$= 52.38\%$$
 
 i.e., only \(52.38\%\) of the available volume is occupied by the spheres in simple cubic packing, making inefficient use of available space and hence minimizing the attractive forces.
 
@@ -386,28 +376,24 @@ $$
 AG = \sqrt{AC^2 + CG^2} = \sqrt{(\sqrt{2}a)^2 + a^2} = \sqrt{2a^2 + a^2} = \sqrt{3a^2} = \sqrt{3}a
 $$
 
-i.e., \(\sqrt{3}a = 4r \Rightarrow r = \frac{\sqrt{3}}{4}a\)
+i.e., $\quad \sqrt{3}a = 4r$
+$$r = \frac{\sqrt{3}}{4}a$$
 
-Volume of the sphere with radius \(r\)
-
-$$
-= \frac{4}{3}\pi r^3 = \frac{4}{3}\pi \left(\frac{\sqrt{3}}{4}a\right)^3 = \frac{\sqrt{3}}{16}\pi a^3
-$$
+$\therefore$ Volume of the sphere with radius '$r$'
+$$= \frac{4}{3}\pi r^3$$
+$$= \frac{4}{3}\pi \left( \frac{\sqrt{3}}{4}a \right)^3$$
+$$= \frac{\sqrt{3}}{16}\pi a^3 \quad \text{...(1)}$$
 
 Number of spheres belong to a unit cell in bcc arrangement is equal to two and hence the total volume of all spheres
+$$= 2 \times \left( \frac{\sqrt{3}\pi a^3}{16} \right) = \frac{\sqrt{3}\pi a^3}{8}$$
 
-$$
-= 2 \times \left(\frac{\sqrt{3}\pi a^3}{16}\right) = \frac{\sqrt{3}\pi a^3}{8}
-$$
+Dividing (2) by (3)
 
-$$
-\text{Packing fraction} = \frac{\left(\frac{\sqrt{3}\pi a^3}{8}\right) \times 100}{(a^3)} = \frac{\sqrt{3}\pi}{8} \times 100
-$$
-
-$$
-= \sqrt{3}\pi \times 12.5 = 1.732 \times 3.14 \times 12.5 = 68\%
-$$
-
+$$\text{Packing fraction} = \frac{\left( \frac{\sqrt{3}\pi a^3}{8} \right)}{(a^3)} \times 100$$
+$$= \frac{\sqrt{3}\pi}{8} \times 100$$
+$$= \sqrt{3}\pi \times 12.5$$
+$$= 1.732 \times 3.14 \times 12.5$$
+$$= 68\%$$
 i.e., \(68\%\) of the available volume is occupied. The available space is used more efficiently than in simple cubic packing.
 
 #### 6.6.5 The hexagonal and face centered cubic arrangement:
@@ -618,4 +604,18 @@ In a body centered cubic unit cell, each corner is occupied by an identical part
 
 In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The coordination number is 12.
 
-X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data \(2d\sin \theta = n\lambda\). The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. Crystals always found to have some defects in the arrangement of their constituent particles. Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. Metal excess defect arises due to the presence of more number of metal ions as compared to anions. Metal deficiency defect arises due to the presence of less number of cations than the anions.
+X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data \(2d\sin \theta = n\lambda\).
+
+
+ The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. 
+ 
+
+ Crystals always found to have some defects in the arrangement of their constituent particles. 
+ 
+ Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. 
+ 
+ Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. 
+ 
+ Metal excess defect arises due to the presence of more number of metal ions as compared to anions. 
+ 
+ Metal deficiency defect arises due to the presence of less number of cations than the anions.
