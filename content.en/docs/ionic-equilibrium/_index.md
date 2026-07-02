@@ -153,9 +153,13 @@ The strength of acids and bases can be determined by the concentration of \(H_3O
 
 Let us quantitatively define the strength of an acid (HA) by considering the following general equilibrium.
 
-$$
-HA + H_2O \rightleftharpoons H_3O^+ + A^-
-$$
+
+\[
+\begin{array}{ccccccc}
+\mathrm{HA} & + & \mathrm{H_2O} & \rightleftharpoons & \mathrm{H_3O^+} & + & \mathrm{A^-} \\
+\text{acid 1} & & \text{base 2} & & \text{acid 2} & & \text{base 1}
+\end{array}
+\]
 
 The equilibrium constant for the above ionisation is given by the following expression
 
@@ -173,9 +177,13 @@ Here, \(K_a\) is called the ionisation constant or dissociation constant of the 
 
 Let us consider the dissociation of \(HCl\) in aqueous solution,
 
-$$
-HCl + H_2O \rightleftharpoons H_3O^+ + Cl^-
-$$
+
+\[
+\begin{array}{ccccccc}
+\mathrm{HCl} & + & \mathrm{H_2O} & \rightleftharpoons & \mathrm{H_3O^+} & + & \mathrm{Cl^-} \\
+\text{acid 1} & & \text{base 2} & & \text{acid 2} & & \text{base 1}
+\end{array}
+\]
 
 As discussed earlier, due to the complete dissociation, the equilibrium lies almost \(100\%\) to the right. i.e., the \(Cl^-\) ion has only a negligible tendency to accept a proton from \(H_3O^+\). It means that the conjugate base of a strong acid is a weak base and vice versa.
 
@@ -333,9 +341,21 @@ $$
 
 Calculate the pH of \(0.001 M\) \(HCl\) solution
 
-$$
-HCl \xrightarrow[H_2O]{0.001 M} H_3O^+ + Cl^-
-$$
+\[
+\begin{array}{ccc}
+\mathrm{HCl}
+&
+\overset{\mathrm{H_2O}}{\rightleftharpoons}
+&
+\mathrm{H_3O^+} + \mathrm{Cl^-}
+\\
+{\scriptstyle 0.001\,M}
+&
+&
+{\scriptstyle 0.001\,M \qquad 0.001\,M}
+\end{array}
+\]
+
 
 \(H_3O^+\) from the auto ionisation of \(H_2O (10^{-7} M)\) is negligible when compared to the \(H_3O^+\) from \(10^{-3} M\) \(HCl\).
 
@@ -615,7 +635,9 @@ OH^- (aq) + H_3O^+ (aq) \longrightarrow H_2O(l)
 $$
 
 $$
-CH_3COOH(aq) \xrightarrow{H_2O(l)} CH_3COO^- (aq) + H_3O^+ (aq)
+CH_3COOH(aq) 
+\overset{\mathrm{H_2O(l)}}{\rightleftharpoons}
+ CH_3COO^- (aq) + H_3O^+ (aq)
 $$
 
 Alternatively, we can also write
@@ -628,13 +650,31 @@ These neutralization reactions are identical to those reactions that we have alr
 
 Let us calculate the pH of a buffer solution containing \(0.8 M\) acetic acid and \(0.8 M\) sodium acetate. The dissociation constant of acetic acid is \(1.8 \times 10^{-5}\).
 
-$$
-CH_3COOH(aq) \xrightarrow[H_2O]{0.8 - \alpha} CH_3COO^- (aq) + H^+ (aq)
-$$
-
-$$
-CH_3COONa(aq) \xrightarrow[H_2O]{0.8} CH_3COO^- (aq) + Na^+ (aq)
-$$
+\[
+\begin{array}{ccc}
+\mathrm{CH_3COOH\,(aq)}
+&
+\overset{\mathrm{H_2O}}{\rightleftharpoons}
+&
+\mathrm{CH_3COO^{-}(aq)}+\mathrm{H^{+}(aq)}
+\\[-2pt]
+{\scriptstyle 0.8-\alpha}
+&
+&
+{\scriptstyle \alpha \qquad\qquad \alpha}
+\\[8pt]
+\mathrm{CH_3COONa(aq)}
+&
+\overset{\mathrm{H_2O}}{\rightarrow}
+&
+\mathrm{CH_3COO^{-}(aq)}+\mathrm{Na^{+}(aq)}
+\\[-2pt]
+{\scriptstyle 0.8}
+&
+&
+{\scriptstyle 0.8 \qquad\qquad 0.8}
+\end{array}
+\]
 
 The dissociation constant for \(CH_3COOH\) is given by
 
@@ -678,25 +718,74 @@ Given that the volume change due to the addition of \(NaOH\) is negligible. \([O
 
 The consumption of \(OH^-\) are expressed by the following equations.
 
-\(CH_3COOH\) reacts with \(OH^-\) to form \(CH_3COO^-\)
-
-$$
-CH_3COOH + OH^- \rightarrow CH_3COO^- + H_2O
-$$
+\[
+\begin{array}{ccc}
+\mathrm{CH_3COOH\,(aq)}
+&
+\rightleftharpoons
+&
+\mathrm{CH_3COO^{-}(aq)}+\mathrm{H^{+}(aq)}
+\\[-2pt]
+{\scriptstyle 0.8-\alpha}
+&
+&
+{\scriptstyle \alpha \qquad\qquad \alpha}
+\\[8pt]
+\mathrm{CH_3COONa(aq)}
+&
+\rightarrow
+&
+\mathrm{CH_3COO^{-}(aq)}+\mathrm{Na^{+}(aq)}
+\\[-2pt]
+{\scriptstyle 0.8}
+&
+&
+{\scriptstyle 0.8 \qquad\qquad 0.8}
+\end{array}
+\]
 
 The concentration of \(CH_3COOH\) decreases by \(0.01 M\) and the concentration of \(CH_3COO^-\) increases by \(0.01 M\). Thus after adding \(NaOH\),
 
-\([CH_3COOH] = 0.8 - 0.01 = 0.79 M\) and \([CH_3COO^-] = 0.8 + 0.01 = 0.81 M\)
-
-\(0.79 - \alpha = 0.79\) and \(0.81 + \alpha = 0.81\)
-
 $$
-\therefore [H^+] = (1.8 \times 10^{-5}) \times \frac{0.79}{0.81} = 1.76 \times 10^{-5}
+CH_3COOH + OH^- (aq) \longrightarrow CH_3COO^- (aq) + H_2O(l)
 $$
-
-$$
-\therefore pH = -\log (1.76 \times 10^{-5}) = 5 - \log 1.76 = 5 - 0.25 = 4.75
-$$
+\[
+\therefore\ [\mathrm{CH_3COOH}]
+=0.8-\alpha-0.01
+=0.79-\alpha
+\]
+\[
+[\mathrm{CH_3COO^-}]
+=\alpha+0.8+0.01
+=0.81+\alpha
+\qquad
+\alpha\ll0.8;
+\]
+\[
+0.79-\alpha \simeq 0.79
+\quad\text{and}\quad
+0.81+\alpha \simeq 0.81
+\]
+\[
+\therefore\ [\mathrm{H^+}] = \left(1.8\times10^{-5}\right)
+\times
+\frac{0.79}{0.81}
+\]
+\[
+[\mathrm{H^+}] = 1.76 \times 10^{-5}
+\]
+\[
+\therefore\ \mathrm{pH} = -\log\!\left(1.76\times10^{-5}\right)
+\]
+\[
+=5-\log 1.76
+\]
+\[
+=5-0.25
+\]
+\[
+\mathrm{pH}=4.75
+\]
 
 The addition of a strong base (\(0.01 M\) \(NaOH\)) increased the pH only slightly i.e., from 4.74 to 4.75. So, the buffer action is verified.
 
@@ -807,8 +896,17 @@ $$
 \therefore [Salt] = \frac{0.1 \text{ mole}}{\frac{1}{2} \text{ Litre}} = 0.2 M
 $$
 
+\[
+[\mathrm{acid}] = \frac{
+\left(
+\frac{\text{mass of } \mathrm{CH_3COOH}}
+{\text{molar mass of } \mathrm{CH_3COOH}}
+\right)
+}
+{\text{Volume of solution in litre}}
+\]
 $$
-[acid] = \frac{\text{molar mass of } CH_3COOH}{\text{Volume of solution in litre}} = \frac{\left(\frac{6}{60}\right)}{\frac{1}{2}} = 0.2 M
+= \frac{\left(\frac{6}{60}\right)}{\frac{1}{2}} = 0.2 M
 $$
 
 $$
@@ -1076,7 +1174,21 @@ $$
 [Pb^{2+}] = \frac{\text{number of moles of } Pb^{2+}}{\text{Volume of the solution in L}} = \frac{10^{-4}}{1.5 \times 10^{-3} mL} = 6.7 \times 10^{-2} M
 $$
 
-\(NaCl \longrightarrow Na^+ + Cl^-\)
+\[
+\begin{array}{ccc}
+\mathrm{NaCl}
+&
+{\rightarrow}
+&
+\mathrm{Na^{+}}+\mathrm{Cl^{-}}
+\\[-2pt]
+{\scriptstyle 0.2M}
+&
+&
+{\scriptstyle 0.2M \qquad 0.2M}
+\end{array}
+\]
+
 
 Number of moles of \(Cl^- = 0.2 \times 0.5 \times 10^{-3} = 10^{-4}\)
 
@@ -1123,7 +1235,7 @@ Establish a relationship between the solubility product and molar solubility for
 a) \(BaSO_4\) b) \(Ag_2CrO_4\)
 
 $$
-BaSO_4(s) \xrightarrow{H_2O} Ba^{2+} (aq) + SO_4^{2-} (aq)
+BaSO_4(s) \rightleftharpoons{H_2O} Ba^{2+} (aq) + SO_4^{2-} (aq)
 $$
 
 $$
