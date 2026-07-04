@@ -1,21 +1,7 @@
 ---
-title: 'p-Block Elements-I'
-categories:
-    - p-block-elements-i
-weight: 2
-summary: "This unit introduces the chemistry of p-block elements, focusing on the elements present in groups 13 to 18 of the periodic table. It explains their general electronic configuration, trends in physical and chemical properties, and important compounds. The unit also highlights the unique behavior of these elements due to their valence electron configurations."
+title: 'Group 14 (Carbon group) elements:'
+weight: 3
 ---
-
-![](wade.png)
-**Kenneth wade (1932- 2014)**
-
-Kenneth Wade, was a British chemist, and professor emeritus at Durham University. He developed a method for the prediction of shapes of borane clusters. Wade's rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. For his substantial contribution, Kenneth Wade was granted FRS award from royal society, London In 1989. He received the Tilden prize award in 1999 from the Royal Society of Chemistry for advances in chemistry.
-
-# INTRODUCTION
-
-We have already learnt the classification of elements into four blocks namely s, p, d and f. We have also learnt the properties of s-block elements and their important compounds in the XI standard. This year we learn the elements of remaining blocks, starting with p-block elements.
-
-The elements in which their last electron enters the ‘p’ orbital, constitute the p-block elements. They are placed in \( 13^\text{th} \) to \( 18^\text{th} \) groups of the modern periodic table and the first member of the groups are B, C, N, O, F and He respectively. These elements have quite varied properties and this block contains nonmetals, metals and metalloids. Nonmetallic elements of this group have more varied properties than metals. The elements of this block and their compounds play an important role in our day to day life, for example, without molecular oxygen we cannot imagine the survival of living system. The most abundant metal aluminium and its alloys have plenty of applications ranging from household utensils to parts of aircraft. The semi conducting nature of elements such as silicon and germanium made a revolutionary change in the field of modern electronics. In this unit we discuss the properties of first three groups (Group 13 - 15) of p-block elements namely boron, carbon and nitrogen family elements and their important compounds.
 
 ### 2.3 Group 14 (Carbon group) elements:
 
@@ -38,7 +24,7 @@ Some of the physical properties of the group 14 elements are listed below
 | Electronic configuration | \([He]2s^2 2p^2\) | \([Ne]3s^2 3p^2\) | \([Ar]3d^{10} 4s^2 4p^2\) | \([Kr]4d^{10} 5s^2 5p^2\) | \([Xe] 4f^{14} 5d^{10} 6s^2 6p^2\) |
 | Atomic radius (Å) | 1.70 | 2.10 | 2.11 | 2.17 | 2.02 |
 | Density (g.cm\(^{-3}\) at 293 K) | 3.51 | 2.33 | 5.32 | 7.29 | 11.30 |
-| Melting point (K) | Sublimes at 4100K | 1687 | 1211 | 505 | 601 |
+| Melting point (K) | Sublimes at  | 1687 | 1211 | 505 | 601 |
 | Boiling point (K) | 4098 | 3538 | 3106 | 2859 | 2022 |
 
 #### 2.3.3 Tendency for catenation
@@ -65,13 +51,15 @@ Carbon nanotubes, another recently discovered allotropes, have graphite like tub
 
 ![](img2.7.png)
 
+Another allotropic form of carbon is graphene. It has a single planar sheet of $sp^2$ hybridised carbon atoms that are densely packed in a honeycomb crystal lattice.
+
+![](img2.8.png)
+
 ### 2.3.5 Carbon monoxide [CO]:
 
 **Preparation:**
 
 Carbon monoxide can be prepared by the reaction of carbon with limited amount of oxygen.
-
-![](img2.8.png)
 
 
 $$
@@ -81,7 +69,7 @@ $$
 On industrial scale carbon monoxide is produced by the reaction of carbon with air. The carbon monoxide formed will contain nitrogen gas also and the mixture of nitrogen and carbon monoxide is called producer gas.
 
 $$
-2C + O_{2} / N_{2}(air) \longrightarrow 2CO + N_{2}
+2C + O_{2} / N_{2}(air) \longrightarrow 2CO + N_{2} (Producer  gas)
 $$
 
 The producer gas is then passed through a solution of copper(I)chloride under pressure which results in the formation of \(CuCl(CO).2H_2O\). At reduced pressures this solution releases the pure carbon monoxide.
@@ -187,11 +175,11 @@ It is a colourless, nonflammable gas and is heavier than air. Its critical tempe
 Carbon dioxide is a very stable compound. Even at \(3100\mathrm{K}\) only \(76\%\) decomposes to form carbon monoxide and oxygen. At still higher temperature it decomposes into carbon and oxygen.
 
 $$
-CO_2 \xrightarrow{3100K} CO + \frac{1}{2}O_2
+CO_2 \xrightleftharpoons{3100K} CO + \frac{1}{2}O_2
 $$
 
 $$
-CO_2 \xrightarrow{\text{high temperature}} CO + O_2
+CO_2 \xrightleftharpoons{\text{high temperature}} C + O_2
 $$
 
 **Oxidising behaviour:**
@@ -207,7 +195,7 @@ $$
 The equilibrium involved in the reaction between carbon dioxide and hydrogen, has many industrial applications and is called water gas equilibrium.
 
 $$
-CO_2 + H_2 \xrightarrow{} CO + H_2O
+CO_2 + H_2 \xrightleftharpoons{} CO + H_2O
 $$
 
 **Acidic behaviour:**
@@ -215,7 +203,7 @@ $$
 The aqueous solution of carbon dioxide is slightly acidic as it forms carbonic acid.
 
 $$
-CO_2 + H_2O \xrightarrow{} H_2CO_3 \xrightarrow{} H^+ + HCO_3^-
+CO_2 + H_2O \xrightleftharpoons{} H_2CO_3 \xrightleftharpoons{} H^+ + HCO_3^-
 $$
 
 **Structure of carbon dioxide**
@@ -264,7 +252,7 @@ When silicon tetrachloride is hydrolysed with moist ether, linear perchloro silo
 The chloride ion in silicon tetrachloride can be substituted by nucleophile such as OH, OR, etc., using suitable reagents. For example, it forms silicic esters with alcohols.
 
 $$
-SiCl_4 + 4C_2H_5OH \longrightarrow Si(OC_2H_5)_4 + 4HCl
+SiCl_4 + 4C_2H_5OH \longrightarrow Si(OC_2H_5)_4 (Tetraethoxysilane)+ 4HCl
 $$
 
 **Ammonolysis.**
@@ -272,7 +260,7 @@ $$
 Similarly silicon tetrachloride undergoes ammonolysis to form chlorosilanes.
 
 $$
-2SiCl_4 + NH_3 \xrightarrow{330K} Cl_3Si - NH - SiCl_3 + 2HCl
+2SiCl_4 + NH_3 \xrightarrow[Ether]{330K} Cl_3Si - NH - SiCl_3 + 2HCl
 $$
 
 **Uses:**
@@ -361,7 +349,7 @@ Example: Beryl \([Be_3Al_2(SiO_3)_6]\) (an aluminosilicate with each aluminium i
 
 Silicates which contain 'n' number of silicate units linked by sharing two or more oxygen atoms are called insilicates. They are further classified as chain silicates and double chain silicates.
 
-**Chain silicates (or pyroxenes):** These silicates contain \([SiO_3]_n^{2n-}\) ions formed by linking 'n' number of tetrahedral \([SiO_4]^{4-}\) units linearly. Each silicate unit shares two of its oxygen atoms with other units.
+**Chain silicates (or pyroxenes):** These silicates contain \([(SiO_3)_n]^{2n-}\) ions formed by linking 'n' number of tetrahedral \([SiO_4]^{4-}\) units linearly. Each silicate unit shares two of its oxygen atoms with other units.
 
 ![](img2.14.png)
 
@@ -393,7 +381,7 @@ These tecto silicates can be converted into three dimensional aluminosilicates b
 
 #### 2.3.10 Zeolites:
 
-Zeolites are three- dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework. They are hydrated sodium alumino silicates with general formula \(Na_2O_4(Al_2O_3)_x(SiO_2)_yH_2O\) (x=2 to 10; y=2 to 6).
+Zeolites are three- dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework. They are hydrated sodium alumino silicates with general formula \(Na_2O.(Al_2O_3).x(SiO_2).yH_2O\) (x=2 to 10; y=2 to 6).
 
 Zeolites have porous structure in which the monovalent sodium ions and water molecules are loosely held. The Si and Al atoms are tetrahedrally coordinated with each other through shared oxygen atoms. Zeolites are similar to clay minerals but they differ in their crystalline structure.
 
@@ -401,66 +389,39 @@ Zeolites have a three dimensional crystalline structure looks like a honeycomb c
 
 **Do You Know**
 
-## Boron Neutron Capture Therapy:
+#### Boron Neutron Capture Therapy:
 
 The affinity of Boron-10 for neutrons is the basis of a technique known as boron neutron capture therapy (BNCT) for treating patients suffering from brain tumours.
 
 It is based on the nuclear reaction that occurs when boron-10 is irradiated with low- energy thermal neutrons to give high linear energy \(\alpha\) particles and a Li particle.
-
-$$
-^{10}B + ^{1}n \rightarrow ^{7}Li + ^{4}\alpha
-$$
 
 Boron compounds are injected into a patient with a brain tumour and the compounds collect preferentially in the tumour. The tumour area is then irradiated with thermal neutrons and results in the release of an alpha particle that damages the tissue in the tumour each time a boron-10 nucleus captures a neutron. In this way damage can be limited preferentially to the tumour, leaving the normal brain tissue less affected. BNCT has also been studied as a treatment for several other tumours of the head and neck, the breast, the prostate, the bladder, and the liver.
 
 ## Summary
 
 - The elements in which their last electron enters the 'p' orbital, constitute the p-block elements.
-
 - The p-block elements have a general electronic configuration of \( ns^2 \), \( np^{1-6} \). The elements of each group have similar outer shell electronic configuration and differ only in the value of \( n \) (principal quantum number).
-
 - Generally on descending a group the ionisation energy decreases and hence the metallic character increases.
-
 - The ionisation enthalpy of elements in successive groups is higher than the corresponding elements of the previous group as expected.
-
 - As we move down the 13\(^\text{th}\) group, the electronegativity first decreases from boron to aluminium and then marginally increases.
-
 - In p-block elements, the first member of each group differs from the other elements of the corresponding group.
-
 - In heavier post-transition metals, the outer \( s \) electrons (\( ns \)) have a tendency to remain inert and show reluctance to take part in the bonding, which is known as inert pair effect.
-
 - Some elements exist in more than one crystalline or molecular forms in the same physical state. For example, carbon exists as diamond and graphite. This phenomenon is called allotropism.
-
 - Borax is a sodium salt of tetraboric acid. It is obtained from colemanite ore by boiling its solution with sodium carbonate.
-
 - Boric acid can be extracted from borax and colemanite.
-
 - Boric acid has a two dimensional layered structure.
-
 - The name alum is given to the double salt of potassium aluminium sulphate \([K_2SO_4 \cdot Al_2(SO_4)_3 \cdot 24H_2O]\).
-
 - Carbon is found in the native form as graphite.
-
 - Silicon occurs as silica (sand and quartz crystal). Silicate minerals and clay are other important sources for silicon.
-
 - Catenation is the ability of an element to form chain of atoms.
-
 - Carbon nanotubes, another recently discovered allotropes, have graphite like tubes with fullerene ends.
-
 - Silicones or poly siloxanes are organo silicon polymers with general empirical formula \((R_2SiO)\). Because of their very high thermal stability they are called high-temperature polymers.
-
 - The mineral which contains silicon and oxygen in tetrahedral \([SiO_4]^{4-}\) units linked together in different patterns are called silicates.
-
 - Types of Silicates:
-    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates), Cyclic silicates (or Ring silicates)**
-
+    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates, Cyclic silicates (or Ring silicates)**
     - **Inosilicates : Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
-
     - Sheet or phyllo silicates
-    
     - Three dimensional silicates (or tecto silicates)
-
 - Zeolites are three-dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework.
-
 - Zeolites act as a molecular sieve for the removal of permanent hardness of water.
 
