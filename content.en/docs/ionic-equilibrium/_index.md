@@ -13,6 +13,19 @@ summary: "This unit explains ionic equilibrium in aqueous solutions, including a
 
 Peter Joseph William Debye was Dutch-American physicist greatly contributed to the theory of electrolyte solutions. He also studied the dipole moments of molecules, Debye won the Nobel Prize in Chemistry (1936) for his contributions to the determination of molecular structure through his investigations on dipole moments and X-rays diffraction.
 
+# Learning Objectives
+
+After studying this unit, the students will be able to
+
+- classify the substances into acids and bases based on Arrhenius, Lowry – Bronsted and Lewis concepts.
+- define pH scale and establish relationship between pH and pOH
+- describe the equilibrium involved in the ionisation of water.
+- explain Ostwald's dilution Law and derive a relationship between the dissociation constant and degree of dissociation of a weak electrolyte.
+- recognise the concept of common ion effect and explain buffer action.
+- apply Henderson equation for the preparation of buffer solution
+- calculate solubility product and understand the relation between solubility and solubility product.
+- solve numerical problems involving ionic equilibria.
+
 ## INTRODUCTION
 
 We have already learnt the chemical equilibrium in XI standard. In this unit, we discuss the ionic equilibria, specifically acid - base equilibria. Some of the important processes in our body involve aqueous equilibria. For example, the carbonic acid - bicarbonate buffer in the blood.
@@ -214,6 +227,7 @@ Here, \(K_w\) represents the ionic product (ionic product constant) of water
 
 It was experimentally found that the concentration of \(H_3O^+\) in pure water is \(1 \times 10^{-7}\) at \(25^{\circ}C\). Since the dissociation of water produces equal number of \(H_3O^+\) and \(OH^-\), the concentration of \(OH^-\) is also equal to \(1 \times 10^{-7}\) at \(25^{\circ}C\).
 
+Therefore, the ionic product of water at \(25^{\circ}C\) is
 $$
 K_w = [H_3O^+][OH^-] \quad (8.4)
 $$
@@ -283,10 +297,15 @@ pOH = -\log_{10}[OH^-] \quad (8.7)
 $$
 
 As discussed earlier, in neutral solutions, the concentration of \([H_3O^+]\) as well as \([OH^-]\) is equal to \(1 \times 10^{-7} M\) at \(25^{\circ}C\). The pH of a neutral solution can be calculated by substituting this \(H_3O^+\) concentration in the expression (8.5)
+                                                                       \[ \log_{10} 10 = 1 \]
 
 $$
-pH = -\log_{10}[H_3O^+] = -\log_{10}10^{-7} = (-7)(-1)\log_{10}10 = +7(1) = 7
+pH = -\log_{10}[H_3O^+] 
+= -\log_{10}10^{-7} 
+= (-7)(-1)\log_{10}10 = +7(1) = 7
 $$
+
+
 
 Similarly, we can calculate the pOH of a neutral solution using the expression (8.7), it is also equal to 7.
 
@@ -459,12 +478,7 @@ k_a = \frac{[\text{H}^+][\text{CH}_3\text{COO}^-]}{[\text{CH}_3\text{COOH}]}
 \text{......(8.13)}
 \]
 
-|    | CH\(_3\)COOH | H\(^+\) | CH\(_3\)COO\(^-\) |
-|---|---|---|---|
-| Initial number of moles | 1 | - | - |
-| Degree of dissociation of CH\(_3\)COOH | \(\alpha\) | - | - |
-| Number of moles at equilibrium | \(1 - \alpha\) | \(\alpha\) | \(\alpha\) |
-| Equilibrium concentration | \((1 - \alpha)C\) | \(\alpha C\) | \(\alpha C\) |
+![](image.png)
 
 Substituting the equilibrium concentration in equation (8.13)
 
@@ -615,11 +629,11 @@ To resist changes in its pH on the addition of an acid (or) a base, the buffer s
 Let us explain the buffer action in a solution containing \(CH_3COOH\) and \(CH_3COONa\). The dissociation of the buffer components occurs as below.
 
 $$
-CH_3COOH(aq) \rightleftharpoons CH_3COO^- (aq) + H_3O^+ (aq)
+CH_3COOH(aq) \rightleftharpoons CH_3-COO^- (aq) + H_3O^+ (aq)
 $$
 
 $$
-CH_3COONa(s) \xrightarrow{H_2O(l)} CH_3COO^- (aq) + Na^+ (aq)
+CH_3COONa(s) \xrightarrow{H_2O(l)} CH_3-COO^- (aq) + Na^+ (aq)
 $$
 
 If an acid is added to this mixture, it will be consumed by the conjugate base \(CH_3COO^-\) to form the undissociated weak acid i.e, the increase in the concentration of \(H^+\) does not reduce the pH significantly.
@@ -652,7 +666,7 @@ Let us calculate the pH of a buffer solution containing \(0.8 M\) acetic acid an
 
 \[
 \begin{array}{ccc}
-\mathrm{CH_3COOH\,(aq)}
+\mathrm{CH_3-COOH\,(aq)}
 &
 \overset{\mathrm{H_2O}}{\rightleftharpoons}
 &
@@ -744,7 +758,7 @@ The consumption of \(OH^-\) are expressed by the following equations.
 \end{array}
 \]
 
-The concentration of \(CH_3COOH\) decreases by \(0.01 M\) and the concentration of \(CH_3COO^-\) increases by \(0.01 M\). Thus after adding \(NaOH\),
+
 
 $$
 CH_3COOH + OH^- (aq) \longrightarrow CH_3COO^- (aq) + H_2O(l)
@@ -1016,6 +1030,19 @@ $$
 $$
 pH = 14 + \log \sqrt{K_h C} = 14 + \frac{1}{2} \log K_h C
 $$
+                              [ \[ K = 10 \]
+
+\[ \frac{1}{2} \log K = \frac{1}{2} \log 10 = -14 \]
+
+\[ \frac{1}{2} (1) = -7 \]
+
+\[ -\log K = pK \]
+
+\[ K_w = 10^{-14} \]
+
+\[ pK_w = 14 \]
+                              ]
+
 
 $$
 pH = 14 + \frac{1}{2} \log \frac{K_w}{K_a} C = 14 + \frac{1}{2} \log K_w + \frac{1}{2} \log C - \frac{1}{2} \log K_a
@@ -1024,7 +1051,7 @@ $$
 $$
 pH = 14 - 7 + \frac{1}{2} \log C + \frac{1}{2} pK_a
 $$
-
+                                                                                         
 $$
 pH = 7 + \frac{1}{2} pK_a + \frac{1}{2} \log C
 $$
@@ -1107,7 +1134,6 @@ $$
 pH = 7 + \frac{1}{2} pK_a - \frac{1}{2} pK_b
 $$
 
-## Example 8.8
 ![](img8.9.png)
 
 ## Evaluate yourself - 10
