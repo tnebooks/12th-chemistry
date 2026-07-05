@@ -1,5 +1,5 @@
 ---
-title: 'Applications of metals'
+title: 'உலோகங்களின் பயன்கள்'
 weight: 7
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Electrochemical principle of metallurgy'
+title: 'உலோகவியலின் மின்வேதித் தத்துவங்கள்'
 weight: 5
 ---
 

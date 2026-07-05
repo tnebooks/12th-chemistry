@@ -1,5 +1,5 @@
 ---
-title: 'Concentration of ores'
+title: 'தாதுக்களை அடர்பித்தல்'
 weight: 2
 ---
 
