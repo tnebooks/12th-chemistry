@@ -1,5 +1,5 @@
 ---
-title: 'Extraction of crude metal'
+title: 'பண்படா உலோகத்தை பிரித்தெடுத்தல்'
 weight: 3
 ---
 

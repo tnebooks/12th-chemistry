@@ -1,5 +1,5 @@
 ---
-title: 'Refining process'
+title: 'தூய்மையாக்கும் செயல்முறைகள்'
 weight: 6
 ---
 

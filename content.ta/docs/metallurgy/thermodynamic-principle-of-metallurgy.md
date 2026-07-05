@@ -1,5 +1,5 @@
 ---
-title: 'Thermodynamic principle of metallurgy'
+title: 'உலோகவியலின் வெப்ப இயக்கவியல் தத்துவங்கள்'
 weight: 4
 ---
 
