@@ -65,7 +65,7 @@ R = \rho \frac{l}{A} \qquad \text{(9.2)}
 
 Where \( \rho \) (rho) is called the specific resistance or resistivity, which depends on the nature of the electrolyte.
 
-If \( \frac{l}{A} = 1\ \mathrm{m}^{-1} \), then, \( \rho = R \). Hence the resistivity is defined as the resistance of an electrolyte confined between two electrodes having unit cross sectional area and are separated by a unit distance. The ratio \( \left(\frac{l}{A}\right) \) is called the cell constant. Unit of resistivity is ohm metre \( (\Omega\ \mathrm{m}) \).
+If \( \frac{l}{A} = 1\ \mathrm{m}^{-1} \), then, \( \rho = R \). Hence the resistivity is defined as the resistance of an electrolyte confined between two electrodes having unit cross sectional area and are separated by a unit distance. The ratio \( \left(\frac{l}{A}\right) \) is called the cell constant, Unit of resistivity is ohm metre \( (\Omega\ \mathrm{m}) \).
 
 #### Conductivity
 
@@ -78,26 +78,21 @@ C = \frac{1}{R} \qquad \text{(9.3)}
 Substitute (R) from (9.2) in (9.3)
 
 \[
-\Rightarrow \text{i.e., } C = \frac{1}{\rho} \frac{A}{l} \qquad \text{(9.4)}
+\Rightarrow \text{i.e., } C = \frac{1}{\rho} . \frac{A}{l} \qquad \text{(9.4)}
 \]
 
 ![](img9.2.png)
 
-The reciprocal of the specific resistance \( \left(\frac{1}{\rho}\right) \) is called the specific conductance (or conductivity). It is represented by the symbol kappa \( (\kappa) \)
+The reciprocal of the specific resistance \( \left(\frac{1}{\rho}\right) \) is called the specific conductance (or) conductivity. It is represented by the symbol kappa \( (\kappa) \)
 
 Substitute \( \frac{1}{\rho} = \kappa \) in equation (9.4) and rearranging
 
 \[
-\Rightarrow \kappa = C \cdot \left(\frac{l}{A}\right)
+\Rightarrow \kappa = C \cdot \left(\frac{l}{A}\right) \qquad \text{(9.5)}
 \]
 
-\[
-\text{Unit of } \kappa
-\]
-
-\[
-\kappa = \frac{1}{R} \cdot \frac{l}{A} \left(\frac{1}{\text{ohm}} \cdot \frac{\mathrm{m}}{\mathrm{m}^2}\right) = \mathrm{ohm}^{-1}\ \mathrm{m}^{-1} = \mathrm{mho}\ \mathrm{m}^{-1} \text{ (or) } \mathrm{S\ m}^{-1} \qquad \text{(9.5)}
-\]
+> \[\text{Unit of } \kappa\]
+>\[\kappa = \frac{1}{R} \cdot \frac{l}{A} \left(\frac{1}{\text{ohm}} \cdot \frac{\mathrm{m}}{\mathrm{m}^2}\right) = \mathrm{ohm}^{-1}\ \mathrm{m}^{-1} = \mathrm{mho}\ \mathrm{m}^{-1} \text{ (or) } \mathrm {S\ m}^{-1}\]
 
 If \( A = 1\ \mathrm{m}^2 \) and \( l = 1\ \mathrm{m} \); then \( \kappa = C \).
 
@@ -116,9 +111,11 @@ l = 1.5\ \mathrm{cm} = 1.5 \times 10^{-2}\ \mathrm{m}
 \[
 A = 4.5\ \mathrm{cm}^2 = 4.5 \times 10^{-4}\ \mathrm{m}^2
 \]
-
 \[
-\kappa = \frac{1}{R} \cdot \frac{l}{A} = \frac{1}{15} \times \frac{1.5 \times 10^{-2}}{4.5 \times 10^{-4}} = 2.22\ \mathrm{S\ m}^{-1}
+R = 15\ \Omega
+\]
+\[
+\kappa = \frac{1}{R} \cdot \frac{l}{A} = \frac{1}{15\ \Omega} \times \frac{1.5 \times 10^{-2}}{4.5 \times 10^{-4}} = 2.22\ \mathrm{S\ m}^{-1}
 \]
 
 #### 9.1.1 Molar conductivity \( (\Lambda_{\mathrm{m}}) \)
@@ -167,7 +164,9 @@ Calculate the molar conductance of \( 0.025\ \mathrm{M} \) aqueous solution of c
 ![](img9.3.png)
 #### 9.1.2 Equivalent conductance \( (\Lambda) \)
 
-Equivalent conductance is defined as the conductance of \( V'\ \mathrm{m}^3 \) of electrolytic solution containing one gram equivalent of electrolyte in a conductivity cell in which the electrodes are one metre apart. The relation between the equivalent conductance and the specific conductance is given below.
+Equivalent conductance is defined as the conductance of \( 'V'\ \mathrm{m}^3 \) of electrolytic solution containing one gram equivalent of electrolyte in a conductivity cell in which the electrodes are one metre apart.
+
+The relation between the equivalent conductance and the specific conductance is given below.
 
 \[
 \Lambda = \frac{\kappa (\mathrm{S\ m}^{-1}) \times 10^{-3} (\text{gram equivalent})^{-1}\ \mathrm{m}^3}{N} \qquad \text{(9.9)}
@@ -211,17 +210,17 @@ Cell constant \( = \kappa_1 \times R_1 = 2.4 \times 50 = 120\ \mathrm{m}^{-1} \)
 
 #### 9.1.3 Factors affecting electrolytic conductance
 
-If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
+- If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
 
-Solvent of higher dielectric constant show high conductance in solution.
+- Solvent of higher dielectric constant show high conductance in solution.
 
-Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
+- Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
 increases with the decrease in viscosity.
 
-If the temperature of the electrolytic solution increases, conductance also increases. Increase
+- If the temperature of the electrolytic solution increases, conductance also increases. Increase
 in temperature increases the kinetic energy of the ions and decreases the attractive force between the oppositely charged ions and hence conductivity increases.
 
-Molar conductance of a solution increases with increase in dilution. This is because, for a strong electrolyte, interionic forces of attraction decrease with dilution. For a weak electrolyte, degree of dissociation increases with dilution.
+- Molar conductance of a solution increases with increase in dilution. This is because, for a strong electrolyte, interionic forces of attraction decrease with dilution. For a weak electrolyte, degree of dissociation increases with dilution.
 
 #### 9.1.4 Measurement of conductivity of ionic solutions
 
@@ -306,6 +305,7 @@ For a strong electrolyte, at high concentration, the number of constituent ions 
 ![](img9.6.png)
 <center>Figure 9.4 Variation of molar conductance with concentration</center>
 
+
 At infinite dilution the ions are so far apart, the interaction between them becomes insignificant and hence, the molar conductivity increases and reaches a maximum value at infinite dilution.
 
 For a weak electrolyte, at high concentration, the plot is almost parallel to concentration axis with slight increase in conductivity as the dilution increases. When the concentration approaches zero, there is a sudden increase in the molar conductance and the curve is almost parallel to \( \Lambda_{\mathrm{m}} \) axis. This is due to the fact that the dissociation of the weak electrolyte increases with the increase in dilution (Ostwald dilution law). \( \Lambda_{\mathrm{m}}^{0} \) values for strong electrolytes can be obtained by extrapolating the straight line, as shown in figure (9.4). But the same procedure is not applicable for weak electrolytes, as the plot is not a linear one, \( \Lambda_{\mathrm{m}}^{0} \) values of the weak electrolytes can be determined using Kohlrausch's law.
@@ -364,6 +364,8 @@ $$
 \left( \lambda_m^o \right)_{Br^-} - \left( \lambda_m^o \right)_{Cl^-} = 2.06
 $$
 
+![](image.png)
+
 **Applications of Kohlrausch's Law** 
 
 **1. Calculation of molar conductance at infinite dilution of a weak electrolyte**
@@ -373,15 +375,15 @@ It is impossible to determine the molar conductance at infinite dilution for wea
 For example, the molar conductance of \( \mathrm{CH}_3\mathrm{COOH} \), can be calculated using the experimentally determined molar conductivities of strong electrolytes HCl, NaCl and \( \mathrm{CH}_3\mathrm{COONa} \).
 
 \[
-\Lambda_{\mathrm{CH_3COONa}}^{\circ} = \lambda_{\mathrm{Na}^{+}}^{\circ} + \lambda_{\mathrm{CH_3COO}^{-}}^{\circ}
+\Lambda_{\mathrm{CH_3COONa}}^{\circ} = \lambda_{\mathrm{Na}^{+}}^{\circ} + \lambda_{\mathrm{CH_3COO}^{-}}^{\circ}(1)
 \]
 
 \[
-\Lambda_{\mathrm{HCl}}^{\circ} = \lambda_{\mathrm{H}^{+}}^{\circ} + \lambda_{\mathrm{Cl}^{-}}^{\circ}
+\Lambda_{\mathrm{HCl}}^{\circ} = \lambda_{\mathrm{H}^{+}}^{\circ} + \lambda_{\mathrm{Cl}^{-}}^{\circ} (2)
 \]
 
 \[
-\Lambda_{\mathrm{NaCl}}^{\circ} = \lambda_{\mathrm{Na}^{+}}^{\circ} + \lambda_{\mathrm{Cl}^{-}}^{\circ}
+\Lambda_{\mathrm{NaCl}}^{\circ} = \lambda_{\mathrm{Na}^{+}}^{\circ} + \lambda_{\mathrm{Cl}^{-}}^{\circ} (3)
 \]
 
 Equation (1) + Equation (2) - Equation (3) gives,
@@ -398,15 +400,21 @@ The degree of dissociation of weak electrolyte can be calculated from the molar 
 \alpha = \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}} \qquad \text{(9.14)}
 \]
 
-**Calculation of dissociation constant using \( \Lambda_{\mathrm{m}} \) values**
-
-According to Ostwald dilution Law,
+Calculation of dissociation constant using \( \Lambda_{\mathrm{m}} \) values. According to Ostwald dilution Law,
 
 \[
 K_a = \frac{\alpha^2 C}{(1 - \alpha)} \qquad \text{(9.15)}
 \]
 
 Substitute \( \alpha \) value in the above expression (9.15)
+
+\[
+K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ} (1 - \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}})}
+\]
+
+\[
+K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ}{^2} \frac{(\Lambda_{\mathrm{m}}^{\circ} - \Lambda_{\mathrm{m}})}{\Lambda_{\mathrm{m}}^{\circ}}}
+\]
 
 \[
 K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ} (\Lambda_{\mathrm{m}}^{\circ} - \Lambda_{\mathrm{m}})}
@@ -426,9 +434,9 @@ Let us consider AgCl as an example
 K_{\mathrm{sp}} = [\mathrm{Ag}^{+}][\mathrm{Cl}^{-}]
 \]
 
-Let the concentration of \( [\mathrm{Ag}^{+}] \) be \( C\ \mathrm{mol\ L}^{-1} \).
+Let the concentration of \( [\mathrm{Ag}^{+}] \) be \( 'C'\ \mathrm{mol\ L}^{-1} \).
 
-As per the stoichiometry, if \( [\mathrm{Ag}^{+}] = C \), then \( [\mathrm{Cl}^{-}] \) also equal to \( C\ \mathrm{mol\ L}^{-1} \).
+As per the stoichiometry, if \( [\mathrm{Ag}^{+}] = C \), then \( [\mathrm{Cl}^{-}] \) also equal to \( 'C'\ \mathrm{mol\ L}^{-1} \).
 
 \[
 K_{\mathrm{sp}} = C \cdot C \Rightarrow K_{\mathrm{sp}} = C^2
@@ -746,6 +754,8 @@ We have already learnt that,
 
 The Gibbs free energy can be related to the cell emf as follows
 
+[equation (9.24) and (9.25)]
+
 \[
 \Delta G = -nFE_{\text{cell}}; \quad \Delta G^{\circ} = -nFE_{\text{cell}}^{\circ}
 \]
@@ -758,9 +768,7 @@ Substitute these values and Q from (9.28) in the equation (9.29)
 
 Divide the whole equation (9.30) by (-nF)
 
-\[
-E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{RT}{nF} \ln \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y}
-\]
+(9.25) =>\[E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{RT}{nF} \ln \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y}\]
 
 (or)
 
@@ -852,7 +860,7 @@ The electrochemical cell reaction of the Daniel cell is
 
 What is the change in the cell voltage on increasing the ion concentration in the anode compartment by a factor 10?
 
-### 9.5 Electrolytic cell and electrolysis
+### Electrolytic cell and electrolysis
 
 Electrolysis is a process in which the electrical energy is used to cause a non-spontaneous chemical reaction to occur; the energy is often used to decompose a compound into its elements. The device which is used to carry out the electrolysis is called the electrolytic cell. The electrochemical process occurring in the electrolytic cell and galvanic cell are the reverse of each other. Let us understand the function of an electrolytic cell by considering the electrolysis of molten sodium chloride.
 
@@ -892,7 +900,7 @@ The negative \( E^{\circ} \) value shows that the above reaction is a non sponta
 
 In electrolytic cell, oxidation occurs at the anode and reduction occur at the cathode as in a galvanic cell, but the sign of the electrodes is the reverse i.e., in the electrolytic cell cathode is -ve and anode is +ve.
 
-### 9.6 Faraday's Laws of electrolysis
+### Faraday's Laws of electrolysis
 
 #### First Law
 
@@ -934,7 +942,7 @@ The quantity of charge required to precipitate one mole of \( \mathrm{M}^{n+} \)
 
 In other words, the mass of substance deposited by one coulomb of charge
 
-Electrochemical equivalent of \( \mathrm{M}^{n+} = \frac{\text{Molar mass of M}}{n \times 96500} \)
+Electrochemical equivalent of \( \mathrm{M}^{n+} = \frac{\text{Molar mass of M}}{n (96500)} \)
 
 (or)
 
@@ -970,8 +978,7 @@ m_{\mathrm{Ni}} \propto Z_{\mathrm{Ni}}, \quad m_{\mathrm{Cu}} \propto Z_{\mathr
 
 # Example
 
-A solution of silver nitrate is electrolysed for 20 minutes with a current of 2 amperes.  
-Calculate the mass of silver deposited at the cathode.  
+A solution of silver nitrate is electrolysed for 20 minutes with a current of 2 amperes. Calculate the mass of silver deposited at the cathode.  
 
 Electrochemical reaction at cathode is  
 \[
@@ -1010,7 +1017,7 @@ I = 2 \, \text{A} \times 1200 \, \text{S} = 2400 \, \text{C}
 
 A solution of a salt of a metal was electrolysed for 15 minutes with a current of 0.15 amperes. The mass of the metal deposited at the cathode is 0.783g. Calculate the equivalent mass of the metal.
 
-### 9.7 Batteries
+### Batteries
 
 Batteries are indispensable in the modern electronic world. For example, Li-ion batteries are used in cell phones, dry cell in flashlight etc. These batteries are used as a source of direct current at a constant voltage. We can classify them into primary batteries (non-rechargeable) and secondary batteries (rechargeable). In this section, we will briefly discuss the electrochemistry of some batteries.
 
@@ -1019,9 +1026,10 @@ Batteries are indispensable in the modern electronic world. For example, Li-ion 
 - **Anode**: Zinc container
 - **Cathode**: Graphite rod in contact with \( \mathrm{MnO_2} \)
 - **Electrolyte**: ammonium chloride and zinc chloride in water
-- **Emf** of the cell is about 1.5V
 
-**Cell reaction**
+Emf of the cell is about 1.5V
+
+Cell reaction
 
 Oxidation at anode
 
@@ -1044,7 +1052,7 @@ The hydrogen gas is oxidised to water by \( \mathrm{MnO_2} \)
 Equation \( (1) + (2) + (3) \) gives the overall redox reaction
 
 \[
-\mathrm{Zn(s) + 2NH_4^+(aq) + 2MnO_2(s)} \rightarrow \mathrm{Zn^{2+}(aq) + Mn_2O_3(s) + H_2O(l) + 2NH_3}
+\mathrm{Zn(s) + 2NH_4^+(aq) + 2MnO_2(s)} \rightarrow \mathrm{Zn^{2+}(aq) + Mn_2O_3(s) + H_2O(l) + 2NH_3}(4)
 \]
 
 Ammonia produced at the cathode combines with \( \mathrm{Zn}^{2+} \) to form a complex ion \( [\mathrm{Zn(NH_3)_4}]^{2+}(aq) \). As the reaction proceeds, the concentration of \( \mathrm{NH_4}^{+} \) will decrease and the aqueous \( \mathrm{NH_3} \) will increase which leads to the decrease in the emf of cell.
@@ -1214,7 +1222,7 @@ The overall reaction is
 
 The above reaction is the same as the hydrogen combustion reaction, however, they do not react directly i.e., the oxidation and reduction reactions take place separately at the anode and cathode respectively. Like \( \mathrm{H_2-O_2} \) fuel cell, other fuel cells like propane-\( \mathrm{O_2} \) and methane-\( \mathrm{O_2} \) have also been developed.
 
-### 9.8 Corrosion
+### Corrosion
 
 We are familiar with the rusting of iron. Have you ever noticed a green film formed on copper and brass vessels? In both, the metal is oxidised by oxygen in presence of moisture. This redox process which causes the deterioration of metal is called corrosion. As the corrosion of iron causes damages to our buildings, bridges etc., it is important to know the chemistry of rusting and how to prevent it. Rusting of iron is an electrochemical process.
 
@@ -1278,9 +1286,9 @@ ii. Galvanizing - by coating with another metal such as zinc. Zinc is a stronger
 
 iii. Cathodic protection - In this technique, unlike galvanising the entire surface of the metal to be protected need not be covered with a protecting metal. Instead, metals such as Mg or zinc which is corroded more easily than iron can be used as a sacrificial anode and the iron material acts as a cathode. So iron is protected, but Mg or Zn is corroded.
 
-iv. Passivation - The metal is treated with strong oxidising agents such as concentrated \( \mathrm{HNO}_3 \). As a result, a protective oxide layer is formed on the surface of metal.
+**Passivation** - The metal is treated with strong oxidising agents such as concentrated \( \mathrm{HNO}_3 \). As a result, a protective oxide layer is formed on the surface of metal.
 
-v. Alloy formation - The oxidising tendency of iron can be reduced by forming its alloy with other more anodic metals. Example, stainless steel - an alloy of Fe and Cr.
+**Alloy formation** - The oxidising tendency of iron can be reduced by forming its alloy with other more anodic metals. Example, stainless steel - an alloy of Fe and Cr.
 
 ### Electrochemical series
 
@@ -1291,4 +1299,3 @@ We have already learnt that the standard single electrode potentials are measure
 This series is called **electrochemical series**.
 
 The standard reduction potential \( (E^{\circ}) \) is a measure of the oxidising tendency of the species. The greater the \( E^{\circ} \) value, greater is the tendency shown by the species to accept electrons and undergo reduction. So higher the \( (E^{\circ}) \) value, lesser is the tendency to undergo corrosion.
-
