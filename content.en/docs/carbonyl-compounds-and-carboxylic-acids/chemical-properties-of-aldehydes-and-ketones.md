@@ -57,17 +57,22 @@ When G = alkyl, aryl, OH, \(NH_2\), \(C_6H_5NH\), NHCONH, etc...
 
 Aldehyde and ketones react with hydroxylamine to form oxime.
 
+**Example:**
 ![](form21.png)
 
 **ii) Reaction with hydrazine**
 
 Aldehydes and ketones react with hydrazine to form hydrazone.
 
+**Example:**
+
 ![](form22.png)
 
 **iii) Reaction with phenyl hydrazine**
 
 Aldehydes and ketones react with phenyl hydrazine to form phenyl hydrazone.
+
+**Example:**
 
 ![](form23.png)
 
