@@ -11,15 +11,11 @@ weight: 4
 
 Aldehydes and ketones have relatively high boiling point as compared to hydrocarbons and ethers of comparable molecular mass. It is due to the weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions.
 
-![](img12.4.png)
+![](imge12.4.png)
 
 These dipole-dipole interactions are weaker than intermolecular H-bonding. The boiling points of aldehydes and ketones are much lower than those of corresponding alcohols and carboxylic acids which possess inter molecular hydrogen bonding.
 
-| Compound | Molar mass | Boiling point (K) | Compound | Molar mass | Boiling point (K) |
-|---|---|---|---|---|---|
-| \(CH_3(CH_2)_3CH_3\) (Pentane) | 72 | 309 | \(CH_3CH_2COCH_3\) (butan-2-one) | 72 | 353 |
-| \(CH_3(CH_2)_2CHO\) (butanal) | 72 | 349 | \(CH_3CH_2COOH\) (Propanoic acid) | 74 | 414 |
-| \(CH_3(CH_2)_3OH\) (butanol) | 74 | 391 | | | |
+![](image-28.png)
 
 3. **Solubility**
 

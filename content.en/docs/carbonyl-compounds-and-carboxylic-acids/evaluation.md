@@ -25,8 +25,11 @@ d) Nucleophilic addition
 3. Reaction of acetone with one of the following reagents involves nucleophilic addition followed by elimination of water. The reagent is
 
 a) Grignard reagent
+
 b) $\text{Sn / HCl}$
+
 c) hydrazine in presence of slightly acidic solution
+
 d) hydrocyanic acid
 
 4. In the following reaction,
@@ -53,9 +56,12 @@ d) oxime
 6. Predict the product Z in the following series of reactions $$\text{Ethanoic acid} \xrightarrow{\text{PCl}_5} \text{X} \xrightarrow[\text{Anhydrous AlCl}_3]{\text{C}_6\text{H}_6} \text{Y} \xrightarrow[\text{ii) H}_3\text{O}^+]{\text{i) CH}_3\text{MgBr}} \text{Z}$$
 
 a) $(\text{CH}_3)_2\text{C(OH)C}_6\text{H}_5$
+
 b) $\text{CH}_3\text{CH(OH)C}_6\text{H}_5$
+
 c) $\text{CH}_3\text{CH(OH)CH}_2\text{ - CH}_3$
-d) Benzyl alcohol ($\text{C}_6\text{H}_5\text{CH}_2\text{OH}$)
+
+![](image-29.png)
 
 7. Assertion: 2,2 – dimethyl propanoic acid does not give HVZ reaction.Reason: 2 – 2, dimethyl propanoic acid does not have $\alpha\text{ - hydrogen}$ atom
 
@@ -70,8 +76,11 @@ d) both assertion and reason are false.
 8. Which of the following represents the correct order of acidity in the given compounds
 
 a) $\text{FCH}_2\text{COOH} > \text{CH}_3\text{COOH} > \text{BrCH}_2\text{COOH} > \text{ClCH}_2\text{COOH}$
+
 b) $\text{FCH}_2\text{COOH} > \text{ClCH}_2\text{COOH} > \text{BrCH}_2\text{COOH} > \text{CH}_3\text{COOH}$
+
 c) $\text{CH}_3\text{COOH} > \text{ClCH}_2\text{COOH} > \text{FCH}_2\text{COOH} > \text{Br-CH}_2\text{COOH}$
+
 d) $\text{ClCH}_2\text{COOH} > \text{CH}_3\text{COOH} > \text{BrCH}_2\text{COOH} > \text{ICH}_2\text{COOH}$
 
 9. $\text{Benzoic acid} \xrightarrow[\text{ii) }\Delta]{\text{i) NH}_3} \text{A} \xrightarrow{\text{NaOBr}} \text{B} \xrightarrow{\text{NaNO}_2\text{ / HCl}} \text{C \quad 'C' is}$
@@ -97,8 +106,11 @@ d) none of these
 11. $\text{CH}_3\text{Br} \xrightarrow{\text{KCN}} \text{(A)} \xrightarrow{\text{H}_3\text{O}^+} \text{(B)} \xrightarrow{\text{PCl}_5} \text{(C) \quad product (C) is}$
 
 a) acetylchloride
+
 b) chloro acetic acid
+
 c) $\alpha$-chlorocyano ethanoic acid
+
 d) none of these
 
 12. Which one of the following reduces tollens reagent
@@ -114,8 +126,13 @@ d) none of these
 ![](image-19.png)
 
 ![](image-20.png)
-a) but – 3- enoicacid b) but – 1- ene-4-oicacid
-c) but – 2- ene-1-oic acid d) but -3-ene-1-oicacid
+a) but – 3- enoicacid
+
+ b) but – 1- ene-4-oicacid
+
+c) but – 2- ene-1-oic acid
+
+ d) but -3-ene-1-oicacid
 
 ![](image-21.png)
 

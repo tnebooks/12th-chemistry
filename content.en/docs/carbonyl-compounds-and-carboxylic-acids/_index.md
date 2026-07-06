@@ -28,5 +28,7 @@ able to
 
 # INTRODUCTION
 
-We come across many organic compounds containing a group in our everyday Life. Biomolecules such as protein, carbohydrate etc… that makeup all plants and animals contains carbonyl group. They play an important role in the metabolic process. For example, pyridoxal, an aldehyde derived from vitamin B, function as a co –enzyme. Carbonyl compounds are important constituents of fabrics, plastics and drugs. For example, Formaldehyde is used for the manufacture of Bakelite and paracetamol, (p– acetylated aminophenol) a drug used to reduce fever, contains a carbonyl group. In this unit, we will learn the preparation, properties and uses of aldhydes, ketones and carboxylic acids.
+We come across many organic compounds containing a
+![](image-27.png)
+ group in our everyday Life. Biomolecules such as protein, carbohydrate etc… that makeup all plants and animals contains carbonyl group. They play an important role in the metabolic process. For example, pyridoxal, an aldehyde derived from vitamin B, function as a co –enzyme. Carbonyl compounds are important constituents of fabrics, plastics and drugs. For example, Formaldehyde is used for the manufacture of Bakelite and paracetamol, (p– acetylated aminophenol) a drug used to reduce fever, contains a carbonyl group. In this unit, we will learn the preparation, properties and uses of aldhydes, ketones and carboxylic acids.
 

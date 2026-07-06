@@ -31,6 +31,7 @@ Carboxylic acid react with active metals like Na, Mg, Zn etc to form correspondi
 
 Carboxylic acid reacts with alkalis to neutralise them and form salts.
 
+**Example**
 ![](form71.png)
 
 **3) Reaction with carbonates and bicarbonate (Test for carboxylic acid group)**
