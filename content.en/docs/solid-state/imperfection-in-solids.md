@@ -1,24 +1,8 @@
 ---
-title: 'Solid State'
-categories:
-    - solid-state
-weight: 6
-summary: "This unit explains the classification of solids, distinguishing between crystalline and amorphous solid states. It describes crystal lattices, unit cells, packing efficiency, and the application of Bragg's equation in analyzing crystal structures. The unit also highlights various stoichiometric and non-stoichiometric defects, along with the electrical and magnetic properties of solids."
+title: 'Imperfection in solids'
+weight: 7
 ---
 
-# 6. SOLID STATE
-
-![](sir.png)
-
-**Sir William Henry Bragg (1862-1942) & Sir Lawrence Bragg (1890-1971)**
-
-Sir William Henry Bragg was a British physicist, chemist, and a mathematician. Sir William Henry Bragg and his son Lawrence Bragg worked on X-rays with much success. They invented the X-ray spectrometer and founded the new science of X-ray crystallography, the analysis of crystal structure using X-ray diffraction. Bragg was joint winner (with his son, Lawrence Bragg) of the Nobel Prize in Physics in 1915, for their services in the "analysis of crystal structure by means of ray". The mineral Braggite (a sulphide ore of platinum, palladium and Nickel) is named after him and his son.
-
-## INTRODUCTION
-
-Matter may exist in three different physical states namely solid, liquid and gas. If you look around, you may find mostly solids rather than liquids and gases. Solids differ from liquids and gases by possessing definite volume and definite shape. In the solids the atoms or molecules or ion are tightly held in an ordered arrangement and there are many types of solids such as diamond, metals, plastics etc., and most of the substances that we use in our daily life are in the solid state. We require solids with different properties for various applications. Understanding the relation between the structure of solids and their properties is very much useful in synthesizing new solid materials with different properties.
-
-In this chapter, we study the characteristics of solids, classification, structure and their properties; we also discuss the crystal defects and their significance.
 
 
 ### 6.7 Imperfection in solids:
@@ -92,40 +76,21 @@ This idea, known as energy harvesting, has caught many people's interest. Even t
 
 ## Summary
 
-Solids have definite volume and shape.
-
-Solids can be classified into the following two major types based on the arrangement of their constituents. (i) Crystalline solids (ii) Amorphous solids.
-
-A crystalline solid is one in which its constituents (atoms, ions or molecules), have an orderly arrangement extending over a long range.
-
-In contrast, in amorphous solids (In Greek, amorphous means no form) the constituents are randomly arranged.
-
-Crystalline solid is characterised by a definite orientation of atoms, ions or molecules, relative to one another in a three dimensional pattern. The regular arrangement of these species throughout the crystal is called a crystal lattice.
-
-A crystal may be considered to consist of large number of unit cells, each one in direct contact with its nearer neighbour and all similarly oriented in space.
-
-A unit cell is characterised by the three edge lengths or lattice constants a, b and c and the angle between the edges \(\alpha\), \(\beta\) and \(\gamma\).
-
-There are seven primitive crystal systems; cubic, tetragonal, orthorhombic, hexagonal, monoclinic, triclinic and rhombohedral. They differ in the arrangement of their crystallographic axes and angles. Corresponding to the above seven, Bravais defined 14 possible crystal systems.
-
-In the simple cubic unit cell, each corner is occupied by an identical atoms or ions or molecules. And they touch along the edges of the cube, do not touch diagonally. The coordination number of each atom is 6.
-
-In a body centered cubic unit cell, each corner is occupied by an identical particle and in addition to that one atom occupies the body centre. Those atoms which occupy the corners do not touch each other, however they all touch the one that occupies the body centre. Hence, each atom is surrounded by eight nearest neighbours and coordination number is 8.
-
-In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The coordination number is 12.
-
-X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data \(2d\sin \theta = n\lambda\).
-
-
- The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. 
- 
-
- Crystals always found to have some defects in the arrangement of their constituent particles. 
- 
- Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. 
- 
- Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. 
- 
- Metal excess defect arises due to the presence of more number of metal ions as compared to anions. 
- 
- Metal deficiency defect arises due to the presence of less number of cations than the anions.
+- Solids have definite volume and shape.
+- Solids can be classified into the following two major types based on the arrangement of their constituents. (i) Crystalline solids (ii) Amorphous solids.
+- A crystalline solid is one in which its constituents (atoms, ions or molecules), have an orderly arrangement extending over a long range.
+- In contrast, in amorphous solids (In Greek, amorphous means no form) the constituents are randomly arranged.
+- Crystalline solid is characterised by a definite orientation of atoms, ions or molecules, relative to one another in a three dimensional pattern. The regular arrangement of these species throughout the crystal is called a crystal lattice.
+- A crystal may be considered to consist of large number of unit cells, each one in direct contact with its nearer neighbour and all similarly oriented in space.
+- A unit cell is characterised by the three edge lengths or lattice constants a, b and c and the angle between the edges \(\alpha\), \(\beta\) and \(\gamma\).
+- There are seven primitive crystal systems; cubic, tetragonal, orthorhombic, hexagonal, monoclinic, triclinic and rhombohedral. They differ in the arrangement of their crystallographic axes and angles. Corresponding to the above seven, Bravais defined 14 possible crystal systems.
+- In the simple cubic unit cell, each corner is occupied by an identical atoms or ions or molecules. And they touch along the edges of the cube, do not touch diagonally. The coordination number of each atom is 6.
+- In a body centered cubic unit cell, each corner is occupied by an identical particle and in addition to that one atom occupies the body centre. Those atoms which occupy the corners do not touch each other, however they all touch the one that occupies the body centre. Hence, each atom is surrounded by eight nearest neighbours and coordination number is 8.
+- In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The coordination number is 12.
+- X-Ray diffraction analysis is the most powerful tool for the determination of crystal structure. The inter planar distance (d) between two successive planes of atoms can be calculated using the following equation form the X-Ray diffraction data \(2d\sin \theta = n\lambda\).
+- The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. 
+- Crystals always found to have some defects in the arrangement of their constituent particles. 
+- Schottky defect arises due to the missing of equal number of cations and anions from the crystal lattice. 
+- Frenkel defect arises due to the dislocation of ions from its crystal lattice. The ion which is missing from the lattice point occupies an interstitial position. 
+- Metal excess defect arises due to the presence of more number of metal ions as compared to anions. 
+- Metal deficiency defect arises due to the presence of less number of cations than the anions.
