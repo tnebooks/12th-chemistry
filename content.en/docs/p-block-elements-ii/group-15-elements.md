@@ -15,6 +15,7 @@ Some of the physical properties of the group 15 elements are listed below
 
 **Table 3.1 Physical properties of group 15 elements**
 
+
 | Property | Nitrogen | Phosphorus | Arsenic | Antimony | Bismuth |
 |---|---|---|---|---|---|
 | Physical state at 293 K | Gas | Solid | Solid | Solid | Solid |
