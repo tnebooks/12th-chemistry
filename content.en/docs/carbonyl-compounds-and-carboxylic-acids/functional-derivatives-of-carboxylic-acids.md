@@ -3,17 +3,27 @@ title: "Functional derivatives of carboxylic acids"
 weight: 14
 ---
 
-### 12.14 Functional derivatives of carboxylic acids
+## 12.14 Functional derivatives of carboxylic acids
 
 Compounds such as acid chlorides, amides, esters etc., are called carboxylic acid derivatives because they differ from a carboxylic acid only in the nature of the group or atom that has replaced the -OH group of carboxylic acid.
 
-![](image-15.png)
+| Group replacing $-\text{OH}$ | Name | Structure | Example |
+| :---: | :---: | :---: | :---: |
+| $-\text{Cl}$ | Acid chloride | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{Cl} \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{Cl} \\ \text{\small Acetyl chloride} \end{array} $$ |
+| $-\text{NH}_2$ | Acid amide | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{NH}_2 \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{NH}_2 \\ \text{\small Acetamide} \end{array} $$ |
+| $-\text{OR}'$ | ester | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{OR}' \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{OCH}_3 \\ \text{\small Methyl acetate} \end{array} $$ |
+| $-\text{OOCR}$ | Acid anhydride | $$ \begin{array}{ccc} \text{O} & & \text{O} \\ \parallel & & \parallel \\ \text{R}-\text{C} & -\text{O}-&\text{C}-\text{R} \end{array} $$ | $$\begin{array}{ccc}\text{O} & & \text{O} \\[-0.5ex]\parallel & & \parallel \\[-0.5ex]\text{CH}_3-\text{C} & \!-\text{O}-\! & \text{C}-\text{R} \\& \text{\small Acetic anhydride} & \end{array}$$|
 
-#### Relative reactivity of Acid derivatives
+**Relative reactivity of Acid derivatives**
 
 The reactivity of the acid derivatives follows the order
-
-![](img12.9.png)
+$$
+\begin{array}{ccccccc}
+\text{O} & & \text{O} \quad \text{O} & & \text{O} & & \text{O} \\
+\parallel & & \parallel \quad \parallel & & \parallel & & \parallel \\
+\text{R}-\text{C}-\text{Cl} & > & \text{R}-\text{C}-\text{O}-\text{C}-\text{R} & > & \text{R}-\text{C}-\text{OR}' & > & \text{R}-\text{C}-\text{NH}_2
+\end{array}
+$$
 
 The above order of reactivity can be explained in terms of
 
@@ -37,13 +47,28 @@ Hence the order of reactivity of the acid derivatives with nucleophilic reagent 
 
 acid halide > acid anhydride > esters > acid amides
 
-#### 12.14.1 Nomenclature
+### 12.14.1 Nomenclature
 
-![](form85.png)
-![](form86.png)
-![](form87.png)
+| Compound <br>(common name, Structural formula, <br>IUPAC Name) | IUPAC Name | | | |
+| :--- | :---: | :---: | :---: | :---: |
+| | **Prefix with position <br>number** | **Root used** | **Primary <br>suffix** | **Secondary <br>Suffix** |
+| Acetyl chloride <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethanoylchloride | $-$ | eth | ane | oyl <br> chloride |
+| Propionyl chloride <br> $$ \begin{array}{c} \text{C}_2\text{H}_5-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Propanoylchloride | $-$ | prop | ane | oyl <br> chloride |
+| Benzoyl chloride <br> $$ \begin{array}{c} \text{C}_6\text{H}_5-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Benzoylchloride | $-$ | Benz | ane | oyl <br> chloride |
+| Acetic anhydride <br> $$ \begin{array}{ccc} \text{CH}_3-\text{C} & -\text{O}- & \text{C}-\text{CH}_3 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Ethanoic anhydride | $-$ | eth | ane | oic <br> anhydride |
+| Propionic anhydride <br> $$ \begin{array}{ccc} \text{CH}_3-\text{CH}_2-\text{C} & -\text{O}- & \text{C}-\text{CH}_2-\text{CH}_3 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Propanoic anhydride | $-$ | prop | ane | oic <br> anhydride |
+| Benzoic anhydride <br> $$ \begin{array}{ccc} \text{C}_6\text{H}_5-\text{C} & -\text{O}- & \text{C}-\text{C}_6\text{H}_5 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Benzoic anhydride | $-$ | Benz | | oic <br> anhydride |
+| <center>**Esters**</center> | | | | |
+| Methyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{CH}_3 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Methyl ethanoate | Methyl | eth | ane | oate |
+| Ethyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{C}_2\text{H}_5 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethyl ethanoate | Ethyl | eth | ane | oate |
+| Phenyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{C}_6\text{H}_5 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Phenyl ethanoate | Phenyl | eth | ane | oate |
+| <center>**Acid Amides** </center>| | | | |
+| Acetamide <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethanamide | $-$ | eth | ane | amide |
+| Propionamide <br> $$ \begin{array}{c} \text{C}_2\text{H}_5-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Propanamide | $-$ | prop | ane | amide |
+| Benzamide <br> $$ \begin{array}{c} \text{C}_6\text{H}_5-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Benzamide | $-$ | benz | $-$ | amide |
 
-#### 12.14.2 Acid Halides
+
+### 12.14.2 Acid Halides
 
 **Methods of Preparation of acid chloride:**
 
@@ -57,9 +82,9 @@ This method is superior to others as the by products being gases escape leaving 
 
 **Physical properties:**
 
-They emit pale fumes of hydrogen chloride when exposed to air on account of their reaction with water vapour.
+*   They emit pale fumes of hydrogen chloride when exposed to air on account of their reaction with water vapour.
 
- They are insoluble in water but slowly begins to dissolve due to hydrolysis.
+*   They are insoluble in water but slowly begins to dissolve due to hydrolysis.
 
 **Chemical properties:**
 
@@ -69,15 +94,15 @@ They react with weak nucleophiles such as water, alcohols, ammonia and amines to
 
 ![](form89.png)
 
-**2) Reaction with Alcohols (Alcoholysis)** gives esters.
+**2) Reaction with Alcohols (Alcoholysis) gives esters.**
 
 ![](form90.png)
 
-**3) Reaction with Ammonia (Ammonolysis)** gives acid amides.
+**3) Reaction with Ammonia (Ammonolysis) gives acid amides.**
 
 ![](form91.png)
 
-**4) Reaction with \(1^\circ\) and \(2^\circ\) Amines** gives N-alkyl amides.
+**4) Reaction with \(1^\circ\) and \(2^\circ\) Amines gives N-alkyl amides.**
 
 ![](form92.png)
 
@@ -92,7 +117,7 @@ They react with weak nucleophiles such as water, alcohols, ammonia and amines to
 ![](form94.png)
 
 
-#### 12.14.3 Acid anhydride
+### 12.14.3 Acid anhydride
 
 **Methods of preparation**
 
@@ -132,7 +157,7 @@ Acid anhydride reacts with \(PCl_5\) to form acyl chlorides.
 
 ![](form99.png)
 
-#### 12.14.4 Esters
+### 12.14.4 Esters
 
 **Methods of preparation**
 
@@ -188,15 +213,15 @@ Esters react with \(PCl_5\) to give a mixture of acyl and alkyl chloride
 
 ![](form103.png)
 
-## Evaluate yourself
+>**Evaluate yourself**
+>
+>Why is acid anhydride preferred to acyl chloride for carrying out acylation reactions?
 
-Why is acid anhydride preferred to acyl chloride for carrying out acylation reactions?
-
-#### 12.14.5 Acid Amides
+### 12.14.5 Acid Amides
 
 Acid amides are derivatives of carboxylic acid in which the -OH part of carboxylic group has been replaced by -\(NH_2\) group. The general formula of amides are given as follows.
 
-![](img12.10.png)
+![](img-12-10.png)
 
  Now, we shall focus our attention mainly on the study of chemistry of acetamide.
 

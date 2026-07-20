@@ -5,7 +5,7 @@ weight: 12
 
 ### 12.12 Chemical properties of carboxylic acids
 
-Carboxylic acid do not give the characteristic reaction of carbonyl group ![](image-8.png) as given by the aldehydes and ketones, as the carbonyl group of carboxylic acid is involved in resonance.
+Carboxylic acid do not give the characteristic reaction of carbonyl group $\text{＞C = O}$ as given by the aldehydes and ketones, as the carbonyl group of carboxylic acid is involved in resonance.
 
 The reactions of carboxylic acids can be classified as follows:
 
@@ -17,7 +17,7 @@ C) Reactions involving -COOH group.
 
 D) Substitution reactions involving hydrocarbon part.
 
-#### A) Reactions involving cleavage of O-H bond
+**A) Reactions involving cleavage of O-H bond**
 
 **1) Reactions with metals**
 
@@ -44,7 +44,7 @@ Carboxylic acids decompose carbonates and bicarbonates evolving carbon dioxide g
 
 **4) All Carboxylic acids turn blue litmus red**
 
-#### B) Reactions involving cleavage of C-OH bond
+**B) Reactions involving cleavage of C-OH bond**
 
 **1) Reactions with \(PCl_5\), \(PCl_3\) and \(SOCl_2\)**
 
@@ -68,7 +68,7 @@ The mechanism of esterification involves the following steps.
 
 ![](form75.png)
 
-#### C) Reactions involving -COOH group
+**C) Reactions involving -COOH group**
 
 **1) Reduction**
 
@@ -119,7 +119,7 @@ Carboxylic acid on heating in the presence of a strong dehydrating agent such as
 
 ![](form78.png)
 
-#### D) Substitution reactions in the hydrocarbon part 
+**D) Substitution reactions in the hydrocarbon part** 
 
 **1) \(\alpha\)-Halogenation**
 
@@ -146,7 +146,7 @@ Aromatic carboxylic acid undergoes electrophilic substitution reactions. The car
 
 **iv)** Benzoic acid does not undergo Friedel-Craft's reaction. This is due to the strong deactivating nature of the carboxyl group.
 
-#### E) Reducing action of Formic acid
+**E) Reducing action of Formic acid**
 
 Formic acid contains both an aldehyde as well as an acid group. Hence, like other aldehydes, formic acid can easily be oxidised and therefore acts as a strong reducing agent
 

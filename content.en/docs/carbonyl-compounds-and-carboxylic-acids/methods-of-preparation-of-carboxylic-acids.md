@@ -62,7 +62,7 @@ Aromatic carboxylic acids can be prepared by vigorous oxidation of alkyl benzene
 
 ![](form68.png)
 
-## Evaluate yourself
-
-1) What happens when n-propyl benzene is oxidised using \(H^+/KMnO_4\)?
-2) How will you prepare benzoic acid using Grignard reagent?
+>**Evaluate yourself**
+>
+>1) What happens when n-propyl benzene is oxidised using \(H^+/KMnO_4\)?
+>2) How will you prepare benzoic acid using Grignard reagent?

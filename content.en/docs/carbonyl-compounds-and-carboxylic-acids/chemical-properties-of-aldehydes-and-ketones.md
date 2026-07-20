@@ -5,7 +5,7 @@ weight: 5
 
 ### 12.5 Chemical properties of aldehydes and ketones
 
-#### A) Nucleophilic addition reactions
+**A) Nucleophilic addition reactions**
 
 This reaction is the most common reactions of aldehydes and ketones. The carbonyl carbon carries a small degree of positive charge. Nucleophile such as \(CN^-\) can attack the carbonyl carbon and uses its lone pair to form a new carbon – nucleophile \(\sigma\) bond, at the same time two electrons from the carbon – oxygen double bond move to the most electronegative oxygen atom. This results in the formation of an alkoxide ion. In this process, the hybridisation of carbon changes from \(sp^2\) to \(sp^3\).
 
@@ -44,37 +44,43 @@ When acetaldehyde is treated with 2 equivalent of methanol in presence of HCl, 1
 
 **4) Addition of ammonia and its derivatives**
 
-When the nucleophiles, such as ammonia and its derivative $$\text{H}_2\ddot{\text{N}}\text{-G}$$ is treated with carbonyl compound, nucleophilic addition takes place, the carbonyl oxygen atom is protonated and then elimination takes place to form carbon - nitrogen double bond \((>C=N-G)\)
+When the nucleophiles, such as ammonia and its derivative $\text{H}_2\ddot{\text{N}}\text{-G}$ is treated with carbonyl compound, nucleophilic addition takes place, the carbonyl oxygen atom is protonated and then elimination takes place to form carbon - nitrogen double bond \((>C=N-G)\)
 
 When G = alkyl, aryl, OH, \(NH_2\), \(C_6H_5NH\), NHCONH, etc...
 
 ![](form18.png)
 
-![](form19.png)
-![](form20.png)
+
+| **G** | **Ammonia derivatives** | **Carbonyl derivatives** | **Product name** |
+|:---:|:---:|:---:|:---:|
+| —OH | Hydroxyl amine | >C = N—OH | Oxime |
+| —NH₂ | Hydrazine | >C = N—NH₂ | Hydrazone |
+| —HN—C₆H₅ | Phenyl hydrazine | >C = N—NH—C₆H₅ | Phenyl hydrazone |
+| ![](image-38.png) | Hydrazinecarboxamide | ![](image-39.png)| -carboxamide |
+| ![](image-40.png)| 2,4-Dinitrophenyl hydrazine | ![](image-41.png) | 2,4-Dinitrophenyl hydrazone |
 
 **i) Reaction with hydroxyl amine**
 
 Aldehyde and ketones react with hydroxylamine to form oxime.
 
-**Example:**
-![](form21.png)
+>**Example:**
+>![](form21.png)
 
 **ii) Reaction with hydrazine**
 
 Aldehydes and ketones react with hydrazine to form hydrazone.
 
-**Example:**
-
-![](form22.png)
+>**Example:**
+>
+>![](form22.png)
 
 **iii) Reaction with phenyl hydrazine**
 
 Aldehydes and ketones react with phenyl hydrazine to form phenyl hydrazone.
 
-**Example:**
-
-![](form23.png)
+>**Example:**
+>
+>![](form23.png)
 
 **5) Reaction with \(NH_3\)**
 
@@ -100,7 +106,7 @@ iv) Benzaldehyde form a complex condensation product with ammonia.
 
 ![](form27.png)
 
-#### B) Oxidation of aldehydes and ketones
+**B) Oxidation of aldehydes and ketones**
 
 **a) Oxidation of aldehydes**
 
@@ -118,7 +124,7 @@ The oxidation of unsymmetrical ketones is governed by **Popoff's rule**. It stat
 
 ![](form30.png)
 
-#### C) Reduction reactions
+**C) Reduction reactions**
 
 **i) Reduction to alcohols**
 
@@ -166,13 +172,13 @@ Aldehyde (or) ketone is first converted to its hydrazone which on heating with s
 
 ![](form36.png)
 
-#### D) Haloform reaction
+**D) Haloform reaction**
 
-Acetaldehyde and methyl ketones, containing $$\text{CH}_3\text{-}\underset{\substack{||\\\text{O}}}{\text{C}}\text{- group}$$ , when treated with halogen and alkali give the corresponding haloform. This is known as Haloform reaction.
+Acetaldehyde and methyl ketones, containing  $$\text{CH}_3\text{-}\underset{\substack{\vert{}\vert{}\\\text{O}}}{\text{C}}\text{-}$$ group , when treated with halogen and alkali give the corresponding haloform. This is known as Haloform reaction.
 
 ![](form37.png)
 
-#### E) Reaction involving alkyl group
+**E) Reaction involving alkyl group**
 
 **i) Aldol condensation**
 
@@ -212,7 +218,7 @@ Aldol condensation can also take place between two different aldehydes or ketone
 
 ![](form43.png)
 
-#### F) Some important reactions of benzaldehyde
+**F) Some important reactions of benzaldehyde**
 
 **i) Claisen-Schmidt Condensation**
 
@@ -258,7 +264,7 @@ When Cannizzaro reaction takes place between two different aldehydes (neither co
 
 In crossed cannizzaro reaction more reactive aldehyde is oxidized and less reactive aldehyde is reduced.
 
-**iii) Benzoin condensation**
+**3) Benzoin condensation**
 
 The Benzoin condensation involves the treatment of an aromatic aldehyde with aqueous alcoholic KCN. The products are \(\alpha\) hydroxy ketone.
 
@@ -268,7 +274,7 @@ Benzaldehyde reacts with alcoholic KCN to form benzoin
 
 ![](form49.png)
 
-**iv) Perkin's reaction**
+**4) Perkin's reaction**
 
 When an aromatic aldehyde is heated with an aliphatic acid anhydride in the presence of the sodium salt of the acid corresponding to the anhydride, condensation takes place and an \(\alpha,\beta\) unsaturated acid is obtained. This reaction is known as Perkin's reaction.
 
@@ -276,13 +282,13 @@ When an aromatic aldehyde is heated with an aliphatic acid anhydride in the pres
 
 ![](form50.png)
 
-**v) Knoevenagel reaction**
+**5) Knoevenagel reaction**
 
 Benzaldehyde condenses with malonic acid in presence of pyridine forming cinnamic acid. Pyridine act as the basic catalyst.
 
 ![](form51.png)
 
-**vi) Reaction with amine**
+**6) Reaction with amine**
 
 Aromatic aldehydes react with primary amines (aliphatic or aromatic) in the presence of an acid to form Schiff's base.
 
@@ -290,13 +296,13 @@ Aromatic aldehydes react with primary amines (aliphatic or aromatic) in the pres
 
 ![](form52.png)
 
-**vii) Condensation with tertiary aromatic amines**
+**7) Condensation with tertiary aromatic amines**
 
 Benzaldehyde condenses with tertiary aromatic amines like N,N-dimethyl aniline in the presence of strong acids to form triphenyl methane dye.
 
 ![](form53.png)
 
-**viii) Electrophilic substitution reactions of benzaldehyde**
+**8) Electrophilic substitution reactions of benzaldehyde**
 
 ![](form54.png)
 
