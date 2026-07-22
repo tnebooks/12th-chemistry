@@ -15,7 +15,23 @@ Aldehydes and ketones have relatively high boiling point as compared to hydrocar
 
 These dipole-dipole interactions are weaker than intermolecular H-bonding. The boiling points of aldehydes and ketones are much lower than those of corresponding alcohols and carboxylic acids which possess inter molecular hydrogen bonding.
 
-![](image-28.png)
+Here are the transcribed tables from the image formatted in Markdown:
+
+
+
+| Compound | Molar mass | Boiling point (K) |
+| --- | --- | --- |
+| $\text{CH}_3(\text{CH}_2)_3\text{CH}_3$<br><br>Pentane | 72 | 309 |
+| $\text{CH}_3(\text{CH}_2)_2\text{CHO}$<br><br>butanal | 72 | 349 |
+| $\text{CH}_3(\text{CH}_2)_3\text{OH}$<br><br>butanol | 74 | 391 |
+
+
+
+| Compound | Molar mass | Boiling point (K) |
+| --- | --- | --- |
+| $\text{CH}_3\text{CH}_2\text{COCH}_3$<br><br>butan - 2- one | 72 | 353 |
+| $\text{CH}_3\text{CH}_2\text{COOH}$<br><br>Propanoicacid | 74 | 414 |
+|  |  |  |
 
 3. **Solubility**
 

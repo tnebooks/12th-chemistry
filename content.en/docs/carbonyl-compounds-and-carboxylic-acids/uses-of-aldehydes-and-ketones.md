@@ -49,6 +49,6 @@ weight: 7
 
 ### CARBOXYLIC ACIDS
 
-## Introduction
+**Introduction**
 
-Carbon compounds containing a carboxyl functional group, -COOH are called carboxylic acids. The Carboxyl group is the combination of carbonyl group  $$\text{–} \underset{\substack{|| \\ \text{O}}}{\text{C}} \text{–}$$  and the hydroxyl group (-OH). However, carboxyl group has its own characteristic reaction. Carboxylic acids may be aliphatic (R-COOH) or aromatic (Ar-COOH) depending on the alkyl or aryl group attached to carboxylic carbon. Some higher members of aliphatic carboxylic acids \(C_{12}\) to \(C_{18}\) known as fatty acids occur in natural fats as esters of glycerol.
+Carbon compounds containing a carboxyl functional group, -COOH are called carboxylic acids. The Carboxyl group is the combination of carbonyl group  $\text{–} \underset{\substack{||\text{O}}}{\text{C}} \text{–}$  and the hydroxyl group (-OH). However, carboxyl group has its own characteristic reaction. Carboxylic acids may be aliphatic (R-COOH) or aromatic (Ar-COOH) depending on the alkyl or aryl group attached to carboxylic carbon. Some higher members of aliphatic carboxylic acids \(C_{12}\) to \(C_{18}\) known as fatty acids occur in natural fats as esters of glycerol.
