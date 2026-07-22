@@ -188,9 +188,7 @@ A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept o
    \mathrm{H}_2(g) + \mathrm{Cl}_2(g) \xrightarrow{h\nu} 2\mathrm{HCl}(g)
    \]
 2. Decomposition of \( \mathrm{N}_2\mathrm{O} \) on hot platinum surface
-   \[
-   \mathrm{N}_2\mathrm{O}(g) \xrightarrow{\mathrm{Pt}} \mathrm{N}_2(g) + \frac{1}{2}\mathrm{O}_2(g)
-   \]
+   ![](eq.png)
 3. Iodination of acetone in acid medium is zero order with respect to iodine.
    \[
    \mathrm{CH}_3\mathrm{COCH}_3 + \mathrm{I}_2 \xrightarrow{\mathrm{H}^+} \mathrm{ICH}_2\mathrm{COCH}_3 + \mathrm{HI}

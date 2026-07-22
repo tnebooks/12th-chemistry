@@ -103,6 +103,16 @@ So far we have learnt, that rate of reaction can be increased to certain extent 
 
 * The half life of a reaction is defined as the time required for the reactant concentration to reach one half its initial value. For a first order reaction, the half life is a constant.
 
+i.e., it does not depend on the initial concentration.
+
+- According to collision theory, chemical reactions occur as a result of collisions between the reacting molecules.
+
+* Generally, the rate of a reaction increases with increasing temperature. However, there are very few exceptions. The magnitude of this increase in rate is different for different reactions.
+
+- As a rough rule, for many reactions near room temperature, the reaction rate tends to double when the temperature is increased by \(10^\circ\text{C}\).
+
+* According to Arrhenius, the activation energy of a reaction is the minimum energy that a molecule must possess to react.
+
 - The rate of a reaction is affected by the following factors:
   1. Nature and state of the reactant
   2. Concentration of the reactant

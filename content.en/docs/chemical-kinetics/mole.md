@@ -63,9 +63,7 @@ Consider the oxidation of nitric oxide to form \( \mathrm{NO}_2 \)
 \frac{d[\mathrm{NO}_2]}{dt} = 2 \times \left(\frac{-d[\mathrm{O}_2]}{dt}\right) = 2 \times 0.2\ \mathrm{mol\ L^{-1}\ s^{-1}}
 \]
 
-\[
-= 0.4\ \mathrm{mol\ L^{-1}\ s^{-1}}
-\]
+\[ = 0.4\ \text{mol L}^{-1} \text{s}^{-1} \]
 
 >**Evaluate yourself 1**
 >

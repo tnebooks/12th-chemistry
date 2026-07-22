@@ -71,15 +71,15 @@ The above equation is of the form of a straight line \( y = mx + c \)
 A plot of \( \ln k \) Vs \( \frac{1}{T} \) gives a straight line with a negative slope \( -\frac{E_a}{R} \). If the rate constant for a reaction at two different temperatures is known, we can calculate the activation energy as follows.
 
 
-At temperature $\text{T} = \text{T}_1$ ; the rate constant $\text{k} = \text{k}_1$
+At temperature \(T = T_1\), the rate constant \(k = k_1\).
 
 $$\ln \text{k}_1 = \ln \text{A} - \left( \frac{\text{E}_\text{a}}{\text{RT}_1} \right) \quad \dots (3)$$
 
-At temperature $\text{T} = \text{T}_2$ ; the rate constant $\text{k} = \text{k}_2$
+At temperature \(T = T_2\), the rate constant \(k = k_2\).
 
 $$\ln \text{k}_2 = \ln \text{A} - \left( \frac{\text{E}_\text{a}}{\text{RT}_2} \right) \quad \dots (4)$$
 
-$(4) - (3)$
+(4) - (3)
 
 $$\ln \text{k}_2 - \ln \text{k}_1 = -\left( \frac{\text{E}_\text{a}}{\text{RT}_2} \right) + \left( \frac{\text{E}_\text{a}}{\text{RT}_1} \right)$$
 
@@ -128,9 +128,6 @@ Rate constant k of a reaction varies with temperature T according to the followi
 
 Where \( E_a \) is the activation energy. When a graph is plotted for \( \log k \) Vs \( \frac{1}{T} \) a straight line with a slope of -4000K is obtained. Calculate the activation energy.
 
-**Solution**
-
-Here is the text and mathematical steps extracted from image_ed7699.png:
 
 **Solution**
 

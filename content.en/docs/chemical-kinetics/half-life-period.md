@@ -155,9 +155,21 @@ k = \frac{1}{t} \ln \frac{[\mathrm{A}_0]}{[\mathrm{A}]}
 \frac{[\mathrm{A}_0]}{[\mathrm{A}]} = e^{0.06} = 1.06
 \]
 
-\[
-\frac{[\mathrm{A}_0] - [\mathrm{A}]}{[\mathrm{A}_0]} \times 100 = \left(1 - \frac{1}{1.06}\right) \times 100 = 5.6\%
-\]
+$$
+\therefore \frac{[A_0]-[A]}{[A_0]} \times 100\%
+$$
+
+$$
+= \left(1-\frac{[A]}{[A_0]}\right)\times100\%
+$$
+
+$$
+= \left(1-\frac{1}{1.06}\right)\times100\%
+$$
+
+$$
+= 5.6\%
+$$
 
 **Example 6**
 

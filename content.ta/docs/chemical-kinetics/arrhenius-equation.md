@@ -92,11 +92,11 @@ $$
 
 \( T_1 = 200K; k_1 = 0.02 \ s^{-1} \)
 
-\[ \log \left( \frac{0.04}{0.02} \right) = \frac{E_a}{2.303 \times 8.314 \ JK^{-1}mol^{-1}} \left( \frac{400 - 200}{200 \times 400} \right) \]
+\[ \log \left( \frac{0.04}{0.02} \right) = \frac{E_a}{2.303 \times 8.314 \ JK^{-1}mol^{-1}} \left( \frac{400K - 200K}{200K \times 400K} \right) \]
 
-\[ \log (2) = \frac{E_a}{2.303 \times 8.314} \left( \frac{200}{80000} \right) \]
+\[ \log (2) = \frac{E_a}{2.303 \times 8.314} \left( \frac{200K}{80000K} \right) \]
 
-\[ 0.3010 = \frac{E_a}{2.303 \times 8.314} \left( \frac{1}{400} \right) \]
+\[ 0.3010 = \frac{E_a}{2.303 \times 8.314} \left( \frac{1}{400K} \right) \]
 
 $$
 E_a=\log(2)\times 2.303\times 8.314\ \mathrm{J\,K^{-1}\,mol^{-1}}\times 400\ \mathrm{K}
