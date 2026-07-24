@@ -39,7 +39,7 @@ since \( [B_2] > [B_1] \), no minus sign is required here.
 
 **Unit of rate of a reaction:**
 
->\[
+\[
 \text{unit of rate} = \frac{\text{unit of concentration}}{\text{unit of time}}
 \]
 
@@ -128,7 +128,7 @@ From the above calculations, we come to know that the rate decreases with time a
 \text{As } \Delta t \rightarrow 0; \quad \frac{-\Delta[\text{cyclopropane}]}{\Delta t} = \frac{-d[\text{cyclopropane}]}{dt}
 \]
 
-A plot of [cyclopropane] Vs (time) gives a curve as shown in the figure 7.2. Instantaneous rate at a particular instant 't' is obtained by calculating the slope of a tangent drawn to the curve at that instant.
+A plot of [cyclopropane] Vs (time) gives a curve as shown in the figure 7.2. Instantaneous rate at a particular instant 't' $$-\frac{d[\text{cyclopropane}]}{dt}$$ is obtained by calculating the slope of a tangent drawn to the curve at that instant.
 
 In general, the instantaneous reaction rate at a moment of mixing the reactants \( (t = 0) \) is calculated from the slope of the tangent drawn to the curve. The rate calculated by this method is called initial rate of a reaction.
 
