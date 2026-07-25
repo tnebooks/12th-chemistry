@@ -7,15 +7,15 @@ weight: 13
 
 Carboxylic acids undergo ionisation to produce \(H^+\) and carboxylate ions in aqueous solution. The carboxylate anion is stabilised by resonance which make the Carboxylic acid to donate the proton easily.
 
-![](img12.6.png)
+![](img-12-6.png)
 
 the resonance structure of carboxylate ion are given below.
 
-![](img12.7.png)
+![](img-12-7.png)
 
 The strength of carboxylic acid can be expressed in terms of the dissociation constant (Ka):
 
-![](img12.8.png)
+![](img-12-8.png)
 
 The dissociation constant is generally called acidity constant because it measures the relative strength of an acid. The stronger the acid, the higher will be its Ka value.
 
@@ -29,7 +29,22 @@ A stronger acid will have higher Ka value but smaller pKa value.
 
 **Ka and pKa values of some Carboxylic acids at 298 K**
 
-![](image-14.png)
+| Carboxylic acid |  | pKa Value |
+| --- | --- | --- |
+| **Name of acid** | **Molecular formula** |  |
+| Trichloroacetic acid | $\text{Cl}_3\text{CCOOH}$ | 0.64 |
+| Dichloroacetic acid | $\text{Cl}_2\text{CHCOOH}$ | 1.26 |
+| Fluoroacetic acid | $\text{FCH}_2\text{COOH}$ | 2.59 |
+| Chloroacetic acid | $\text{ClCH}_2\text{COOH}$ | 2.87 |
+| Bromoacetic acid | $\text{BrCH}_2\text{COOH}$ | 2.90 |
+| Iodoacetic acid | $\text{ICH}_2\text{COOH}$ | 3.17 |
+| Formic acid | $\text{HCOOH}$ | 3.75 |
+| Benzoic acid | $\text{C}_6\text{H}_5\text{COOH}$ | 4.20 |
+| Acetic acid | $\text{CH}_3\text{COOH}$ | 4.76 |
+| Propionic acid | $\text{CH}_3\text{CH}_2\text{COOH}$ | 4.88 |
+| o – nitrobenzoic acid | $\text{o-NO}_2\text{C}_6\text{H}_4\text{COOH}$ | 2.17 |
+| m-nitrobenzoic acid | $\text{m-NO}_2\text{C}_6\text{H}_4\text{COOH}$ | 3.49 |
+| p- nitrobenzoic acid | $\text{p-NO}_2\text{C}_6\text{H}_4\text{COOH}$ | 3.44 |
 
 **Effect of substituents on the acidity of carboxylic acid.**
 

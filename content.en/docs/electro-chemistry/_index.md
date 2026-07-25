@@ -49,7 +49,7 @@ Where 'R' is the resistance of the solution in ohm \( (\Omega) \)
 
 Here the resistance is the opposition that a cell offers to the flow of electric current through it.
 
-![](img9.1.png)
+![Figure 9.1 conductivity cell](img9.1.png)
 
 **Resistivity (ρ)**
 
@@ -81,7 +81,8 @@ Substitute (R) from (9.2) in (9.3)
 \Rightarrow \text{i.e., } C = \frac{1}{\rho} . \frac{A}{l} \qquad \text{(9.4)}
 \]
 
-![](img9.2.png)
+![Fig 9.2 conductivity of a cube 
+of an electrolytic solution](img9.2.png)
 
 The reciprocal of the specific resistance \( \left(\frac{1}{\rho}\right) \) is called the specific conductance (or) conductivity. It is represented by the symbol kappa \( (\kappa) \)
 
@@ -174,52 +175,16 @@ The relation between the equivalent conductance and the specific conductance is 
 
 Where \( \kappa \) is the specific conductance and \( N \) is the concentration of the electrolytic solution expressed in normality.
 
-**Evaluate yourself: 2**
-
-The resistance of \( 0.15\ \mathrm{N} \) solution of an electrolyte is \( 50\ \Omega \). The specific conductance of the solution is \( 2.4\ \mathrm{S\ m}^{-1} \). The resistance of \( 0.5\ \mathrm{N} \) solution of the same electrolyte measured using the same conductivity cell is \( 480\ \Omega \). Find the equivalent conductivity of \( 0.5\ \mathrm{N} \) solution of the electrolyte.
-
-Given that
-
-\[
-R_1 = 50\ \Omega, \quad R_2 = 480\ \Omega
-\]
-
-\[
-\kappa_1 = 2.4\ \mathrm{S\ m}^{-1}, \quad \kappa_2 = ?
-\]
-
-\[
-N_1 = 0.15\ \mathrm{N}, \quad N_2 = 0.5\ \mathrm{N}
-\]
-
-We know that
-
-\[
-\Lambda = \frac{\kappa_2 (\mathrm{S\ m}^{-1}) \times 10^{-3} (\text{gram equivalent})^{-1}\ \mathrm{m}^3}{N}
-\]
-
-Cell constant \( = \kappa_1 \times R_1 = 2.4 \times 50 = 120\ \mathrm{m}^{-1} \)
-
-\[
-\kappa_2 = \frac{\text{Cell constant}}{R_2} = \frac{120}{480} = 0.25\ \mathrm{S\ m}^{-1}
-\]
-
-\[
-\Lambda = \frac{0.25 \times 10^{-3}}{0.5} = 5 \times 10^{-4}\ \mathrm{S\ m}^2 \text{ gram equivalent}^{-1}
-\]
+![](ey2.png)
 
 #### 9.1.3 Factors affecting electrolytic conductance
 
-- If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
-
-- Solvent of higher dielectric constant show high conductance in solution.
-
+* If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
+* Solvent of higher dielectric constant show high conductance in solution.
 - Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
 increases with the decrease in viscosity.
-
 - If the temperature of the electrolytic solution increases, conductance also increases. Increase
 in temperature increases the kinetic energy of the ions and decreases the attractive force between the oppositely charged ions and hence conductivity increases.
-
 - Molar conductance of a solution increases with increase in dilution. This is because, for a strong electrolyte, interionic forces of attraction decrease with dilution. For a weak electrolyte, degree of dissociation increases with dilution.
 
 #### 9.1.4 Measurement of conductivity of ionic solutions
@@ -467,7 +432,6 @@ K_{\mathrm{sp}} = \left(\frac{\kappa \times 10^{-3}}{\Lambda^{\circ}}\right)^2 \
 Electrochemical cell is a device which converts chemical energy into electrical energy and vice versa. It consists of two separate electrodes which are in contact with an electrolyte solution. Electrochemical cells are mainly classified into the following two types.
 
 1. **Galvanic Cell (Voltaic cell)** : It is a device in which a spontaneous chemical reaction generates an electric current i.e., it converts chemical energy into electrical energy. It is commonly known as a battery.
-
 2. **Electrolytic cell** : It is a device in which an electric current from an external source drives a nonspontaneous reaction i.e., it converts electrical energy into chemical energy.
 
 #### 9.3.1 Galvanic cell
@@ -654,20 +618,10 @@ The emf for the reverse reaction will give the reduction potential
 
 **Standard electrode potential, E°** : The value of the standard emf of a cell in which molecular hydrogen under standard pressure is oxidised to solvated protons at the left hand electrode.
 
-**Evaluate yourself : 3**
+![](ey3.png)
 
-1. The emf of the following cell at \( 25^{\circ}\mathrm{C} \) is equal to \( 0.34\ \mathrm{V} \). Calculate the reduction potential of copper electrode.
-
-\[
-\mathrm{Pt(s) | H_2(g, 1\ \text{atm}) | H^{+}(aq, 1M) || Cu^{2+}(aq, 1M) | Cu(s)}
-\]
-
-2. Using the calculated emf value of zinc and copper electrode, calculate the emf of the following cell at \( 25^{\circ}\mathrm{C} \).
-
-\[
-\mathrm{Zn(s) | Zn^{2+}(aq, 1M) || Cu^{2+}(aq, 1M) | Cu(s)}
-\]
 ![](img9.11.png)
+
 ### 9.4 Thermodynamics of cell reactions
 
 We have just learnt that in a galvanic cell, the chemical energy is converted into electrical energy. The electrical energy produced by the cell is equal to the product of the total charge of electrons and the emf of the cell which drives these electrons between the electrodes.
@@ -850,15 +804,7 @@ Given standard reduction potential of \( \mathrm{Cu^{2+}|Cu} \) is \( 0.34\ \mat
 E_{\text{cell}} = 0.43 - 0.02955 \times 2 = 0.43 - 0.0591 = 0.3709\ \mathrm{V}
 \]
 
-**Evaluate yourself : 5**
-
-The electrochemical cell reaction of the Daniel cell is
-
-\[
-\mathrm{Zn(s) + Cu^{2+}(aq) \rightarrow Zn^{2+}(aq) + Cu(s)}
-\]
-
-What is the change in the cell voltage on increasing the ion concentration in the anode compartment by a factor 10?
+![](ey5.png)
 
 ### Electrolytic cell and electrolysis
 
@@ -1013,9 +959,7 @@ t = 20 \times 60 \, \text{S} = 1200 \, \text{S}
 I = 2 \, \text{A} \times 1200 \, \text{S} = 2400 \, \text{C}
 \]
 
-**Evaluate yourself : 6**
-
-A solution of a salt of a metal was electrolysed for 15 minutes with a current of 0.15 amperes. The mass of the metal deposited at the cathode is 0.783g. Calculate the equivalent mass of the metal.
+![](ey6.png)
 
 ### Batteries
 
@@ -1180,8 +1124,7 @@ Both electrodes allow \( \text{Li}^+ \) ions to move in and out of their structu
 
 During discharge, the \( \text{Li}^+ \) ions produced at the anode move towards cathode through the non – aqueous electrolyte. When a potential greater than the emf produced by the cell is applied across the electrode, the cell reaction is reversed and now the \( \text{Li}^+ \) ions move from cathode to anode where they become embedded on the porous graphite electrode. This is known as intercalation.
 
-![](img9.17.png)
-**Figure 9.13 Li-ion battery**
+![Figure 9.13 Li-ion battery](img9.17.png)
 
 **Uses:**
 
