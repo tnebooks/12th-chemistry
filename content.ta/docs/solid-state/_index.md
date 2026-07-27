@@ -248,7 +248,7 @@ $$\tag{3}$$
 அலகுக்கூட்டின் கன அளவு \( = a \times a \times a = a^3 \) ...(5)
 
 \[
-\therefore \text{அலகுக்கூட்டின் அடர்த்தி} \rho = \frac{n M}{a^3 N_A} \quad ...(6)
+\therefore \text{அலகுக்கூட்டின் அடர்த்தி } \rho = \frac{n M}{a^3 N_A} \quad ...(6)
 \]
 
 சமன்பாடு (6) ஆனது \( \rho \), n, M மற்றும் a ஆகிய நான்கு மாறிகளைக் கொண்டுள்ளது. இவைகளுள் ஏதேனும் மூன்றின் மதிப்புகள் தெரிந்திருப்பின் மற்றொன்றைக் கண்டறியலாம்.
@@ -270,7 +270,7 @@ $$\tag{3}$$
 \( n = 2 \); \( M = 137.3 \ \mathrm{g\ mol^{-1}} \); \( a = 508 \ \mathrm{pm} = 5.08 \times 10^{-8} \ \mathrm{cm} \)
 
 \[
-\rho = \frac{2 atoms\times 137.3 \ \mathrm{g\ mol^{-1}}}{(5.08 \times 10^{-8} \ \mathrm{cm})^3 \times 6.023 \times 10^{23} \ \mathrm{mol^{-1}}}
+\rho = \frac{2 atoms\times 137.3 \ \mathrm{g\ mol^{-1}}}{(5.08 \times 10^{-8} \ \mathrm{cm})^3 \times 6.023 \times 10^{23} \ \mathrm{\text{atoms }mol^{-1}}}
 \]
 
 \[
