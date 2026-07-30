@@ -72,9 +72,8 @@ $$
 
 In this process the insoluble sulphide is converted into soluble sulphate and elemental sulphur.
 
-##### Evaluate yourself 1
-
-1. Write the equation for the extraction of silver by leaching with sodium cyanide and show that the leaching process is a redox reaction.
+>##### Evaluate yourself 1
+>1. Write the equation for the extraction of silver by leaching with sodium cyanide and show that the leaching process is a redox reaction.
 
 #### 1.2.4 Magnetic separation
 

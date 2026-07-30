@@ -57,6 +57,6 @@ $$
 4\mathrm{Al}^{3+}(\mathrm{melt}) + 6\mathrm{O}^{2-}(\mathrm{melt}) + 3\mathrm{C}(\mathrm{s})\longrightarrow 4\mathrm{Al}(\mathrm{l}) + 3\mathrm{CO}_{2}(\mathrm{g})
 $$
 
-**Evaluate yourself 4**
-
-4. Metallic sodium is extracted by the electrolysis of brine (aq. NaCl). After electrolysis the electrolytic solution becomes basic in nature. Write the possible electrode reactions.
+>**Evaluate yourself 4**
+>
+>4. Metallic sodium is extracted by the electrolysis of brine (aq. NaCl). After electrolysis the electrolytic solution becomes basic in nature. Write the possible electrode reactions.

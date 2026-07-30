@@ -70,23 +70,23 @@ Ellingham diagram helps us to select a suitable reducing agent and appropriate t
 From the Ellingham Diagram at 1500 K
 
 $$
-2\mathrm{Fe}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\longrightarrow 2\mathrm{FeO}(\mathrm{g})\quad \Delta \mathrm{G}_1 = -350\ \mathrm{kJ}\ \mathrm{mol}^{-1}
+2\mathrm{Fe}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\longrightarrow 2\mathrm{FeO}(\mathrm{g})\quad \Delta \mathrm{G}_1 = -350\ \mathrm{kJ}\ \mathrm{mol}^{-1} \tag{1}
 $$
 
 $$
-2\mathrm{C}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\longrightarrow 2\mathrm{CO}(\mathrm{g})\quad \Delta \mathrm{G}_2 = -480\ \mathrm{kJ}\ \mathrm{mol}^{-1}
+2\mathrm{C}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\longrightarrow 2\mathrm{CO}(\mathrm{g})\quad \Delta \mathrm{G}_2 = -480\ \mathrm{kJ}\ \mathrm{mol}^{-1}\tag{2}
 $$
 
 Reverse the reaction (1)
 
 $$
-2\mathrm{FeO}(\mathrm{s})\longrightarrow 2\mathrm{Fe}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\quad -\Delta \mathrm{G}_1 = +350\ \mathrm{kJ}\ \mathrm{mol}^{-1}
+2\mathrm{FeO}(\mathrm{s})\longrightarrow 2\mathrm{Fe}(\mathrm{s}) + \mathrm{O}_2(\mathrm{g})\quad -\Delta \mathrm{G}_1 = +350\ \mathrm{kJ}\ \mathrm{mol}^{-1}\tag{3}
 $$
 
 Now couple the reactions (2) and (3)
 
 $$
-2\mathrm{FeO}(\mathrm{s}) + 2\mathrm{C}\longrightarrow 2\mathrm{Fe}(\mathrm{l},\mathrm{s}) + 2\mathrm{CO}(\mathrm{g})\quad \Delta \mathrm{G}_3 = -130\ \mathrm{kJ}\ \mathrm{mol}^{-1}
+2\mathrm{FeO}(\mathrm{s}) + 2\mathrm{C}\longrightarrow 2\mathrm{Fe}(\mathrm{l},\mathrm{s}) + 2\mathrm{CO}(\mathrm{g})\quad \Delta \mathrm{G}_3 = -130\ \mathrm{kJ}\ \mathrm{mol}^{-1}\tag{4}
 $$
 
 The standard free energy change for the reduction of one mole of FeO is, \( \Delta \mathrm{G}_3 / 2 = -65\ \mathrm{kJ}\ \mathrm{mol}^{-1} \).
@@ -97,6 +97,6 @@ The standard free energy change for the reduction of one mole of FeO is, \( \Del
 
 2. The interpretation of \( \Delta \mathrm{G} \) is based on the assumption that the reactants are in equilibrium with the products which is not always true.
 
-**Evaluate yourself 3**
-
-3. Using Ellingham diagram (fig 1.4) indicate the lowest temperature at which ZnO can be reduced to Zinc metal by carbon. Write the overall reduction reaction at this temperature.
+>**Evaluate yourself 3**
+>
+>3. Using Ellingham diagram (fig 1.4) indicate the lowest temperature at which ZnO can be reduced to Zinc metal by carbon. Write the overall reduction reaction at this temperature.

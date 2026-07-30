@@ -19,7 +19,7 @@ The extraction of a metal of interest from its ore consists of the following met
 ![Malachite – copper mineral](img1.png)
 
 
-**1.1 List of some metals and their common ores with their chemical formula**
+**Table 1.1 List of some metals and their common ores with their chemical formula**
 
 | Metal | Ore | Composition | Metal | Ore | Composition |
 |---|---|---|---|---|---|

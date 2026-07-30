@@ -42,15 +42,15 @@ Aluminium is the most abundant metal and is a good conductor of electricity and 
 - It is used extensively in jewellery in its alloy form with copper. It is also used in electroplating to cover other metals with a thin layer of gold which are used in watches, artificial limb joints, cheap jewellery, dental fillings and electrical connectors.
 - Gold nanoparticles are also used for increasing the efficiency of solar cells and also used as catalysts.
 
-**Do You Know**
-
-#### The Iron Pillar - Delhi
-
-The Iron pillar, also known as Ashoka Pillar, is 23 feet 8 inches high, 16 inches wide and weighs over 6000 kg.
-
-The surprise comes in knowing its age, some 1600 years old, an iron column should have turned into a pile of dust long ago. Despite that, it has avoided corrosion for over the last 1600 years and stands as an evidence of the exquisite skills and knowledge of ancient Indians.
-
-A protective film was created through a complicated combination of the presence of raw and unreduced iron in the pillar and cycles of the weather, which helped to create a thin, uniform layer of misawite on the pillar. Misawite is a compound of iron, oxygen and hydrogen which does not rust and gives corrosion resistance.
+>**Do You Know**
+>
+>#### The Iron Pillar - Delhi
+>![](image.png)
+>The Iron pillar, also known as Ashoka Pillar, is 23 feet 8 inches high, 16 inches wide and weighs over 6000 kg.
+>
+>The surprise comes in knowing its age, some 1600 years old, an iron column should have turned into a pile of dust long ago. Despite that, it has avoided corrosion for over the last 1600 years and stands as an evidence of the exquisite skills and knowledge of ancient Indians.
+>
+>A protective film was created through a complicated combination of the presence of raw and unreduced iron in the pillar and cycles of the weather, which helped to create a thin, uniform layer of misawite on the pillar. Misawite is a compound of iron, oxygen and hydrogen which does not rust and gives corrosion resistance.
 
 ## Summary
 

@@ -41,9 +41,8 @@ $$
 \mathrm{P}_4 + 5\mathrm{O}_2 \longrightarrow \mathrm{P}_4\mathrm{O}_{10}\uparrow
 $$
 
-**Do You Know**
-
-The sulphur dioxide produced during roasting process is harmful to the environment. In modern metallurgical factories, this by product is trapped and converted into sulphuric acid to avoid air pollution.
+>**Do You Know**
+>The sulphur dioxide produced during roasting process is harmful to the environment. In modern metallurgical factories, this by product is trapped and converted into sulphuric acid to avoid air pollution.
 
 ##### Calcination
 
@@ -79,9 +78,9 @@ $$
 Al_2O_3 \cdot 2H_2O \xrightarrow{\Delta} Al_2O_3(s) + 2H_2O(g) \uparrow
 $$
 
-**Evaluate yourself 2**
-
-2. Magnesite (Magnesium carbonate) is calcined to obtain magnesia, which is used to make refractory bricks. Write the decomposition reaction.
+>**Evaluate yourself 2**
+>
+>2. Magnesite (Magnesium carbonate) is calcined to obtain magnesia, which is used to make refractory bricks. Write the decomposition reaction.
 
 #### 1.3.2 Reduction of metal oxides
 
