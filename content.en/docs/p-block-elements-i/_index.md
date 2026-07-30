@@ -11,7 +11,7 @@ summary: "This unit introduces the chemistry of p-block elements, focusing on th
 
 Kenneth Wade, was a British chemist, and professor emeritus at Durham University. He developed a method for the prediction of shapes of borane clusters. Wade's rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. For his substantial contribution, Kenneth Wade was granted FRS award from royal society, London In 1989. He received the Tilden prize award in 1999 from the Royal Society of Chemistry for advances in chemistry.
 
-# INTRODUCTION
+
 
 We have already learnt the classification of elements into four blocks namely s, p, d and f. We have also learnt the properties of s-block elements and their important compounds in the XI standard. This year we learn the elements of remaining blocks, starting with p-block elements.
 
@@ -66,7 +66,7 @@ In p- block elements, the first member of each group differs from the other elem
 
 The first member of the group 13, boron is a metalloid while others are reactive metals. Moreover, boron shows diagonal relationship with silicon of group 14. The oxides of boron and silicon are similar in their acidic nature. Both boron and silicon form covalent hydrides that can be easily hydrolysed. Similarly, except boron trifluoride, halides of both elements are readily hydrolysed.
 
-In group 14, the first element carbon is strictly a nonmetal while other elements are metalloids (silicon & germanium) or metals (tin & lead). Unlike other elements of the group carbon can form multiple bonds such as \(C = C\) \(C = O\) etc... Carbon has a greater tendency to form a chain of bonds with itself or with other atoms which is known as catenation. There is considerable decrease in catenation property down the group \((C > > Si > Ge = Sn > Pb)\)
+In group 14, the first element carbon is strictly a nonmetal while other elements are metalloids (silicon & germanium) or metals (tin & lead). Unlike other elements of the group carbon can form multiple bonds such as \(C = C\), \(C = O\) etc... Carbon has a greater tendency to form a chain of bonds with itself or with other atoms which is known as catenation. There is considerable decrease in catenation property down the group (\(C>>Si>Ge≈Sn>Pb\)).
 
 In group 15 also the first element nitrogen differs from the rest of the elements of the group. Like carbon, the nitrogen can from multiple bonds \((N = N, C = N, N = O\) etc...). Nitrogen is a diatomic gas unlike the other members of the group. Similarly in group 16, the first element, oxygen also exists as a diatomic gas in that group. Due to its high electronegativity it forms hydrogen bonds.
 
@@ -340,8 +340,6 @@ Boric acid has a two dimensional layered structure. It consists of \([BO_3]^{3-}
 
 ![Figure 2.2 Structure of boric acid](img5.png)
 
-<center>Figure 2.2 Structure of boric acid</center>
-
 #### 2.2.6 Diborane
 
 **Preparation:**
@@ -446,9 +444,7 @@ $$
 3B_2H_6 + 6NH_3 \xrightarrow{-153 \, K} 3(B_2H_6 \cdot 2NH_3) \, (\text{or}) \, 3[BH_2(NH_3)_2]^+[BH_4]^-
 $$
 
-$$
-3(B_2H_6 \cdot 2NH_3) \xrightarrow[closed vessel]{\text{High temp}} 2B_3N_3H_6 \, (\text{Borazole or Borazine - Inorganic benzene})+12H_2
-$$
+![](image.png)
 
 **Structure of diborane:**
 
@@ -595,7 +591,7 @@ K_2SO_4Al_2(SO_4)_3.4Al(OH)_3 + 6H_2SO_4 \longrightarrow K_2SO_4 + 3Al_2(SO_4)_3
 $$
 
 $$
-K_2SO_4 + Al_2(SO_4)_3 + 24H_2O \longrightarrow K_2SO_4Al_2(SO_4)_3.24H_2O
+K_2SO_4 + Al_2(SO_4)_3 + 24H_2O \longrightarrow K_2SO_4.Al_2(SO_4)_3.24H_2O
 $$
 
 **Properties**
@@ -754,9 +750,7 @@ Eg. Nickel tetracarbonyl \([Ni(CO)_4]\), Iron pentacarbonyl \([Fe(CO)_5]\), Chro
 
 It has a linear structure. In carbon monoxide, three electron pairs are shared between carbon and oxygen. The bonding can be explained using molecular orbital theory as discussed in XI standard. The C- O bond distance is \(1.128\mathrm{\AA}\). The structure can be considered as the resonance hybrid of the following two canonical forms.
 
-![](chapter2.png)
-
-**Figure 2.9 Structure of carbon monoxide**
+![Figure 2.9 Structure of carbon monoxide](chapter2.png)
 
 **Uses of carbon monoxide:**
 
@@ -832,8 +826,6 @@ Carbon dioxide has a linear structure with equal bond distance for the both C- O
 
 ![Figure 2.10 Structure of carbon dioxide](img2.10.png)
 
-**Figure 2.10 Structure of carbon dioxide**
-
 **Uses of carbon dioxide**
 
 1. Carbon dioxide is used to produce an inert atmosphere for chemical processing.
@@ -851,7 +843,7 @@ $$
 SiO_2 + 2C + 2Cl_2 \longrightarrow SiCl_4 + 2CO
 $$
 
-On commercial scale, reaction of silicon with hydrogen chloride gas occurs above \(60\mathrm{K}\)
+On commercial scale, reaction of silicon with hydrogen chloride gas occurs above \(600\mathrm{K}\)
 
 $$
 Si + 4HCl \longrightarrow SiCl_4 + 2H_2
@@ -859,7 +851,9 @@ $$
 
 **Properties:**
 
-Silicon tetrachloride is a colourless fuming liquid and it freezes at \(-70^{\circ}\mathrm{C}\) In moist air, silicon tetrachloride is hydrolysed with water to give silica and hydrochloric acid.
+Silicon tetrachloride is a colourless fuming liquid and it freezes at \(-70^{\circ}\mathrm{C}\)
+
+In moist air, silicon tetrachloride is hydrolysed with water to give silica and hydrochloric acid.
 
 $$
 SiCl_4 + 2H_2O \longrightarrow 4HCl + SiO_2
@@ -902,11 +896,11 @@ $$
 
 The hydrolysis of dialkylchloro silanes \(R_{2}SiCl_{2}\) yields to a straight chain polymer which grown from both the sides
 
-![Figure 2.11 Structure of Ortho silicates](silicon1.png)
+![](silicon1.png)
 
 The hydrolysis of monoalkylchloro silanes \(RSiCl_{3}\) yields to a very complex cross linked polymer. Linear silicones can be converted into cyclic or ring silicones when water molecules is removed from the terminal - OH groups.
 
-![Figure 2.12 Structure of Pyro silicate](silicon2.png)
+![](silicon2.png)
 
 **Types of silicones:**
 
@@ -1038,8 +1032,8 @@ Zeolites have a three dimensional crystalline structure looks like a honeycomb c
 - Silicones or poly siloxanes are organo silicon polymers with general empirical formula \((R_2SiO)\). Because of their very high thermal stability they are called high-temperature polymers.
 - The mineral which contains silicon and oxygen in tetrahedral \([SiO_4]^{4-}\) units linked together in different patterns are called silicates.
 - Types of Silicates:
-    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates, Cyclic silicates (or Ring silicates)**
-    - **Inosilicates : Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
+    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates,** Cyclic silicates (or Ring silicates)
+    - Inosilicates : **Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
     - Sheet or phyllo silicates
     - Three dimensional silicates (or tecto silicates)
 - Zeolites are three-dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework.
