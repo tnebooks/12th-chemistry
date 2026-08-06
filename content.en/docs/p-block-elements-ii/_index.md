@@ -507,7 +507,7 @@ $$
 | Hyponitrous acid | $\text{H}_2\text{N}_2\text{O}_2$ | +1 | $\text{Ag}_2\text{N}_2\text{O}_2 + 2\text{HCl} \longrightarrow 2\text{AgCl} + \text{H}_2\text{N}_2\text{O}_2$ |
 | Nitrous acid | $\text{HNO}_2$ | +3 | $\text{Ba}\left(\text{NO}_2\right)_2 + \text{H}_2\text{SO}_4 \longrightarrow 2\text{HNO}_2 + \text{BaSO}_4$ |
 | Pernitrous acid | $\text{HOONO}$ | +3 | $\text{H}_2\text{O}_2 + \text{ON(OH)} \longrightarrow \text{ON(OOH)} + \text{H}_2\text{O}$ |
-| Nitric acid | $\text{HNO}_3$ | +5 | $\begin{array}{l} 4\text{NH}_3 + 5\text{O}_2 \longrightarrow 4\text{NO} + 6\text{H}_2\text{O} \\ 2\text{NO} + \text{O}_2 \longrightarrow \text{NO}_2 \\ 2\text{NO}_2 \longrightarrow \text{N}_2\text{O}_4 \\ 2\text{N}_2\text{O}_4 + 2\text{H}_2\text{O} + \text{O}_2 \longrightarrow 4\text{HNO}_3 \end{array}$ |
+| Nitric acid | $\text{HNO}_3$ | +5 | $\begin{array}{l} 4\text{NH}_3 + 5\text{O}_2 \longrightarrow 4\text{NO} + 6\text{H}_2\text{O} ,\\ 2\text{NO} + \text{O}_2 \longrightarrow \text{NO}_2, \\ 2\text{NO}_2 \longrightarrow \text{N}_2\text{O}_4 ,\\ 2\text{N}_2\text{O}_4 + 2\text{H}_2\text{O} + \text{O}_2 \longrightarrow 4\text{HNO}_3 \end{array}$ |
 | Pernitric acid | $\text{HNO}_4$ | +5 | $\text{H}_2\text{O}_2 + \text{N}_2\text{O}_5 \longrightarrow \text{NO}_2\text{OOH} + \text{HNO}_3$ |
 
 ### 3.1.7 Allotropic forms of phosphorus
@@ -1117,17 +1117,20 @@ Various oxo acids of sulphur with their structures are given below
 | Thiosulphuric acid | $\text{H}_2\text{S}_2\text{O}_3$ |$$\begin{array}{ccc} & \text{S} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{OH} \\ & \parallel & \\ & \text{O} & \end{array}$$ |
 | Dithionous acid | $\text{H}_2\text{S}_2\text{O}_4$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \end{array}$$ |
 | Disulphurous acid or Pyrosulphurous acid | $\text{H}_2\text{S}_2\text{O}_5$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \\ & \parallel & & & \\ & \text{O} & & & \end{array}$$|
+
+| Name | Molecular Formula | Structure |
+| --- | --- | --- |
 | Disulphuric acid or pyrosulphuric acid | $\text{H}_2\text{S}_2\text{O}_7$ | $$\begin{array}{ccccccc} & \text{O} & & & & \text{O} & \\ & \parallel & & & & \parallel & \\ \text{HO}- & \text{S} & - & \text{O} & - & \text{S} & -\text{OH} \\ & \parallel & & & & \parallel & \\ & \text{O} & & & & \text{O} & \end{array}$$ |
 | Peroxymono sulphuric acid (Caro's acid) | $\text{H}_2\text{SO}_5$ | $$\begin{array}{ccc} & \text{O} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{O}-\text{OH} \\ & \parallel & \\ & \text{O} & \end{array}$$ |
 | Peroxodisulphuric acid. Marshall's acid | $\text{H}_2\text{S}_2\text{O}_8$ | $$\begin{array}{ccccccc} & \text{O} & & & & \text{O} & \\ & \parallel & & & & \parallel & \\ \text{HO}- & \text{S} & - & \text{O}-\text{O} & - & \text{S} & -\text{OH} \\ & \parallel & & & & \parallel & \\ & \text{O} & & & & \text{O} & \end{array}$$ |
 | Dithionic acid | $\text{H}_2\text{S}_2\text{O}_6$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \\ & \parallel & & \parallel & \\ & \text{O} & & \text{O} & \end{array}$$ |
-| Polythionic acid | $\text{H}_2\text{S}_{n+2}\text{O}_6$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & -(\text{S})_n- & \text{S} & -\text{OH} \\ & \parallel & & \parallel & \\ & \text{O} & & \text{O} & \end{array}$$ |
+| Polythionic acid | $$\text{H}_2\text{S}_{n+2}\text{O}_6$$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & -(\text{S})_n- & \text{S} & -\text{OH} \\ & \parallel & & \parallel & \\ & \text{O} & & \text{O} & \end{array}$$ |
 
 
 
-### 3.3 Group 17 (Halogen group) elements
+## 3.3 Group 17 (Halogen group) elements
 
-#### 3.3.1 Chlorine
+### 3.3.1 Chlorine
 
 **Occurrence**
 
@@ -1313,6 +1316,8 @@ $$
 6\mathrm{HCl + 6NH_3} \longrightarrow 6\mathrm{NH_4Cl}
 $$
 
+Overall reaction
+
 $$
 8\mathrm{NH_3 + 3Cl_2} \longrightarrow \mathrm{N_2 + 6NH_4Cl}
 $$
@@ -1468,6 +1473,8 @@ $$\text{CH}_4 + \text{Cl}_2 \longrightarrow \text{CH}_3\text{Cl} + \text{HCl}$$
 $$\text{C}_6\text{H}_6 + \text{Cl}_2 \xrightarrow{\text{FeCl}_3} \text{C}_6\text{H}_5\text{Cl} + \text{HCl}$$
 **Uses of chlorine**
 
+It is used in 
+
 1. Purification of drinking water
 2. Bleaching of cotton textiles, paper and rayon
 3. Extraction of gold and platinum
@@ -1599,7 +1606,9 @@ At room temperature, hydrogen halides are gases but hydrogen fluoride can be rea
 **The hydrogen halides are extremely soluble in water due to the ionisation.**
 
 $$
-\mathrm{HX + H_2O} \longrightarrow \mathrm{H_3O^+ + X^-} \ (\text{X - F, Cl, Br, or I})
+\mathrm{HX + H_2O} \longrightarrow \mathrm{H_3O^+ + X^-} \ $$
+
+$$(\text{X - F, Cl, Br, or I})
 $$
 
 Solutions of hydrogen halides are therefore acidic and known as hydrohalic acids. Hydrochloric, hydrobromic and hydroiodic acids are almost completely ionised and are therefore strong acids but HF is a weak acid i.e. \( 0.1\ \mathrm{mM} \) solution is only \( 10\% \) ionised, but in 5M and 15M solution HF is stronger acid due to the equilibrium.
@@ -1724,7 +1733,7 @@ Fluorine reacts readily with oxygen and forms difluorine oxide \( \mathrm{(F_2O)
 | Type | $\text{X}_2\text{O}$ | $\text{XO}_2$ | $\text{X}_2\text{O}_5$ | $\text{X}_2\text{O}_6$ | $\text{X}_2\text{O}_7$ | Others |
 | --- | --- | --- | --- | --- | --- | --- |
 | Oxidation state | +1 | +4 | +5 | +6 | +7 | - |
-| $\text{F}$ | - | - | - | - | - | $\begin{array}{c} \text{OF}_2\text{ (-1)} \\ \text{O}_2\text{F}_2\text{ (-1)} \\ \text{O}_4\text{F}_2\text{ (-1)} \end{array}$ |
+| $\text{F}$ | - | - | - | - | - | $\begin{array}{c} \text{OF}_2\text{ (-1)}, \\ \text{O}_2\text{F}_2\text{ (-1)} ,\\ \text{O}_4\text{F}_2\text{ (-1)} \end{array}$ |
 | $\text{Cl}$ | $\text{Cl}_2\text{O}$ | $\text{ClO}_2$ | - | $\text{Cl}_2\text{O}_6$ | $\text{Cl}_2\text{O}_7$ | $\text{Cl}_2\text{O}_4\text{ (+4)}$ |
 | $\text{Br}$ | $\text{Br}_2\text{O}$ | $\text{BrO}_2$ | - | - | - | - |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -1922,272 +1931,3 @@ The inertness of noble gases is an important feature of their practical uses.
 
 - The inertness of noble gases is an important feature of their practical uses.
 
-
-### **EVALUATION**
-
-**Choose the best answer:**
-
-1. In which of the following , $\text{NH}_3$ is not used?
-
-a) Nessler's reagent
-
-b) Reagent for the analysis of IV group basic radical
-
-c) Reagent for the analysis of III group basic radical
-
-d) Tollen's reagent
-
-2. Which is true regarding nitrogen?
-
-a) least electronegative element
-
-b) has low ionisation enthalpy than oxygen
-
-c) d- orbitals available
-
-d) ability to form $p\pi-p\pi$ bonds with itself
-
-3. An element belongs to group 15 and 3 rd period of the periodic table, its electronic configuration would be
-
-a) $\text{1s}^2 \text{ 2s}^2 \text{ 2p}^4$
-
-b) $\text{1s}^2 \text{ 2s}^2 \text{ 2p}^3$
-
-c) $\text{1s}^2 \text{ 2s}^2 \text{ 2p}^6 \text{ 3s}^2 \text{ 3p}^2$
-
-d) $\text{1s}^2 \text{ 2s}^2 \text{ 2p}^6 \text{ 3s}^2 \text{ 3p}^3$
-
-4. Solid (A) reacts with strong aqueous NaOH liberating a foul smelling gas(B) which spontaneously burn in air giving smoky rings. A and B are respectively
-
-a) $\text{P}_4\text{(red)}$ and $\text{PH}_3$
-
-b) $\text{P}_4\text{(white)}$ and $\text{PH}_3$
-
-c) $\text{S}_8$ and $\text{H}_2\text{S}$
-
-d) $\text{P}_4\text{(white)}$ and $\text{H}_2\text{S}$
-
-5. On hydrolysis, $\text{PCl}_3$ gives
-
-a) $\text{H}_3\text{PO}_3$
-
-b) $\text{PH}_3$
-
-c) $\text{H}_3\text{PO}_4$
-
-d) $\text{POCl}_3$
-
-6. $\text{P}_4\text{O}_6$ reacts with cold water to give
-
-a) $\text{H}_3\text{PO}_3$
-
-b) $\text{H}_4\text{P}_2\text{O}_7$
-
-c) $\text{HPO}_3$
-
-d) $\text{H}_3\text{PO}_4$
-
-7. The basicity of pyrophosphorous acid ( $\text{H}_4\text{P}_2\text{O}_5$) is
-
-a) 4
-
-b) 2
-
-c) 3
-
-d) 5
-
-8. The molarity of given orthophosphoric acid solution is 2M. its normality is
-
-a) 6N
-
-b) 4N
-
-c) 2N
-
-d) none of these
-
-9. Assertion : bond dissociation energy of fluorine is greater than chlorine gas
-
-Reason: chlorine has more electronic repulsion than fluorine
-
-a) Both assertion and reason are true and reason is the correct explanation of assertion.
-
-b) Both assertion and reason are true but reason is not the correct explanation of assertion.
-
-c) Assertion is true but reason is false.
-
-d) Both assertion and reason are false.
-
-10. Among the following, which is the strongest oxidizing agent?
-
-a) $\text{Cl}_2$
-
-b) $\text{F}_2$
-
-c) $\text{Br}_2$
-
-d) $\text{I}_2$
-
-11. The correct order of the thermal stability of hydrogen halide is
-
-a) $\text{HI} > \text{HBr} > \text{HCl} > \text{HF}$
-
-b) $\text{HF} > \text{HCl} > \text{HBr} > \text{HI}$
-
-c) $\text{HCl} > \text{HF} > \text{HBr} > \text{HI}$
-
-d) $\text{HI} > \text{HCl} > \text{HF} > \text{HBr}$
-
-12. Which one of the following compounds is not formed?
-
-a) $\text{XeOF}_4$
-
-b) $\text{XeO}_3$
-
-c) $\text{XeF}_2$
-
-d) $\text{NeF}_2$
-
-13. Most easily liquefiable gas is
-
-a) Ar
-
-b) Ne
-
-c) He
-
-d) Kr
-
-14. $\text{XeF}_6$ on complete hydrolysis produces
-
-a) $\text{XeOF}_4$
-
-b) $\text{XeO}_2\text{F}_2$
-
-c) $\text{XeO}_3$
-
-d) $\text{XeO}_2$
-
-15. Which of the following is strongest acid among all?
-
-a) HI
-
-b) HF
-
-c) HBr
-
-d) HCl
-
-16. Which one of the following orders is correct for 
-the bond dissociation enthalpy of halogen molecules? (NEET)
-
-a) $\text{Br}_2 > \text{I}_2 > \text{F}_2 > \text{Cl}_2$
-
-b) $\text{F}_2 > \text{Cl}_2 > \text{Br}_2 > \text{I}_2$
-
-c) $\text{I}_2 > \text{Br}_2 > \text{Cl}_2 > \text{F}_2$
-
-d) $\text{Cl}_2 > \text{Br}_2 > \text{F}_2 > \text{I}_2$
-
-17. Among the following the correct order of acidity is (NEET)
-
-a) $\text{HClO}_2 < \text{HClO} < \text{HClO}_3 < \text{HClO}_4$
-
-b) $\text{HClO}_4 < \text{HClO}_2 < \text{HClO} < \text{HClO}_3$
-
-c) $\text{HClO}_3 < \text{HClO}_4 < \text{HClO}_2 < \text{HClO}$
-
-d) $\text{HClO} < \text{HClO}_2 < \text{HClO}_3 < \text{HClO}_4$
-
-18. When copper is heated with conc $\text{HNO}_3$ it produces
-
-a) $\text{Cu(NO}_3)_2$ , NO and $\text{NO}_2$
-
-b) $\text{Cu(NO}_3)_2$ and $\text{N}_2\text{O}$
-
-c) $\text{Cu(NO}_3)_2$ and $\text{NO}_2$
-
-d) $\text{Cu(NO}_3)_2$ and NO
-
-**Answer the following questions:**
-
-
-1. What is inert pair effect?
-
-2. Chalcogens belongs to p-block. Give reason.
-
-3. Explain why fluorine always exhibit an oxidation state of -1?
-
-4. Give the oxidation state of halogen in the following.
-
-a) $\text{OF}_2$
-
-b) $\text{O}_2\text{F}_2$
-
-c) $\text{Cl}_2\text{O}_3$
-
-d) $\text{I}_2\text{O}_4$
-
-5. What are interhalogen compounds? Give examples.
-
-6. Why fluorine is more reactive than other halogens?
-
-7. Give the uses of helium.
-
-8. What is the hybridisation of iodine in $\text{IF}_7$? Give its structure.
-
-9. Give the balanced equation for the reaction between chlorine with cold NaOH and hot NaOH.
-
-10. How will you prepare chlorine in the laboratory?
-
-11. Give the uses of sulphuric acid.
-
-12. Give a reason to support that sulphuric acid is a dehydrating agent.
-
-13. Write the reason for the anomalous behaviour of Nitrogen.
-
-14. Write the molecular formula and structural formula for the following molecules.
-
-a) Nitric acid
-
-b) dinitrogen pentoxide
-
-c) phosphoric acid
-
-d) phosphine
-
-15. Give the uses of argon.
-
-16. Write the valence shell electronic configuration of group-15 elements.
-
-17. Give two equations to illustrate the chemical behaviour of phosphine.
-
-18. Give a reaction between nitric acid and a basic oxide.
-
-19. What happens when $\text{PCl}_5$ is heated?
-
-20. Suggest a reason why HF is a weak acid, whereas binary acids of the all other halogens are strong acids.
-
-21. Deduce the oxidation number of oxygen in hypofluorous acid – HOF.
-
-22. What type of hybridisation occur in
-
-a) $\text{BrF}_5$
-
-b) $\text{BrF}_3$
-
-23. Complete the following reactions.
-    1. \( NaCl + MnO_2 + H_2SO_4 \rightarrow \)
-    2. \( NaNO_2 + HCl \rightarrow \)
-    3. \( P_4 + NaOH + H_2O \rightarrow \)
-    4. \( AgNO_3 + PH_3 \rightarrow \)
-    5. \( Mg + HNO_3 \rightarrow \)
-    6. \( KClO_3 \xrightarrow{\Delta} \)
-    7. \( Cu + H_2SO_4 \rightarrow \)
-    8. \( Sb + Cl_2 \rightarrow \)
-    9. \( HBr + H_2SO_4 \rightarrow \)
-    10. \( XeF_6 + H_2O \rightarrow \)
-    11. \( XeO_6^{4-} + Mn^{2+} + H^+ \rightarrow \)
-    12. \( XeOF_4 + SiO_2 \rightarrow \)
-    13. \( Xe + F_2 \xrightarrow[400^\circ C]{Ni/200\ atm} \)
