@@ -6,7 +6,8 @@ weight: 5
 summary: "This unit explains the chemistry of coordination compounds, focusing on their nomenclature, structures, and Werner's theory. It describes Valence Bond Theory (VBT) and Crystal Field Theory (CFT) to understand the bonding, magnetic properties, and distinct colors of these complexes. The unit also highlights isomerism, stability, and the vital importance of coordination compounds in biological systems."
 ---
 
-![Alfred Werner 1866 –1919)](werner.png)
+![Alfred Werner 1866 –1919](werner.png)
+
 
 
 Alfred Werner was a Swiss chemist who explainedthe bonding in coordination complexes. Werner proposed his coordination theory in 1893. It must be remembered that this imaginative theory was proposed before the electron had been discovered by J.J. Thompson
@@ -14,24 +15,8 @@ in 1896. Werner did not have any modern instrumental techniques at his time and 
 chemistry. Complexes must have been a complete mystery without any knowledge of bonding or structure. This theory and his painstaking work over the next 20 years won Alfred Werner the Nobel Prize for Chemistry in 1913.He was the first inorganic chemist to win the Nobel Prize.
 
 
-## Learning Objectives
 
-After studying this unit, students will be able to:
-
-* define important terms in coordination chemistry
-* nomenclate the coordination compounds in accordance with the guidelines of IUPAC
-* describe different types of isomerism in coordination compounds
-* discuss the postulates of Werner's theory of coordination compounds
-* predict the geometry of coordination compounds using valence bond theory
-* apply crystal field theory to explain the colour and magnetic properties of coordination compounds
-* differentiate high spin and low spin coordination compounds
-* explain the stability of coordination compounds in terms of stability constants.
-* explain the applications of coordination compounds in day to day life
-
-
-## INTRODUCTION
-
-We have already learnt in the previous unit that the transition metals have a tendency to form complexes (coordination compounds). The name is derived from the Latin words 'complexus' and 'coordinate' which mean 'hold' and 'to arrange' respectively. The complexes of transition metals have interesting properties and differ from simple ionic and covalent compounds. For example, chromium(III) chloride hexahydrate, \( \mathrm{CrCl_3.6H_2O} \) exists as purple, pale green or dark green compound. In addition to metals, certain non metals also form coordination compounds but have less tendency than d block elements. Coordination compounds play a vital role in the biological functions, and have wide range of catalytic applications in chemical industries. For example, haemoglobin, the oxygen transporter of human is a coordination compound of iron, and cobalamine, an essential vitamin is a coordination compound of cobalt. Chlorophyll, a pigment present in plants acting as a photo sensitiser in the photosynthesis is also a coordination compound. Various coordination compounds such as Wilkinson's compound, Ziegler Natta compound are used as catalysts in industrial processes. Hence, it is important to understand the chemistry of coordination compounds. In this unit we study the nature, bonding, nomenclature, isomerism and applications of the coordination compounds.
+We have already learnt in the previous unit that the transition metals have a tendency to form complexes (**coordination compounds**). The name is derived from the Latin words 'complexus' and 'coordinate' which mean 'hold' and 'to arrange' respectively. The complexes of transition metals have interesting properties and differ from simple ionic and covalent compounds. For example, chromium(III) chloride hexahydrate, \( \mathrm{CrCl_3.6H_2O} \) exists as purple, pale green or dark green compound. In addition to metals, certain non metals also form coordination compounds but have less tendency than d block elements. Coordination compounds play a vital role in the biological functions, and have wide range of catalytic applications in chemical industries. For example, haemoglobin, the oxygen transporter of human is a coordination compound of iron, and cobalamine, an essential vitamin is a coordination compound of cobalt. Chlorophyll, a pigment present in plants acting as a photo sensitiser in the photosynthesis is also a coordination compound. Various coordination compounds such as Wilkinson's compound, Ziegler Natta compound are used as catalysts in industrial processes. Hence, it is important to understand the chemistry of coordination compounds. In this unit we study the nature, bonding, nomenclature, isomerism and applications of the coordination compounds.
 
 ### 5.1 Coordination compounds and double salts
 
@@ -43,7 +28,12 @@ Swiss chemist Alfred Werner was the first one to propose a theory of coordinatio
 
 Let us consider the different coloured complexes of cobalt(III) chloride with ammonia which exhibit different properties as shown below.
 
-![](img5.2.1.png)
+| Complex | Colour | No. of moles of AgCl precipitated on reaction of one mole of complex with excess $\text{Ag}^+$ |
+| --- | --- | --- |
+| $\text{CoCl}_3 \cdot 6\text{NH}_3$ | Yellow | 3 |
+| $\text{CoCl}_3 \cdot 5\text{NH}_3$ | Purple | 2 |
+| $\text{trans-CoCl}_3 \cdot 4\text{NH}_3$ | Green | 1 |
+| $\text{cis-CoCl}_3 \cdot 4\text{NH}_3$ | Violet | 1 |
 
 In this case, the valences of the elements present in both the reacting molecules, cobalt(III)
 chloride and ammonia are completely satisfied. Yet these substances react to form the above
@@ -125,7 +115,7 @@ The net charge: \( +2 = x + 5(0) + 1(-1) \Rightarrow x = +3 \)
 
 >**Evaluate yourself 2:** 
 >
->In the complex, \( [\mathrm{Pt(NO_2)(H_2O)(NH_3)_2}]Br \), identify the following
+>2.In the complex, \( [\mathrm{Pt(NO_2)(H_2O)(NH_3)_2}]Br \), identify the following
 >
 >i. Central metal atom/ion
 >
@@ -183,7 +173,7 @@ In the earlier days, the compounds were named after their discoverers. For examp
 
 i. The name of anionic ligands ends with the letter 'o' and the cationic ligand ends with 'ium'. The neutral ligands are usually called with their molecular names with fewer exceptions namely, \( \mathrm{H_2O} \) (aqua), CO (carbonyl), \( \mathrm{NH_3} \) (ammine) and NO (nitrosyl).
 
-ii. A \( \kappa \)-term is used to denote an ambidentate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanate-\( \kappa S \) and if nitrogen is involved, then it is named thiocyanate-\( \kappa N \).
+ii. A \( \kappa \)-term is used to denote an ambidendate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanate-\( \kappa S \) and if nitrogen is involved, then it is named thiocyanate-\( \kappa N \).
 
 ![](ligand.png)
 
@@ -191,25 +181,55 @@ iii. If the coordination entity contains more than one ligand of a particular ty
 
 **b. Naming the central metal:** In cationic/neutral complexes, the element name is used as such for naming the central metal atom/ion, whereas, a suffix 'ate' is used along with the element name in anionic complexes. The oxidation state of the metal is written immediately after the metal name using roman numerals in parenthesis.
 
-![](naming.png)
+| Element | Name of the metal in cationic complex | Name of the metal in anionic complex |
+| --- | --- | --- |
+| Cr | Chromium | Chromate |
+| Zn | Zinc | Zincate |
+| Al | Aluminum | Aluminate |
+| Fe | Iron | Ferrate |
+| Cu | Copper | Cuprate |
+| Co | Cobalt | Cobaltate |
+| Pb | Lead | Plumbate |
+| Ag | Silver | Argentate |
+| Sn | Tin | Stannate |
+| Au | Gold | Aurate |
+| Pt | Platinum | Platinate |
 
-**Naming of coordination compounds using IUPAC guidelines.**
+Naming of coordination compounds using IUPAC guidelines.
 
-**Example 1:**
+**Example 1: Coordination Compound : $\text{K}_4[\text{Fe}(\text{CN})_6]$**
 
 ![](eg1.png)
 
-**Example 2:**
+**Example 2: Coordination Compound : $[\text{Co}(\text{NH}_3)_4\text{Cl}_2]\text{Cl}$**
 
-![](eg2.png)
+![](image-13.png)
 
-**Example 3:**
+**Example 3: Coordination Compound : $[\text{Cr}(\text{en})_3][\text{CrF}_6]$**
 
-![](eg3.png)
+![](image-14.png)
 
 **More examples with names are given in the list below for better understanding of IUPAC Nomenclature:**
 
-![](image-1.png)
+
+|  | Formula | Name |
+| --- | --- | --- |
+| **i.** | $[\text{Ag}(\text{NH}_3)_2]\text{Cl}$ | Diamminesilver(I) chloride |
+| **ii.** | $[\text{Co}(\text{en})_2\text{Cl}_2]\text{Cl}$ | Dichloridobis(ethane-1,2-diamine)cobalt(III) chloride |
+| **iii.** | $[\text{Cu}(\text{NH}_3)_4]\text{SO}_4$ | Tetraamminecopper(II) sulphate |
+| **iv.** | $[\text{Co}(\text{CO}_3)(\text{NH}_3)_4]\text{Cl}$ | Tetraamminecarbonatocobalt(III) chloride |
+| **v.** | $[\text{Cr}(\text{NH}_3)_3(\text{H}_2\text{O})_3]\text{Cl}_3$ | Triamminetriaquachromium(III) chloride |
+| **vi.** | $\text{K}_3[\text{Fe}(\text{CN})_5\text{NO}]$ | Potassiumpentacyanido-$\kappa\text{C}$nitrosylferrate(II) |
+| **vii.** | $\text{Na}_2[\text{Ni}(\text{EDTA})]$ | Sodium $2,2',2'',2'''$-(ethane-1,2-diyldinitrilo)tetraacetatonickelate(II) |
+| **viii.** | $[\text{PdI}_2(\text{ONO})_2(\text{H}_2\text{O})_2]$ | Diaquadiiodidodinitrito-$\kappa\text{O}$ palladium(IV) |
+| **ix.** | $[\text{Cr}(\text{PPh}_3)(\text{CO})_5]$ | Pentacarbonyltriphenylphosphanechromium(0) |
+| **x.** | $[\text{Co}(\text{NO}_2)_3(\text{NH}_3)_3]$ | Triamminetrinitrito-$\kappa\text{N}$cobalt(III) |
+| **xi.** | $[\text{Co}(\text{NH}_3)_5\text{CN}][\text{Co}(\text{NH}_3)(\text{CN})_5]$ | Pentaamminecyanido-$\kappa\text{C}$cobalt(III) amminepentacyanido-$\kappa\text{C}$cobaltate(III) |
+| **xii.** | $[\text{Pt}(\text{py})_4][\text{PtCl}_4]$ | Tetrapyridineplatinum(II) tetrachloridoplatinate(II) |
+| **xiii.** | $[\text{Co}(\text{NH}_3)_4\text{Cl}_2]_3[\text{Cr}(\text{CN})_6]$ | Tetraamminedichloridocobalt(III) hexacyanido-$\kappa\text{C}$chromate(III) |
+| **xiv.** | $[\text{Ag}(\text{NH}_3)_2]^+$ | Diamminesilver(I) ion |
+| **xv.** | $[\text{Co}(\text{NH}_3)_5\text{Cl}]^{2+}$ | Pentaamminechloridocobalt(III) ion |
+| **xvi.** | $[\text{FeF}_6]^{4-}$ | Hexafluoridoferrate(II)ion |
 
 >**Evaluate yourself 3:**
 >
@@ -280,7 +300,12 @@ This type of isomers arises when an ionisable counter ion (simple ion) itself ca
 
 The exchange of free solvent molecules such as water, ammonia, alcohol etc. in the crystal lattice with a ligand in the coordination entity will give different isomers. These type of isomers are called solvate isomers. If the solvent molecule is water, then these isomers are called hydrate isomers. For example, the complex with chemical formula \( \mathrm{CrCl_3.6H_2O} \) has three hydrate isomers as shown below.
 
-![](image-4.png)
+
+| | |
+| --- | --- |
+| $[\text{Cr}(\text{H}_2\text{O})_6]\text{Cl}_3$ | a violet colour compound and gives three chloride ions in solution, |
+| $[\text{Cr}(\text{H}_2\text{O})_5\text{Cl}]\text{Cl}_2 \cdot \text{H}_2\text{O}$ | a pale green colour compound and gives two chloride ions in solution and, |
+| $[\text{Cr}(\text{H}_2\text{O})_4\text{Cl}_2]\text{Cl} \cdot 2\text{H}_2\text{O}$ | dark green colour compound and gives one chloride ion in solution |
 
 #### 5.5.2 Stereoisomers
 
@@ -294,7 +319,8 @@ In square planar complexes of the form \( [\mathrm{MA_2B_2}]^{n\pm} \) and \( [\
 
 The square planar complex of the type \( [\mathrm{M(xy)_2}]^{n\pm} \) where xy is a bidentate ligand with two different coordinating atoms also shows cis-trans isomerism. Square planar complex of the form \( [\mathrm{MABCD}]^{n\pm} \) also shows geometrical isomerism. In this case, by considering any one of the ligands (A, B, C or D) as a reference, the rest of the ligands can be arranged in three different ways leading to three geometrical isomers.
 
-![**Figure 5.4 $\text{MA}_2\text{B}_2$, $\text{MA}_2\text{BC}$, $\text{M(xy)}_2$ & $\text{MABCD}$ - isomers**](image-12.png)
+![
+  **Figure 5.4 $\text{MA}_2\text{B}_2$, $\text{MA}_2\text{BC}$, $\text{M(xy)}_2$ & $\text{MABCD}$ - isomers**](image-12.png)
 
 ##### Octahedral complexes
 
@@ -333,7 +359,7 @@ As the number of different ligands increases, the number of possible isomers als
 
 ##### 5.5.3 Optical Isomerism
 
-Coordination compounds which possess chirality exhibit optical isomerism similar to organic compounds. The pair of two optically active isomers which are mirror images of each other are called enantiomers. Their solutions rotate the plane of the plane polarised light either clockwise or anticlockwise and the corresponding isomers are called 'd' (dextro rotatory) and 'l' (levo rotatory) forms respectively.
+Coordination compounds which possess chairality exhibit optical isomerism similar to organic compounds. The pair of two optically active isomers which are mirror images of each other are called enantiomers. Their solutions rotate the plane of the plane polarised light either clockwise or anticlockwise and the corresponding isomers are called 'd' (dextro rotatory) and 'l' (levo rotatory) forms respectively.
 
 The octahedral complexes of type \( [\mathrm{M(xx)_3}]^{n\pm} \), \( [\mathrm{M(xx)_2AB}]^{n\pm} \) and \( [\mathrm{M(xx)_2B_2}]^{n\pm} \) exhibit optical isomerism.
 
@@ -433,7 +459,7 @@ Step 2: The ligands are approaching the metal atom in actual bond directions. To
 
 ![Figure 5.9 octahedral ligand field](image-9.png)
 
-As shown in the figure, the orbitals lying along the axes \( \mathrm{d}_{x^2 - y^2} \) and \( \mathrm{d}_{z^2} \) orbitals will experience strong repulsion and raise in energy to a greater extent than the orbitals with lobes directed between the axes \( (\mathrm{d}_{xy}, \mathrm{d}_{yz} \) and \( \mathrm{d}\_{zx}) \). Thus the degenerate d orbitals now split into two sets and the process is called crystal field splitting.
+As shown in the figure, the orbitals lying along the axes \( \mathrm{d}_{x^2 - y^2} \) and \( \mathrm{d}_{z^2} \) orbitals will experience strong repulsion and raise in energy to a greater extent than the orbitals with lobes directed between the axes \( (\mathrm{d}_{xy}, \mathrm{d}_{yz} \) and \( \mathrm{d}_{zx}) \). Thus the degenerate d orbitals now split into two sets and the process is called crystal field splitting.
 
 Step 3: Up to this point the complex formation would not be favoured. However, when the ligands approach further, there will be an attraction between the negatively charged electron and the positively charged metal ion, that results in a net decrease in energy. This decrease in energy is the driving force for the complex formation.
 
@@ -474,10 +500,7 @@ where h is the Planck's constant; c is velocity of light, \( \bar{\nu} \) is the
 ![](crystal.png)
 
 From the above calculations, it is clear that the crystal field splitting energy of the \( \mathrm{Ti^{3+}} \) in complexes with the three ligands is in the order; \( \mathrm{Br^-} < \mathrm{F^-} < \mathrm{H_2O} \). Similarly, it has been found from the spectral data that the crystal field splitting power of various ligands for a given metal ion, are in the following order
-
-\[
-\mathrm{I^- < Br^- < SCN^- < Cl^- < S^{2-} < F^- < OH^- = urea < ox^{2-} < H_2O < NCS^- < EDTA^{4-} < NH_3 < en < NO_2^- < CN^- < CO}
-\]
+$$\text{I}^- < \text{Br}^- < \text{SCN}^- < \text{Cl}^- < \text{S}^{2-} < \text{F}^- < \text{OH}^- \approx \text{urea} < \text{ox}^{2-} < \text{H}_2\text{O} < \text{NCS}^- < \text{EDTA}^{4-} < \text{NH}_3 < \text{en} < \text{NO}_2^- < \text{CN}^- < \text{CO}$$
 
 The above series is known as **spectrochemical series**. The ligands present on the right side of the series such as carbonyl causes relatively larger crystal field splitting and are called strong ligands or strong field ligands, while the ligands on the left side are called weak field ligands and causes relatively smaller crystal field splitting.
 
@@ -487,40 +510,14 @@ The filling of electrons in the d orbitals in the presence of ligand field also 
 
 In case of $\mathrm{d}^4$ configuration, there are two possibilities. The fourth electron may either go to the higher energy $e_g$ orbitals or it may pair with one of the $t_{2g}$ electrons. In this scenario, the preferred configuration will be the one with lowest energy.
 
-If the octahedral crystal field splitting energy ($\Delta_o$) is greater than the pairing energy ($P$), the fourth electron will pair up with an electron in the $\mathrm{t}_{2g}$ orbital. Conversely, if $\Delta_o  is lesser than  P$, then the fourth electron will occupy one of the degenerate higher-energy $\mathrm{e}_g$ orbitals.
+If the octahedral crystal field splitting energy ($\Delta_o$) is greater than the pairing energy ($P$),it is necessary to cause pairing of electrons in an orbital,then the fourth electron will pair up with an electron in the $\mathrm{t}_{2g}$ orbital. Conversely, if $\Delta_o$  is lesser than  $P$, then the fourth electron will occupy one of the degenerate higher-energy $\mathrm{e}_g$ orbitals.
 
 For example, let us consider two different iron(III) complexes:
 
 - $\mathrm{[Fe(H_2O)_6]^{3+}}$ (weak field complex; $\Delta_o = 14000\ \mathrm{cm}^{-1}$)
 - $\mathrm{[Fe(CN)_6]^{3-}}$ (strong field complex; $\Delta_o = 35000\ \mathrm{cm}^{-1}$)
 
-The wave number corresponds to the pairing energy of $\mathrm{Fe}^{3+}$ is $30000\ \mathrm{cm}^{-1}$.
-
-In both complexes, $\mathrm{Fe}^{3+}$ has a $\mathrm{d}^5$ configuration.
-
-For the aqua complex,
-
-$$
-\Delta_o < P
-$$
-
-Hence, the fourth and fifth electrons enter the $\mathrm{e}_g$ orbitals and the electronic configuration is
-
-$$
-\mathrm{t}_{2g}^{3},\mathrm{e}_g^{2}
-$$
-
-In the cyanide complex,
-
-$$
-\Delta_o > P
-$$
-
-Hence, the fourth and fifth electrons pair up in the $\mathrm{t}_{2g}$ orbitals and the electronic configuration is
-
-$$
-\mathrm{t}_{2g}^{5}\mathrm{e}_g^{0}
-$$
+The wave number corresponds to the pairing energy of \(\mathrm{Fe}^{3+}\) is \(30000\ \mathrm{cm}^{-1}\). In both complexes, \(\mathrm{Fe}^{3+}\) has a \(\mathrm{d}^5\) configuration. For the aqua complex, \(\Delta_o < P\).Hence, the fourth and fifth electrons enter the \(\mathrm{e}_g\) orbitals and the electronic configuration is \(\mathrm{t}_{2g}^{3}\mathrm{e}_g^{2}\). In the cyanide complex, \(\Delta_o > P\).Hence, the fourth and fifth electrons pair up in the \(\mathrm{t}_{2g}\) orbitals and the electronic configuration is \(\mathrm{t}_{2g}^{5}\mathrm{e}_g^{0}\).
 
 The actual distribution of electrons can be ascertained by calculating the crystal field stabilisation energy (CFSE). The crystal field stabilisation energy is defined as the energy difference between the electronic configuration in the ligand field $(E_{LF})$ and the isotropic field (barycentre) $(E_{iso})$.
 
@@ -536,12 +533,14 @@ Here, $n_{t_{2g}}$ is the number of electrons in $t_{2g}$ orbitals; $n_{e_g}$ is
 
 Calculating the CFSE for the Iron complexes
 
-![](complex1.1.png)
+**Complex: [Fe(H₂O)₆]³⁺**
+
+![](image-15.png)
 
 ![](complex1.2.png)
 
-![](complex2.1.png)
-
+**Complex: $[\text{Fe}(\text{CN})_6]^{3-}$**
+![](image-16.png)
 ![](complex2.2.png)
 
 **Colour of the complex and crystal field splitting energy:**
@@ -551,7 +550,7 @@ Most of the transition metal complexes are coloured. A substance exhibits colour
 ![Figure 5.15 Colour Wheel - Complementary colours are shown on opposite sides.](img5.15.png)
 
 
-| Wavelength (\( \lambda \)) of absorbed light (Å) | Wave number (\( \bar{\nu} \)) of the absorbed light (cm\(^{-1}\)) | Colour of absorbed light | Observed Colour |
+| Wavelength (\( \lambda \)) of absorbed light (Å) | Wave number (\({\nu} \)) of the absorbed light (cm\(^{-1}\)) | Colour of absorbed light | Observed Colour |
 | ------------------------------------------------ | ----------------------------------------------------------------- | ------------------------ | --------------- |
 | 4000                                             | 25000                                                             | Violet                   | Yellow          |
 | 4750                                             | 21053                                                             | Blue                     | Orange          |
@@ -691,9 +690,8 @@ When a free metal ion is in aqueous medium, it is surrounded by (coordinated wit
 
 Let us consider the formation of a metal complex \( \mathrm{ML_6} \) in aqueous medium. (Charge on the metal ion is ignored) complex formation may occur in single step or step by step. If ligands added to the metal ion in single step, then
 
-\[
-[\mathrm{MS_6}] + 6\mathrm{L} \Longrightarrow [\mathrm{ML_6}] + 6\mathrm{S}
-\]
+$$[\text{MS}_6] + 6\,\text{L} \rightleftharpoons [\text{ML}_6] + 6\,\text{S}$$
+
 
 \[
 \beta_{\mathrm{overall}} = \frac{[\mathrm{ML_6}][\mathrm{S}]^6}{[\mathrm{MS_6}][\mathrm{L}]^6}
@@ -708,27 +706,27 @@ Let us consider the formation of a metal complex \( \mathrm{ML_6} \) in aqueous 
 If these six ligands are added to the metal ion one by one, then the formation of complex \( [\mathrm{ML_6}] \) can be supposed to take place through six different steps as shown below. Generally step wise stability constants are represented by the symbol k.
 
 \[
-[\mathrm{MS_6}] + \mathrm{L} \Longrightarrow [\mathrm{MS_5L}] + \mathrm{S} \qquad k_1 = \frac{[\mathrm{MS_5L}]}{[\mathrm{MS_6}][\mathrm{L}]}
+[\mathrm{MS_6}] + \mathrm{L} \rightleftharpoons [\mathrm{MS_5L}] + \mathrm{S} \qquad k_1 = \frac{[\mathrm{MS_5L}]}{[\mathrm{MS_6}][\mathrm{L}]}
 \]
 
 \[
-[\mathrm{MS_5L}] + \mathrm{L} \Longrightarrow [\mathrm{MS_4L_2}] + \mathrm{S} \qquad k_2 = \frac{[\mathrm{MS_4L_2}]}{[\mathrm{MS_5L}][\mathrm{L}]}
+[\mathrm{MS_5L}] + \mathrm{L} \rightleftharpoons [\mathrm{MS_4L_2}] + \mathrm{S} \qquad k_2 = \frac{[\mathrm{MS_4L_2}]}{[\mathrm{MS_5L}][\mathrm{L}]}
 \]
 
 \[
-[\mathrm{MS_4L_2}] + \mathrm{L} \Longrightarrow [\mathrm{MS_3L_3}] + \mathrm{S} \qquad k_3 = \frac{[\mathrm{MS_3L_3}]}{[\mathrm{MS_4L_2}][\mathrm{L}]}
+[\mathrm{MS_4L_2}] + \mathrm{L} \rightleftharpoons [\mathrm{MS_3L_3}] + \mathrm{S} \qquad k_3 = \frac{[\mathrm{MS_3L_3}]}{[\mathrm{MS_4L_2}][\mathrm{L}]}
 \]
 
 \[
-[\mathrm{MS_3L_3}] + \mathrm{L} \Longrightarrow [\mathrm{MS_2L_4}] + \mathrm{S} \qquad k_4 = \frac{[\mathrm{MS_2L_4}]}{[\mathrm{MS_3L_3}][\mathrm{L}]}
+[\mathrm{MS_3L_3}] + \mathrm{L} \rightleftharpoons [\mathrm{MS_2L_4}] + \mathrm{S} \qquad k_4 = \frac{[\mathrm{MS_2L_4}]}{[\mathrm{MS_3L_3}][\mathrm{L}]}
 \]
 
 \[
-[\mathrm{MS_2L_4}] + \mathrm{L} \Longrightarrow [\mathrm{MSL_5}] + \mathrm{S} \qquad k_5 = \frac{[\mathrm{MSL_5}]}{[\mathrm{MS_2L_4}][\mathrm{L}]}
+[\mathrm{MS_2L_4}] + \mathrm{L} \rightleftharpoons [\mathrm{MSL_5}] + \mathrm{S} \qquad k_5 = \frac{[\mathrm{MSL_5}]}{[\mathrm{MS_2L_4}][\mathrm{L}]}
 \]
 
 \[
-[\mathrm{MSL_5}] + \mathrm{L} \Longrightarrow [\mathrm{ML_6}] + \mathrm{S} \qquad k_6 = \frac{[\mathrm{ML_6}]}{[\mathrm{MSL_5}][\mathrm{L}]}
+[\mathrm{MSL_5}] + \mathrm{L} \rightleftharpoons [\mathrm{ML_6}] + \mathrm{S} \qquad k_6 = \frac{[\mathrm{ML_6}]}{[\mathrm{MSL_5}][\mathrm{L}]}
 \]
 
 In the above equilibrium, the values \( k_1, k_2, k_3, k_4, k_5 \) and \( k_6 \) are called step wise stability constants. By carrying out a mathematical manipulation, we can show that overall stability constant \( \beta \) is the product of all step wise stability constants \( k_1, k_2, k_3, k_4, k_5 \) and \( k_6 \).
@@ -750,7 +748,7 @@ The coordination complexes are of great importance. These compounds are present 
 1. Phthalo blue - a bright blue pigment is a complex of Copper(II) ion and it is used in printing ink and in the packaging industry.
 2. Purification of Nickel by Mond's process involves formation \( [\mathrm{Ni(CO)_4}] \), which yields \( 99.5\% \) pure Nickel on decomposition.
 3. EDTA is used as a chelating ligand for the separation of lanthanides, in softening of hard water and also in removing lead poisoning.
-4. Coordination complexes are used in the extraction of silver and gold from their ores by forming soluble cyano complex. These cyano complexes are reduced by zinc to yield metals. This process is called as MacArthur-Forrest cyanide process.
+4. Coordination complexes are used in the extraction of silver and gold from their ores by forming soluble cyano complex. These cyano complexes are reduced by zinc to yield metals. This process is called as Mac-Arthur-Forrest cyanide process.
 5. Some metal ions are estimated more accurately by complex formation. For example, \( \mathrm{Ni^{2+}} \) ions present in Nickel chloride solution is estimated accurately by forming an insoluble complex called \( [\mathrm{Ni(DMG)_2}] \).
 6. Many of the complexes are used as catalysts in organic and inorganic reactions. For example,
    (i) Wilkinson's catalyst - \( [(\mathrm{PPh_3})_3\mathrm{RhCl}] \) is used for hydrogenation of alkenes.
@@ -760,17 +758,14 @@ The coordination complexes are of great importance. These compounds are present 
    (1) Ca-EDTA chelate, is used in the treatment of lead and radioactive poisoning. That is for removing lead and radioactive metal ions from the body.
    (2) Cis-platin is used as an antitumor drug in cancer treatment.
 9. In photography, when the developed film is washed with sodium thiosulphate solution (hypo), the negative film gets fixed. Undecomposed AgBr forms a soluble complex called sodium dithiosulphatoargentate(I) which can be easily removed by washing the film with water.
-\[
-\mathrm{AgBr} + 2\mathrm{Na_2S_2O_3} \longrightarrow \mathrm{Na_3[Ag(S_2O_3)_2]} + 2\mathrm{NaBr}
-\]
+\[\mathrm{AgBr} + 2\mathrm{Na_2S_2O_3} \longrightarrow \mathrm{Na_3[Ag(S_2O_3)_2]} + 2\mathrm{NaBr}\]
 10. Many biological systems contain metal complexes. For example,
-
-    (i) A red blood corpuscle (RBC) is composed of heme group, which is \( \mathrm{Fe^{2+}} \)-Porphyrin complex. It plays an important role in carrying oxygen from lungs to tissues and carbon dioxide from tissues to lungs.
-
+    (i) A red blood corpuscle (RBC) is composed of heme group, which is \( \mathrm{Fe^{2+}} \)-Porphyrin complex. It plays an important role in carrying oxygen from lungs to tissues and /carbon dioxide from tissues to lungs.
+    <br>
     (ii) Chlorophyll, a green pigment present in green plants and algae, is a coordination complex containing \( \mathrm{Mg^{2+}} \) as central metal ion surrounded by a modified porphyrin ligand called chlorin ring. It plays an important role in photosynthesis, by which plants convert \( \mathrm{CO_2} \) and water into carbohydrates and oxygen.
-
+    <br>
     (iii) Vitamin \( \mathrm{B_{12}} \) (cyanocobalamine) is the only vitamin that consists of a metal ion. It is a coordination complex in which the central metal ion is \( \mathrm{Co^{3+}} \) surrounded by a porphyrin-like ligand.
-
+    <br>
     (iv) Many enzymes are known to be metal complexes, they regulate biological processes. For example, Carboxypeptidase is a protease enzyme that is important in digestion, contains a zinc ion coordinated to the protein.
 
 >**Do You Know**
@@ -795,8 +790,8 @@ The coordination complexes are of great importance. These compounds are present 
 - The three dimensional spatial arrangement of ligand atoms/ions that are directly attached to the central atom is known as the coordination polyhedron (or polygon).
 - The number of ligand donor atoms bonded to a central metal ion in a complex is called the coordination number of the metal.
 - The oxidation state of a central atom in a coordination entity is defined as the charge it would bear if all the ligands were removed along with the electron pairs that were shared with the central atom.
-- Linkage isomers arise when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms.
-- Coordination isomers arise in the coordination compounds having both the cation and anion as complex ions. The interchange of one or more ligands between the cationic and the anionic coordination entities result in different isomers.
+- This type of isomers arise when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms.
+- This type of isomers arise in the coordination compounds having both the cation and anion as complex ions. The interchange of one or more ligands between the cationic and the anionic coordination entities result in different isomers.
 - Ionisation isomers arise when an ionisable counter ion (simple ion) itself can act as a ligand. The exchange of such counter ions with one or more ligands in the coordination entity will result in ionisation isomers.
 - Geometrical isomerism exists in heteroleptic complexes due to different possible three dimensional spatial arrangements of the ligands around the central metal atom. This type of isomerism exists in square planar and octahedral complexes.
 - Coordination compounds which possess chirality exhibit optical isomerism similar to organic compounds. The pair of two optically active isomers which are mirror images of each other are called enantiomers.
