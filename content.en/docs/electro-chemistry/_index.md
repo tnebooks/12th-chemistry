@@ -31,7 +31,7 @@ physiology and neurobiology.
 
 ## INTRODUCTION
 
-We have come across many materials in our life, and they can be broadly classified into conductors, semiconductors and insulators based on their electrical conductivity. You might have noticed that conducting materials such as copper, aluminium etc., are used to transport electrical energy from one place to another place, and the insulating materials such as PVC, Bakelite etc., in switches, circuit boards etc. Do you know how the electrical energy is generated? We know from first Law of thermodynamics that energy can neither be created nor be destroyed, but one form of energy can be converted into another form. It is not possible to create electrical energy but we can generate electrical energy in many ways i.e., by converting solar energy, wind energy, tidal energy etc. one such way is converting chemical energy into electrical energy as in the case of batteries. We cannot imagine a modern technological world without batteries. Hence it is important to know the principles behind this type of energy conversion. The branch of chemistry that deals with the study of electrical energy transport and the inter conversion of electrical and chemical energy is called electrochemistry. Electrochemical reactions are redox reactions and they involve the transfer of electron from one substance to another.
+We have come across many materials in our life, and they can be broadly classified into conductors, semiconductors and insulators based on their electrical conductivity. You might have noticed that conducting materials such as copper, aluminium etc., are used to transport electrical energy from one place to another place, and the insulating materials such as PVC, Bakelite etc., in switches, circuit boards etc. Do you know how the electrical energy is generated? We know from the first Law of thermodynamics that energy can neither be created nor be destroyed, but one form of energy can be converted into another form. It is not possible to create electrical energy but we can generate electrical energy in many ways i.e., by converting solar energy, wind energy, tidal energy etc. one such way is converting chemical energy into electrical energy as in the case of batteries. We cannot imagine a modern technological world without batteries. Hence it is important to know the principles behind this type of energy conversion. The branch of chemistry that deals with the study of electrical energy transport and the inter conversion of electrical and chemical energy is called electrochemistry. Electrochemical reactions are redox reactions and they involve the transfer of electrons from one substance to another.
 
 In this unit, we will learn about the electrical conduction, construction of batteries and the thermodynamic principles involved in electrochemical reactions.
 
@@ -180,7 +180,7 @@ Where \( \kappa \) is the specific conductance and \( N \) is the concentration 
 #### 9.1.3 Factors affecting electrolytic conductance
 
 * If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
-* Solvent of higher dielectric constant show high conductance in solution.
+* Solvents with higher dielectric constants show higher conductance in solution.
 - Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
 increases with the decrease in viscosity.
 - If the temperature of the electrolytic solution increases, conductance also increases. Increase
@@ -195,7 +195,7 @@ In the measurement of specific resistance of a metallic wire, a DC power supply 
 
 A wheatstone bridge is constituted using known resistances P, Q, a variable resistance S and conductivity cell (Let the resistance of the electrolytic solution taken in it be R) as shown in the figure 9.3. An AC source (550 Hz to 5 KHz) is connected between the junctions A and C. Connect a suitable detector E (Such as the telephone ear piece detector) between the junctions 'B' and 'D'.
 
-The variable resistance 'S' is adjusted until the bridge is balanced and in this conditions there is no current flow through the detector.
+The variable resistance 'S' is adjusted until the bridge is balanced and under these conditions there is no current flow through the detector.
 
 Under balanced condition,
 
@@ -301,13 +301,13 @@ For a uni-univalent electrolyte such as NaCl, the Kohlrausch's law is expressed 
 (\Lambda_{\mathrm{m}}^{0})_{\mathrm{NaCl}} = (\lambda_{\mathrm{m}}^{0})_{\mathrm{Na}^{+}} + (\lambda_{\mathrm{m}}^{0})_{\mathrm{Cl}^{-}}
 \]
 
-In general, according to Kohlrausch's law, the molar conductivity at infinite dilution for a electrolyte represented by the formula \( \mathrm{A}_x \mathrm{B}_y \), is given below.
+In general, according to Kohlrausch's law, the molar conductivity at infinite dilution for an electrolyte represented by the formula \( \mathrm{A}_x \mathrm{B}_y \), is given below.
 
 \[
 (\Lambda_{\mathrm{m}}^{0})_{\mathrm{A_x B_y}} = x(\lambda_{\mathrm{m}}^{0})_{\mathrm{A}^{y+}} + y(\lambda_{\mathrm{m}}^{0})_{\mathrm{B}^{x-}} \qquad \text{(9.13)}
 \]
 
-Kohlrausch arrived at the above mentioned relationship based on the experimental observations such as the one as shown in the table. These result show that at infinite dilution each constituent ion of the electrolyte makes a definite contribution towards the molar conductance of the electrolyte irrespective of nature of other ion with which it is associated.
+Kohlrausch arrived at the above mentioned relationship based on the experimental observations such as the one as shown in the table. These results show that at infinite dilution each constituent ion of the electrolyte makes a definite contribution towards the molar conductance of the electrolyte irrespective of nature of other ion with which it is associated.
 
 i.e.,
 
@@ -454,9 +454,9 @@ In the above redox reaction, Zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions and
 \mathrm{Cu}^{2+}(aq) + 2e^{-} \rightarrow \mathrm{Cu}(s) \quad \text{(reduction)}
 \]
 
-If we perform the above two half reactions separately in an apparatus as shown in figure 9.5, some of the energy produced in the reaction will be converted into electrical energy. Let us understand the function of a galvanic cell by considering Daniel cell as an example. It uses the above reaction for generation of electrical energy.
+If we perform the above two half reactions separately in an apparatus as shown in figure 9.5, some of the energy produced in the reaction will be converted into electrical energy. Let us understand the function of a galvanic cell by considering Daniell cell as an example. It uses the above reaction for generation of electrical energy.
 
-The separation of half reaction is the basis for the construction of Daniel cell. It consists of two half cells.
+The separation of half reaction is the basis for the construction of Daniell cell. It consists of two half cells.
 
 **Oxidation half cell**: A metallic zinc strip that dips into an aqueous solution of zinc sulphate taken in a beaker, as shown in Figure 9.5.
 
@@ -466,9 +466,9 @@ The separation of half reaction is the basis for the construction of Daniel cell
 
 When the switch (k) closes the circuit, the electrons flows from zinc strip to copper strip. This is due to the following redox reactions which are taking place at the respective electrodes.
 ![](img9.7.png)
-<center>Figure 9.5 : Daniel cell</center>
+<center>Figure 9.5 : Daniell cell</center>
 
-**Anodic oxidation**: The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions by losing its electrons. The \( \mathrm{Zn}^{2+} \) ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative (-ve).
+**Anodic oxidation**: The electrode at which the oxidation occurs is called the anode. In Daniell cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions by losing its electrons. The \( \mathrm{Zn}^{2+} \) ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative (-ve).
 
 \[
 \mathrm{Zn(s)} \rightarrow \mathrm{Zn}^{2+}(aq) + 2e^{-} \quad \text{(loss of electron - oxidation)}
@@ -486,13 +486,13 @@ To maintain the electrical neutrality in both the compartments, the non reactive
 
 **Completion of circuit**: Electrons flow from the negatively charged zinc anode into the positively charged copper cathode through the external wire, at the same time, anions move towards anode and cations move towards the cathode compartment. This completes the circuit.
 
-**Consumption of Electrodes**: As the Daniel cell operates, the mass of zinc electrode gradually decreases while the mass of the copper electrode increases and hence the cell will function until the entire metallic zinc electrode is converted into \( \mathrm{Zn}^{2+} \) or the entire \( \mathrm{Cu}^{2+} \) ions are converted into metallic copper.
+**Consumption of Electrodes**: As the Daniell cell operates, the mass of zinc electrode gradually decreases while the mass of the copper electrode increases and hence the cell will function until the entire metallic zinc electrode is converted into \( \mathrm{Zn}^{2+} \) or the entire \( \mathrm{Cu}^{2+} \) ions are converted into metallic copper.
 
-Unlike Daniel cell, in certain cases, the reactants (or) products cannot serve as electrodes and in such cases inert electrode such as graphite (or) platinum is used which conducts current in the external circuit.
+Unlike Daniell cell, in certain cases, the reactants (or) products cannot serve as electrodes and in such cases inert electrode such as graphite (or) platinum is used which conducts current in the external circuit.
 
 #### 9.3.2 Galvanic cell notation
 
-The galvanic cell is represented by a cell diagram, for example, Daniel cell is represented as
+The galvanic cell is represented by a cell diagram, for example, Daniell cell is represented as
 
 \[
 \mathrm{Zn(s) | Zn^{2+}(aq) || Cu^{2+}(aq) | Cu(s)}
@@ -526,7 +526,7 @@ Cell Notation is
 
 #### 9.3.3 emf of a Cell
 
-We have learnt that when two half cells of a Daniel cell are connected, a spontaneous redox reaction will take place which results in the flow of electrons from anode to cathode. The force that pushes the electrons away from the anode and pulls them towards cathode is called the electromotive force (emf) (or) the cell potential. The SI unit of cell potential is the volt (v).
+We have learnt that when two half cells of a Daniell cell are connected, a spontaneous redox reaction will take place which results in the flow of electrons from anode to cathode. The force that pushes the electrons away from the anode and pulls them towards cathode is called the electromotive force (emf) (or) the cell potential. The SI unit of cell potential is the volt (v).
 
 When there is one volt difference in electrical potential between the anode and cathode, one joule of energy is released for each coulomb of charge that moves between them.
 
@@ -536,7 +536,7 @@ When there is one volt difference in electrical potential between the anode and 
 
 The cell voltage depends on the nature of the electrodes, the concentration of the electrolytes and the temperature at which the cell is operated. For example
 
-At \( 25^{\circ}\mathrm{C} \), The emf of the below mentioned Daniel cell is 1.107 Volts
+At \( 25^{\circ}\mathrm{C} \), The emf of the below mentioned Daniell cell is 1.107 Volts
 
 \[
 \mathrm{Zn(s) | Zn^{2+}(aq, 1M) || Cu^{2+}(aq, 1M) | Cu(s)} \qquad E^{0} = 1.107\ \mathrm{V}
