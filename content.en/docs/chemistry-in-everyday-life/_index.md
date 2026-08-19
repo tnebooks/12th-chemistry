@@ -36,7 +36,7 @@ Chemistry touches every aspect of our lives. The three basic requirement of our 
 
 ### 15.1 Drug
 
-The word drug is derived from the French word "drogue" meaning "dry herb". A drug is a substance that is used to modify or explore physiological systems or pathological states for the benefit of the recipient. It is used for the purpose of diagnosis, prevention, cure/relief of a disease. The drug which interacts with macromolecular targets such as proteins to produce a therapeutic and useful biological response is called medicine. The specific treatment of a disease using medicine is known as chemotherapy. An ideal drug is the one which is nontoxic, biocompatible and biodegradable, and it should not have any side effects. Generally, most of the drug molecules that are used nowadays have the above properties at lower concentrations. However, at higher concentrations, they have side effects and become toxic. The medicinal value of a drug is measured in terms of its therapeutic index, which is defined as the ratio between the maximum tolerated dose of a drug (above which it becomes toxic) and the minimum curative dose (below which the drug is ineffective). Higher the value of therapeutic index, safer is the drug.
+The word drug is derived from the French word "drogue" meaning "dry herb". A drug is a substance that is used to modify or explore physiological systems or pathological states for the benefit of the recipient. It is used for the purpose of diagnosis, prevention, cure/relief of a disease. The drug which interacts with macromolecular targets such as proteins to produce a therapeutic and useful biological response is called medicine. The specific treatment of a disease using medicine is known as chemotherapy. An ideal drug is the one which is nontoxic, biocompatible and biodegradable, and it should not have any side effects. Generally, most of the drug molecules that are used now a days have the above properties at lower concentrations. However, at higher concentrations, they have side effects and become toxic. The medicinal value of a drug is measured in terms of its therapeutic index, which is defined as the ratio between the maximum tolerated dose of a drug (above which it become toxic) and the minimum curative dose (below which the drug is ineffective). Higher the value of therapeutic index, safer is the drug.
 
 #### 15.1.1 Classification of drugs
 
@@ -66,7 +66,7 @@ These drug molecules interact with biomolecules such as proteins, lipids, etc. t
 
 We have already learnt that in enzyme catalysed reactions, the substrate molecule binds to the active site of the enzyme by means of weak interactions such as hydrogen bonding, van der Waals force etc. between the amino acids present in the active site and the substrate.
 
-When a drug molecule that has a similar geometry (shape) as the substrate is administered, it can also bind to the enzyme and inhibit its activity. In other words, the drug acts as an inhibitor to the enzyme catalyst. These type of inhibitors are often called competitive inhibitors. For example the antibiotic sulphanilamide, which is structurally similar to \( p \)-aminobenzoic acid (PABA) inhibits the bacterial growth. Many bacteria need PABA in order to produce an important coenzyme, folic acid. When the antibiotic sulphanilamide is administered, it acts as a competitive inhibitor to the enzyme dihydroperoate synthase (DHPS) in the biosynthetic pathway of converting PABA into folic acid in the bacteria. It leads to the folic acid deficiency which retards the growth of the bacteria and can eventually kill them.
+When a drug molecule that has a similar geometry (shape) as the substrate is administered, it can also bind to the enzyme and inhibit its activity. In other words, the drug acts as an inhibitor to the enzyme catalyst. These type of inhibitors are often called competitive inhibitors. For example the antibiotic sulphanilamide, which is structurally similar to \( p \)-aminobenzoic acid (PABA) inhibits the bacterial growth. Many bacteria need PABA in order to produce an important coenzyme, folic acid. When the antibiotic sulphanilamide is administered, it acts as a competitive inhibitor to the enzyme dihydropteroate synthase (DHPS) in the biosynthetic pathway of converting PABA into folic acid in the bacteria. It leads to the folic acid deficiency which retards the growth of the bacteria and can eventually kill them.
 
 ![](2.png)
 
@@ -74,13 +74,13 @@ When a drug molecule that has a similar geometry (shape) as the substrate is adm
 
 In certain enzymes, the inhibitor molecule binds to a different binding site, which is commonly referred to as allosteric site, and causes a change in its active site geometry (shape). As a result, the substrate cannot bind to the enzyme. This type of inhibitors are called allosteric inhibitors.
 
-**Receptor as drug targets:** Many drugs exert their physiological effects by binding to a specific molecule called a receptor whose role is to trigger a response in a cell. Most of the receptors are integrated with the cell membranes in such a way that their active site is exposed to outside region of the cell membrane. The chemical messengers, the compounds that carry messages to cells, bind to the active site of these receptors. This brings about the transfer of message into the cell. These receptors show high selectivity for one chemical messenger over the others. If we want to block a message, a drug that binds to the receptor site should inhibit its natural function. Such drugs are called antagonists. In contrast, there are drugs which mimic the natural messenger by switching on the receptor. These type of drugs are called agonists and are used when there is lack of chemical messenger.
+**Receptor as drug targets:** Many drugs exert their physiological effects by binding to a specific molecule called a receptor whose role is to trigger a response in a cell. Most of the receptors are integrated with the cell membranes in such a way that their active site is exposed to outside region of the cell membrane. The chemical messengers, the compounds that carry messages to cells, bind to the active site of these receptors. This brings about the transfer of message into the cell. These receptors show high selectivity for one chemical messenger over the others. If we want to block a message, a drug that binds to the receptor site should inhibit its natural function. Such drugs are called **antagonists**. In contrast, there are drugs which mimic the natural messenger by switching on the receptor. These type of drugs are called **agonists** and are used when there is lack of chemical messenger.
 
 ![](4.png)
 
 For example, when adenosine binds to the adenosine receptors, it induces sleepiness. On the other hand, the antagonist drug caffeine binds to the adenosine receptor and makes it inactive. This results in the reduced sleepiness (wakefulness).
 
-The agonist drug, morphine, which is used as a pain killer, binds to the opioid receptors and activates them. This suppresses the neurotransmitters that cause pain.
+The agonist drug, morphine, which is used as a pain killer, binds to the opioid receptors and activates them. This supress the neurotransmitters that causes pain.
 
 Most receptors are chiral and hence different enantiomers of a drug can have different effect.
 
@@ -88,7 +88,7 @@ Most receptors are chiral and hence different enantiomers of a drug can have dif
 
 #### Therapeutic action of Different classes of Drugs
 
-The developments in the field of biology allowed us to understand various biological process and their mechanism in detail. This enabled to develop new safer efficient drugs. For example, to treat acidity, we have been using weak bases such as aluminium and magnesium hydroxides. But these can make the stomach alkaline and trigger the production of more acid. Moreover, this treatment only relieves the symptoms and does not control the cause. Detailed studies reveal that histamines stimulate the secretion of HCl by activating the receptor in the stomach wall. This findings lead to the design of new drugs such as cimetidine, ranitidine etc., which bind the receptor and inactivate them. These drugs are structurally similar to histamine. In this section, we shall discuss the therapeutic action of a few important classes of drugs.
+The developments in the field of biology allowed us to understand various biological process and their mechanism in detail. This enabled to develop new safer efficient drugs. For example, to treat acidity, we have been using weak bases such as aluminium and magnesium hydroxides. But these can make the stomach alkaline and trigger the production of much acid. Moreover, this treatment only relieves the symptoms and does not control the cause. Detailed studies reveal that histamines stimulate the secretion of HCl by activating the receptor in the stomach wall. This findings lead to the design of new drugs such as cimetidine, ranitidine etc., which bind the receptor and inactivate them. These drugs are structurally similar to histamine. In this section, we shall discuss the therapeutic action of a few important classes of drugs.
 
 ![](6.png)
 ![](7.png)
@@ -187,7 +187,7 @@ ii. Condensation polymerisation or step growth polymerisation
 
 **Addition polymerisation:**
 
- Many alkenes undergo polymerisation under suitable conditions. The chain growth mechanism involves the addition of the growing chain across the double bond of the monomer. The addition polymerisation can follow any of the following three mechanisms depending upon the reactive involved in the process.
+ Many alkenes undergo polymerisation under suitable conditions. The chain growth mechanism involves the addition of the growing chain across the double bond of the monomer. The addition polymerisation can follow any of the following three mechanisms depending upon the reactive intermediate involved in the process.
 
 i. Free radical polymerisation
 
@@ -241,7 +241,7 @@ It is used as insulation for cables, making toys etc.
 
 It is used for coating articles and preparing non-stick utensils.
 
-**Preparation of Orlon (polyacrylonitrile - PAN):** It is prepared by the addition polymerisation of vinyl cyanide (acrylonitrile) using a peroxide initiator.
+**I. Preparation of Orlon (polyacrylonitrile - PAN):** It is prepared by the addition polymerisation of vinyl cyanide (acrylonitrile) using a peroxide initiator.
 
 ![](img15.1.png)
 
@@ -261,7 +261,7 @@ It is used in textiles, manufacture of cards etc.
 
 It is used in the manufacture of tyre cords, fabrics etc.
 
-**Preparation of Terylene (Dacron):** The monomers are ethylene glycol and terephthalic acid (or) dimethyl terephthalate. When these monomers are mixed and heated at 500K in the presence of zinc acetate and antimony trioxide catalyst, terylene is formed.
+**II. Preparation of terylene (Dacron):** The monomers are ethylene glycol and terephthalic acid (or) dimethyl terephthalate. When these monomers are mixed and heated at 500K in the presence of zinc acetate and antimony trioxide catalyst, terylene is formed.
 
 ![](21.png)
 
@@ -271,14 +271,14 @@ It is used in blending with cotton or wool fibres and as glass reinforcing mater
 
 The monomers are phenol and formaldehyde. The polymer is obtained by the condensation polymerization of these monomers in presence of either an acid or a base catalyst.
 
-Phenol reacts with methanol to form ortho or para hydroxyl methylphenols which on further reaction with phenol gives linear polymer called novolac. Novolac on further heating with formaldehyde undergo cross linkages to form bakelite.
+Phenol reacts with methanal to form ortho or para hydroxyl methylphenols which on further reaction with phenol gives linear polymer called novolac. Novolac on further heating with formaldehyde undergo cross linkages to form bakelite.
 
 ![](img15.2.png)
 
 **Uses:**
 
-Navolac is used in paints. Soft bakelites are used for making glue for binding laminated wooden
-planks and in varinishes, Hard bakelites are used to prepare combs, pens etc..
+Novolac is used in paints. Soft bakelites are used for making glue for binding laminated wooden
+planks and in varnishes, Hard bakelites are used to prepare combs, pens etc..
 
 **Melamine (Formaldehyde melamine):** The monomers are melamine and formaldehyde. These monomers undergo condensation polymerization to form melamine formaldehyde resin.
 
@@ -302,7 +302,7 @@ Rubber is a naturally occurring polymer. It is obtained from the latex that exud
 
 **Vulcanization: Cross linking of Rubber:** In the year 1839, Charles Goodyear accidentally dropped a mixture of natural rubber and sulphur onto a hot stove. He was surprised to find that the rubber had become strong and elastic. This discovery led to the process that Goodyear called vulcanization.
 
-Natural rubber is mixed with \( 3-5\% \) sulphur and heated at \( 100-150^{\circ}C \) causes cross linking of the cis-1,4-polyisoprene chains through disulphide (-S-S-) bonds. The physical properties of rubber can be altered by controlling the amount of sulphur that is used for vulcanization. Soft rubber, made with about 1 to \( 3\% \) sulphur is soft and stretchy. When 3 to \( 10\% \) sulphur is used the resultant rubber is somewhat harder but flexible.
+Natural rubber is mixed with \( 3-5\% \) sulphur and heated at \( 100-150^{\circ}C \) causes cross linking of the cis-1,4-polyisoprene chains through disulphide (-S-S-) bonds. The physical properties of rubber can be altered by controlling the amount of sulphur that is used for vulcanization. In sulphur rubber, made with about 1 to \( 3\% \) sulphur is soft and stretchy. When 3 to \( 10\% \) sulphur is used the resultant rubber is somewhat harder but flexible.
 
 **Synthetic rubber:** Polymerisation of certain organic compounds such as buta-1,3-diene or its derivatives gives rubber like polymer with desirable properties like stretching to a greater extent etc. Such polymers are called synthetic rubbers.
 
@@ -326,7 +326,7 @@ It is used in the manufacture of hoses and tank linings.
 
 #### 15.4.6 Biodegradable Polymers
 
-The materials that are readily decomposed by microorganisms in the environment are called biodegradable. Natural polymers degrade on their own after certain period of time but the synthetic polymers do not. It leads to serious environmental pollution. One of the solution to this problem is to produce biodegradable polymers which can be broken down by soil microorganism.
+The materials that are readily decomposed by microorganisms in the environment are called biodegradable. Natural polymers degrade on their own after certain period of time but the synthetic polymers do not. It leads to serious environmental pollution. One of the solution to this problem is to produce biodegradable polymers which can be broken down by soil micro organism.
 
 **Examples:**
 
