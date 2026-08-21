@@ -496,7 +496,7 @@ Preparation of nitrogrn oxides
 | **Nitrous acid** | $\text{HNO}_2$ | +3 | $\text{Ba}(\text{NO}_2)_2 + \text{H}_2\text{SO}_4 \longrightarrow 2\text{HNO}_2 + \text{BaSO}_4$ |
 | **Pernitrous acid** | $\text{HOONO}$ | +3 | $\text{H}_2\text{O}_2 + \text{ON}(\text{OH}) \longrightarrow \text{ON}(\text{OOH}) + \text{H}_2\text{O}$ |
 | **Nitric acid** | $\text{HNO}_3$ | +5 | $4\text{NH}_3 + 5\text{O}_2 \longrightarrow 4\text{NO} + 6\text{H}_2\text{O}$<br>$2\text{NO} + \text{O}_2 \longrightarrow \text{NO}_2$<br>$2\text{NO}_2 \longrightarrow \text{N}_2\text{O}_4$<br>$2\text{N}_2\text{O}_4 + 2\text{H}_2\text{O} + \text{O}_2 \longrightarrow 4\text{HNO}_3$ |
-| **Pernitric acid** | $\text{HNO}_4$ | +5 | $\text{H}_2\text{O}_2 + \text{N}_2\text{O}_5 \longrightarrow \text{NO}_2\text{OOH} + \text{HNO}_3$ |
+| **Pernitric acid** | $\text{HNO}_4$ | +5 | $\text{H}_2\text{O}_2 + \text{N}_2\text{O}_5 \longrightarrow \text{NO}_2\text{OOH} + \text{HNO}_3$ -
 
 ### 3.1.7 Allotropic forms of phosphorus
 
