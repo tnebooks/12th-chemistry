@@ -13,16 +13,6 @@ summary: "This unit continues the study of p-block elements, focusing on importa
 
 Sir William Ramsay was a Scottish chemist who discovered the noble gases. During the years 1885–1890 he published several important papers on the oxides of nitrogen. In August 1894, Ramsay had isolated a new heavy element of air, and he named it "argon", (the Greek word meaning "lazy"). In the following years, he worked with Morris Travers and discovered neon, krypton, and xenon. In 1910 he isolated and characterized radon. In recognition of his services in the discovery of the inert gases, he was awarded a noble prize in chemistry in 1904. His work in isolating noble gases led to the development of a new section of the periodic table.
 
-### Learning Objectives
-
-After studying this unit, the students will be able to
-
-* discuss the preparation and properties of important compounds of nitrogen and phosphorus
-* describe the preparation and properties of important compounds of oxygen and sulphur
-* describe the preparation, properties of halogens and hydrogen halides
-* explain the chemistry of inter-halogen compounds
-* describe the occurrence, properties and uses of noble gases
-* appreciate the importance of p-block elements and their compounds in day today life.
 
 ### INTRODUCTION
 
@@ -30,13 +20,13 @@ We have already learnt the general characteristics of p-block elements and the f
 
 
 
-## 3.1 Group 15 (Nitrogen group) elements
+## 3.1 Group 15 (Nitrogen group) elements:
 
-### 3.1.1 Occurrence
+### 3.1.1 Occurrence:
 
 About \( 78\% \) of earth atmosphere contains dinitrogen \( \mathrm{(N_2)} \) gas. It is also present in earth crust as sodium nitrate (Chile saltpetre) and potassium nitrate (Indian saltpetre). The 11th most abundant element phosphorus, exists as phosphate (fluoroapatite, chloroapatite and hydroxyapatite). The other elements arsenic, antimony and bismuth are present as sulphides and are not very abundant.
 
-### 3.1.2 Physical properties
+### 3.1.2 Physical properties:
 
 Some of the physical properties of the group 15 elements are listed below
 
@@ -48,16 +38,16 @@ Some of the physical properties of the group 15 elements are listed below
 | Physical state at 293 K | Gas | Solid | Solid | Solid | Solid |
 | Atomic Number | 7 | 15 | 33 | 51 | 83 |
 | Isotopes | \( ^{14}\mathrm{N}, ^{15}\mathrm{N} \) | \( ^{31}\mathrm{P} \) | \( ^{75}\mathrm{As} \) | \( ^{121}\mathrm{Sb} \) | \( ^{209}\mathrm{Bi} \) |
-| Atomic Mass (g mol\(^{-1}\) at 293 K) | 14 | 30.97 | 74.92 | 121.76 | 209.98 |
+| Atomic Mass (g.mol\(^{-1}\) at 293 K) | 14 | 30.97 | 74.92 | 121.76 | 209.98 |
 | Electronic configuration | \( [\mathrm{He}]2s^2 2p^3 \) | \( [\mathrm{Ne}]3s^2 3p^3 \) | \( [\mathrm{Ar}]3d^{10} 4s^2 4p^3 \) | \( [\mathrm{Kr}]4d^{10} 5s^2 5p^3 \) | \( [\mathrm{Xe}]4f^{14}5d^{10}6s^2 6p^3 \) |
 | Atomic radius (Å) | 1.55 | 1.80 | 1.85 | 2.06 | 2.07 |
-| Density (g cm\(^{-3}\) at 293 K) | \( 1.14 \times 10^{-3} \) | 1.82 (white phosphorus) | 5.75 | 6.68 | 9.79 |
+| Density (g.cm\(^{-3}\) at 293 K) | \( 1.14 \times 10^{-3} \) | 1.82 (white phosphorus) | 5.75 | 6.68 | 9.79 |
 | Melting point (K) | 63 | 317 | Sublimes at 889 | 904 | 544 |
 | Boiling point (K) | 77 | 554 | Sublimes at 889 | 1860 | 1837 |
 
-### 3.1.3 Nitrogen
+### 3.1.3 Nitrogen:
 
-**Preparation**
+**Preparation**:
 
 Nitrogen, the principal gas of atmosphere (\( 78\% \) by volume) is separated industrially from liquid air by fractional distillation.
 
@@ -76,11 +66,11 @@ $$
 **Properties**
 
 Nitrogen gas is rather inert. Terrestrial nitrogen contains 14.5% and 0.4% of nitrogen-14 
-and nitrogen-15 respectively. The latter is used for isotopic labelling. The chemically inert 
-character of nitrogen is largely due to the high bonding energy of the molecules, 225 kcal mol⁻¹ 
-(946 kJ mol⁻¹). Interestingly, the triply bonded species is notable for its lower reactivity in 
-comparison with other isoelectronic triply bonded systems such as -C≡C-, C≡O, X-C≡N, X-N≡C, -C≡C- 
-and -C≡N. These groups can act as donors whereas dinitrogen cannot. However, it can form 
+and nitrogen-15 respectively. The later is used for isotopic labelling. The chemically inert 
+character of nitrogen is largely due to high bonding energy of the molecules 225 cal mol⁻¹ 
+(946 kJ mol⁻¹). Interestingly the triply bonded species is notable for its less reactivity in 
+comparison with other iso-electronic triply bonded systems such as -C≡C-, C≡O, X-C≡N, X-N≡C, -C≡C-, 
+and -C≡N. These groups can act as donor where as dinitrogen cannot. However, it can form 
 complexes with metals (M ← N≡N) like CO to a less extent.
 
 
@@ -116,7 +106,7 @@ $$
 
 ### 3.1.4 Ammonia \( \mathrm{(NH_3)} \)
 
-**Preparation**
+**Preparation**:
 
 Ammonia is formed by the hydrolysis of urea.
 
@@ -144,7 +134,7 @@ It is industrially manufactured by passing nitrogen and hydrogen over iron catal
 
 **Properties**
 
-Ammonia is a pungent smelling gas and is lighter than air. It can be readily liquefied at about 9 atmospheric pressure. The liquid boils at \( -38.4^{\circ}\mathrm{C} \) and freezes at \( -77^{\circ}\mathrm{C} \). Liquid ammonia resembles water in its physical properties i.e. it is highly associated through strong hydrogen bonding. Ammonia is extremely soluble in water (702 volume in 1 volume of water) at \( 20^{\circ}\mathrm{C} \) and 760 mm pressure.
+Ammonia is a pungent smelling gas and is lighter than air. It can be readily liquefied by at about 9 atmospheric pressure. The liquid boils at \( -38.4^{\circ}\mathrm{C} \) and freezes at \( -77^{\circ}\mathrm{C} \). Liquid ammonia resembles water in its physical properties i.e. it is highly associated through strong hydrogen bonding. Ammonia is extremely soluble in water (702 Volume in 1 Volume of water) at \( 20^{\circ}\mathrm{C} \) and 760mm pressure.
 
 At low temperatures two soluble hydrate \( \mathrm{NH_3.H_2O} \) and \( 2\mathrm{NH_3.H_2O} \) are isolated. In these molecules ammonia and water are linked by hydrogen bonds. In aqueous solutions also ammonia may be hydrated in a similar manner and we call the same as \( \mathrm{(NH_3.H_2O)} \).
 
@@ -185,7 +175,7 @@ $$
 4\mathrm{NH_3 + 3O_2} \rightleftharpoons 2\mathrm{N_2 + 6H_2O}
 $$
 
-In presence of catalyst like platinum, it burns to produce nitric oxide. This process is used for the manufacture of nitric acid and is known as Ostwald's process.
+In presence of catalyst like platinum, it burns to produce nitric oxide. This process is used for the manufacture of nitric acid and is known as ostwalds process.
 
 $$
 4\mathrm{NH_3 + 5O_2} \rightleftharpoons 4\mathrm{NO + 6H_2O}
@@ -231,26 +221,24 @@ $$
 3\mathrm{Mg + 2NH_3} \longrightarrow \mathrm{Mg_3N_2 + 3H_2}
 $$
 
-![**Reaction of ammonia with HCL**](1.png)
+![**Reaction of ammonia with HCL**](image-1.png)
 
 **With metallic salts:** Ammonia reacts with metallic salts to give metal hydroxides (in case of Fe) or forming complexes (in case Cu)
 
-$$\text{Fe}^{3+} + 3\text{NH}_4^+ + 3\text{OH}^- \longrightarrow \text{Fe(OH)}_3 + 3\text{NH}_4^+$$
 
-$$\text{Cu}^{2+} + 4\text{NH}_3 \longrightarrow [\text{Cu}(\text{NH}_3)_4]^{2+}$$
 
-Tetraamminecopper(II)ion
-(a coordination complex)
+$$\mathrm{Fe}^{3+} + 3\mathrm{NH}_4^+ + 3\mathrm{OH}^- \longrightarrow \mathrm{Fe(OH)}_3 + 3\mathrm{NH}_4^+$$
+
+$$\mathrm{Cu}^{2+} + 4\mathrm{NH}_3 \longrightarrow \underset{\substack{\text{Tetraamminecopper(II)ion} \\ \text{(a coordination complex)}}}{[\mathrm{Cu}(\mathrm{NH}_3)_4]^{2+}}$$
 
 **Formation of amines:** Ammonia forms ammonated compounds by ion dipole attraction. Eg. \( [\mathrm{CaCl_2.8NH_3}] \). In this, the negative ends of ammonia dipole is attracted to \( \mathrm{Ca^{2+}} \) ion.
 
 It can also act as a ligand and form coordination compounds such as \( [\mathrm{Co(NH_3)_6}]^{3+} \), \( [\mathrm{Ag(NH_3)_2}]^+ \).
-
 For example when excess ammonia is added to aqueous solution copper sulphate a deep blue colour compound \( [\mathrm{Cu(NH_3)_4}]^{2+} \) is formed.
 
 **Structure of ammonia**
 
-Ammonia molecule is pyramidal in shape. N-H bond distance is 1.016 Å and H-H bond distance is 1.645 Å with a bond angle \( 107^{\circ} \). The structure of ammonia may be regarded as a tetrahedral with one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
+Ammonia molecule is pyramidal in shape N-H bond distance is 1.016 Å and H-H bond distance is 1.645 Å with a bond angle \( 107^{\circ} \). The structure of ammonia may be regarded as a tetrahedral with one lone pair of electrons in one tetrahedral position hence it has a pyramidal shape as shown in the figure.
 
 ![**Figure 3.1: Structure of ammonia**](2.png)
 
@@ -290,7 +278,7 @@ $$
 
 **Properties**
 
-Pure nitric acid is colourless. It boils at \( 86^{\circ}\mathrm{C} \). The acid is completely miscible with water forming a constant boiling mixture (\( 98\% \mathrm{HNO_3} \), boiling point \( 120.5^{\circ}\mathrm{C} \)). Fuming nitric acid contains oxides of nitrogen. It decomposes on exposure to sunlight or on being heated, into nitrogen dioxide, water and oxygen.
+Pure nitric acid is colourless. It boils at \( 86^{\circ}\mathrm{C} \). The acid is completely miscible with water forming a constant boiling mixture (\( 98\% \mathrm{HNO_3} \), Boiling point \( 120.5^{\circ}\mathrm{C} \)). Fuming nitric acid contains oxides of nitrogen. It decomposes on exposure to sunlight or on being heated, into nitrogen dioxide, water and oxygen.
 
 $$
 4\mathrm{HNO_3} \longrightarrow 4\mathrm{NO_2 + 2H_2O + O_2}
@@ -336,7 +324,7 @@ $$
 3\mathrm{H_2S + 2HNO_3} \longrightarrow 3\mathrm{S + 2NO + 4H_2O}
 $$
 
-**As a nitrating agent:** In organic compounds replacement of a \( -\mathrm{H} \) atom with \( -\mathrm{NO}_2 \) is often referred as nitration. For example:
+**As a nitrating agent:** In organic compounds replacement of a \( -\mathrm{H} \) atom with \( -\mathrm{NO}_2 \) is often referred as nitration. For example.
 
 $$
 \mathrm{C_6H_6 + HNO_3 \xrightarrow{H_2SO_4} C_6H_5NO_2 + H_2O}
@@ -366,16 +354,16 @@ $$
 
 **Secondary reaction:** Nascent hydrogen produces the reduction products of nitric acid.
 
-$$\text{HNO}_3 + 2[\text{H}] \longrightarrow \underset{\text{Nitrous acid}}{\text{HNO}_2} + \text{H}_2\text{O}$$
+$$\text{HNO}_3 + 2(\text{H}) \longrightarrow \underset{\text{Nitrous acid}}{\text{HNO}_2} + \text{H}_2\text{O}$$
 
 
-$$\text{HNO}_3 + 6[\text{H}] \longrightarrow \underset{\text{Hydroxylamine}}{\text{NH}_2\text{OH}} + 2\text{H}_2\text{O}$$
+$$\text{HNO}_3 + 6(\text{H}) \longrightarrow \underset{\text{Hydroxylamine}}{\text{NH}_2\text{OH}} + 2\text{H}_2\text{O}$$
 
 
-$$\text{HNO}_3 + 8[\text{H}] \longrightarrow \underset{\text{Ammonia}}{\text{NH}_3} + 3\text{H}_2\text{O}$$
+$$\text{HNO}_3 + 8(\text{H}) \longrightarrow \underset{\text{Ammonia}}{\text{NH}_3} + 3\text{H}_2\text{O}$$
 
 
-$$2\text{HNO}_3 + 8[\text{H}] \longrightarrow \underset{\text{Hyponitrous acid}}{\text{H}_2\text{N}_2\text{O}_2} + 4\text{H}_2\text{O}$$
+$$2\text{HNO}_3 + 8(\text{H}) \longrightarrow \underset{\text{Hyponitrous acid}}{\text{H}_2\text{N}_2\text{O}_2} + 4\text{H}_2\text{O}$$
 
 
 **Tertiary reaction:** The secondary products either decompose or react to give final products
@@ -476,7 +464,7 @@ $$
 | Nitrogen tetraoxide | $\textbf{N}_2\textbf{O}_4$ | **+4** | Colourless solid & acidic | $2\text{NO}_2 \rightarrow \text{N}_2\text{O}_4$ |
 | Nitrogen pentoxide | $\textbf{N}_2\textbf{O}_5$ | **+5** | Colourless solid & acidic | $2\text{HNO}_3 + \text{P}_2\text{O}_5 \rightarrow \text{N}_2\text{O}_5 + 2\text{HPO}_3$ |
 
-**Preparation of nitrogrn oxides**
+Preparation of nitrogrn oxides
 
 **Structures of oxides of nitrogen**
 | Name | Formula | Structure |
@@ -503,12 +491,12 @@ $$
 **Preparation of oxoacides of nitrogen**
 
 | Name | Formula | Oxidation state | Preparation |
-| --- | --- | --- | --- |
-| Hyponitrous acid | $\text{H}_2\text{N}_2\text{O}_2$ | +1 | $\text{Ag}_2\text{N}_2\text{O}_2 + 2\text{HCl} \longrightarrow 2\text{AgCl} + \text{H}_2\text{N}_2\text{O}_2$ |
-| Nitrous acid | $\text{HNO}_2$ | +3 | $\text{Ba}\left(\text{NO}_2\right)_2 + \text{H}_2\text{SO}_4 \longrightarrow 2\text{HNO}_2 + \text{BaSO}_4$ |
-| Pernitrous acid | $\text{HOONO}$ | +3 | $\text{H}_2\text{O}_2 + \text{ON(OH)} \longrightarrow \text{ON(OOH)} + \text{H}_2\text{O}$ |
-| Nitric acid | $\text{HNO}_3$ | +5 | $\begin{array}{l} 4\text{NH}_3 + 5\text{O}_2 \longrightarrow 4\text{NO} + 6\text{H}_2\text{O} \\ 2\text{NO} + \text{O}_2 \longrightarrow \text{NO}_2 \\ 2\text{NO}_2 \longrightarrow \text{N}_2\text{O}_4 \\ 2\text{N}_2\text{O}_4 + 2\text{H}_2\text{O} + \text{O}_2 \longrightarrow 4\text{HNO}_3 \end{array}$ |
-| Pernitric acid | $\text{HNO}_4$ | +5 | $\text{H}_2\text{O}_2 + \text{N}_2\text{O}_5 \longrightarrow \text{NO}_2\text{OOH} + \text{HNO}_3$ |
+| :--- | :--- | :---: | :--- |
+| **Hyponitrous acid** | $\text{H}_2\text{N}_2\text{O}_2$ | +1 | $\text{Ag}_2\text{N}_2\text{O}_2 + 2\text{HCl} \longrightarrow 2\text{AgCl} + \text{H}_2\text{N}_2\text{O}_2$ |
+| **Nitrous acid** | $\text{HNO}_2$ | +3 | $\text{Ba}(\text{NO}_2)_2 + \text{H}_2\text{SO}_4 \longrightarrow 2\text{HNO}_2 + \text{BaSO}_4$ |
+| **Pernitrous acid** | $\text{HOONO}$ | +3 | $\text{H}_2\text{O}_2 + \text{ON}(\text{OH}) \longrightarrow \text{ON}(\text{OOH}) + \text{H}_2\text{O}$ |
+| **Nitric acid** | $\text{HNO}_3$ | +5 | $4\text{NH}_3 + 5\text{O}_2 \longrightarrow 4\text{NO} + 6\text{H}_2\text{O}$<br>$2\text{NO} + \text{O}_2 \longrightarrow \text{NO}_2$<br>$2\text{NO}_2 \longrightarrow \text{N}_2\text{O}_4$<br>$2\text{N}_2\text{O}_4 + 2\text{H}_2\text{O} + \text{O}_2 \longrightarrow 4\text{HNO}_3$ |
+| **Pernitric acid** | $\text{HNO}_4$ | +5 | $\text{H}_2\text{O}_2 + \text{N}_2\text{O}_5 \longrightarrow \text{NO}_2\text{OOH} + \text{HNO}_3$ -
 
 ### 3.1.7 Allotropic forms of phosphorus
 
