@@ -13,18 +13,7 @@ summary: "This unit explains the nomenclature, methods of preparation, and chemi
 
 Adolf Von Baeyer, German research chemist who synthesized indigo (1880) and formulated its structure (1883). He was awarded the Nobel Prize for Chemistry in 1905. Notable among Baeyer's many achievements were the discovery of the phthalein dyes and his investigations of uric acid derivatives, polyacetylenes, and oxonium salts. One derivative of uric acid that he discovered was barbituric acid, the parent compound of the sedative-hypnotic drugs known as barbiturates.
 
-**Learning Objectives**
 
-● After studying this unit the student will be
-able to
-
-● describes the important methods of preparation and reactions of Carbonyl compounds
-
-● explains the mechanism of Nucleophilic addition reaction of carbonyl compounds
-
-● describes the preparation and chemical reactions of carboxylic acids and its derivatives
-
-● list the uses of aldehydes, ketones and carboxylic acids
 
 ## INTRODUCTION
 
