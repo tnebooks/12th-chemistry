@@ -1,3 +1,4 @@
+
 ## 12th Chemistry
 
 ```sh
@@ -23,5 +24,5 @@ npm run watch
 ```
 
 ```bash
-hugo server  --themesDir ../ --disableFastRender
+hugoserver  --themesDir ../ --disableFastRender
 ```
