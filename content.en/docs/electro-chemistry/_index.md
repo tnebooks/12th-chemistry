@@ -31,9 +31,9 @@ physiology and neurobiology.
 
 ## INTRODUCTION
 
-We have come across many materials in our life, and they can be broadly classified into conductors, semiconductors and insulators based on their electrical conductivity. You might have noticed that conducting materials such as copper, aluminium etc., are used to transport electrical energy from one place to another place, and the insulating materials such as PVC, Bakelite etc., in switches, circuit boards etc. Do you know how the electrical energy is generated? We know from first Law of thermodynamics that energy can neither be created nor be destroyed, but one form of energy can be converted into another form. It is not possible to create electrical energy but we can generate electrical energy in many ways i.e., by converting solar energy, wind energy, tidal energy etc. one such way is converting chemical energy into electrical energy as in the case of batteries. We cannot imagine a modern technological world without batteries. Hence it is important to know the principles behind this type of energy conversion. The branch of chemistry that deals with the study of electrical energy transport and the inter conversion of electrical and chemical energy is called electrochemistry. Electrochemical reactions are redox reactions and they involve the transfer of electron from one substance to another.
+We have come across many materials in our life, and they can be broadly classified into conductors, semiconductors and insulators based on their electrical conductivity. You might have noticed that conducting materials such as copper, aluminium etc., are used to transport electrical energy from one place to another place, and the insulating materials such as PVC, Bakelite etc., in switches, circuit boards etc. Do you know how the electrical energy is generated? We know from  first Law of thermodynamics that energy can neither be created nor be destroyed, but one form of energy can be converted into another form. It is not possible to create electrical energy but we can generate electrical energy in many ways i.e., by converting solar energy, wind energy, tidal energy etc.... one such way is converting chemical energy into electrical energy as in the case of batteries. We cannot imagine a modern technological world without batteries. Hence it is important to know the principles behind this type of energy conversion. The branch of chemistry that deals with the study of electrical energy transport and the inter conversion of electrical and chemical energy is called electrochemistry. Electrochemical reactions are redox reactions and they involve the transfer of electrons from one substance to another.
 
-In this unit, we will learn about the electrical conduction, construction of batteries and the thermodynamic principles involved in electrochemical reactions.
+In this unit, we will learn about the electrical conduction, construction of batteries and the thermodynamic principles involved in electro chemical reactions.
 
 ### 9.1 Conductivity of electrolytic solution
 
@@ -213,7 +213,7 @@ Where \( \kappa \) is the specific conductance and \( N \) is the concentration 
 #### 9.1.3 Factors affecting electrolytic conductance
 
 * If the interionic attraction between the oppositely charged ions of solutes increases, the conductance will decrease.
-* Solvent of higher dielectric constant show high conductance in solution.
+* Solvents with higher dielectric constants show higher conductance in solution.
 - Conductance is inversely proportional to the Viscosity of the medium. i.e., conductivity
 increases with the decrease in viscosity.
 - If the temperature of the electrolytic solution increases, conductance also increases. Increase
@@ -228,7 +228,7 @@ In the measurement of specific resistance of a metallic wire, a DC power supply 
 
 A wheatstone bridge is constituted using known resistances P, Q, a variable resistance S and conductivity cell (Let the resistance of the electrolytic solution taken in it be R) as shown in the figure 9.3. An AC source (550 Hz to 5 KHz) is connected between the junctions A and C. Connect a suitable detector E (Such as the telephone ear piece detector) between the junctions 'B' and 'D'.
 
-The variable resistance 'S' is adjusted until the bridge is balanced and in this conditions there is no current flow through the detector.
+The variable resistance 'S' is adjusted until the bridge is balanced and under these conditions there is no current flow through the detector.
 
 Under balanced condition,
 
@@ -285,7 +285,7 @@ $$R = 190\ \Omega$$
 Friedrich Kohlrausch studied the molar conductance of different electrolytes at different concentrations. He observed that, increase of the molar conductance of an electrolytic solution with the increase in the dilution. One such experimental results is given in the following table for better understanding.
 
 ![](img9.5.png)
-Based on the above such results, Kohlrausch deduced the following empirical relationship between the molar conductance \( (\Lambda_{\mathrm{m}}) \) and the concentration of the electrolyte (C).
+Based on the above such results, Kohlraush deduced the following empirical relationship between the molar conductance \( (\Lambda_{\mathrm{m}}) \) and the concentration of the electrolyte (C).
 
 \[
 \Lambda_{\mathrm{m}} = \Lambda_{\mathrm{m}}^{^\circ} - k\sqrt{C} \qquad \text{.....(9.11)}
@@ -321,7 +321,7 @@ A = \frac{82.4}{\sqrt{DT}\eta}; \quad B = \frac{8.20 \times 10^{5}}{\sqrt[3]{DT}
 
 Here, D is the dielectric constant of the medium, \( \eta \) the viscosity of the medium and T the temperature in Kelvin.
 
-#### 9.2.2 Kohlrausch's law
+#### 9.2.2 Kohlraush's law
 
 The limiting molar conductance \( \Lambda_{\mathrm{m}}^{0} \) is the basis for Kohlrausch law. At infinite dilution, the limiting molar conductivity of an electrolyte is equal to the sum of the limiting molar conductivities of its constituent ions. i.e., the molar conductivity is due to the independent migration of cations in one direction and anions in the opposite direction.
 
@@ -331,13 +331,13 @@ For a uni-univalent electrolyte such as NaCl, the Kohlrausch's law is expressed 
 (\Lambda_{\mathrm{m}}^{0})_{\mathrm{NaCl}} = (\lambda_{\mathrm{m}}^{0})_{\mathrm{Na}^{+}} + (\lambda_{\mathrm{m}}^{0})_{\mathrm{Cl}^{-}}
 \]
 
-In general, according to Kohlrausch's law, the molar conductivity at infinite dilution for a electrolyte represented by the formula \( \mathrm{A}_x \mathrm{B}_y \), is given below.
+In general, according to Kohlrausch's law, the molar conductivity at infinite dilution for an electrolyte represented by the formula \( \mathrm{A}_x \mathrm{B}_y \), is given below.
 
 \[
 (\Lambda_{\mathrm{m}}^{0})_{\mathrm{A_x B_y}} = x(\lambda_{\mathrm{m}}^{0})_{\mathrm{A}^{y+}} + y(\lambda_{\mathrm{m}}^{0})_{\mathrm{B}^{x-}} \qquad \text{.....(9.13)}
 \]
 
-Kohlrausch arrived at the above mentioned relationship based on the experimental observations such as the one as shown in the table. These result show that at infinite dilution each constituent ion of the electrolyte makes a definite contribution towards the molar conductance of the electrolyte irrespective of nature of other ion with which it is associated.
+Kohlraush arrived at the above mentioned relationship based on the experimental observations such as the one as shown in the table. These results show that at infinite dilution each constituent ion of the electrolyte makes a definite contribution towards the molar conductance of the electrolyte irrespective of nature of other ion with which it is associated.
 
 i.e.,
 
@@ -361,7 +361,7 @@ $$
 
 ![](image.png)
 
-**Applications of Kohlrausch's Law** 
+**Applications of Kohlraush's Law** 
 
 **1. Calculation of molar conductance at infinite dilution of a weak electrolyte**
 
@@ -404,11 +404,11 @@ K_a = \frac{\alpha^2 C}{(1 - \alpha)} \qquad \text{.....(9.15)}
 Substitute \( \alpha \) value in the above expression (9.15)
 
 \[
-K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ} (1 - \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}})}
+K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ 2} (1 - \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}})}
 \]
 
 \[
-K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ}{^2} \frac{(\Lambda_{\mathrm{m}}^{\circ} - \Lambda_{\mathrm{m}})}{\Lambda_{\mathrm{m}}^{\circ}}}
+K_a = \frac{\Lambda_{\mathrm{m}}^2 C}{\Lambda_{\mathrm{m}}^{\circ 2} \frac{(\Lambda_{\mathrm{m}}^{\circ} - \Lambda_{\mathrm{m}})}{\Lambda_{\mathrm{m}}^{\circ}}}
 \]
 
 \[
@@ -429,7 +429,7 @@ Let us consider AgCl as an example
 K_{\mathrm{sp}} = [\mathrm{Ag}^{+}][\mathrm{Cl}^{-}]
 \]
 
-Let the concentration of \( [\mathrm{Ag}^{+}] \) be \( 'C'\ \mathrm{mol\ L}^{-1} \).
+Let the concentration of \( [\mathrm{Ag}^{+}] \) be \( 'C'\ \mathrm{mol\L}^{-1} \).
 
 As per the stoichiometry, if \( [\mathrm{Ag}^{+}] = C \), then \( [\mathrm{Cl}^{-}] \) also equal to \( 'C'\ \mathrm{mol\ L}^{-1} \).
 
@@ -484,9 +484,9 @@ In the above redox reaction, Zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions and
 \mathrm{Cu}^{2+}(aq) + 2e^{-} \rightarrow \mathrm{Cu}(s) \quad \text{(reduction)}
 \]
 
-If we perform the above two half reactions separately in an apparatus as shown in figure 9.5, some of the energy produced in the reaction will be converted into electrical energy. Let us understand the function of a galvanic cell by considering Daniel cell as an example. It uses the above reaction for generation of electrical energy.
+If we perform the above two half reactions separately in an apparatus as shown in figure 9.5, some of the energy produced in the reaction will be converted into electrical energy. Let us understand the function of a galvanic cell by considering Daniell cell as an example. It uses the above reaction for generation of electrical energy.
 
-The separation of half reaction is the basis for the construction of Daniel cell. It consists of two half cells.
+The separation of half reaction is the basis for the construction of Daniell cell. It consists of two half cells.
 
 **Oxidation half cell**: A metallic zinc strip that dips into an aqueous solution of zinc sulphate taken in a beaker, as shown in Figure 9.5.
 
@@ -495,10 +495,9 @@ The separation of half reaction is the basis for the construction of Daniel cell
 **Joining the half cells**: The zinc and copper strips are externally connected using a wire through a switch (k) and a load (example: volt meter). The electrolytic solution present in the cathodic and anodic compartment are connected using an inverted U tube containing agar-agar gel mixed with an inert electrolytes such as KCl, \( \mathrm{Na_2SO_4} \) etc. The ions of inert electrolyte do not react with other ions present in the half cells and they are not either oxidised (or) reduced at the electrodes. The solution in the salt bridge cannot get poured out, but through which the ions can move into (or) out of the half cells.
 
 When the switch (k) closes the circuit, the electrons flows from zinc strip to copper strip. This is due to the following redox reactions which are taking place at the respective electrodes.
-![](img9.7.png)
-<center>Figure 9.5 : Daniel cell</center>
+![Figure 9.5 : Daniel cell](img9.7.png)
 
-**Anodic oxidation**: The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions by losing its electrons. The \( \mathrm{Zn}^{2+} \) ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative (-ve).
+**Anodic oxidation**: The electrode at which the oxidation occurs is called the anode. In Daniel cell, the oxidation take place at zinc electrode, i.e., zinc is oxidised to \( \mathrm{Zn}^{2+} \) ions by loosing its electrons. The \( \mathrm{Zn}^{2+} \) ions enter the solution and the electrons enter the zinc metal, then flow through the external wire and then enter the copper strip. Electrons are liberated at zinc electrode and hence it is negative (-ve).
 
 \[
 \mathrm{Zn(s)} \rightarrow \mathrm{Zn}^{2+}(aq) + 2e^{-} \quad \text{(loss of electron - oxidation)}
@@ -556,7 +555,7 @@ Cell Notation is
 
 #### 9.3.3 emf of a Cell
 
-We have learnt that when two half cells of a Daniel cell are connected, a spontaneous redox reaction will take place which results in the flow of electrons from anode to cathode. The force that pushes the electrons away from the anode and pulls them towards cathode is called the electromotive force (emf) (or) the cell potential. The SI unit of cell potential is the volt (v).
+We have learnt that when two half cells of a Daniell cell are connected, a spontaneous redox reaction will take place which results in the flow of electrons from anode to cathode. The force that pushes the electrons away from the anode and pulls them towards cathode is called the electromotive force (emf) (or) the cell potential. The SI unit of cell potential is the volt (v).
 
 When there is one volt difference in electrical potential between the anode and cathode, one joule of energy is released for each coulomb of charge that moves between them.
 
@@ -566,7 +565,7 @@ When there is one volt difference in electrical potential between the anode and 
 
 The cell voltage depends on the nature of the electrodes, the concentration of the electrolytes and the temperature at which the cell is operated. For example
 
-At \( 25^{\circ}\mathrm{C} \), The emf of the below mentioned Daniel cell is 1.107 Volts
+At \( 25^{\circ}\mathrm{C} \), The emf of the below mentioned Daniell cell is 1.107 Volts
 
 \[
 \mathrm{Zn(s) | Zn^{2+}(aq, 1M) || Cu^{2+}(aq, 1M) | Cu(s)} \qquad E^{0} = 1.107\ \mathrm{V}
@@ -582,7 +581,7 @@ E_{\text{cell}} = (E_{\text{ox}})_{\text{anode}} + (E_{\text{red}})_{\text{catho
 
 Here, \( (E_{\text{ox}})_{\text{anode}} \) represents the oxidation potential at anode and \( (E_{\text{red}})_{\text{cathode}} \) represents the reduction potential at cathode. It is impossible to measure the emf of a single electrode, but we can measure the potential difference between the two electrodes \( (E_{\text{cell}}) \) using a voltmeter. If we know the emf of any one of the electrodes which constitute the cell, we can calculate the emf of the other electrode from the measured emf of the cell using the expression (9.19). Hence, we need a reference electrode whose emf is known.
 
-For that purpose, **Standard Hydrogen Electrode (SHE)** is used as the reference electrode. It has been assigned an arbitrary emf of exactly zero volt. It consists of a platinum electrode in contact with 1M HCl solution and 1 atm hydrogen gas. The hydrogen gas is bubbled through the solution at \( 25^{\circ}\mathrm{C} \) as shown in the figure 9.6. SHE can act as a cathode as well as an anode. The Half cell reactions are given below.
+For that purpose, Standard Hydrogen Electrode (**SHE**) is used as the reference electrode. It has been assigned an arbitrary emf of exactly zero volt. It consists of a platinum electrode in contact with 1M HCl solution and 1 atm hydrogen gas. The hydrogen gas is bubbled through the solution at \( 25^{\circ}\mathrm{C} \) as shown in the figure 9.6. SHE can act as a cathode as well as an anode. The Half cell reactions are given below.
 
 If SHE is used as a cathode, the reduction reaction is
 
@@ -595,30 +594,30 @@ If SHE is used as an anode, the oxidation reaction is
 \[
 \mathrm{H}_2(g, 1\ \mathrm{atm}) \rightarrow 2\mathrm{H}^{+}(aq, 1\mathrm{M}) + 2e^{-} \qquad E^{\circ} = 0\ \text{volt}
 \]
-![](img9.9.png)
-<center>Figure 9.6 Standard Hydrogen electrode</center>
+![Figure 9.6 Standard Hydrogen electrode](img9.9.png)
+
 
 **Illustration**
 
 Let us calculate the reduction potential of zinc electrode dipped in zinc sulphate solution using SHE.
 
-Step 1: The following galvanic cell is constructed using SHE
+**Step 1**: The following galvanic cell is constructed using SHE
 
 \[
 \mathrm{Zn(s) | Zn^{2+}(aq, 1M) || H^{+}(aq, 1M) | H_2(g, 1\ \text{atm}) | Pt(s)}
 \]
 
-Step 2: The emf of the above galvanic cell is measured using a volt meter. In this case, the measured emf of the above galvanic cell is 0.76V.
+**Step 2**: The emf of the above galvanic cell is measured using a volt meter. In this case, the measured emf of the above galvanic cell is 0.76V.
 
 **Calculation**
 
 We know that,
 
 \[
-E_{\text{cell}}^{\circ} = (E_{\text{ox}}^{\circ})_{\mathrm{Zn|Zn^{2+}}} + (E_{\text{red}}^{\circ})_{\mathrm{SHE}}
+E_{\text{cell}}^{\circ} = (E_{\text{ox}}^{\circ})_{\mathrm{Zn|Zn^{2+}}} + (E_{\text{red}}^{\circ})_{\mathrm{SHE}}\qquad \text{[From equation(9.19)]}
 \]
 
-\( E_{\text{cell}}^{\circ} = 0.76 \) and \( (E_{\text{red}}^{\circ})_{\mathrm{SHE}} = 0\ \mathrm{V} \).
+\( E_{\text{cell}}^{\circ} = 0.76 \) and \( (E_{\text{red}}^{\circ})_{\mathrm{SHE}} = 0\ \mathrm{V} \). Substitute these values in the above equation.
 
 \[
 \Rightarrow 0.76\ \mathrm{V} = (E_{\text{ox}}^{\circ})_{\mathrm{Zn|Zn^{2+}}} + 0\ \mathrm{V}
@@ -637,20 +636,32 @@ This oxidation potential corresponds to the below mentioned half cell reaction w
 The emf for the reverse reaction will give the reduction potential
 
 \[
-\mathrm{Zn}^{2+} + 2e^{-} \rightarrow \mathrm{Zn} \quad E^{\circ} = -0.76\ \mathrm{V}
+\mathrm{Zn}^{2+} + 2e^{-} \rightarrow \mathrm{Zn} \quad ;E^{\circ} = -0.76\ \mathrm{V}
 \]
-![](img9.10.png)
-<center>Figure 9.7 emf measurement (Zn | Zn\(^{2+}\) electrode)</center>
+![Figure 9.7 emf measurement (Zn | Zn\(^{2+}\) electrode)](img9.10.png)
 
-**IUPAC definition**
 
-**Electrode potential (E)** : Electromotive force of a cell in which the electrode on the left is a standard hydrogen electrode and the electrode on the right is the electrode in question.
+>**IUPAC definition**
+>
+>**Electrode potential (E)** : Electromotive force of a cell in which the electrode on the left is a standard hydrogen electrode and the electrode on the right is the electrode in question.
+>
+>**Standard electrode potential, E°** : The value of the standard emf of a cell in which molecular hydrogen under standard pressure is oxidised to solvated protons at the left hand electrode.
 
-**Standard electrode potential, E°** : The value of the standard emf of a cell in which molecular hydrogen under standard pressure is oxidised to solvated protons at the left hand electrode.
+>**Evaluate yourself : 3**
+>
+>1. The emf of the following cell at 25 °C is equal to 0.34 V. Calculate the reduction potential of copper electrode.
+>
+>  $$\text{Pt } (s) \mid \text{H}_2 \text{ } (g, 1\text{atm}) \mid \text{H}^+ \text{ } (aq, 1\text{M}) \parallel \text{Cu}^{2+} \text{ } (aq, 1\text{M}) \mid \text{Cu } (s)$$
+>
+>2. Using the calculated emf value of zinc and copper electrode, calculate the emf of the following cell at 25 °C.
+>
+>  $$\text{Zn } (s) \mid \text{Zn}^{2+} \text{ } (aq, 1\text{M}) \parallel \text{Cu}^{2+} \text{ } (aq, 1\text{M}) \mid \text{Cu } (s)$$
 
-![](ey3.png)
-
-![](img9.11.png)
+>**Evaluate yourself : 4**
+>
+>Write the overall redox reaction which takes place in the galvanic cell,
+>
+>$$\text{Pt}(s) \mid \text{Fe}^{2+}(aq), \text{Fe}^{3+}(aq) \parallel \text{MnO}_4^-(aq), \text{H}^+(aq), \text{Mn}^{2+}(aq) \mid \text{Pt}(s)$$
 
 ### 9.4 Thermodynamics of cell reactions
 
@@ -666,16 +677,16 @@ Charge of 'n' mole of electrons = nF
 
 Equation (9.20) \( \Rightarrow \) Electrical energy = nFE\(_{\text{cell}}\) ....(9.21)
 
-Charge of one electron \( = 1.602 \times 10^{-19}\ \mathrm{C} \)
-
-Charge one mole of electron \( = 6.023 \times 10^{23} \times 1.602 \times 10^{-19}\ \mathrm{C} = 96488\ \mathrm{C} \)
-
-i.e., 1F \( = 96500\ \mathrm{C} \)
+>Charge of one electron \( = 1.602 \times 10^{-19}\ \mathrm{C} \)
+>
+>Charge one mole of electron \( = 6.023 \times 10^{23} \times 1.602 \times 10^{-19}\ \mathrm{C} = 96488\ \mathrm{C} \)
+>
+>i.e., 1F \( = 96500\ \mathrm{C} \)
 
 This energy is used to do the electric work. Therefore the maximum work that can be obtained from a galvanic cell is
 
 \[
-(W_{\text{max}})_{\text{cell}} = -nFE_{\text{cell}} \qquad \text{(9.22)}
+(W_{\text{max}})_{\text{cell}} = -nFE_{\text{cell}} \qquad \text{.....(9.22)}
 \]
 
 Here the (-) sign is introduced to indicate that the work is done by the system on the surroundings.
@@ -683,13 +694,13 @@ Here the (-) sign is introduced to indicate that the work is done by the system 
 We know from the Second Law of thermodynamics that the maximum work done by the system is equal to the change in the Gibbs free energy of the system.
 
 \[
-\text{i.e., } W_{\text{max}} = \Delta G \qquad \text{(9.23)}
+\text{i.e., } W_{\text{max}} = \Delta G \qquad \text{.....(9.23)}
 \]
 
 From (9.22) and (9.23),
 
 \[
-\Delta G = -nFE_{\text{cell}} \qquad \text{(9.24)}
+\Delta G = -nFE_{\text{cell}} \qquad \text{....(9.24)}
 \]
 
 For a spontaneous cell reaction, the \( \Delta G \) should be negative. The above expression (9.24) indicates that \( E_{\text{cell}} \) should be positive to get a negative \( \Delta G \) value.
@@ -697,13 +708,13 @@ For a spontaneous cell reaction, the \( \Delta G \) should be negative. The abov
 When all the cell components are in their standard state, the equation (9.24) becomes
 
 \[
-\Delta G^{\circ} = -nFE_{\text{cell}}^{\circ} \qquad \text{(9.25)}
+\Delta G^{\circ} = -nFE_{\text{cell}}^{\circ} \qquad \text{.....(9.25)}
 \]
 
 We know that the standard free energy change is related to the equilibrium constant as per the following expression.
 
 \[
-\Delta G^{\circ} = -RT \ln K_{\text{eq}} \qquad \text{(9.26)}
+\Delta G^{\circ} = -RT \ln K_{\text{eq}} \qquad \text{.....(9.26)}
 \]
 
 Comparing (9.25) and (9.26),
@@ -713,7 +724,7 @@ nFE_{\text{cell}}^{\circ} = RT \ln K_{\text{eq}}
 \]
 
 \[
-\Rightarrow E_{\text{cell}}^{\circ} = \frac{2.303 RT}{nF} \log K_{\text{eq}} \qquad \text{(9.27)}
+\Rightarrow E_{\text{cell}}^{\circ} = \frac{2.303 RT}{nF} \log K_{\text{eq}} \qquad \text{.....(9.27)}
 \]
 
 #### 9.4.1 Nernst equation
@@ -727,18 +738,18 @@ x\mathrm{A} + y\mathrm{B} \rightleftharpoons l\mathrm{C} + m\mathrm{D}
 The reaction quotient Q for the above reaction is given below
 
 \[
-Q = \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{(9.28)}
+Q = \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{.....(9.28)}
 \]
 
 We have already learnt that,
 
 \[
-\Delta G = \Delta G^{\circ} + RT \ln Q \qquad \text{(9.29)}
+\Delta G = \Delta G^{\circ} + RT \ln Q \qquad \text{.....(9.29)}
 \]
 
 The Gibbs free energy can be related to the cell emf as follows
 
-[equation (9.24) and (9.25)]
+[$$\therefore$$ equation (9.24) and (9.25)]
 
 \[
 \Delta G = -nFE_{\text{cell}}; \quad \Delta G^{\circ} = -nFE_{\text{cell}}^{\circ}
@@ -747,7 +758,7 @@ The Gibbs free energy can be related to the cell emf as follows
 Substitute these values and Q from (9.28) in the equation (9.29)
 
 \[
-(9.29) \Rightarrow -nFE_{\text{cell}} = -nFE_{\text{cell}}^{\circ} + RT \ln \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{(9.30)}
+(9.29) \Rightarrow -nFE_{\text{cell}} = -nFE_{\text{cell}}^{\circ} + RT \ln \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{.....(9.30)}
 \]
 
 Divide the whole equation (9.30) by (-nF)
@@ -760,7 +771,7 @@ Divide the whole equation (9.30) by (-nF)
 E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{2.303 RT}{nF} \log \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{(9.31)}
 \]
 
-The above equation (9.31) is called the **Nernst equation**.
+The above equation (9.31) is called the Nernst equation.
 
 At \( 25^{\circ}\mathrm{C} \) (298K), the above equation (9.31) becomes,
 
@@ -769,7 +780,7 @@ E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{2.303 \times 8.314 \times 298}
 \]
 
 \[
-E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{0.0591}{n} \log \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{(9.32)}
+E_{\text{cell}} = E_{\text{cell}}^{\circ} - \frac{0.0591}{n} \log \frac{[\mathrm{C}]^l [\mathrm{D}]^m}{[\mathrm{A}]^x [\mathrm{B}]^y} \qquad \text{.....(9.32)}
 \]
 
 (Since \( R = 8.314\ \mathrm{J\ K^{-1}\ mol^{-1}} \), \( T = 298\ \mathrm{K} \), \( 1F = 96500\ \mathrm{C\ mol^{-1}} \))
@@ -834,15 +845,21 @@ Given standard reduction potential of \( \mathrm{Cu^{2+}|Cu} \) is \( 0.34\ \mat
 E_{\text{cell}} = 0.43 - 0.02955 \times 2 = 0.43 - 0.0591 = 0.3709\ \mathrm{V}
 \]
 
-![](ey5.png)
+>**Evaluate yourself : 5**
+>
+>The electrochemical cell reaction of the Daniel cell is
+>
+>$$\text{Zn } (s) + \text{Cu}^{2+}(aq) \rightarrow \text{Zn}^{2+}(aq) + \text{Cu } (s)$$
+>
+>What is the change in the cell voltage on increasing the ion concentration in the anode compartment by a factor 10?
 
 ### Electrolytic cell and electrolysis
 
 Electrolysis is a process in which the electrical energy is used to cause a non-spontaneous chemical reaction to occur; the energy is often used to decompose a compound into its elements. The device which is used to carry out the electrolysis is called the electrolytic cell. The electrochemical process occurring in the electrolytic cell and galvanic cell are the reverse of each other. Let us understand the function of an electrolytic cell by considering the electrolysis of molten sodium chloride.
 
 The electrolytic cell consists of two electrodes: one is cylindrical steel cathode and another one is graphite anode. They are dipped in molten sodium chloride. They are connected to the external DC power supply via a key as shown in the figure (9.8). The electrode which is attached to the negative end of the power supply is called the cathode, and the one which is attached to the positive end is called the anode. Once the key is closed, the external DC power supply drives the electrons to the cathode and at the same time pulls the electrons from the anode.
-![](img9.12.png)
-<center>Figure 9.8 Electrolysis of molten NaCl</center>
+![Figure 9.8 Electrolysis of molten NaCl](img9.12.png)
+
 
 **Cell reactions**
 
@@ -891,15 +908,15 @@ We know that the charge is related to the current by the equation \( I = \frac{Q
 (or)
 
 \[
-m = ZIt \qquad \text{(9.33)}
+m = ZIt \qquad \text{.....(9.33)}
 \]
 
-Where Z is known as the electrochemical equivalent of the substance produced at the electrode.
+Where Z is known as the electro chemical equivalent of the substance produced at the electrode.
 
 When \( I = 1\ \mathrm{A} \) and \( t = 1\ \mathrm{s} \), \( Q = 1\ \mathrm{C} \), in such case the equation (9.33) becomes,
 
 \[
-\Rightarrow m = Z \qquad \text{(9.34)}
+\Rightarrow m = Z \qquad \text{.....(9.34)}
 \]
 
 Thus, the electrochemical equivalent is defined as the amount of substance deposited or liberated at the electrode by a charge of 1 coulomb.
@@ -929,8 +946,8 @@ Z = \frac{\text{Equivalent mass}}{96500} \qquad \text{(9.35)}
 
 #### Second Law
 
-![](img9.13.png)
-<center>Figure 9.9 Electrolysis of various electrolytes using same quantity of charge</center>
+![Figure 9.9 Electrolysis of various electrolytes using same quantity of charge](img9.13.png)
+
 
 When the same quantity of charge is passed through the solutions of different electrolytes, the amount of substances liberated at the respective electrodes are directly proportional to their electrochemical equivalents.
 
@@ -949,47 +966,31 @@ m_{\mathrm{Ni}} \propto Z_{\mathrm{Ni}}, \quad m_{\mathrm{Cu}} \propto Z_{\mathr
 \]
 
 \[
-\frac{m_{\mathrm{Ni}}}{Z_{\mathrm{Ni}}} = \frac{m_{\mathrm{Cu}}}{Z_{\mathrm{Cu}}} = \frac{m_{\mathrm{Co}}}{Z_{\mathrm{Co}}} \qquad \text{(9.36)}
+\frac{m_{\mathrm{Ni}}}{Z_{\mathrm{Ni}}} = \frac{m_{\mathrm{Cu}}}{Z_{\mathrm{Cu}}} = \frac{m_{\mathrm{Co}}}{Z_{\mathrm{Co}}} \qquad \text{.....(9.36)}
 \]
 
-# Example
+>**Example**
+>
+>A solution of silver nitrate is electrolysed for 20 minutes with a current of 2 amperes. Calculate the mass of silver deposited at the cathode.
+>
+>Electrochemical reaction at cathode is $\text{Ag}^+ + \text{e}^- \rightarrow \text{Ag (reduction)}$
+>
+>$$\begin{aligned}
+\text{m} &= \text{ZIt} \\[10pt]
+\text{m} &= \frac{108 \text{ gmol}^{-1}}{96500 \text{ C mol}^{-1}} \times 2400\text{C} \\[10pt]
+\mathbf{m} &\mathbf{= 2.68 \text{ g.}}
+\end{aligned}
+\qquad \Bigg| \qquad
+\begin{aligned}
+\text{Z} &= \frac{\text{molar mass of Ag}}{(96500)} = \frac{108}{1 \times 96500} \\[10pt]
+\text{I} &= 2\text{A} \\[10pt]
+\text{t} &= 20 \times 60\text{S} = 1200 \text{ S} \\[10pt]
+\text{It} &= 2\text{A} \times 1200\text{S} = 2400\text{C}
+\end{aligned}$$
 
-A solution of silver nitrate is electrolysed for 20 minutes with a current of 2 amperes. Calculate the mass of silver deposited at the cathode.  
-
-Electrochemical reaction at cathode is  
-\[
-\text{Ag}^+ + \text{e}^- \rightarrow \text{Ag} \, (\text{reduction})
-\]  
-
-\[
-m = Z \, \text{It}
-\]  
-
-\[
-m = \frac{108 \, \text{gmol}^{-1}}{96500 \, \text{C mol}^{-1}} \times 2400 \, \text{C}
-\]  
-
-\[
-m = 2.68 \, \text{g}.
-\]  
-
-\[
-Z = \frac{\text{molar mass of } \text{Ag}}{(96500)} = \frac{108}{1 \times 96500}
-\]  
-
-\[
-I = 2 \, \text{A}
-\]  
-
-\[
-t = 20 \times 60 \, \text{S} = 1200 \, \text{S}
-\]  
-
-\[
-I = 2 \, \text{A} \times 1200 \, \text{S} = 2400 \, \text{C}
-\]
-
-![](ey6.png)
+>**Evaluate yourself : 6**
+>
+>A solution of a salt of metal was electrolysed for 15 minutes with a current of 0.15 amperes. The mass of the metal deposited at the cathode is 0.783g. Calculate the equivalent mass of the metal.
 
 ### Batteries
 
@@ -997,9 +998,9 @@ Batteries are indispensable in the modern electronic world. For example, Li-ion 
 
 #### Leclanche cell
 
-- **Anode**: Zinc container
-- **Cathode**: Graphite rod in contact with \( \mathrm{MnO_2} \)
-- **Electrolyte**: ammonium chloride and zinc chloride in water
+- Anode: Zinc container
+- Cathode: Graphite rod in contact with \( \mathrm{MnO_2} \)
+- Electrolyte: ammonium chloride and zinc chloride in water
 
 Emf of the cell is about 1.5V
 
@@ -1030,14 +1031,14 @@ Equation \( (1) + (2) + (3) \) gives the overall redox reaction
 \]
 
 Ammonia produced at the cathode combines with \( \mathrm{Zn}^{2+} \) to form a complex ion \( [\mathrm{Zn(NH_3)_4}]^{2+}(aq) \). As the reaction proceeds, the concentration of \( \mathrm{NH_4}^{+} \) will decrease and the aqueous \( \mathrm{NH_3} \) will increase which leads to the decrease in the emf of cell.
-![](img9.14.png)
-<center>Figure 9.10 Leclanche cell</center>
+![Figure 9.10 Leclanche cell](img9.14.png)
+
 
 #### Mercury button cell
 
-- **Anode**: zinc amalgamated with mercury
-- **Cathode**: HgO mixed with graphite
-- **Electrolyte**: Paste of KOH and ZnO
+- Anode: zinc amalgamated with mercury
+- Cathode: HgO mixed with graphite
+- Electrolyte: Paste of KOH and ZnO
 
 Oxidation occurs at anode: \( \mathrm{Zn(s) + 2OH^{-}(aq)} \rightarrow \mathrm{ZnO(s) + H_2O(l) + 2e^{-}} \)
 
@@ -1048,8 +1049,7 @@ Overall reaction: \( \mathrm{Zn(s) + HgO(s)} \rightarrow \mathrm{ZnO(s) + Hg(l)}
 Cell emf: about 1.35V.
 
 Uses: It has higher capacity and longer life. Used in pacemakers, electronic watches, cameras etc.
-![](img9.15.png)
-<center>Figure 9.11 Mercury button cell</center>
+![Figure 9.11 Mercury button cell](img9.15.png)
 
 #### Secondary batteries
 
@@ -1057,9 +1057,9 @@ We have already learnt that the electrochemical reactions which take place in a 
 
 ##### Lead storage battery
 
-- **Anode**: spongy lead
-- **Cathode**: lead plate bearing \( \mathrm{PbO_2} \)
-- **Electrolyte**: \( 38\% \) by mass of \( \mathrm{H_2SO_4} \) with density \( 1.2\ \mathrm{g/mL} \)
+- Anode: spongy lead
+- Cathode: lead plate bearing \( \mathrm{PbO_2} \)
+- Electrolyte: \( 38\% \) by mass of \( \mathrm{H_2SO_4} \) with density \( 1.2\ \mathrm{g/mL} \)
 
 Oxidation occurs at the anode
 
@@ -1103,9 +1103,7 @@ As said earlier, a potential greater than \( 2\ \mathrm{V} \) is applied across 
 
 Oxidation occurs at the cathode (now acts as anode)
 
-\[
-\mathrm{PbSO_4(s) + 2H_2O(l)} \rightarrow \mathrm{PbO_2(s) + 4H^{+}(aq) + SO_4^{2-}(aq) + 2e^{-}}
-\]
+$$\overset{+2}{\text{Pb}}\text{SO}_4 \text{ (s)} + 2\text{H}_2\text{O } (l) \rightarrow \overset{+4}{\text{Pb}}\text{O}_2 \text{ (s)} + 4 \text{ H}^+(\text{aq}) + \text{SO}_4^{\text{ }2-} (\text{aq}) + 2\text{e}^-$$
 
 Reduction occurs at the anode (now acts as cathode)
 
@@ -1123,14 +1121,13 @@ Thus, the overall cell reaction is exactly the reverse of the redox reaction whi
 
 **Uses:** Used in automobiles, trains, inverters etc.
 
-#### The lithium-ion Battery
+**The lithium-ion Battery**
 
-- **Anode**: Porous graphite
-- **Cathode**: transition metal oxide such as \( \mathrm{CoO_2} \)
-- **Electrolyte**: Lithium salt in an organic solvent
+- Anode: Porous graphite
+- Cathode: transition metal oxide such as \( \mathrm{CoO_2} \)
+- Electrolyte: Lithium salt in an organic solvent
 
-![](img9.16.png)
-<center>Figure 9.12 lithium-ion Battery</center>
+![Figure 9.12 lithium-ion Battery](img9.16.png)
 
 At the anode oxidation occurs
 
@@ -1168,8 +1165,7 @@ Fuel | Electrode | Electrolyte | Electrode | Oxidant
 
 Let us understand the function of fuel cell by
 
-![](imh9.18.png)
-<center>Figure 9.14 H_2O_2 fuel cell</center>
+![Figure 9.14 H_2O_2 fuel cell](imh9.18.png)
 
  considering hydrogen - oxygen fuel cell. In this case, hydrogen acts as a fuel and oxygen as an oxidant and the electrolyte is aqueous KOH maintained at \( 200^{\circ}\mathrm{C} \) and \( 20-40\ \mathrm{atm} \). Porous graphite electrode containing Ni and NiO serves as the inert electrodes.
 
@@ -1202,8 +1198,7 @@ We are familiar with the rusting of iron. Have you ever noticed a green film for
 #### Electrochemical mechanism of corrosion
 
 The formation of rust requires both oxygen and water. Since it is an electrochemical redox process, it requires an anode and cathode in different places on the surface of iron. The iron surface and a droplet of water on the surface as shown in figure (9.15) form a tiny galvanic cell. The region enclosed by water is exposed to low amount of oxygen and it acts as the anode. The remaining area has high amount of oxygen and it acts as cathode. So based on the oxygen content, an electrochemical cell is formed. Corrosion occurs at the anode i.e., in the region enclosed by the water as discussed below.
-![](img9.19.png)
-<center>Figure 9.15 Rusting of iron</center>
+![Figure 9.15 Rusting of iron](img9.19.png)
 
 **At anode (oxidation): Iron dissolves in the anode region**
 
@@ -1269,6 +1264,6 @@ We have already learnt that the standard single electrode potentials are measure
 
 ![](img9.20.png)
 
-This series is called **electrochemical series**.
+This series is called electrochemical series.
 
 The standard reduction potential \( (E^{\circ}) \) is a measure of the oxidising tendency of the species. The greater the \( E^{\circ} \) value, greater is the tendency shown by the species to accept electrons and undergo reduction. So higher the \( (E^{\circ}) \) value, lesser is the tendency to undergo corrosion.
