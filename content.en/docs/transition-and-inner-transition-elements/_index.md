@@ -27,7 +27,7 @@ In this unit we study the general trend in properties of d block elements with s
 We have already learnt the periodic classification of elements in XI std. the transition metals occupy from group - 3 to group- 12 of the modern periodic table.
 
 
-![Figure 4.1-Position of d- block elements in the periodic table](image.png)
+![Figure 4.1-Position of d- block elements in the periodic table](image-15.png)
 
 d- Block elements composed of 3d series (4th period) Scandium to Zinc (10 elements), 4d series (5th period) Yttrium to Cadmium (10 elements) and 5d series (6th period) Lanthanum, Haffnium to mercury. As we know that the group- 12 elements Zinc, Cadmium and Mercury do not have partially filled d- orbital either in their elemental state or in their normal oxidation states. However they are treated as transition elements, because their properties are an extension of the properties of the respective transition elements. As per the IUPAC definition, the seventh period elements, starting from Ac, Rf to Cn also belong to transition metals. All of them are radioactive. Except Actinium; all the remaining elements are synthetically prepared and have very low half life periods.
 
@@ -64,7 +64,7 @@ It is generally expected a steady decrease in atomic radius along a period as th
 
 At the end of the series, d - orbitals of Zinc contain 10 electrons in which the repulsive interaction between the electrons is more than the effective nuclear charge and hence, the orbitals slightly expand and atomic radius slightly increases.
 
-Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d elements which have nearly same atomic radius as that of corresponding 4d elements. This is due to lanthanide contraction which is to be discussed later in this unit under inner transition elements.
+Generally as we move down a group atomic radius increases, the same trend is expected in d block elements also. As the electrons are added to the 4d sub shell, the atomic radii of the 4d elements are higher than the corresponding elements of the 3d series. However there is an unexpected observation in the atomic radius of 5d elements which have nearly same atomic radius as that of corresponding 4d elements. This is due to lanthanoide contraction which is to be discussed later in this unit under inner transition elements.
 
 
 ![Figure 4.4 (a) Atomic radius of 3d Elements](image-3.png)
@@ -156,7 +156,7 @@ If the standard electrode potential \((E^0)\), of a metal is large and negative,
 | \(Cu^{2+} + 2e^- \rightarrow Cu\) | \(+0.34\) |
 | \(Zn^{2+} + 2e^- \rightarrow Zn\) | \(-0.76\) |
 
-In 3d series as we move from Ti to Zn, the standard reduction potential \((E_{M^{2+}/M}^{0})\) value is approaching towards less negative value and copper has a positive reduction potential. i.e., elemental copper is more stable than \(Cu^{2+}\). There are two deviations., Fig shows that \((E_{M^{2+}/M}^{0})\) value for manganese and zinc are more negative than the regular trend. It is due to extra stability which arises due to the half filled \(d^{5}\) configuration in \(Mn^{2+}\) and completely filled \(d^{10}\) configuration in \(Zn^{2+}\).
+In 3d series as we move from Ti to Zn, the standard reduction potential \((E_{M^{2+}/M}^{0})\) value is approaching towards less negative value and copper has a positive reduction potential. i.e., elemental copper is more stable than \(Cu^{2+}\). There are two deviations., In the Fig shows that \((E_{M^{2+}/M}^{0})\) value for manganese and zinc are more negative than the regular trend. It is due to extra stability which arises due to the half filled \(d^{5}\) configuration in \(Mn^{2+}\) and completely filled \(d^{10}\) configuration in \(Zn^{2+}\).
 
 ![Figure 4.7(a) \((E_{M^{2+}/M}^{0})\) -3d series](image-8.png)
 
@@ -274,7 +274,7 @@ Generally, transition metal oxides are formed by the reaction of transition meta
 
 ## Preparation:
 
-Potassium dichromate is prepared from chromite ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverberatory furnace.
+Potassium dichromate is prepared from chromite ore. The ore is concentrated by gravity separation. It is then mixed with excess sodium carbonate and lime and roasted in a reverbratory furnace.
 
 $$
 4FeCr_2O_4 + 8Na_2CO_3 + 7O_2 \xrightarrow{900 - 1000^{\circ}C} 8Na_2CrO_4 + 2Fe_2O_3 + 8CO_2 \uparrow
