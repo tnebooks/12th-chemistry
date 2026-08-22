@@ -467,26 +467,11 @@ $$
 Preparation of nitrogrn oxides
 
 **Structures of oxides of nitrogen**
-| Name | Formula | Structure |
-| --- | --- | --- |
-| Nitrous oxide | $\text{N}_2\text{O}$ | ![](3.png) |
-| Nitric oxide | **NO** | ![](4.png) |
-| Dinitrogen trioxide (or) Nitrogen sesquoxide | $\textbf{N}_2\textbf{O}_3$ | ![](5.png) |
-| Nitrogen dioxide | $\textbf{NO}_2$ | ![](6.png)|
-| Nitrogen tetraoxide | $\textbf{N}_2\textbf{O}_4$ | ![](7.png) |
-| Nitrogen pentoxide | $\textbf{N}_2\textbf{O}_5$ | ![](8.png)|
+![](image-2.png)
 
 
 **Structures of oxoacids of nitrogen**
-
-| Name | Formula | Structure |
-| --- | --- | --- |
-| Hyponitrous acid | $\text{H}_2\text{N}_2\text{O}_2$ | $\text{HO}-\text{N}=\text{N}-\text{OH}$ |
-| Hydronitrous acid | $\text{H}_4\text{N}_2\text{O}_4$ | ![](9.png)|
-| Nitrous acid | $\text{HNO}_2$ | ![](10.png) |
-| Pernitrous acid | $\text{HOONO}$ | ![](11.png) |
-| Nitric acid | $\text{HNO}_3$ | ![](12.png) |
-| Pernitric acid | $\text{HNO}_4$ | ![](13.png) |
+![](<WhatsApp Image 2026-08-22 at 3.13.25 PM.jpeg>)
 
 **Preparation of oxoacides of nitrogen**
 
@@ -617,7 +602,7 @@ In phosphine, phosphorus shows \( \mathrm{sp^3} \) hybridisation. Three orbitals
 
 **Uses of phosphine**
 
-Phosphine is used for producing smoke screen as it gives large smoke. In a ship, a pierced container with a mixture of calcium carbide and calcium phosphide, liberates phosphine and acetylene when thrown into sea. The liberated phosphine catches fire and ignites acetylene. These burning gases serves as a signal to the approaching ships. This is known as Holmes signal.
+Phosphine is used for producing smoke screen as it gives large smoke. In a ship, a pierced container with a mixture of calcium carbide and calcium phosphide, liberates phosphine and acetylene when thrown into sea. The liberated phosphine catches fire and ignites acetylene. These burning gases serves as a signal to the approaching ships. This is known as **Holmes signal**.
 
 ### 3.1.10 Phosphorus trichloride and pentachloride
 
@@ -638,7 +623,7 @@ $$
 This reaction involves the coordination of a water molecule using a vacant 3d orbital on the phosphorus atom following by elimination of HCl which is similar to hydrolysis of \( \mathrm{SiCl_4} \).
 
 $$
-\mathrm{PCl_3 + H_2O} \longrightarrow \mathrm{PCl._3H_2O} \longrightarrow \mathrm{P(OH)Cl_2 + HCl}
+\mathrm{PCl_3 + H_2O} \longrightarrow \mathrm{PCl_3.H_2O} \longrightarrow \mathrm{P(OH)Cl_2 + HCl}
 $$
 
 This reaction is followed by two more steps to give \( \mathrm{P(OH)_3} \) or \( \mathrm{H_3PO_3} \).
@@ -678,7 +663,7 @@ $$
 **Chemical properties:** On heating phosphorus pentachloride, it decomposes into phosphorus trichloride and chlorine.
 
 $$
-\mathrm{PCl_5(g)} \longrightarrow \mathrm{PCl_3(g) + Cl_2(g)}
+\text{PCl}_5\text{(g)} \longrightarrow \text{PCl}_3\text{(g)} + \underset{\text{(Excess)}}{\text{Cl}_2\text{(g)}}
 $$
 
 Phosphorus pentachloride reacts with water to give phosphoryl chloride and orthophosphoric acid.
@@ -721,14 +706,13 @@ $$
 
 Phosphorus forms phosphorus trioxide, phosphorus tetraoxide and phosphorus pentoxide.
 
-In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6 pm.
+In phosphorus trioxide four phosphorus atoms lie at the corners of a tetrahedron and six oxygen atoms along the edges. The P-O bond distance is 165.6 pm
 
 ![**Figure 3.6 Structure of $P_4O_6$**](18.png)
 
-pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ bonding and results in considerable double bond character. In P<sub>4</sub>O<sub>10</sub> each P atoms form three bonds to oxygen atom and also an additional coordinate bond with an oxygen atom. Terminal P-O bond length is 143 pm, which is less than the expected single bond distance. This may be due to lateral overlap of filled p orbitals of an oxygen atom with empty d orbital on phosphorous.
+which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ bonding and results in considerable double bond character. In P<sub>4</sub>O<sub>10</sub> each P atoms form three bonds to oxygen atom and also an additional coordinate bond with an oxygen atom. Terminal P-O bond length is 143 pm, which is less than the expected single bond distance. This may be due to lateral overlap of filled p orbitals of an oxygen atom with empty d orbital on phosphorous.
 
-![**Figure 3.7 Struction of P<sub>4</sub>O<sub>10</sub>**](19.png)
-
+![](image-6.png)
 **Oxoacids of Phosphorous-Structure:**
 
 | Name | Formula | Structure |
@@ -744,7 +728,7 @@ pm which is shorter than the single bond distance of P-O (184 pm) due to pπ-dπ
 | Name | Formula | Oxidation state | Preparation |
 |---|---|---|---|
 | Hypophosphorous acid | \( \mathrm{H_3PO_2} \) | +1 | \( \mathrm{P_4 + 6H_2O \rightarrow 3H_3PO_2 + PH_3} \) |
-| Orthophosphorous acid | \( \mathrm{H_3PO_3} \) | +3 | \( \mathrm{P_4O_6 + 6H_2O \rightarrow 4H_3PO_3} \) |
+| Orthophosphrous acid | \( \mathrm{H_3PO_3} \) | +3 | \( \mathrm{P_4O_6 + 6H_2O \rightarrow 4H_3PO_3} \) |
 | Hypophosphoric acid | \( \mathrm{H_4P_2O_6} \) | +4 | \( 2\mathrm{P + 2O_2 + 2H_2O \rightarrow H_4P_2O_6} \) |
 | Orthophosphoric acid | \( \mathrm{H_3PO_4} \) | +5 | \( \mathrm{P_4O_{10} + 6H_2O \rightarrow 4H_3PO_4} \) |
 | Pyrophosphoric acid | \( \mathrm{H_4P_2O_7} \) | +5 | \( 2\mathrm{H_3PO_4 \rightarrow H_4P_2O_7 + H_2O} \) |
@@ -821,7 +805,7 @@ The ozone molecule has a bent shape and symmetrical with delocalised bonding bet
 
 **Chemical properties**
 
-The chemical properties of oxygen and ozone differ vastly. Oxygen combines with many metals and non-metals to form oxides. With some elements such as s-block elements combination of oxygen occurs at room temperature. Some less reactive metals react when powdered finely and made to react exothermically with oxygen at room temperature but a lump of metal is unaffected under same condition. These finely divided metals are known as pyrophoric and when the powder is set on fire, heat is liberated during a reaction.
+The chemical properties of oxygen and ozone differ vastly. Oxygen combines with many metals and non-metals to form oxides. With some elements such as s-block elements combination of oxygen occurs at room temperature. Some of less reactive metals react when powdered finely and made to react exothermically with oxygen at room temperature but a lump of metal is unaffected under same condition. These finely divided metals are known as pyrophoric and when the powder is set on fire, heat is liberated during a reaction.
 
 On the other hand ozone is a powerful oxidizing agent and it reacts with many substances under conditions where oxygen will not react. For example, it oxidises potassium iodide to iodine. This reaction is quantitative and can be used for estimation of ozone.
 
@@ -841,7 +825,7 @@ Ozone is commonly used for oxidation of organic compounds. In acidic solution oz
 
 Sulphur exists in crystalline as well as amorphous allotropic forms. The crystalline form includes rhombic sulphur (\( \alpha \) sulphur) and monoclinic sulphur (\( \beta \) sulphur). Amorphous allotropic form includes plastic sulphur (\( \gamma \) sulphur), milk of sulphur and colloidal sulphur.
 
-Rhombic sulphur also known as \( \alpha \) sulphur, is the only thermodynamically stable allotropic form at ordinary temperature and pressure. The crystals have a characteristic yellow colour and composed of \( \mathrm{S_8} \) molecules. When heated slowly above \( 96^{\circ}\mathrm{C} \), it converts into monoclinic sulphur. Upon cooling below \( 96^{\circ}\mathrm{C} \) the \( \beta \) form converts back to \( \alpha \) form. Monoclinic sulphur also contains \( \mathrm{S_8} \) molecules in addition to small amount of \( \mathrm{S_6} \) molecules. It exists as a long needle like prism and is also called as prismatic sulphur. It is stable between \( 96^{\circ}\mathrm{C} \) - \( 119^{\circ}\mathrm{C} \) and slowly changes into rhombic sulphur.
+**Rhombic sulphur** also known as \( \alpha \) sulphur, is the only thermodynamically stable allotropic form at ordinary temperature and pressure. The crystals have a characteristic yellow colour and composed of \( \mathrm{S_8} \) molecules. When heated slowly above \( 96^{\circ}\mathrm{C} \), it converts into monoclinic sulphur. Upon cooling below \( 96^{\circ}\mathrm{C} \) the \( \beta \) form converts back to \( \alpha \) form. **Monoclinic sulphur** also contains \( \mathrm{S_8} \) molecules in addition to small amount of \( \mathrm{S_6} \) molecules. It exists as a long needle like prism and is also called as prismatic sulphur. It is stable between \( 96^{\circ}\mathrm{C} \) - \( 119^{\circ}\mathrm{C} \) and slowly changes into rhombic sulphur.
 
 When molten sulphur is poured into cold water a yellow rubbery ribbon of plastic sulphur is produced. They are very soft and can be stretched easily. On standing (cooling slowly) it slowly becomes hard and changes to stable rhombic sulphur.
 
@@ -973,7 +957,7 @@ To maximise the yield the plant is operated at 2 bar pressure and 720 K. The sul
 
 **Physical properties**
 
-Pure sulphuric acid is a colourless, viscous liquid (density: \( 1.84\ \mathrm{g\ mL^{-1}} \) at 298 K). High boiling point and viscosity of sulphuric acid is due to the association of molecules together through hydrogen bonding.
+Pure sulphuric acid is a colourless, viscous liquid (density: \( 1.84\ \mathrm{g \ mL^{-1}} \) at 298 K). High boiling point and viscosity of sulphuric acid is due to the association of molecules together through hydrogen bonding.
 
 The acid freezes at 283.4 K and boils at 590 K. It is highly soluble in water and has strong affinity towards water and hence it can be used as a dehydrating agent. When dissolved in water, it forms mono \( \mathrm{(H_2SO_4.H_2O)} \) and dihydrates \( \mathrm{(H_2SO_4.2H_2O)} \) and the reaction is exothermic.
 
@@ -1098,18 +1082,15 @@ Sulphur forms many oxoacids. The most important one is sulphuric acid. Some acid
 
 Various oxo acids of sulphur with their structures are given below
 
-| Name | Molecular Formula | Structure |
-| --- | --- | --- |
-| Sulphurous acid | $\text{H}_2\text{SO}_3$ | $$\begin{array}{ccc} & \text{O} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{OH} \end{array}$$ |
-| Sulphuric acid | $\text{H}_2\text{SO}_4$ | $$\begin{array}{ccc} & \text{O} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{OH} \\ & \parallel & \\ & \text{O} & \end{array}$$|
-| Thiosulphuric acid | $\text{H}_2\text{S}_2\text{O}_3$ |$$\begin{array}{ccc} & \text{S} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{OH} \\ & \parallel & \\ & \text{O} & \end{array}$$ |
-| Dithionous acid | $\text{H}_2\text{S}_2\text{O}_4$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \end{array}$$ |
-| Disulphurous acid or Pyrosulphurous acid | $\text{H}_2\text{S}_2\text{O}_5$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \\ & \parallel & & & \\ & \text{O} & & & \end{array}$$|
-| Disulphuric acid or pyrosulphuric acid | $\text{H}_2\text{S}_2\text{O}_7$ | $$\begin{array}{ccccccc} & \text{O} & & & & \text{O} & \\ & \parallel & & & & \parallel & \\ \text{HO}- & \text{S} & - & \text{O} & - & \text{S} & -\text{OH} \\ & \parallel & & & & \parallel & \\ & \text{O} & & & & \text{O} & \end{array}$$ |
-| Peroxymono sulphuric acid (Caro's acid) | $\text{H}_2\text{SO}_5$ | $$\begin{array}{ccc} & \text{O} & \\ & \parallel & \\ \text{HO}- & \text{S} & -\text{O}-\text{OH} \\ & \parallel & \\ & \text{O} & \end{array}$$ |
-| Peroxodisulphuric acid. Marshall's acid | $\text{H}_2\text{S}_2\text{O}_8$ | $$\begin{array}{ccccccc} & \text{O} & & & & \text{O} & \\ & \parallel & & & & \parallel & \\ \text{HO}- & \text{S} & - & \text{O}-\text{O} & - & \text{S} & -\text{OH} \\ & \parallel & & & & \parallel & \\ & \text{O} & & & & \text{O} & \end{array}$$ |
-| Dithionic acid | $\text{H}_2\text{S}_2\text{O}_6$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & - & \text{S} & -\text{OH} \\ & \parallel & & \parallel & \\ & \text{O} & & \text{O} & \end{array}$$ |
-| Polythionic acid | $\text{H}_2\text{S}_{n+2}\text{O}_6$ | $$\begin{array}{ccccc} & \text{O} & & \text{O} & \\ & \parallel & & \parallel & \\ \text{HO}- & \text{S} & -(\text{S})_n- & \text{S} & -\text{OH} \\ & \parallel & & \parallel & \\ & \text{O} & & \text{O} & \end{array}$$ |
+![](image-8.png)
+| Name | Molecular Formula | Structure (Linear Representation) |
+| :--- | :--- | :--- |
+| Disulphuric acid or pyrosulphuric acid | H₂S₂O₇ | HO-S(=O)₂-O-S(=O)₂-OH |
+| Peroxymono sulphuric acid (Caro's acid) | H₂SO₅ | HO-S(=O)₂-O-OH |
+| Peroxodisulphuric acid. Marshall's acid | H₂S₂O₈ | HO-S(=O)₂-O-O-S(=O)₂-OH |
+| Dithionic acid | H₂S₂O₆ | HO-S(=O)₂-S(=O)₂-OH |
+| Polythionic acid | H₂Sₙ₊₂O₆ | HO-S(=O)₂-(S)ₙ-S(=O)₂-OH |
+
 
 
 
