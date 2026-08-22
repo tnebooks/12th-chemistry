@@ -70,7 +70,7 @@ Usually, concentration is expressed in number of moles per litre and time is exp
 
 For a gas phase reaction, the concentration of the gaseous species is usually expressed in terms of their partial pressures and in such cases the unit of reaction rate is atm \( \mathrm{s}^{-1} \).
 
-#### 7.1.1 Stoichiometry and rate of a reaction
+#### 7.1.1 Stoichiometry and rate of a reaction:
 
 In a reaction \( \mathrm{A} \longrightarrow \mathrm{B} \), the stoichiometry of both reactant and product are same, and hence the rate of disappearance of reactant (A) and the rate of appearance of product (B) are same.
 
@@ -106,7 +106,9 @@ x\mathrm{A} + y\mathrm{B} \longrightarrow l\mathrm{C} + m\mathrm{D}
 
 Let us understand the average rate and instantaneous rate by considering the isomerisation of cyclopropane.
 
-![](rate.png)
+
+![alt text](image-7.png)
+
 
 The kinetics of the above reaction is followed by measuring the concentration of cyclopropane at regular intervals and the observations are shown below. (Table 7.1)
 
@@ -416,7 +418,7 @@ The overall order of the reaction \( n + m = 1 \)
 
 >**Evaluate yourself 2**
 >
->1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order?
+>1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order of reaction?
 >2) Find the individual and overall order of the following reaction using the given data.
 >
 >\[
@@ -482,7 +484,7 @@ Integrate the above equation between the limits of time \( t = 0 \) and time equ
 \]
 
 \[
-\ln \left(\frac{[\mathrm{A}_0]}{[\mathrm{A}]}\right) = k t          ...(2)
+\ln \left(\frac{[\mathrm{A}_0]}{[\mathrm{A}]}\right) = k t \quad       ...(2)
 \]
 
 This equation is in natural logarithm. To convert it into usual logarithm with base 10, we have to multiply the term by 2.303.
@@ -565,12 +567,16 @@ The rate law can be written as,
 \]
 
 \[
-\frac{-d[\mathrm{A}]}{dt} = k(1)          
-          ([A]^0 = 1)
+\frac{-d[\mathrm{A}]}{dt} = k(1)  \quad         
+
+(\therefore [A]^0=1)
 \]
+
+
 
 \[
 \Rightarrow -d[\mathrm{A}] = k\ dt  
+
       
 \]
 
@@ -605,7 +611,9 @@ Equation (2) is in the form of a straight line \( y = mx + c \)
 A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept of [A\(_0\)].
 
 ![](initialplot.png)
-
+![alt text](image-8.png)
+**Fig 7.4**: A plot of[A] Vs time for a zero order reaction A 
+**Fig 7.4 :** A plot of $[A]$ Vs time for a zero order reaction $A \rightarrow \text{product}$ with initial concentration of $[A] = 0.5\text{ M}$ and $k = 1.5 \times 10^{-2}\ \text{mol}^{-1}{L}^{-1} \text{min}^{-1}$
 
 **Examples for a zero order reaction:**
 
