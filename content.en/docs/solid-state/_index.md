@@ -14,21 +14,17 @@ summary: "This unit explains the classification of solids, distinguishing betwee
 
 Sir William Henry Bragg was a British physicist, chemist, and a mathematician. Sir William Henry Bragg and his son Lawrence Bragg worked on X-rays with much success. They invented the X-ray spectrometer and founded the new science of X-ray crystallography, the analysis of crystal structure using X-ray diffraction. Bragg was joint winner (with his son, Lawrence Bragg) of the Nobel Prize in Physics in 1915, for their services in the "analysis of crystal structure by means of ray". The mineral Braggite (a sulphide ore of platinum, palladium and Nickel) is named after him and his son.
 
-## Learning Objectives
+# Learning Objectives
+
 After studying this unit, the students will be able to
 
-describe general characteristics of solids
-
-distinguish amorphous and crystalline solids
-define unit cell
-
-describe different types of voids and close packed structures
-
-calculate the packing efficiency of different types of cubic unit cell
-
-solve numerical problems involving unit cell dimensions
-
-explain point defects in solids
+- describe general characteristics of solids
+- distinguish amorphous and crystalline solids
+- define unit cell
+- describe different types of voids and close packed structures
+- calculate the packing efficiency of different types of cubic unit cell
+- solve numerical problems involving unit cell dimensions
+- explain point defects in solids
 
 
 ## INTRODUCTION
@@ -485,45 +481,38 @@ $$
 Total number of spheres belongs to a single fcc unit cell is 4
 
 \[
-\therefore \text{the volume of all spheres in a fcc unit cell}
+\begin{aligned}
+\therefore\ \text{the volume of all spheres in a fcc unit cell}
+&=4\times\left(\frac{\sqrt{2}\,\pi a^3}{24}\right)\\[6pt]
+&=\left(\frac{\sqrt{2}\,\pi a^3}{6}\right)
+\end{aligned}
 \]
 
-$$
-= 4 \times \left( \frac{\sqrt{2} \pi a^3}{24} \right)
-$$
-
-$$
-= \frac{\sqrt{2} \pi a^3}{6}
-$$
-
-packing efficiency =
-
-$$
-\frac{\left(\frac{\sqrt{2}\ \pi\text{a}^3}{6}\right)}{\left(\text{a}^3\right)} \times 100
-$$
-
-$$
-= \frac{\sqrt{2} \pi}{6} \times 100
-$$
-
-$$
-= \frac{\sqrt{2} \pi}{6} \times 100
-$$
-
-$$
-= 74\%
-$$
+\[
+\begin{aligned}
+\text{packing efficiency}
+&=
+\frac{\left(\frac{\sqrt{2}\,\pi a^3}{6}\right)}
+{\left(a^3\right)}
+\times 100 \\[6pt]
+&=
+\frac{\sqrt{2}\,\pi}{6}\times 100 \\[6pt]
+&=
+\frac{1.414\times3.14\times100}{6} \\[6pt]
+&= 74\%
+\end{aligned}
+\]
 
 ### Radius ratio:
 
 The structure of an ionic compound depends upon the stoichiometry and the size of the ions. generally in ionic crystals the bigger anions are present in the close packed arrangements and the cations occupy the voids. The ratio of radius of cation and anion \(\left(\frac{r_{C^+}}{r_{A^-}}\right)\) plays an important role in determining the structure. The following table shows the relation between the radius ratio and the structural arrangement in ionic solids.
 
-| \(\frac{r_{C^+}}{r_{A^-}}\) | Coordination number | Structure | Example |
+| $\displaystyle \left(\frac{r_{C^+}}{r_{A^-}}\right)$ | Coordination number | Structure | Example |
 |---|---|---|---|
 | 0.155 – 0.225 | 3 | Trigonal planar | \(B_2O_3\) |
 | 0.225 – 0.414 | 4 | Tetrahedral | ZnS |
 | 0.414 – 0.732 | 6 | Octahedral | NaCl |
-| 0.732 – 1 | 8 | Cubic | CsCl |
+| 0.732 – 1.0 | 8 | Cubic | CsCl |
 
 **Table 6.3 Radius ratio**
 
@@ -580,7 +569,7 @@ For example, when NaCl crystals are heated in the presence of sodium vapour, \(N
 
 Metal deficiency defect arises due to the presence of less number of cations than the anions. This defect is observed in a crystal in which, the cations have variable oxidation states.
 
-For example, in FeO crystal, some of the \(Fe^{2+}\) ions are missing from the crystal lattice. To maintain the electrical neutrality, twice the number of other \(Fe^{2+}\) ions in the crystal is oxidized to \(Fe^{3+}\) ions. In such cases, overall number of \(Fe^{2+}\) and \(Fe^{3+}\) ions is less than the \(O^{2-}\) ions. It was experimentally found that the general formula of ferrous oxide is \(Fe_xO_y\) where \(x\) ranges from 0.93 to 0.98.
+For example, in FeO crystal, some of the \(Fe^{2+}\) ions are missing from the crystal lattice. To maintain the electrical neutrality, twice the number of other \(Fe^{2+}\) ions in the crystal is oxidized to \(Fe^{3+}\) ions. In such cases, overall number of \(Fe^{2+}\) and \(Fe^{3+}\) ions is less than the \(O^{2-}\) ions. It was experimentally found that the general formula of ferrous oxide is \(Fe_xO\) where \(x\) ranges from 0.93 to 0.98.
 
 #### 6.7.5 Impurity defect:
 
@@ -604,7 +593,7 @@ A general method of introducing defects in ionic solids is by adding impurity io
 - Crystalline solid is characterised by a definite orientation of atoms, ions or molecules, relative to one another in a three dimensional pattern. The regular arrangement of these species throughout the crystal is called a crystal lattice.
 - A crystal may be considered to consist of large number of unit cells, each one in direct contact with its nearer neighbour and all similarly oriented in space.
 - A unit cell is characterised by the three edge lengths or lattice constants a, b and c and the angle between the edges \(\alpha\), \(\beta\) and \(\gamma\).
-- There are seven primitive crystal systems; cubic, tetragonal, orthorhombic, hexagonal, monoclinic, triclinic and rhombohedral. They differ in the arrangement of their crystallographic axes and angles. Corresponding to the above seven, Bravais defined 14 possible crystal systems.
+- There are seven primitive crystal systems; cubic, tetragonal, orthorhombic, hexagonal, monoclinic, triclinic and rhombohedral. They differ in the arrangement of their crystallographic axes and angles. Corresponding to the above seven, Bravis defined 14 possible crystal systems.
 - In the simple cubic unit cell, each corner is occupied by an identical atoms or ions or molecules. And they touch along the edges of the cube, do not touch diagonally. The coordination number of each atom is 6.
 - In a body centered cubic unit cell, each corner is occupied by an identical particle and in addition to that one atom occupies the body centre. Those atoms which occupy the corners do not touch each other, however they all touch the one that occupies the body centre. Hence, each atom is surrounded by eight nearest neighbours and coordination number is 8.
 - In a face centered cubic unit cell, identical atoms lie at each corner as well as in the centre of each face. Those atoms in the corners touch those in the faces but not each other. The coordination number is 12.
