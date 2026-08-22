@@ -13,16 +13,8 @@ summary: "This unit explains the rate of chemical reactions and the factors affe
 
 Svante August Arrhenius was a Swedish scientist. Arrhenius was one of the founders of the science of physical chemistry. He focused his attention on the conductivities of electrolytes. He proposed that crystalline salts dissociate into paired charged ions when dissolved in water, for which he received the Nobel Prize for Chemistry in 1903. He also proposed definitions for acids and bases. He formulated the concept of activation energy.
 
-### Learning Objectives
 
-After studying this unit, the students will be able to
 
-* define the rate and order of a reaction,
-* derive the integrated rate equations for zero and first order reactions,
-* describe the half life period,
-* describe the collision theory,
-* discuss the temperature dependence of the rate of a reaction, and
-* explain various factors which affect the rate of a reaction.
 
 ### INTRODUCTION
 
@@ -78,7 +70,7 @@ Usually, concentration is expressed in number of moles per litre and time is exp
 
 For a gas phase reaction, the concentration of the gaseous species is usually expressed in terms of their partial pressures and in such cases the unit of reaction rate is atm \( \mathrm{s}^{-1} \).
 
-#### 7.1.1 Stoichiometry and rate of a reaction
+#### 7.1.1 Stoichiometry and rate of a reaction:
 
 In a reaction \( \mathrm{A} \longrightarrow \mathrm{B} \), the stoichiometry of both reactant and product are same, and hence the rate of disappearance of reactant (A) and the rate of appearance of product (B) are same.
 
@@ -88,7 +80,7 @@ Now, let us consider a different reaction
 \mathrm{A} \longrightarrow 2\mathrm{B}
 \]
 
-In this case, for every mole of A that disappears two moles of B appear, i.e., the rate of formation of B is twice as fast as the rate of disappearance of A. Therefore, the rate of the reaction can be expressed as below
+In this case, for every mole of A, that disappears two moles of B appear, i.e., the rate of formation of B is twice as fast as the rate of disappearance of A. Therefore, the rate of the reaction can be expressed as below
 
 \[
 \text{Rate} = \frac{+d[\mathrm{B}]}{dt} = 2\left(-\frac{d[\mathrm{A}]}{dt}\right)
@@ -110,11 +102,13 @@ x\mathrm{A} + y\mathrm{B} \longrightarrow l\mathrm{C} + m\mathrm{D}
 \text{Rate} = \frac{-1}{x}\frac{d[\mathrm{A}]}{dt} = \frac{-1}{y}\frac{d[\mathrm{B}]}{dt} = \frac{1}{l}\frac{d[\mathrm{C}]}{dt} = \frac{1}{m}\frac{d[\mathrm{D}]}{dt}
 \]
 
-#### 7.1.2 Average and instantaneous rate
+#### 7.1.2 Average and instantaneous rate:
 
 Let us understand the average rate and instantaneous rate by considering the isomerisation of cyclopropane.
 
-![](rate.png)
+
+![alt text](image-7.png)
+
 
 The kinetics of the above reaction is followed by measuring the concentration of cyclopropane at regular intervals and the observations are shown below. (Table 7.1)
 
@@ -142,7 +136,9 @@ The kinetics of the above reaction is followed by measuring the concentration of
 = \frac{1.31}{30} = 4.36 \times 10^{-2}\ \mathrm{mol\ L^{-1}\ min^{-1}}
 \]
 
-It means that during the first 30 minutes of the reaction, the concentration of the reactant (cyclopropane) decreases as an average of \( 4.36 \times 10^{-2} \) mol \( \mathrm{L}^{-1} \) each minute.
+It means that during the first 30 minutes of the reaction, the concentration of the reactant (cyclo propane) decreases as an average of \( 4.36 \times 10^{-2} \) mol \( \mathrm{L}^{-1} \) each minute.
+
+Let us calculate the average rate for an initial and later stage over a short period.
 
 
 $$(\text{Rate})_{\text{initial stage}} = \frac{-(1.4-2)}{(10-0)}$$
@@ -178,7 +174,7 @@ Let us calculate the instantaneous rate of isomerisation of cyclopropane at diff
 | 1 | \( 3.46 \times 10^{-2} \) |
 | 0.5 | \( 1.73 \times 10^{-2} \) |
 
-### 7.3 Rate law and rate constant
+### 7.3 Rate law and rate constant:
 
 We have just learnt that, the rate of the reaction depends upon the concentration of the reactant. Now let us understand how the reaction rate is related to concentration by considering the following general reaction.
 
@@ -289,7 +285,7 @@ Therefore the reaction is first order with respect to \( \mathrm{O}_2 \)
 Therefore the reaction is second order with respect to NO
 
 \[
-\text{Rate} = k[\mathrm{NO}]^{2}[\mathrm{O}_2]^{1}
+\text{The rate law is Rate1} = k[\mathrm{NO}]^{2}[\mathrm{O}_2]^{1}
 \]
 
 The overall order of the reaction \( = (2 + 1) = 3 \)
@@ -303,11 +299,12 @@ The overall order of the reaction \( = (2 + 1) = 3 \)
 | 3 | It depends on the initial concentration of reactants. | It does not depend on the initial concentration of reactants. |
 
 
-### 7.4 Molecularity
+### 7.4 Molecularity:
 
 Kinetic studies involve not only measurement of a rate of reaction but also proposal of a reasonable reaction mechanism. Each and every single step in a reaction mechanism is called an elementary reaction.
 
-An elementary step is characterized by its molecularity. The total number of reactant species that are involved in an elementary step is called molecularity of that particular step. Let us recall the hydrolysis of t-butyl bromide studied in XI standard. Since the rate determining elementary step involves only t-butyl bromide, the reaction is called a Unimolecular Nucleophilic substitution \( (\mathrm{S_N^1}) \) reaction.
+An elementary step is characterized by its molecularity. The total number of reactant species that are involved in an elementary step is called molecularity of that particular step. Let us recall the hydrolysis of t-butyl bromide studied in XI standard. Since the rate determining elementary step involves only t-butyl bromide, the reaction is called a Unimolecular Nucleophilic substitution \( {
+(S_N^1}) \) reaction.
 
 Let us understand the elementary reactions by considering another reaction, the decomposition of hydrogen peroxide catalysed by \( \mathrm{I}^- \).
 
@@ -329,7 +326,7 @@ Overall reaction is
 
 These two reactions are elementary reactions. Adding eqn (1) and (2) gives the overall reaction. Step 1 is the rate determining step, since it involves both \( \mathrm{H}_2\mathrm{O}_2 \) and \( \mathrm{I}^- \), the overall reaction is bimolecular.
 
-**Differences between order and molecularity**
+**Differences between order and molecularity:**
 
 | s.no | Order of a reaction | Molecularity of a reaction |
 |---|---|---|
@@ -338,8 +335,8 @@ These two reactions are elementary reactions. Adding eqn (1) and (2) gives the o
 | 3 | It is assigned for a overall reaction. | It is assigned for each elementary step of mechanism. |
 
 **Example 1**
-
-Consider the oxidation of nitric oxide to form \( \mathrm{NO}_2 \)
+Consider the oxidation of 
+ nitric oxide to form \( \mathrm{NO}_2 \)
 
 \[
 2\mathrm{NO}(g) + \mathrm{O}_2(g) \longrightarrow 2\mathrm{NO}_2(g)
@@ -378,11 +375,12 @@ Consider the oxidation of nitric oxide to form \( \mathrm{NO}_2 \)
 **Example 2**
 
 1. What is the order with respect to each of the reactant and overall order of the following reactions?
-(a) \( 5\mathrm{Br}^-(aq) + \mathrm{BrO}_3^-(aq) + 6\mathrm{H}^+(aq) \longrightarrow 3\mathrm{Br}_2(l) + 3\mathrm{H}_2\mathrm{O}(l) \)
+(a). \( 5\mathrm{Br}^-(aq) + \mathrm{BrO}_3^-(aq) + 6\mathrm{H}^+(aq) \longrightarrow 3\mathrm{Br}_2(l) + 3\mathrm{H}_2\mathrm{O}(l) \)
 
 The experimental rate law is Rate = \( k[\mathrm{Br}^-][\mathrm{BrO}_3^-][\mathrm{H}^+]^2 \)
 
-(b) \( \mathrm{CH}_3\mathrm{CHO}(g) \longrightarrow \mathrm{CH}_4(g) + \mathrm{CO}(g) \)
+
+(b)$\text{CH}_3\text{CHO}(g) \xrightarrow{\;\Delta\;} \text{CH}_4(g) + \text{CO}(g)$
 
 the experimental rate law is Rate = \( k[\mathrm{CH}_3\mathrm{CHO}]^{3/2} \)
 
@@ -394,7 +392,7 @@ b) Order of the reaction with respect to acetaldehyde is \( \frac{3}{2} \) and o
 
 **Example 3**
 
-2. The rate of the reaction \( x + 2y \longrightarrow \) product is \( 4 \times 10^{-3}\ \mathrm{mol\ L^{-1}\ s^{-1}} \) if \( [x] = [y] = 0.2\mathrm{M} \) and rate constant at \( 400\mathrm{K} \) is \( 2 \times 10^{-2}\ \mathrm{s^{-1}} \), what is the overall order of the reaction?
+2. The rate of the reaction \( x + 2y \longrightarrow \) product is \( 4 \times 10^{-3}\ \mathrm{mol\ L^{-1}\ s^{-1}} \), if \( [x] = [y] = 0.2\mathrm{M} \) and rate constant at \( 400\mathrm{K} \) is \( 2 \times 10^{-2}\ \mathrm{s^{-1}} \), what is the overall order of the reaction.
 
 **Solution:**
 
@@ -420,7 +418,7 @@ The overall order of the reaction \( n + m = 1 \)
 
 >**Evaluate yourself 2**
 >
->1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order?
+>1) For a reaction, \( \mathrm{X} + \mathrm{Y} \longrightarrow \) product; quadrupling \( [x] \), increases the rate by a factor of 8. Quadrupling both \( [x] \) and \( [y] \), increases the rate by a factor of 16. Find the order of the reaction with respect to x and y. what is the overall order of reaction?
 >2) Find the individual and overall order of the following reaction using the given data.
 >
 >\[
@@ -428,6 +426,7 @@ The overall order of the reaction \( n + m = 1 \)
 \]
 >
 >![](image-1.png)
+
 
 
 ### 7.5 The integrated rate equation
@@ -442,7 +441,7 @@ The rate law is
 \text{Rate} = \frac{-d[\mathrm{A}]}{dt} = k[\mathrm{A}]^x
 \]
 
-Where k is the rate constant, and \( x \) is the order of the reaction. The above equation is a differential equation, \( \frac{-d[\mathrm{A}]}{dt} \), so it gives the rate at any instant. However, using the above expression, we cannot answer questions such as how long will it take for a specific concentration of A to be used up in the reaction? What will be the concentration of reactant after a time 't'? To answer such questions, we need the integrated form of the above rate law which contains time as a variable.
+Where k is the rate constant, and \( x \) is the order of the reaction. The above equation is a differential equation, \( \frac{-d[\mathrm{A}]}{dt} \), so it gives the rate at any instant. However, using the above expression, we cannot answer questions such as how long will it take for a specific concentration of A to be used up in the reaction? What will be the concentration of reactant after a time 't'?. To answer such questions, we need the integrated form of the above rate law which contains time as a variable.
 
 #### 7.5.1 Integrated rate law for a first order reaction
 
@@ -463,7 +462,7 @@ Where, k is the first order rate constant.
 \]
 
 \[
-\Rightarrow \frac{-d[\mathrm{A}]}{[\mathrm{A}]} = k\ dt \quad (1)
+\Rightarrow \frac{-d[\mathrm{A}]}{[\mathrm{A}]} = k\ dt \quad ...(1)
 \]
 
 Integrate the above equation between the limits of time \( t = 0 \) and time equal to t, while the concentration varies from the initial concentration \( [\mathrm{A}_0] \) to [A] at the later time.
@@ -485,7 +484,7 @@ Integrate the above equation between the limits of time \( t = 0 \) and time equ
 \]
 
 \[
-\ln \left(\frac{[\mathrm{A}_0]}{[\mathrm{A}]}\right) = k t
+\ln \left(\frac{[\mathrm{A}_0]}{[\mathrm{A}]}\right) = k t \quad       ...(2)
 \]
 
 This equation is in natural logarithm. To convert it into usual logarithm with base 10, we have to multiply the term by 2.303.
@@ -517,7 +516,7 @@ Equation (2) can be written in the form \( y = mx + c \) as below
 \Rightarrow y = c + mx
 \]
 
-If we follow the reaction by measuring the concentration of the reactants at regular time interval \( t \), a plot of \( \ln[A] \) against \( t \) yields a straight line with a negative slope. From this, the rate constant is calculated.
+If we follow the reaction by measuring the concentration of the reactants at regular time interval \('t' \), a plot of \( \ln[A] \) against \( 't' \) yields a straight line with a negative slope. From this, the rate constant is calculated.
 
 **Examples for the first order reaction**
 
@@ -555,7 +554,7 @@ Now, we can define \( k[\mathrm{H}_2\mathrm{O}] = k' \); Therefore the above rat
 
 Thus it follows first order kinetics.
 
-#### 7.5.2 Integrated rate law for a zero order reaction
+#### 7.5.2 Integrated rate law for a zero order reaction:
 
 A reaction in which the rate is independent of the concentration of the reactant over a wide range of concentrations is called as zero order reactions. Such reactions are rare. Let us consider the following hypothetical zero order reaction.
 
@@ -568,11 +567,17 @@ The rate law can be written as,
 \]
 
 \[
-\frac{-d[\mathrm{A}]}{dt} = k(1)
+\frac{-d[\mathrm{A}]}{dt} = k(1)  \quad         
+
+(\therefore [A]^0=1)
 \]
 
+
+
 \[
-\Rightarrow -d[\mathrm{A}] = k\ dt
+\Rightarrow -d[\mathrm{A}] = k\ dt  
+
+      
 \]
 
 Integrate the above equation between the limits of \( [\mathrm{A}_0] \) at zero time and [A] at some later time 't',
@@ -606,7 +611,9 @@ Equation (2) is in the form of a straight line \( y = mx + c \)
 A plot of [A] Vs time gives a straight line with a slope of -k and y-intercept of [A\(_0\)].
 
 ![](initialplot.png)
-
+![alt text](image-8.png)
+**Fig 7.4**: A plot of[A] Vs time for a zero order reaction A 
+**Fig 7.4 :** A plot of $[A]$ Vs time for a zero order reaction $A \rightarrow \text{product}$ with initial concentration of $[A] = 0.5\text{ M}$ and $k = 1.5 \times 10^{-2}\ \text{mol}^{-1}{L}^{-1} \text{min}^{-1}$
 
 **Examples for a zero order reaction:**
 
