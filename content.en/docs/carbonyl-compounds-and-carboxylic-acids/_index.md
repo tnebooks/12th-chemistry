@@ -13,45 +13,29 @@ summary: "This unit explains the nomenclature, methods of preparation, and chemi
 
 Adolf Von Baeyer, German research chemist who synthesized indigo (1880) and formulated its structure (1883). He was awarded the Nobel Prize for Chemistry in 1905. Notable among Baeyer's many achievements were the discovery of the phthalein dyes and his investigations of uric acid derivatives, polyacetylenes, and oxonium salts. One derivative of uric acid that he discovered was barbituric acid, the parent compound of the sedative-hypnotic drugs known as barbiturates.
 
-**Learning Objectives**
+## Learning Objectives
 
-● After studying this unit the student will be
-able to
+ **After studying this unit the student will be 
+able to**
 
-● describes the important methods of preparation and reactions of Carbonyl compounds
+*describes the important methods of preparation and reactions of Carbonyl compounds
 
-● explains the mechanism of Nucleophilic addition reaction of carbonyl compounds
+*explains the mechanism of Nucleophilic addition reaction of carbonyl compounds
 
-● describes the preparation and chemical reactions of carboxylic acids and its derivatives
+*describes the preparation and chemical reactions of carboxylic acids and its derivatives
 
-● list the uses of aldehydes, ketones and carboxylic acids
+*list the uses of aldehydes, ketones and carboxylic acids
 
 ## INTRODUCTION
 
-We come across many organic compounds containing a
-![](image-27.png)
- group in our everyday Life. Biomolecules such as protein, carbohydrate etc… that makeup all plants and animals contains carbonyl group. They play an important role in the metabolic process. For example, pyridoxal, an aldehyde derived from vitamin B, function as a co –enzyme. Carbonyl compounds are important constituents of fabrics, plastics and drugs. For example, Formaldehyde is used for the manufacture of Bakelite and paracetamol, (p– acetylated aminophenol) a drug used to reduce fever, contains a carbonyl group. In this unit, we will learn the preparation, properties and uses of aldhydes, ketones and carboxylic acids.
+We come across many organic compounds containing
+ a![](image-43.png)group in our everyday Life. Biomolecules such as protein, carbohydrate etc… that makeup all plants and animals contains carbonyl group. They play an important role in the metabolic process. For example, pyridoxal, an aldehyde derived from vitamin B, function as a co –enzyme. Carbonyl compounds are important constituents of fabrics, plastics and drugs. For example, Formaldehyde is used for the manufacture of Bakelite and paracetamol, (p– acetylated aminophenol) a drug used to reduce fever, contains a carbonyl group. In this unit, we will learn the preparation, properties and uses of aldhydes, ketones and carboxylic acids.
 
 ### 12.1 Nomenclature of Aldehydes and ketones
 
 We have already learnt the IUPAC system of nomenclature of organic compounds in \(XI^{\mathrm{th}}\) standard. Let us apply the rules to name the following compounds.
-| Compound (common name, Structural formula, IUPAC Name) |        **IUPAC Name**       |           |                |                  |
-| :----------------------------------------------------: | :-------------------------: | :-------: | :------------: | :--------------: |
-|                                                        | Prefix with position number | Root used | Primary suffix | Secondary Suffix |
-| Formaldehyde<br>H – CHO<br>methanal | — | meth | ane | al |
-| Acetaldehyde<br>CH₃ – CHO<br>ethanal | — | eth | ane | al |
-| Acrolein<br>CH₂ = CH – CHO<br>prop – 2- enal | — | prop | 2-ene | al |
-| Crotonaldehyde<br>CH₃ – CH = CH – CHO<br>but – 2 – enal | — | but | 2-ene | al |
-| Glyceraldehyde<br>HO — CH₂ — CH — CHO<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OH<br>2, 3 – dihydroxy propanal | 2, 3 dihydroxy | prop | ane | al |
-| Benzaldehyde![](image-30.png)phenyl methanal | phenyl | meth | ane | al |
-| Acetone / Dimethyl ketone<br>CH₃ – CO – CH₃<br>propanone | – | prop | ane | one |
-| Mesityl oxide<br>(CH₃)₂C = CHCOCH₃<br>4 – methylpent-3-en-2-one | 4 – methyl | pent | 3-ene | 2-one |
-| Methyl Phenyl ketone<br>C₆H₅ — C — CH₃<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|\|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<br>Acetophenone (PIN)*<br>1-phenylethan-1-one | 1-phenyl | eth | ane | 1-one |
-| Diphenyl ketone<br>C₆H₅ — C — C₆H₅<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|\|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<br>Benzophenoxe (PIN)*<br>Diphenylmethanone | Diphenyl | meth | ane | one |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\|\|<br>CH₃— CH₂ — C — CH₂ —CHO<br>3 - oxopentanal | 3 - oxo | pent | ane | al |
-| ![](image-31.png)<br>2 – formylbenzoicacid | 2 – formyl | benz | - | oicacid |
-| ![](image-32.png)<br>3 -methylcyclopent–2,4-dien-1-one | 3 -methyl | cyclopent | 2, 4 diene | 1-one |
-
+![](<Screenshot 2026-08-22 142248.png>)
+![](<Screenshot 2026-08-22 142416.png>)
 
 > **Evaluate yourself**
 >
@@ -67,7 +51,7 @@ We have already learnt the IUPAC system of nomenclature of organic compounds in 
 
 ### 12.2 Structure of carbonyl group
 
-The carbonyl carbon ![](image-2.png) is \(sp^2\) hybridised and the carbon - oxygen bond is similar to carbon - carbon double bond in alkenes. The carbonyl carbon forms three \(\sigma\) bonds using their three \(sp^2\) hybridised orbital. One of the sigma bond is formed with oxygen and the other two with hydrogen and carbon (in aldehydes) or with two carbons (in ketones). All the three \(\sigma\) bonded atoms are lying on the same plane as shown in the fig (12.1). The fourth valence electron of carbon remains in its unhybridised \(2p\) orbital which lies perpendicular to the plane and it overlaps with \(2p\) orbital of oxygen to form a carbon - oxygen \(\pi\) bond. The oxygen atom has two nonbonding pairs of electrons, which occupy its remaining two p-orbitals. Oxygen, the second most electro negative atom attracts the shared pair of electron between the carbon and oxygen towards itself and hence the bond is polar. This polarisation contributes to the reactivity of aldehydes and ketones.
+The carbonyl carbon ![](image-2.png)is \(sp^2\) hybridised and the carbon - oxygen bond is similar to carbon - carbon double bond in alkenes. The carbonyl carbon forms three \(\sigma\) bonds using their three \(sp^2\) hybridised orbital. One of the sigma bond is formed with oxygen and the other two with hydrogen and carbon (in aldehydes) or with two carbons (in ketones). All the three \(\sigma\) bonded atoms are lying on the same plane as shown in the fig (12.1). The fourth valence electron of carbon remains in its unhybridised \(2p\) orbital which lies perpendicular to the plane and it overlaps with \(2p\) orbital of oxygen to form a carbon - oxygen \(\pi\) bond. The oxygen atom has two nonbonding pairs of electrons, which occupy its remaining two p-orbitals. Oxygen, the second most electro negative atom attracts the shared pair of electron between the carbon and oxygen towards itself and hence the bond is polar. This polarisation contributes to the reactivity of aldehydes and ketones.
 
 ![](form1.png)
 
@@ -91,7 +75,7 @@ We have already learnt in XI th standard that the reductive ozonolysis of alkene
 
 Alkenes react with ozone to form ozonide which on subsequent cleavage with zinc and water gives aldehydes and ketones. Zinc dust removes \(H_2O_2\) formed, which otherwise can oxidise aldehydes / ketones.
 
-![](form2.png)
+![](<Screenshot 2026-08-22 143629.png>)
 
 Terminal olefines give formaldehyde as one of the product.
 
@@ -196,15 +180,13 @@ It is the best method for preparing alkyl aryl ketones or diaryl ketones. This r
 
 ### 12.4 Physical properties of aldehydes and ketones
 
-1. **Physical State:** Formaldehyde is a gas at room temperature and acetaldehyde is a volatile liquid. All other aldehydes and ketones up to \(C_{11}\) are colourless liquids while the higher ones are solids.
+1.**Physical State:** Formaldehyde is a gas at room temperature and acetaldehyde is a volatile liquid. All other aldehydes and ketones up to \(C_{11}\) are colourless liquids while the higher ones are solids.
 
-2. **Boiling points**
-
-Aldehydes and ketones have relatively high boiling point as compared to hydrocarbons and ethers of comparable molecular mass. It is due to the weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions.
+2.**Boiling points:** Aldehydes and ketones have relatively high boiling point as compared to hydrocarbons and ethers of comparable molecular mass. It is due to the weak molecular association in aldehydes and ketones arising out of the dipole-dipole interactions.
 
 ![](imge12.4.png)
 
-These dipole-dipole interactions are weaker than intermolecular H-bonding. The boiling points of aldehydes and ketones are much lower than those of corresponding alcohols and carboxylic acids which possess inter molecular hydrogen bonding.
+These dipole-dipole interactions are weaker than intermolecular H-bonding.The boiling points of aldehydes and ketones are much lower than those of corresponding alcohols and carboxylic acids which possess inter molecular hydrogen bonding.
 
 Here are the transcribed tables from the image formatted in Markdown:
 
@@ -224,7 +206,7 @@ Here are the transcribed tables from the image formatted in Markdown:
 | $\text{CH}_3\text{CH}_2\text{COOH}$<br><br>Propanoicacid | 74 | 414 |
 |  |  |  |
 
-3. **Solubility**
+3.**Solubility**
 
 Lower members of aldehydes and ketones like formaldehyde, acetaldehyde and acetone are miscible with water in all proportions because they form hydrogen bond with water.
 
@@ -232,7 +214,7 @@ Solubility of aldehydes and ketones decreases rapidly on increasing the length o
 
 ![](form10.png)
 
-4. **Dipole moment:**
+4.**Dipole moment:**
 
 The carbonyl group of aldehydes and ketones contains a double bond between carbon and oxygen. Oxygen is more electronegative than carbon and it attracts the shared pair of electron which makes the carbonyl group as polar and hence aldehydes and ketones have high dipole moments.
 
@@ -287,14 +269,8 @@ When G = alkyl, aryl, OH, \(NH_2\), \(C_6H_5NH\), NHCONH, etc...
 
 ![](form18.png)
 
-
-| **G** | **Ammonia derivatives** | **Carbonyl derivatives** | **Product name** |
-|:---:|:---:|:---:|:---:|
-| —OH | Hydroxyl amine | >C = N—OH | Oxime |
-| —NH₂ | Hydrazine | >C = N—NH₂ | Hydrazone |
-| —HN—C₆H₅ | Phenyl hydrazine | >C = N—NH—C₆H₅ | Phenyl hydrazone |
-| ![](image-38.png) | Hydrazinecarboxamide | ![](image-39.png)| -carboxamide |
-| ![](image-40.png)| 2,4-Dinitrophenyl hydrazine | ![](image-41.png) | 2,4-Dinitrophenyl hydrazone |
+![](<Screenshot 2026-08-22 144748.png>)
+![](<Screenshot 2026-08-22 144801.png>)
 
 **i) Reaction with hydroxyl amine**
 
@@ -411,7 +387,7 @@ Aldehyde (or) ketone is first converted to its hydrazone which on heating with s
 
 **D) Haloform reaction**
 
-Acetaldehyde and methyl ketones, containing  $$\text{CH}_3\text{-}\underset{\substack{\vert{}\vert{}\\\text{O}}}{\text{C}}\text{-}$$ group , when treated with halogen and alkali give the corresponding haloform. This is known as Haloform reaction.
+Acetaldehyde and methyl ketones, containing$$\text{CH}_3\text{-}\underset{\substack{\vert{}\vert{}\\\text{O}}}{\text{C}}\text{-}$$group , when treated with halogen and alkali give the corresponding haloform. This is known as Haloform reaction.
 
 ![](form37.png)
 
@@ -453,7 +429,8 @@ Aldol condensation can also take place between two different aldehydes or ketone
 
 **Example:**
 
-![](form43.png)
+![](<Screenshot 2026-08-22 145940.png>)
+
 
 **F) Some important reactions of benzaldehyde**
 
@@ -522,8 +499,8 @@ When an aromatic aldehyde is heated with an aliphatic acid anhydride in the pres
 **5) Knoevenagel reaction**
 
 Benzaldehyde condenses with malonic acid in presence of pyridine forming cinnamic acid. Pyridine act as the basic catalyst.
+![](image-45.png)
 
-![](form51.png)
 
 **6) Reaction with amine**
 
@@ -627,7 +604,7 @@ Dilute solution of aldehydes when added to Schiff's reagent (Rosaniline hydrochl
 
 **Introduction**
 
-Carbon compounds containing a carboxyl functional group, -COOH are called carboxylic acids. The Carboxyl group is the combination of carbonyl group  $\text{–} \underset{\substack{||\text{O}}}{\text{C}} \text{–}$  and the hydroxyl group (-OH). However, carboxyl group has its own characteristic reaction. Carboxylic acids may be aliphatic (R-COOH) or aromatic (Ar-COOH) depending on the alkyl or aryl group attached to carboxylic carbon. Some higher members of aliphatic carboxylic acids \(C_{12}\) to \(C_{18}\) known as fatty acids occur in natural fats as esters of glycerol.
+Carbon compounds containing a carboxyl functional group, -COOH are called carboxylic acids. The Carboxyl group is the combination of carbonyl group $\text{–}\underset{\substack{||\text{O}}}{\text{C}} \text{–}$  and the hydroxyl group (-OH). However, carboxyl group has its own characteristic reaction. Carboxylic acids may be aliphatic (R-COOH) or aromatic (Ar-COOH) depending on the alkyl or aryl group attached to carboxylic carbon. Some higher members of aliphatic carboxylic acids \(C_{12}\) to \(C_{18}\) known as fatty acids occur in natural fats as esters of glycerol.
 
 
 
@@ -693,7 +670,7 @@ Grignard reagent reacts with carbon dioxide (dry ice) to form salts of carboxyli
 
 **Example**
 
-![](form65.png)
+![](<Screenshot 2026-08-22 151013.png>)
 
 Formic acid cannot be prepared by Grignard reagent since the acid contains only one
 carbon atom
@@ -765,16 +742,16 @@ Carboxylic acid react with active metals like Na, Mg, Zn etc to form correspondi
 
 ![](form70.png)
 
-**2) Reaction with alkalis**
+**2) Reaction with alkalies**
 
-Carboxylic acid reacts with alkalis to neutralise them and form salts.
+Carboxylic acid reacts with alkalies to neutralise them and form salts.
 
 **Example**
 ![](form71.png)
 
 **3) Reaction with carbonates and bicarbonate (Test for carboxylic acid group)**
 
-Carboxylic acids decompose carbonates and bicarbonates evolving carbon dioxide gas with effervescence.
+Carboxylic acids decompose carbonates and bicarbonates evolving carbondioxide gas with effervescence.
 
 **Example**
 
@@ -993,24 +970,13 @@ $$
 
 Compounds such as acid chlorides, amides, esters etc., are called carboxylic acid derivatives because they differ from a carboxylic acid only in the nature of the group or atom that has replaced the -OH group of carboxylic acid.
 
-| Group replacing $-\text{OH}$ | Name | Structure | Example |
-| :---: | :---: | :---: | :---: |
-| $-\text{Cl}$ | Acid chloride | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{Cl} \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{Cl} \\ \text{\small Acetyl chloride} \end{array} $$ |
-| $-\text{NH}_2$ | Acid amide | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{NH}_2 \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{NH}_2 \\ \text{\small Acetamide} \end{array} $$ |
-| $-\text{OR}'$ | ester | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{R}-\text{C}-\text{OR}' \end{array} $$ | $$ \begin{array}{c} \text{O} \\ \parallel \\ \text{CH}_3-\text{C}-\text{OCH}_3 \\ \text{\small Methyl acetate} \end{array} $$ |
-| $-\text{OOCR}$ | Acid anhydride | $$ \begin{array}{ccc} \text{O} & & \text{O} \\ \parallel & & \parallel \\ \text{R}-\text{C} & -\text{O}-&\text{C}-\text{R} \end{array} $$ | $$\begin{array}{ccc}\text{O} & & \text{O} \\[-0.5ex]\parallel & & \parallel \\[-0.5ex]\text{CH}_3-\text{C} & \!-\text{O}-\! & \text{C}-\text{R} \\& \text{\small Acetic anhydride} & \end{array}$$|
+![](<Screenshot 2026-08-22 151916.png>)
+
 
 **Relative reactivity of Acid derivatives**
 
 The reactivity of the acid derivatives follows the order
-$$
-\begin{array}{ccccccc}
-\text{O} & & \text{O} \quad \text{O} & & \text{O} & & \text{O} \\
-\parallel & & \parallel \quad \parallel & & \parallel & & \parallel \\
-\text{R}-\text{C}-\text{Cl} & > & \text{R}-\text{C}-\text{O}-\text{C}-\text{R} & > & \text{R}-\text{C}-\text{OR}' & > & \text{R}-\text{C}-\text{NH}_2
-\end{array}
-$$
-
+![](<Screenshot 2026-08-22 152154.png>)
 The above order of reactivity can be explained in terms of
 
 i) Basicity of the leaving group
@@ -1034,24 +1000,10 @@ Hence the order of reactivity of the acid derivatives with nucleophilic reagent 
 acid halide > acid anhydride > esters > acid amides
 
 ### 12.14.1 Nomenclature
-
-| Compound <br>(common name, Structural formula, <br>IUPAC Name) | IUPAC Name | | | |
-| :--- | :---: | :---: | :---: | :---: |
-| | **Prefix with position <br>number** | **Root used** | **Primary <br>suffix** | **Secondary <br>Suffix** |
-| Acetyl chloride <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethanoylchloride | $-$ | eth | ane | oyl <br> chloride |
-| Propionyl chloride <br> $$ \begin{array}{c} \text{C}_2\text{H}_5-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Propanoylchloride | $-$ | prop | ane | oyl <br> chloride |
-| Benzoyl chloride <br> $$ \begin{array}{c} \text{C}_6\text{H}_5-\text{C}-\text{Cl} \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Benzoylchloride | $-$ | Benz | ane | oyl <br> chloride |
-| Acetic anhydride <br> $$ \begin{array}{ccc} \text{CH}_3-\text{C} & -\text{O}- & \text{C}-\text{CH}_3 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Ethanoic anhydride | $-$ | eth | ane | oic <br> anhydride |
-| Propionic anhydride <br> $$ \begin{array}{ccc} \text{CH}_3-\text{CH}_2-\text{C} & -\text{O}- & \text{C}-\text{CH}_2-\text{CH}_3 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Propanoic anhydride | $-$ | prop | ane | oic <br> anhydride |
-| Benzoic anhydride <br> $$ \begin{array}{ccc} \text{C}_6\text{H}_5-\text{C} & -\text{O}- & \text{C}-\text{C}_6\text{H}_5 \\[-0.5ex] \parallel & & \parallel \\[-0.5ex] \text{O} & & \text{O} \end{array} $$ <br> Benzoic anhydride | $-$ | Benz | | oic <br> anhydride |
-| <center>**Esters**</center> | | | | |
-| Methyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{CH}_3 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Methyl ethanoate | Methyl | eth | ane | oate |
-| Ethyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{C}_2\text{H}_5 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethyl ethanoate | Ethyl | eth | ane | oate |
-| Phenyl acetate <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{O}-\text{C}_6\text{H}_5 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Phenyl ethanoate | Phenyl | eth | ane | oate |
-| <center>**Acid Amides** </center>| | | | |
-| Acetamide <br> $$ \begin{array}{c} \text{CH}_3-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Ethanamide | $-$ | eth | ane | amide |
-| Propionamide <br> $$ \begin{array}{c} \text{C}_2\text{H}_5-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Propanamide | $-$ | prop | ane | amide |
-| Benzamide <br> $$ \begin{array}{c} \text{C}_6\text{H}_5-\text{C}-\text{NH}_2 \\[-0.5ex] \parallel \\[-0.5ex] \text{O} \end{array} $$ <br> Benzamide | $-$ | benz | $-$ | amide |
+![](image-46.png)
+![](<Screenshot 2026-08-22 152711.png>)
+![](<Screenshot 2026-08-22 152849.png>)
+![](<Screenshot 2026-08-22 152958.png>)
 
 
 ### 12.14.2 Acid Halides
