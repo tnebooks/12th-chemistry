@@ -5,9 +5,10 @@ categories:
 weight: 2
 summary: "This unit introduces the chemistry of p-block elements, focusing on the elements present in groups 13 to 18 of the periodic table. It explains their general electronic configuration, trends in physical and chemical properties, and important compounds. The unit also highlights the unique behavior of these elements due to their valence electron configurations."
 ---
+# 2. p-Block Elements-I
 
-![](wade.png)
-**Kenneth wade (1932- 2014)**
+![**Kenneth wade 1932- 2014**](wade.png)
+
 
 Kenneth Wade, was a British chemist, and professor emeritus at Durham University. He developed a method for the prediction of shapes of borane clusters. Wade's rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. For his substantial contribution, Kenneth Wade was granted FRS award from royal society, London In 1989. He received the Tilden prize award in 1999 from the Royal Society of Chemistry for advances in chemistry.
 
@@ -312,7 +313,7 @@ $$
 H_3BO_3 + 3C_2H_5OH \xrightarrow{\text{Conc.} H_2SO_4} B(OC_2H_5)_3 + 3H_2O
 $$
 
-Note: The trialkyl borate on reaction with sodium hydride in tetrahydrouran to form a coordination compound \(Na[BH(OR)_3]\), which acts as a powerful reducing agent.
+**Note**: The trialkyl borate on reaction with sodium hydride in tetrahydrouran to form a coordination compound \(Na[BH(OR)_3]\), which acts as a powerful reducing agent.
 
 **Formation of boron trifluoride:**
 
@@ -447,7 +448,10 @@ $$
 $$
 
 $$
-3(B_2H_6 \cdot 2NH_3) \xrightarrow[closed vessel]{\text{High temp}} 2B_3N_3H_6 \, (\text{Borazole or Borazine - Inorganic benzene})+12H_2
+3(\mathrm{B_2H_6\cdot 2NH_3})
+\xrightarrow[\text{Closed vessel}]{\text{High temp.}}
+2\mathrm{B_3N_3H_6}\;(\text{Borazole or Borazine})
++12\mathrm{H_2}
 $$
 
 **Structure of diborane:**
@@ -655,15 +659,15 @@ Catenation is an ability of an element to form chain of atoms. The following con
 
 Carbon exists in many allotropic forms. Graphite and diamond are the most common allotropes. Other important allotropes are graphene, fullerenes and carbon nanotubes.
 
-Graphite is the most stable allotropic form of carbon at normal temperature and pressure. It is soft and conducts electricity. It is composed of flat two dimensional sheets of carbon atoms. Each sheet is a hexagonal net of \(sp^2\) hybridised carbon atoms with a C- C bond length of \(1.41\mathrm{\AA}\) which is close to the C- C bond distance in benzene \((1.40\mathrm{\AA})\). Each carbon atom forms three \(\sigma\) bonds with three neighbouring carbon atoms using three of its valence electrons and the fourth electron present in the unhybridised p orbital forms a \(\pi\)- bond. These \(\pi\) electrons are delocalised over the entire sheet which is responsible for its electrical conductivity. The successive carbon sheets are held together by weak vander Waals forces. The distance between successive sheets is \(3.40\mathrm{\AA}\). It is used as a lubricant either on its own or as a graphited oil.
+**Graphite** is the most stable allotropic form of carbon at normal temperature and pressure. It is soft and conducts electricity. It is composed of flat two dimensional sheets of carbon atoms. Each sheet is a hexagonal net of \(sp^2\) hybridised carbon atoms with a C- C bond length of \(1.41\mathrm{\AA}\) which is close to the C- C bond distance in benzene \((1.40\mathrm{\AA})\). Each carbon atom forms three \(\sigma\) bonds with three neighbouring carbon atoms using three of its valence electrons and the fourth electron present in the unhybridised p orbital forms a \(\pi\)- bond. These \(\pi\) electrons are delocalised over the entire sheet which is responsible for its electrical conductivity. The successive carbon sheets are held together by weak vander Waals forces. The distance between successive sheets is \(3.40\mathrm{\AA}\). It is used as a lubricant either on its own or as a graphited oil.
 
 ![Figure 2.4 Structure of graphite](img7.png)
 
-Unlike graphite the other allotrope diamond is very hard. The carbon atoms in diamond are \(sp^{3}\) hybridised and bonded to four neighbouring carbon atoms by \(\sigma\) bonds with a C- C bond length of \(1.54\mathrm{\AA}\). This results in a tetrahedral arrangement around each carbon atom that extends to the entire lattice as shown in figure 2.5. Since all four valance electrons of carbon are involved in bonding there is no free electrons for conductivity. Being the hardest element, it used for sharpening hard tools, cutting glasses, making bores and rock drilling.
+Unlike graphite the other allotrope **diamond** is very hard. The carbon atoms in diamond are \(sp^{3}\) hybridised and bonded to four neighbouring carbon atoms by \(\sigma\) bonds with a C- C bond length of \(1.54\mathrm{\AA}\). This results in a tetrahedral arrangement around each carbon atom that extends to the entire lattice as shown in figure 2.5. Since all four valance electrons of carbon are involved in bonding there is no free electrons for conductivity. Being the hardest element, it used for sharpening hard tools, cutting glasses, making bores and rock drilling.
 
 ![Figure 2.5 Structure of diamond](img8.png)
 
-Fullerenes are newly synthesised allotropes of carbon. Unlike graphite and diamond, these allotropes are discrete molecules such as \(C_{32}\), \(C_{50}\), \(C_{60}\), \(C_{70}\), \(C_{76}\) etc. These molecules have cage like structures as shown in the figure. The \(C_{60}\) molecules have a soccer ball like structure and is called buckminster fullerene or buckyballs. It has a fused ring structure consists of 20 six membered rings and 12 five membered rings. Each carbon atom is \(sp^{2}\) hybridised and forms three \(\sigma\) bonds & a delocalised \(\pi\) bond giving aromatic character to these molecules. The C- C bond distance is \(1.44\mathrm{\AA}\) and \(C = C\) distance \(1.38\mathrm{\AA}\)
+**Fullerenes** are newly synthesised allotropes of carbon. Unlike graphite and diamond, these allotropes are discrete molecules such as \(C_{32}\), \(C_{50}\), \(C_{60}\), \(C_{70}\), \(C_{76}\) etc. These molecules have cage like structures as shown in the figure. The \(C_{60}\) molecules have a soccer ball like structure and is called buckminster fullerene or buckyballs. It has a fused ring structure consists of 20 six membered rings and 12 five membered rings. Each carbon atom is \(sp^{2}\) hybridised and forms three \(\sigma\) bonds & a delocalised \(\pi\) bond giving aromatic character to these molecules. The C- C bond distance is \(1.44\mathrm{\AA}\) and \(C = C\) distance \(1.38\mathrm{\AA}\)
 
 ![Figure 2.6 Structure of Fullerenes](img9.png)
 
@@ -754,7 +758,7 @@ Eg. Nickel tetracarbonyl \([Ni(CO)_4]\), Iron pentacarbonyl \([Fe(CO)_5]\), Chro
 
 It has a linear structure. In carbon monoxide, three electron pairs are shared between carbon and oxygen. The bonding can be explained using molecular orbital theory as discussed in XI standard. The C- O bond distance is \(1.128\mathrm{\AA}\). The structure can be considered as the resonance hybrid of the following two canonical forms.
 
-![](chapter2.png)
+![Figure 2.9 Structure of carbon monoxide](chapter2.png)
 
 **Figure 2.9 Structure of carbon monoxide**
 
@@ -914,9 +918,9 @@ The hydrolysis of monoalkylchloro silanes \(RSiCl_{3}\) yields to a very complex
 
 They are obtained by the hydrolysis and subsequent condensation of dialkyl or diaryl silicon chlorides.
 
-a) Silicone rubbers: These silicones are bridged together by methylene or similar groups
+a) **Silicone rubbers:** These silicones are bridged together by methylene or similar groups
 
-b) Silicone resins: They are obtained by blending silicones with organic resins such as acrylic esters.
+b) **Silicone resins:** They are obtained by blending silicones with organic resins such as acrylic esters.
 
 **(ii) Cyclic silicones**
 
@@ -949,7 +953,7 @@ Silicates are classified into various types based on the way in which the tetrah
 
 ![Figure 2.11 Structure of Ortho silicates](img2.11.png)
 
-Examples : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surrounded by \(O^{2-}\) ions), Olivine - \((Fe / Mg)_2SiO_4\) (\(Fe^{2+}\) and \(Mg^{2+}\) cations are octahedrally surrounded by \(O^{2-}\) ions),
+**Examples** : Phenacite - \(Be_2SiO_4\) (\(Be^{2+}\) ions are tetrahedrally surrounded by \(O^{2-}\) ions), Olivine - \((Fe / Mg)_2SiO_4\) (\(Fe^{2+}\) and \(Mg^{2+}\) cations are octahedrally surrounded by \(O^{2-}\) ions),
 
 **Pyro silicate (or Soro silicates):**
 
@@ -961,7 +965,7 @@ Silicates which contain \([Si_2O_7]^{6-}\) ions are called pyro silicates (or) S
 
 Silicates which contain \((SiO_3)_n^{2n-}\) ions which are formed by linking three or more tetrahedral \(SiO_4^{4-}\) units cyclically are called cyclic silicates. Each silicate unit shares two of its oxygen atoms with other units.
 
-Example: Beryl \([Be_3Al_2(SiO_3)_6]\) (an aluminosilicate with each aluminium is surrounded by 6 oxygen atoms octahedrally)
+**Example:** Beryl \([Be_3Al_2(SiO_3)_6]\) (an aluminosilicate with each aluminium is surrounded by 6 oxygen atoms octahedrally)
 
 ![Figure 2.13 Structure of Cyclic silicates](img2.13.png)
 
@@ -973,7 +977,7 @@ Silicates which contain 'n' number of silicate units linked by sharing two or mo
 
 ![Figure 2.14 Structure of Chain silicates](img2.14.png)
 
-Example: Spodumene - \(LiAl(SiO_3)_2\)
+**Example:** Spodumene - \(LiAl(SiO_3)_2\)
 
 **Double chain silicates (or amphiboles):** These silicates contains \([Si_4O_{11}]_n^{6n-}\) ions. In these silicates there are two different types of tetrahedra : (i) Those sharing 3 vertices (ii) those sharing only 2 vertices.
 
@@ -989,13 +993,13 @@ Silicates which contain \((Si_{2}O_{5})_n^{2n-}\) are called sheet or phyllo sil
 
 ![Figure 2.16 Structure of Sheet silicates](img2.16.2.png)
 
-Example: Talc, Mica etc...
+**Example:** Talc, Mica etc...
 
 **Three dimensional silicates (or tecto silicates):**
 
 Silicates in which all the oxygen atoms of \([SiO_4]^{4-}\) tetrahedra are shared with other tetrahedra to form three- dimensional network are called three dimensional or tecto silicates. They have general formula \((SiO_2)_n\).
 
-**Examples: Quartz**
+**Examples:** Quartz
 
 These tecto silicates can be converted into three dimensional aluminosilicates by replacing \([SiO_4]^{4-}\) units by \([AlO_4]^{5-}\) units. E.g. Feldspar, Zeolites etc.
 
@@ -1038,8 +1042,8 @@ Zeolites have a three dimensional crystalline structure looks like a honeycomb c
 - Silicones or poly siloxanes are organo silicon polymers with general empirical formula \((R_2SiO)\). Because of their very high thermal stability they are called high-temperature polymers.
 - The mineral which contains silicon and oxygen in tetrahedral \([SiO_4]^{4-}\) units linked together in different patterns are called silicates.
 - Types of Silicates:
-    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates, Cyclic silicates (or Ring silicates)**
-    - **Inosilicates : Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
+    - **Ortho silicates (Neso silicates), Pyro silicate (or) Soro silicates,** Cyclic silicates (or Ring silicates)
+    - Inosilicates : **Chain silicates (or pyroxenes), Double chain silicates (or amphiboles):**
     - Sheet or phyllo silicates
     - Three dimensional silicates (or tecto silicates)
 - Zeolites are three-dimensional crystalline solids containing aluminium, silicon, and oxygen in their regular three dimensional framework.
