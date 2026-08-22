@@ -28,16 +28,7 @@ chemistry, literature, peace activism,
 physics, economics and physiology
 or medicine.
 
-### Learning Objectives
 
-After studying this unit the student will be able to
-
-* describe the important methods of preparation and reactions of alcohols
-* explain the mechanism of Nucleophilic substitution reaction of alcohols and ethers.
-* explain the elimination reaction of alcohols.
-* describe the preparation and properties of phenols
-* discuss the preparation of ethers and explain their chemical reactions.
-* recognise the uses of alcohols and ethers
 
 ### Introduction
 
@@ -56,22 +47,22 @@ the preparation, properties and uses of alcohols, phenols and ethers.
 ### 11.1 Classification of alcohols
 
 Alcohols can be classified based on the number of hydroxyl groups and the nature of the carbon to which the functional group (-OH) is attached.
-![](img11.1.png)
+![](image-17.png)
 
 ### 11.2 IUPAC Nomenclature
 
 We have already learnt about naming the organic compounds according to IUPAC guidelines in XI standard. Let us recall the basic rules to name the alcohols.
 
-1. Select the longest continuous chain of carbon atoms (root word) containing the functional group (-OH).
+1.Select the longest continuous chain of carbon atoms (root word) containing the functional group (-OH).
 
-2. Number the carbon atoms in the chain so that the carbon bearing the -OH group has the lowest possible number.
+2.Number the carbon atoms in the chain so that the carbon bearing the -OH group has the lowest possible number.
 
-3. Name the substituent (if any)
+3.Name the substituent (if any)
 
-4. Write the name of the alcohol as below.
+4.Write the name of the alcohol as below.
 
-Prefix (substituents)  + Root word (longest chain) + Primary suffix  (Saturation /unsaturation)+ Secondary suffix (ol)
-
+    Prefix      +    Root word      +   Primary suffix         + Secondary suffix (ol)
+(substituents)     (longest chain)     (Saturation /unsaturation)      (ol)
 The following table illustrates the IUPAC nomenclature of alcohols.
 ![](img11.2.png)
 ![](img11.3.png)
@@ -92,9 +83,7 @@ using Grignard reagent in XI standard. These reactions are summarised below.
 
 **1. From Alkyl halides:** Alkyl halides on heating with dilute aqueous NaOH gives alcohols. Primary alkyl halides undergo substitution by \( \mathrm{SN^2} \) reaction. Secondary and tertiary alkyl halides usually undergo nucleophilic substitution by \( \mathrm{SN^1} \) mechanism.
 
-\[
-\mathrm{R-X + NaOH(aq) \rightarrow R-OH + NaX}
-\]
+\[\mathrm{R-X + NaOH(aq) \xrightarrow{\Delta} R-OH + NaX(aq)}\]
 
 If \( \mathrm{R} = \mathrm{t} \)-butyl, the reaction proceeds through the formation of t-butyl carbocation.
 
@@ -157,6 +146,7 @@ ii) Alkyl iodide so formed is then treated with \( \mathrm{AgNO_2} \) to form ni
 iii) Nitro alkanes are finally treated with \( \mathrm{HNO_2} \) (mixture of \( \mathrm{NaNO_2/HCl} \)) and the resultant solution is made alkaline with \( \mathrm{KOH} \).
 
 **Result:** 
+
 - Primary alcohol gives red colour 
 
 - Secondary alcohol gives blue colour. 
@@ -179,16 +169,16 @@ iv. The lower members are highly soluble in water due to the formation of interm
 
 ![](img11.12.png)
 
-**Table: Boiling point of alcohols in comparison with other organic compounds.**
+**Table: Boiling point of alcohols in comparision with other organic compounds.**
 ![](Table.png)
 
 #### Chemical properties of alcohols
 
 **Nucleophilic substitution reactions of alcohols**
 
-Alcohol has a strong basic leaving group \( (\mathrm{OH}^-) \). So, \( -\mathrm{OH} \) group is first converted into \( -\mathrm{OH}_2^+ \) group by adding an acid. The \( -\mathrm{OH}_2^+ \) group in the protonated alcohol can be easily displaced by a nucleophile such as \( \mathrm{Br}^- \) to give alkyl halides.
+Alcohol has a strong basic leaving group \( (\mathrm{OH}^-) \). So, \( -\mathrm{OH} \) group is first converted into \(-\mathrm{OH}_2^+\) group by adding an acid. The \( -\mathrm{OH}_2^+ \) group in the protonated alcohol can be easily displaced by a nucleophile such as \( \mathrm{Br}^- \) to give alkyl halides.
 
-Example: Alcohols undergo nucleophilic substitution reaction with hydrohalic acids to form alkyl halides. In case of tertiary alcohols heating is required.
+Example: Alcohols undergo nucleophilic substitution reaction with hydro halic acids to form alkyl halides. In case of tertiary alcohols heating is required.
 
 
 $$\begin{matrix} \text{CH}_3-\text{CH}_2-\text{OH} \\ \text{Ethanol} \end{matrix} \xrightarrow[\quad-\text{H}_2\text{O}\quad]{\text{HBr}} \begin{matrix} \text{CH}_3-\text{CH}_2-\text{Br} \\ \text{Bromoethane} \end{matrix}$$
@@ -204,7 +194,7 @@ Alkyl halide formation of tertiary alcohols follow \( \mathrm{S_N1} \) mechanism
 >
 >$$\begin{matrix} \text{CH}_3\text{CH}_2\text{OH} \\ \text{ethanol} \end{matrix} \xrightarrow[\quad\text{pyridine}\quad]{\text{PCl}_3} \begin{matrix} \text{CH}_3\text{CH}_2\text{Cl} \\ \text{chloroethane} \end{matrix}$$
 >
->Mechanism: \( \mathrm{S_N2} \) reaction on phosphorus trichloride.
+>Mechanism: \( \mathrm{S_N2} \) reaction on phosphorus tri chloride.
 >![](img11.16.png)
 
 The conversion of an alcohol to alkyl halide can also be effected using thionyl chloride.
@@ -245,11 +235,11 @@ During intramolecular dehydration, if there is a possibility to form a carbon-ca
 For example, the dehydration of 3,3-dimethyl-2-butanol gives a mixture of alkenes. The secondary carbocation formed in this reaction undergoes rearrangement to form a more stable tertiary carbocation.
 ![](img11.19.png)
 
->**Evaluate yourself:** What is the major product obtained when 2,3-dimethylpentan-3-ol is heated in the presence of \( \mathrm{H_2SO_4} \).
+>**Evaluate yourself:** What is the major product obtained when 2,3-dimethyl pentan-3-ol is heated in the presence of \( \mathrm{H_2SO_4} \).
 
 **Oxidation of alcohols**
 
-The important reactions of alcohols are their oxidation to give carbonyl compounds. The commonly used oxidising agent is acidified sodium dichromate. Oxidation of primary alcohols give an aldehyde which on further oxidation gives the carboxylic acids. To stop the oxidation reaction at the aldehyde/ketone stage, pyridinium chlorochromate (PCC) is used as an oxidising agent.
+The important reactions of alcohols are their oxidation to give carbonyl compounds. The commonly used oxidising agent is acidified sodiumdichromate. Oxidation of primary alcohols give an aldehyde which on further oxidation gives the carboxylic acids. To stop the oxidation reaction at the aldehyde/ketone stage, pyridinium chlorochromate (PCC) is used as an oxidising agent.
 ![](img11.20.png)
 
 **Swern oxidation**
@@ -367,7 +357,7 @@ The above reaction explains the acidic nature of alcohols.
 
 **Comparison of acidity of \( 1^{\circ} \), \( 2^{\circ} \) and \( 3^{\circ} \) alcohols**
 
-The acidic nature of the alcohol is due to the polar nature of O-H bond. When an electron withdrawing -I groups such as -Cl, -F etc. is attached to the carbon bearing the OH group, it withdraws the electron density towards itself and thereby facilitating the proton donation. In contrast, the electron releasing group such as alkyl group increases the electron density on oxygen and decreases the polar nature of O-H bond, Hence it results in the decrease in acidity. On moving from primary to secondary and tertiary alcohols, the number of alkyl groups attached to the carbon bearing -OH group increases, which results in the following order of acidity.
+The acidic nature of the alcohol is due to the polar nature of O-H bond. When an electron withdrawing -I groups such as -Cl, -F etc. is attached to the carbon bearing the OH group, it withdraws the electron density towards itself and thereby facilitating the proton donation. In contrast, the electron releasing group such as alkyl group increases the electron density on oxygen and decreases the polar nature of O-H bond, Hence it results in the decrease in acidity. On moving from primary to secondary and tertiary alcohols, the number of alkyl groups which attached to the carbon bearing -OH group increases, which results in the following order of acidity.
 
 \[
 1^{\circ}\ \text{alcohol} > 2^{\circ}\ \text{alcohol} > 3^{\circ}\ \text{alcohol}
@@ -412,7 +402,7 @@ Aniline is diazotized with nitrous acid \( \mathrm{(NaNO_2 + HCl)} \) at \( 273-
 ![](img11.39.png)
 **d) From cumene**
 
-A mixture of benzene and propene is heated at 523K in a closed vessel in presence of \( \mathrm{H_3PO_4} \) catalyst gives cumene (isopropylbenzene). On passing air to a mixture of cumene and \( 5\% \) aqueous sodium carbonate solution, cumene hydroperoxide is formed by oxidation. It is treated with dilute acid to get phenol and acetone. Acetone is also an important byproduct in this reaction.
+A mixture of benzene and propene is heated at 523K in a closed vessel in presence of \( \mathrm{H_3PO_4} \) catalyst gives cumene (isopropylbenzene). On passing air to a mixture of cumene and \( 5\% \) aqueous sodium carbonate solution, cumene hydro peroxide is formed by oxidation. It is treated with dilute acid to get phenol and acetone. Acetone is also an important byproduct in this reaction.
 ![](img11.40.png)
 #### Physical Properties
 
@@ -437,7 +427,9 @@ Phenol on heating with ammonia in presence of anhydrous \( \mathrm{ZnCl_2} \) gi
 Phenol on treatment with acid chlorides gives esters. The acetylation and benzoylation of phenol are called Schotten-Baumann reaction.
 
 \[
-\mathrm{C_6H_5OH + CH_3COCl \xrightarrow{NaOH} CH_3COOC_6H_5 + HCl}
+\mathrm{C_6H_5OH + CH_3COCl}
+\xrightarrow[\mathrm{Py}]{\mathrm{NaOH}}
+\mathrm{CH_3COOC_6H_5 + HCl}
 \]
 
 \[
@@ -464,28 +456,28 @@ Phenol on catalytic hydrogenation gives cyclohexanol.
 
 **Electrophilic aromatic substitution:**
 
-We have already learnt in XI standard that the groups like - \( \ddot{O}H \), -\( \ddot{N}H_2 \), etc., etc., which when directly attached to the benzene ring, activate the ring towards electrophilic substitution reaction and direct the incoming electrophile to occupy either the ortho or para position.
+We have already learnt in XI standard that the groups like - \( \ddot{O}H \), -\( \ddot{N}H_2 \), etc., which when directly attached to the benzene ring, activate the ring towards electrophilic substitution reaction and direct the incoming electrophile to occupy either the ortho or para position.
 
 **Common electrophilic aromatic substitutions are as follows:**
 
 **i) Nitrosation:** Phenol can be readily nitrosoated at low temperature with \( \mathrm{HNO_2} \).
 ![](img11.47.png)
-**ii) Nitration:** Phenol can be nitrated using \( 20\% \) nitric acid even at room temperature, a mixture of ortho and para nitrophenols are formed.
+**ii) Nitration:** Phenol can be nitrated using \( 20\% \) nitric acid even at room temperature, a mixture of ortho and para nitro phenols are formed.
 ![](img11.48.png)
-The ortho and para isomers are separated by steam distillation, as o-nitrophenol is slightly soluble in water and more volatile due to intra molecular hydrogen bonding, whereas p-nitrophenol is more soluble in water and less volatile due to intermolecular hydrogen bonding.
+The ortho and para isomers are separated by steam distillation, as o-nitro phenol is slightly soluble in water and more volatile due to intra molecular hydrogen bonding, whereas p-nitrophenol is more soluble in water and less volatile due to intermolecular hydrogen bonding.
 
 Nitration with conc. \( \mathrm{HNO_3 + conc.\ H_2SO_4} \) gives picric acid.
 ![](img11.49.png)
 
-**iii) Sulphonation:** Phenol reacts with conc. \( \mathrm{H_2SO_4} \) at 280K to form o-phenolsulphonic acid as the major product. When the reaction is carried out at 373K the major product is p-phenolsulphonic acid.
+**iii) Sulphonation:** Phenol reacts with conc. \( \mathrm{H_2SO_4} \) at 280K to form o-phenol sulphonic acid as the major product. When the reaction is carried out at 373K the major product is p-phenol sulphonic acid.
 ![](img11.50.png)
-**iv) Halogenation:** Phenol reacts with bromine water to give a white precipitate of 2,4,6-tribromophenol.
+**iv) Halogenation:** Phenol reacts with bromine water to give a white precipitate of 2,4,6-tri bromo phenol.
 ![](img11.n2.png)
 If the reaction is carried out in \( \mathrm{CS_2} \) or \( \mathrm{CCl_4} \) at 278K, a mixture of ortho and para bromophenols are formed.
 ![](img11.51.png)
 **v) Kolbe's (or Kolbe-Schmitt) reaction:** In this reaction, phenol is first converted into sodium phenoxide which is more reactive than phenol towards electrophilic substitution reaction with \( \mathrm{CO_2} \). Treatment of sodium phenoxide with \( \mathrm{CO_2} \) at 400K, 4-7 bar pressure followed by acid hydrolysis gives salicylic acid.
 ![](img11.52.png)
-**vi) Reimer-Tiemann Reaction:** On treating phenol with \( \mathrm{CHCl_3/NaOH} \), a -CHO group is introduced at ortho position. This reaction proceeds through the formation of substituted benzal chloride intermediate.
+**vi) Riemer-Tiemann Reaction:** On treating phenol with \( \mathrm{CHCl_3/NaOH} \), a -CHO group is introduced at ortho position. This reaction proceeds through the formation of substituted benzal chloride intermediate.
 ![](img11.53.png)
 **vii) Phthalein reaction:** On heating phenol with phthalic anhydride in presence of conc. \( \mathrm{H_2SO_4} \), phenolphthalein is obtained.
 ![](img11.54.png)
@@ -538,9 +530,9 @@ Let us recall the naming of ethers according to IUPAC nomenclature.
 
 #### Preparation of ethers
 
-**1. Intermolecular dehydration of alcohol**
+**1. Inter molecular dehydration of alcohol**
 
-We have already learnt that when ethanol is treated with conc. \( \mathrm{H_2SO_4} \) at 443K, elimination takes place to form ethene. If the same reaction is carried out at 413K, substitution competes over elimination to form ethers.
+We have already learnt that when ethanol is treated with con. \( \mathrm{H_2SO_4} \) at 443K, elimination takes place to form ethene. If the same reaction is carried out at 413K, substitution competes over elimination to form ethers.
 
 $$\begin{matrix} 2\text{CH}_3-\text{CH}_2-\text{OH} \\ \text{ethanol} \end{matrix} \xrightarrow[413\text{ K}]{\quad\text{H}_2\text{SO}_4\quad} \begin{matrix} \text{CH}_3-\text{CH}_2-\text{O}-\text{CH}_2-\text{CH}_3 \\ \text{diethylether} \end{matrix}$$ 
 
@@ -573,13 +565,13 @@ Methyl ethers can be prepared by treating an alcohol with diazomethane in presen
 >**Evaluate yourself**
 >
 >1. Which of the following reaction will give 1-methoxy-4-nitrobenzene.
->  a) 4-nitro-1-bromobenzene + sodium methoxide
+ >  a) 4-nitro-1-bromobenzene + sodium methoxide
 >  b) 4-nitrosodium phenoxide + bromomethane
 >2. Arrange the following compounds in the increasing order of their acid strength: propan-1-ol, 2,4,6-trinitrophenol, 3-nitrophenol, 3,5-dinitrophenol, phenol, 4-methylphenol.
 
 #### Physical Properties
 
-Ethers are polar in nature. The dipole moment of ether is the vector sum of two polar C-O bonds with significant contribution from two lone pairs of electrons. For example, the dipole moment of diethyl ether is 1.18D. Boiling point of ethers are slightly higher than that of alkanes and lower than that of alcohols of comparable masses.
+Ethers are polar in nature. The dipolemoment of ether is the vector sum of two polar C-O bonds with significant contribution from two lone pairs of electrons. For example, the dipole moment of diethyl ether is 1.18D. Boiling point of ethers are slightly higher than that of alkanes and lower than that of alcohols of comparable masses.
 
 ![](image-16.png)
 
