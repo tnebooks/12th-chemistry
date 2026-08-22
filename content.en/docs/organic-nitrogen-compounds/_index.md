@@ -8,8 +8,7 @@ summary: "This unit explains the nomenclature, preparation methods, and properti
 
 # 13. ORGANIC NITROGEN COMPOUNDS
 
-![](img13.png)
-**Donald James Cram**
+![**Donald James Cram**](img13.png)
 
 Donald James Cram  was
 an American  chemist  who
@@ -58,18 +57,18 @@ Nitro compounds are considered as the derivatives of hydrocarbons. If one of the
 
 #### 13.1.1 Classification of nitrocompounds
 ![](img13.2.png)
-Nitroalkanes are represented by the formula, R-NO2 where R is an alkyl group \((\mathrm{C_nH_{2n+1}})-\).Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis
-of type of carbon atom to which the nitro (-NO )2 group is attached. 
+Nitroalkanes are represented by the formula, R-NO2 where R is an alkyl group \((\mathrm{C_nH_{2n+1}}-)\).Nitroalkanes are further classified into primary, secondary, tertiary nitroalkanes on the basis
+of type of carbon atom to which the nitro (-NO₂) group is attached. 
 
 
 #### 13.1.2 Nomenclature of nitroalkanes
 
 In the IUPAC nomenclature, the nitroalkanes are named by adding prefix nitro before the name of alkane, the position of the nitro group is indicated by number.
-![](img13.3.png)
+![](image-20.png)
 #### 13.1.3 ISOMERISM
 
 Nitroalkanes exhibit chain and position isomerism among their own class and functional isomerism with alkyl nitrites and special type tautomerism can also exist in nitro alkanes having an \( \alpha \) - H atom. For example, nitro compounds having the molecular formula \( \mathrm{C_4H_9NO_2} \) exhibit the following isomerisms.
-![](img13.4.png)
+![](image-19.png)
 
 **Tautomerism:** Primary and secondary nitroalkanes, having \( \alpha \) - H, also show an equilibrium mixture of two tautomers namely nitro - and aci - form.
 ![](img13.5.png)
@@ -84,13 +83,13 @@ Tertiary nitro alkanes do not exhibit tautomerism due to absence of \( \alpha \)
 
 #### 13.1.4 Acidic nature of nitro alkanes
 
-The \( \alpha \) - H atom of \( 1^{\circ} \) & \( 2^{\circ} \) nitroalkanes show acidic character because of the electron withdrawing effect of \( \mathrm{NO_2} \) group. These are more acidic than aldehydes, ketones, ester and cyanides. Nitroalkanes dissolve in NaOH solution to form a salt. Aci - nitro derivatives are more acidic than nitro form. When the number of alkyl group attached to \( \alpha \) carbon increases, acidity decreases due to \( +I \) effect of alkyl groups.
+The \( \alpha \) - H atom of \( 1^{\circ} \) & \( 2^{\circ} \) nitroalkanes show acidic character because of the electron withdrawing effect of \( \mathrm{NO_2} \) group. These are more acidic than aldehydes, ketones, ester and cyanides. Nitroalkanes dissolve in NaOH solution to form a salt. Aci - nitro derivatives are more acidic than nitro form. When the number of alkyl group attached to \( \alpha \) carbon increases, acidity decreases. due to \( +I \) effect of alkyl groups.
 ![](img13.6.png)
-**Evaluate yourself**
-
-Write all possible isomers for the following compounds.
-
-\[
+>**Evaluate yourself**
+>
+ > Write all possible isomers for the following compounds.
+>
+>\[
 \mathrm{i)\ C_2H_5-NO_2 \qquad ii)\ C_3H_7-NO_2}
 \]
 
@@ -99,10 +98,9 @@ Write all possible isomers for the following compounds.
 **1) From alkyl halides: (Laboratory method)**
 
 a) Alkyl bromides (or) iodides on heating with ethanolic solution of potassium nitrite gives nitroethane.
-
-\(\mathrm{CH_3CH_2{-}Br + KNO_2 \xrightarrow[\mathrm{SN^2}]{\mathrm{ethanol}/\Delta} CH_3CH_2{-}NO_2 + KBr}\)
-
-\(\text{Ethyl bromide} \qquad\qquad\qquad\qquad\qquad\qquad \text{Nitroethane}\)
+$$
+\underset{\text{Ethyl bromide}}{\mathrm{CH_3CH_2-Br}} + \mathrm{KNO_2} \xrightarrow[\mathrm{SN^2}]{\text{ethanol}/\Delta} \underset{\text{Nitroethane}}{\mathrm{CH_3CH_2-NO_2}} + \mathrm{KBr}
+$$
 
 The reaction follows \( \mathrm{SN2} \) mechanism.
 
@@ -111,12 +109,14 @@ This method is not suitable for preparing nitrobenzene because the bromine direc
 **2) Vapour phase nitration of alkanes: (Industrial method)**
 
 Gaseous mixture of methane and nitric acid passed through a red hot metal tube to give nitromethane.
-
-\(\mathrm{CH_4(g) + HNO_3(g) \xrightarrow[\mathrm{Red\ hot\ Si\ tube}]{675\ K} CH_3{-}NO_2 + H_2O}\)
+$$
+\underset{\text{Methane}}{\mathrm{CH_{4(g)}}} + \mathrm{HNO_{3(g)}} \xrightarrow[\text{Red hot Si tube}]{675\text{ K}} \underset{\text{nitro methane}}{\mathrm{CH_3\text{-}NO_2}} + \mathrm{H_2O}
+$$
 
 Except methane, other alkanes (upto \( n \)-hexane) give a mixture of nitroalkanes due to C-C cleavage. The individual nitro alkanes can be separated by fractional distillation.
-
-$$\text{CH}_3\text{-CH}_3 + \text{HNO}_3 \xrightarrow{675\text{ K}} \underset{\text{Nitroethane}(73\%)}{\text{CH}_3\text{CH}_2\text{-NO}_2} + \underset{\text{Nitromethane (27\%)}}{\text{CH}_3\text{NO}_2}$$
+$$
+\underset{\text{Ethane}}{\mathrm{CH_3\text{-}CH_3}} + \mathrm{HNO_3} \xrightarrow{675\text{ K}} \underset{\text{Nitroethane}(73\%)}{\mathrm{CH_3CH_2\text{-}NO_2}} + \underset{\text{Nitromethane}(27\%)}{\mathrm{CH_3NO_2}}
+$$
 
 **3) From \( \alpha \)-halocarboxylic acid**
 
@@ -124,7 +124,14 @@ $$\text{CH}_3\text{-CH}_3 + \text{HNO}_3 \xrightarrow{675\text{ K}} \underset{\t
 
 $$\underset{\alpha\text{ - chloro acetic acid}}{\text{Cl - CH}_2\text{-COOH}} + \text{NaNO}_2 \xrightarrow[\text{SN2}]{\text{H}_2\text{O/Heat}} \underset{\text{Nitromethane}}{\text{CH}_3\text{-NO}_2} + \text{CO}_2 + \text{NaCl}$$
 
-![](img13.7.png)
+>**Evaluate yourself**
+>
+>**4) Find out the product of the following reactions.**
+>
+>i) $$\mathrm{CH_3CH(Cl)COOH} \xrightarrow[\text{ii) }\mathrm{H_2O}/\Delta]{\text{i) }\mathrm{NaNO_2}} \text{?[X]}$$
+>
+>ii) $$\mathrm{CH_3CH_2\text{-}Br + NaNO_2} \xrightarrow{\text{alcohol}/\Delta} \mathrm{[Y]}$$
+
 **4) Oxidation of tert-alkyl amines**
 
 tert-butyl amine is oxidised with aqueous \( \mathrm{KMnO_4} \) to give tert-nitro alkanes.
@@ -153,15 +160,15 @@ Nitration of nitrobenzene gives m-dinitrobenzene. The following method is adopte
 ![](img13.10.png)
 Amino group can be directly converted into nitro group, using caro’s acid  $(\text{H}_2\text{SO}_5)$  (or) persulphuric acid  $(\text{H}_2\text{S}_2\text{O}_8)$(or)peroxytrifluro acetic acid $(\text{F}_3\text{C.CO}_3\text{H})$ as oxidising agent. 
 ![](img13.11.png)
-#### 13.1.7 Physical properties of nitroalkanes
+#### 13.1.7 Physical properties of nitro alkanes
 
-The lower nitroalkanes are colourless pleasant smelling liquids, sparingly soluble in water, but readily soluble in organic solvents like benzene, acetone etc. They have high boiling points because of their highly polar nature. Alkyl nitrites have lower boiling points than nitro alkanes.
+The lower nitroalkanes are colourless pleasant smelling liquids, sparingly soluble in water, but readily soluble in organic solvents like benzene, acetone etc... They have high boiling points because of their highly polar nature. Alkyl nitrites have lower boiling points than nitro alkanes.
 
 #### 13.1.8 Chemical properties of nitroalkanes
 
 Nitroalkanes undergo the following common reactions.
 
-i. Reduction
+i. Reduction  
 ii. Hydrolysis
 iii. Halogenation
 
@@ -184,12 +191,9 @@ Ethyl nitrite on reduction with \( \mathrm{Sn/HCl} \) gives ethanol
 Hydrolysis can be effected using conc. HCl or conc. \( \mathrm{H_2SO_4} \). Primary nitroalkanes on hydrolysis gives carboxylic acid, and the secondary nitroalkanes give ketones. The tertiary nitroalkanes have no reaction.
 ![](img13.14.png)
 On the other hand, the acid or base hydrolysis of ethyl nitrite gives ethanol.
-
-
-$$\begin{aligned}
-&\text{CH}_3\text{CH}_2{\color{black}\boldsymbol{-}}\text{O}{\color{black}\boldsymbol{-}}\text{N=O} + \text{HOH} \xrightarrow[(\text{or) H}^+]{\text{OH}^-} \text{CH}_3\text{CH}_2{\color{black}\boldsymbol{-}}\text{OH} + \text{HNO}_2 \\
-&\underset{\text{\vphantom{Ethanol}}}{\text{Ethylnitrite}} \qquad\qquad\qquad\qquad\qquad\qquad\qquad\ \ \ \ \ \underset{\text{Ethanol}}{\text{}}
-\end{aligned}$$
+$$
+\underset{\text{Ethylnitrite}}{\mathrm{CH_3CH_2\text{-}O\text{-}N=O}} + \mathrm{HOH} \xrightarrow[(\text{or}) \text{ H}^+]{\mathrm{OH}^-} \underset{\text{Ethanol}}{\mathrm{CH_3CH_2\text{-}OH}} + \mathrm{HNO_2}
+$$
 
 **iii. Halogenation of nitroalkanes**
 
@@ -211,27 +215,45 @@ Nitrobenzene reduction with Ni (or) Pt, (or) \( \mathrm{LiAlH_4} \) gives anilin
 
 $$\text{C}_6\text{H}_5{\color{black}\boldsymbol{-}}\text{NO}_2 + 6\text{ [H]} \xrightarrow[(\text{or) LiAlH}_4]{\text{Ni (or) Pt / H}_2} \text{C}_6\text{H}_5{\color{black}\boldsymbol{-}}\text{NH}_2 + 2\text{ H}_2\text{O}$$
 
-**Selective reduction of polynitro compounds**
+Selective reduction of polynitro compounds
 ![](img13.18.png)
 **Electrophilic substitution reaction**
 
 The electrophilic substitution reactions of nitrobenzene are usually very slow and vigorous reaction condition have to be employed (-\( \mathrm{NO_2} \) group is strongly deactivating and m-directing).
 ![](img13.19.png)
 Nitrobenzene does not undergo Friedel-Crafts reactions due to the strong deactivating nature of -\( \mathrm{NO_2} \) group.
-![](img13.20.png)
+>**Evaluvate yourself**   Predict the major product that would be obtained on nitration of the following compounds
+>![](image-21.png)
 
 
 ### 13.2 Amines - Classification
 ![](img13.21.png)
 #### 13.2.1 Nomenclature
 
-**a) Common system:** In common system, an aliphatic amine is named by prefixing alkyl group to amine. The prefixes di-, tri-, and tetra-, are used to describe two, three (or) four same substituents.
+**a) Common system:** 
+In common system, an aliphatic amine is named by prefixing alkyl group to amine. The prefixes di-, tri-, and tetra-, are used to describe two, three (or) four same substituents.
 
 **b) IUPAC System:**
 ![](img13.22.png)
 ![](img13.23.png)
+>**Evaluate yourself**
+>
+>**Draw the structure of the following compounds**
+>
+>i. Neopentylamine  
+>ii. Tert – butylamine  
+>iii. $\alpha$-amino propionaldehyde  
+>iv. Tribenzylamine  
+>v. N – ethyl – N – methylhexan – 3- amine  
+>
+>**8) Give the correct IUPAC names for the following amines**
+>
+>i) $$\mathrm{CH_3 - CH_2 - CH_2 - \underset{\substack{\mid \\ NH_2}}{CH} - CH_3}$$
+>
+>ii) $$\mathrm{CH_3 - CH_2 - \underset{\substack{\mid \\ NH\,CH_3}}{CH} - CH_3}$$
+>![](image-22.png)
+>
 
-![](img13.24.png)
 #### 13.2.2 Structure of amines
 
 Like ammonia, nitrogen atom of amines is trivalent and carries a lone pair of electron and \( \mathrm{sp^3} \) hybridised, out of the four \( \mathrm{sp^3} \) hybridised orbitals of nitrogen, three \( \mathrm{sp^3} \) orbitals overlap with orbitals of hydrogen (or) alkyl groups of carbon, the fourth \( \mathrm{sp^3} \) orbital contains a lone pair of electron. Hence, amines possess pyramidal geometry. Due to presence of lone pair of electron C-N-H (or) C-N-C bond angle is less than the normal tetrahedral bond angle \( 109.5^{\circ} \). For example, the C-N-C bond angle of trimethylamine is \( 108^{\circ} \) which is lower than tetrahedral angle and higher than the H-N-H bond angle of \( 107^{\circ} \). This increase is due to the repulsion between the bulky methyl groups.
@@ -261,6 +283,8 @@ a) Reduction of amides with \( \mathrm{LiAlH_4} \) gives amines.
 b) **Hofmann's degradation reaction**
 
 When Amides are treated with bromine in the presence of aqueous or ethanolic solution of KOH, primary amines with one carbon atom less than the parent amides are obtained.
+
+**Example**
 ![](img13.28.png)
 
 
@@ -268,11 +292,11 @@ When Amides are treated with bromine in the presence of aqueous or ethanolic sol
 
 **a) Gabriel phthalimide synthesis**
 
-Gabriel synthesis is used for the preparation of Aliphatic primary amines. Phthalimide on treatment with ethanolic KOH forms potassium salt of phthalimide which on heating with alkyl halide followed by alkaline hydrolysis gives primary amine. Aniline cannot be prepared by this method because the aryl halides do not undergo nucleophilic substitution with the anion formed by phthalimide.
+Gabriel synthesis is used for the preparation of Aliphatic primary amines. Phthalimide on treatment with ethanolic KOH forms potassium salt of phthalimide which on heating with alkyl halide followed by alkaline hydrolysis gives primary amine. Aniline cannot be prepared by this method because the arylhalides do not undergo nucleophilic substitution with the anion formed by phthalimide.
 ![](img13.29.png)
 **b) Hofmann's ammonolysis**
 
-When Alkyl halides (or) benzyl halides are heated with alcoholic ammonia in a sealed tube, mixtures of \( 1^{\circ} \), \( 2^{\circ} \) and \( 3^{\circ} \) amines and quaternary ammonium salts are obtained.
+When Alkyl halides (or) benzylhalides are heated with alcoholic ammonia in a sealed tube, mixtures of \( 1^{\circ} \), \( 2^{\circ} \) and \( 3^{\circ} \) amines and quaternary ammonium salts are obtained.
 ![](img13.30.png)
 This is a nucleophilic substitution, the halide ion of alkyl halide is substituted by the \( -\mathrm{NH_2} \) group. The product primary amine so formed can also has a tendency to act as a nucleophile and hence if excess alkyl halide is taken, further nucleophilic substitution takes place leading to the formation of quarternary ammonium salt. However, if the process is carried out with excess ammonia, primary amine is obtained as the major product.
 
@@ -288,7 +312,7 @@ When chlorobenzene is heated with alcoholic ammonia, aniline is obtained.
 ![](img13.31.png)
 **5) Ammonolysis of hydroxyl compounds**
 
-a) When vapour of an alcohol and ammonia are passed over alumina, \( \mathrm{W_2O_5} \) (or) silica at \( 400^{\circ}C \), all types of amines are formed. This method is called Sabatier-Maillhe method.
+a) When vapour of an alcohol and ammonia are passed over alumina, \( \mathrm{W_2O_5} \) (or) silica at \( 400^{\circ}C \), all types of amines are formed. This method is called *Sabatier-Maillhe* method.
 ![](img13.32.png)
 
 b) Phenol reacts with ammonia at \( 300^{\circ}C \) in the presence of anhydrous \( \mathrm{ZnCl_2} \) to give aniline.
@@ -339,9 +363,7 @@ In the aqueous solutions, the following equilibrium exists and it lies far to th
 ![](img13.36.png)
 
 basicity constant
-\[
-K_b = \frac{[\mathrm{RNH_3^+}][\mathrm{OH^-}]}{[\mathrm{RNH_2}]}
-\]
+ \[K_b = \frac{\left[\text{R-}\overset{+}{\text{N}}\text{H}_3\right]\left[\text{OH}^-\right]}{\left[\text{R-}\text{NH}_2\right]}\]
 
 The basicity constant \( K_b \) gives a measure of the extent to which the amine accepts the hydrogen ion \( (H^+) \) from water.
 
@@ -355,7 +377,7 @@ We know that, larger the value of \( K_b \) or smaller the value of \( pK_b \), 
 
 The factors which increase the availability of electron pair on nitrogen for sharing with an acid will increase the basic character of an amine. When a \( +I \) group like an alkyl group is attached to the nitrogen, it increases the electron density on nitrogen which makes the electron pair readily available for protonation.
 
-Consider the reaction of an alkyl amine \( \text{R-NH}_2 \) with a proton.
+Consider the reaction of an alkyl amine (\(\text{R-}\ddot{\text{N}}\text{H}_2\) )with a proton.
 
 a) Hence alkyl amines are stronger bases than ammonia.
 ![](img13.37.png)
@@ -371,12 +393,14 @@ To compare the basicity of amines, the inductive effect, solvation effect, steri
 
 **Solvation effect**
 
-In the aqueous solution, the substituted ammonium cations get stabilized not only by electron releasing \( (+I) \) effect of the alkyl group but also by solvation with water molecules. The greater the size of the ion, lesser will be the solvation. The order of stability of the protonated amines is greater the size of the ion, lesser is the solvation and lesser is the stability. In case of secondary and tertiary amines, due to steric hindrance, the alkyl groups decrease the number of water molecules that can approach the protonated amine. Therefore the order of basicity is,
+In the aqueous solution, the substituted ammonium cations get stabilized not only by electron releasing \( (+I) \) effect of the alkyl group but also by solvation with water molecules. The greater the size of the ion, lesser will be the solvation. The order of stability of the protonated amines is greater the size of the ion, lesser is the solvation and lesser is the stability. In case of secondary and tertiary amines, due to steric hindrance, the alkyl groups decrease the number of water molecules that can approach the protonated amine. Therefore the order of basicity is
 ![](img13.38.png)
 
 Based on these effects we can conclude that the order of basic strength in case of alkyl substituted amines in aqueous solution is
 
-![](image-3.png)
+\((\text{CH}_3)_2\ddot{\text{N}}\text{H} > \text{CH}_3\text{-}\ddot{\text{N}}\text{H}_2 > (\text{CH}_3)_3\ddot{\text{N}} > \ddot{\text{N}}\text{H}_3\)
+
+\((\text{C}_2\text{H}_5)_2\ddot{\text{N}}\text{H} > (\text{C}_2\text{H}_5)_3\ddot{\text{N}} > \text{C}_2\text{H}_5\ddot{\text{N}}\text{H}_2 > \ddot{\text{N}}\text{H}_3\)
 
 The resultant of \( +I \) effect, steric effect and hydration effect cause the \( 2^{\circ} \) amine, more basic.
 
@@ -388,7 +412,7 @@ In case of substituted aniline, electron releasing groups like \( -\mathrm{CH_3}
 
 **Table: \( pK_b \)'s of substituted anilines (\( pK_b \) value of aniline is 9.376)**
 
-![](image-4.png)
+![](image-25.png)
 
 The relative basicity of amines follows the below mentioned order
 
@@ -403,6 +427,8 @@ Amines reacts with alkyl halides to give successively \( 2^{\circ} \) and \( 3^{
 **2) Acylation**
 
 Aliphatic / aromatic primary and secondary amines react with acetyl chloride (or) acetic anhydride in presence of pyridine to form N-alkyl acetamide.
+
+*Example*
 ![](img13.41.png)
 **3) Schotten-Baumann reaction**
 
@@ -448,7 +474,7 @@ These reactions are known as Hofmann-Mustard oil reaction. This test is used to 
 
 **7. Electrophilic substitution reactions in Aniline**
 
-The \( -\mathrm{NH_2} \) group is a strong activating group. In aniline the \( \mathrm{NH_2} \) group is directly attached to the benzene ring, the lone pair of electrons on the nitrogen is in conjugation with benzene ring which increases the electron density at ortho and para position, thereby facilitating the electrophilic attack at ortho and para positions.
+The\(-\ddot{\text{N}}\text{H}_2\) group is a strong activating group. In aniline the \( \mathrm{NH_2} \) group is directly attached to the benzene ring, the lone pair of electrons on the nitrogen is in conjugation with benzene ring which increases the electron density at ortho and para position, thereby facilitating the electrophilic attack at ortho and para positions.
 
 ![](image-5.png)
 
@@ -464,7 +490,7 @@ The acetylamino group is thus less activating than the amino group in electrophi
 
 **ii) Nitration**
 
-Direct nitration of aniline gives o- and p-nitroaniline along with dark coloured 'tars' due to oxidation. Moreover in a strong acid medium aniline is protonated to form anilinium ion which is m-directing and hence m-nitroaniline is also formed.
+Direct nitration of aniline gives o and p-nitroaniline along with dark coloured 'tars' due to oxidation. Moreover in a strong acid medium aniline is protonated to form anilinium ion which is m-directing and hence m-nitroaniline is also formed.
 ![](img13.52.png)
 To get para product, the \( -\mathrm{NH_2} \) group is protected by acetylation with acetic anhydride. Then, the nitrated product is hydrolysed to form the product.
 ![](img13.53.png)
@@ -474,7 +500,7 @@ Aniline reacts with Conc. \( \mathrm{H_2SO_4} \) to form anilinium hydrogen sulp
 ![](img13.54.png)
 **iv) Aniline**
 
-It does not undergo Friedel-Crafts reaction (alkylation and acetylation). We know aniline is basic in nature and it donates its lone pair to the Lewis acid \( \mathrm{AlCl_3} \) to form an adduct which inhibits further the electrophilic substitution reaction.
+It does not undergo Friedel-Crafts reaction (alkylation and acetylation) we know aniline is basic in nature and it donates its lone pair to the Lewis acid \( \mathrm{AlCl_3} \) to form an adduct which inhibits further the electrophilic substitution reaction.
 
 
 ### 13.3 DIAZONIUM SALTS
@@ -506,7 +532,7 @@ A. Replacement reactions involving loss of nitrogen
 
 In these reactions diazonium group is replaced by nucleophiles such as \( \mathrm{X, CN, H, OH} \) etc.
 
-B. Reactions involving retention of diazo group (Coupling reaction).
+B. Reactions involving retention of diazogroup (Coupling reaction).
 
 **A. Replacement reactions involving loss of nitrogen**
 
@@ -565,7 +591,7 @@ Certain reducing agents like \( \mathrm{SnCl_2/HCl} \); Zn dust/\( \mathrm{CH_3C
 ![](img13.65.png)
 **10. Coupling reactions**
 
-Benzene diazonium chloride reacts with electron rich aromatic compounds like phenol, aniline to form brightly coloured azo compounds. Coupling generally occurs at the para position. If para position is occupied then coupling occurs at the ortho position. Coupling tendency is enhanced if an electron donating group is present at the para-position to \( -\mathrm{N_2^+Cl^-} \) group. This is an electrophilic substitution.
+Benzene diazonium chloride reacts with electron rich aromatic compounds like phenol, aniline to form brightly coloured azo compounds. Coupling generally occurs at the para position. If para position is occupied then coupling occurs at the ortho position. Coupling tendency is enhanced if an electron donating group is present at the para-position to \(-\overset{+}{\text{N}}_2\text{Cl}^- \)group. This is an electrophilic substitution.
 ![](img13.66.png)
 Aryl fluorides and iodides cannot be prepared by direct halogenation and the cyano group cannot be introduced by nucleophilic substitution of chlorine in chlorobenzene. For introducing such a halide group, cyano group -OH, \( \mathrm{NO_2} \) etc., benzenediazonium chloride is a very good intermediate. Diazo compounds obtained from the coupling reactions of diazonium salts are coloured and are used as dyes.
 
@@ -577,7 +603,7 @@ Aryl fluorides and iodides cannot be prepared by direct halogenation and the cya
 
 These are the derivatives of hydrocyanic acid (HCN), and is known to exist in two tautomeric forms
 ![](img13.67.png)
-Two types of alkyl derivatives can be obtained. Those derived by replacement of H-atom of hydrogen cyanide by the alkyl groups are known as alkyl cyanides \( \mathrm{(R-C\equiv N)} \). and those obtained by the replacement of H-atom of hydrogen isocyanide are known as alkyl isocyanides \( \mathrm{(R-N\equiv C)} \).
+Two types of alkyl derivatives can be obtained. Those derived by replacement of H-atom of hydrogen cyanide by the alkyl groups are known as alkyl cyanides \( \mathrm{(R-C\equiv N)} \). and those obtained by the replacement of H-atom of hydrogen isocyanide are known as alkyl isocyanides\((\text{R-N}\mathrel{\vec{\equiv}}\text{C})\).
 
 In IUPAC system, alkyl cyanides are named as "alkanenitriles" whereas aryl cyanides as "arenecarbonitrile".
 
@@ -601,6 +627,8 @@ They have higher boiling points than analogous acetylenes due to their high dipo
 **1. Hydrolysis**
 
 On boiling with alkali (or) a dilute mineral acid, the cyanides are hydrolysed to give carboxylic acids.
+
+*for exmaple*
 ![](img13.70.png)
 **2. Reduction**
 
@@ -672,11 +700,11 @@ Ethyl bromide on heating with ethanolic solution of AgCN give ethyl isocyanide a
 1. Alkyl cyanides are important intermediates in the organic synthesis of larger number of compounds like acids, amides, esters, amines etc.
 2. Nitriles are used in textile industry in the manufacture of nitrile rubber and also as a solvent particularly in perfume industry.
 
-**Do You Know**
-
-**Cancer Drug:** Mitomycin C, an anticancer agent used to treat stomach and colon cancer, contains an aziridine ring. The aziridine functional group participates in the drug's degradation by DNA, resulting in the death of cancerous cells.
-
-![](image-6.png)
+>**Do You Know**
+>
+>**Cancer Drug:** Mitomycin C, an anticancer agent used to treat stomach and colon cancer, contains an aziridine ring. The aziridine functional group participates in the drug's degradation by DNA, resulting in the death of cancerous cells.
+>
+>![](image-6.png)
 
 
 
