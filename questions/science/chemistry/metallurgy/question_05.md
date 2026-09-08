@@ -1,17 +1,17 @@
 ---
 choices:
-  - Foam - mist
-  - Emulsion - smoke
-  - Sol - whipped cream
-  - Gel - butter
+  - Combines with proton to form water molecule
+  - Contains replaceable H⁺ ion
+  - Accepts OH⁻ from water, releasing proton
+  - Gives up a proton
 answers:
-  - Gel - butter
+  - Gives up a proton
 tags:
-  - '2023'
+  - '2025'
 ---
 
-Which one is correctly matched?
+Beer's acid because its molecule:
 
 ```markdown
-Butter is an example of a gel-type colloidal system. The other pairs do not represent the correct dispersed phase and dispersion medium combinations.
+According to the Brønsted-Lowry concept, an acid is a proton donor; it gives up a proton.
 ```

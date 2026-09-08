@@ -1,17 +1,17 @@
 ---
 choices:
-  - +4
-  - +2
-  - +6
-  - +3
+  - 8 and 4
+  - 4 and 2
+  - 4 and 8
+  - 6 and 6
 answers:
-  - +3
+  - 8 and 4
 tags:
-  - '2023'
+  - '2025'
 ---
 
-The most common oxidation state of Actinoids is:
+In calcium fluoride, having the fluorite structure, the coordination number of Ca²⁺ ion and F⁻ ion are:
 
 ```markdown
-Although actinoids show several oxidation states, +3 is the most common oxidation state.
+In the fluorite structure of CaF₂, each Ca²⁺ is surrounded by 8 F⁻ ions and each F⁻ is surrounded by 4 Ca²⁺ ions.
 ```

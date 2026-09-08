@@ -1,17 +1,17 @@
 ---
 choices:
-  - Assertion is true but Reason is false.
-  - Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion.
-  - Both Assertion and Reason are false.
-  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion.
+  - Sequence of α-amino acids
+  - Fixed configuration of the polypeptide backbone
+  - α-helical backbone
+  - Hydrophobic interaction
 answers:
-  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion.
+  - Fixed configuration of the polypeptide backbone
 tags:
-  - '2023'
+  - '2025'
 ---
 
-Assertion: Hex-4-ennitrile on reaction with Di-isobutyl aluminium hydride followed by Hydrolysis gives Hex-4-enal. Reason: Di-isobutyl aluminium hydride is a selective reducing agent.
+The secondary structure of a protein refers to:
 
 ```markdown
-DIBAL-H is a selective reducing agent that can partially reduce nitriles to aldehydes after hydrolysis. Therefore hex-4-enenitrile gives hex-4-enal.
+Secondary structure refers to local regular folding of the polypeptide backbone, such as α-helices and β-pleated sheets, stabilized mainly by hydrogen bonding.
 ```

@@ -1,17 +1,17 @@
 ---
 choices:
-  - Curved plot of ln k vs 1/T
-  - Straight line with negative slope for log k vs 1/T
-  - Straight line with positive slope for ln k vs 1/T
-  - Both (B) and (C)
+  - 4-nitrophenol
+  - 2-nitrophenol
+  - 3-nitrophenol
+  - 4-chlorophenol
 answers:
-  - Straight line with negative slope for log k vs 1/T
+  - 4-nitrophenol
 tags:
-  - '2021'
+  - '2025'
 ---
 
-Among the following graphs showing variation of rate constant with temperature (T) for a reaction, the one that exhibits Arrhenius behaviour over the entire temperature range is:
+Which one of the following is the strongest acid?
 
 ```markdown
-From log k = log A − Ea/(2.303R)(1/T), log k versus 1/T is a straight line with negative slope.
+The nitro group strongly withdraws electrons and stabilizes the phenoxide ion. Para-nitrophenol is strongly acidic among the given choices due to effective resonance stabilization.
 ```

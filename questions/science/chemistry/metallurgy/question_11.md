@@ -1,17 +1,17 @@
 ---
 choices:
-  - ZnO
-  - NaCl
-  - KCl
-  - FeO
+  - +4
+  - +2
+  - +6
+  - +3
 answers:
-  - FeO
+  - +2
 tags:
-  - '2021'
+  - '2025'
 ---
 
-The crystal with a metal deficiency defect is:
+What is the oxidation number of the central metal ion in the complex [Pt(NO₂)(H₂O)(NH₃)₂]Br?
 
 ```markdown
-FeO commonly exhibits metal deficiency due to cation vacancies and the presence of some Fe³⁺ ions.
+The complex cation has charge +1 because Br⁻ is outside. NO₂⁻ contributes −1 while H₂O and NH₃ are neutral. Thus x − 1 = +1, giving Pt oxidation state x = +2.
 ```

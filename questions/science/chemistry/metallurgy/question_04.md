@@ -1,17 +1,17 @@
 ---
 choices:
-  - [CoCl₆]⁴⁻
-  - TiCl₄
-  - [Cu(NH₃)₄]²⁺
-  - [Ni(CN)₄]²⁻
+  - N-methylaniline
+  - Nitrobenzene
+  - N,N-dimethyl aniline
+  - Aniline
 answers:
-  - [Cu(NH₃)₄]²⁺
+  - N-methylaniline
 tags:
-  - '2023'
+  - '2025'
 ---
 
-A magnetic moment of 1.73 BM will be shown by one among the following:
+The compound that reacts with nitrous acid to give yellow oily liquid is:
 
 ```markdown
-A magnetic moment of 1.73 BM corresponds to one unpaired electron. Cu²⁺ is a d⁹ ion with one unpaired electron.
+Secondary aromatic amines react with nitrous acid to form N-nitrosoamines, which are typically yellow oily liquids.
 ```
