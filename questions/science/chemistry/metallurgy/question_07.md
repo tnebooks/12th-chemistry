@@ -1,17 +1,17 @@
 ---
 choices:
-  - Heptane-1,7-diamine
-  - Hexamethylene diamine
-  - Hexane-1,6-amine
-  - Hexane-1,6-diamine
+  - sp²
+  - sp³
+  - sp³d
+  - sp
 answers:
-  - Hexane-1,6-diamine
+  - sp²
 tags:
-  - '2021'
+  - '2023'
 ---
 
-IUPAC name for the amine H₂N-CH₂-(CH₂)₄-CH₂-NH₂ is:
+Carbon atoms in Fullerene with formula C₆₀ have ________ hybridisation.
 
 ```markdown
-The molecule has a six-carbon chain with amino groups at positions 1 and 6.
+Each carbon atom in C₆₀ fullerene is approximately sp² hybridised and participates in three sigma bonds with a delocalized π-electron system.
 ```

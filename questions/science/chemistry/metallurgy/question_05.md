@@ -1,17 +1,17 @@
 ---
 choices:
-  - Neutral
-  - Slight acidic
-  - Basic
-  - Strongly acidic
+  - Foam - mist
+  - Emulsion - smoke
+  - Sol - whipped cream
+  - Gel - butter
 answers:
-  - Strongly acidic
+  - Gel - butter
 tags:
-  - '2021'
+  - '2023'
 ---
 
-The pH of an aqueous solution is zero. The solution is:
+Which one is correctly matched?
 
 ```markdown
-A pH of 0 indicates a very high hydrogen-ion concentration, so the solution is strongly acidic.
+Butter is an example of a gel-type colloidal system. The other pairs do not represent the correct dispersed phase and dispersion medium combinations.
 ```
