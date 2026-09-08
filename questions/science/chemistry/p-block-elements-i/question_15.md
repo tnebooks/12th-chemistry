@@ -1,17 +1,17 @@
 ---
 choices:
-  - Liquid in gas
-  - Solid in gas
-  - Gas in liquid
-  - Gas in gas
+  - Enzymes
+  - Antagonists
+  - Molecular targets
+  - Agonists
 answers:
-  - Liquid in gas
+  - Antagonists
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Fog is colloidal solution of:
+Drugs that bind to the receptor site and inhibit its natural function are called ________.
 
 ```markdown
-Fog consists of tiny liquid water droplets dispersed in air, so it is a liquid-in-gas aerosol.
+Antagonists bind to receptors and block or inhibit the normal biological response.
 ```

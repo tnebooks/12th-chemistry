@@ -1,17 +1,17 @@
 ---
 choices:
-  - Charge required to deposit one mole of substance
-  - Charge carried by 1 electron
-  - Charge carried by 6.22 × 10¹⁰ electrons
-  - Charge carried by one mole of electrons
+  - Hexamethylene tetramine
+  - Formaldehyde
+  - Oxime
+  - Diacetone ammonia
 answers:
-  - Charge carried by one mole of electrons
+  - Hexamethylene tetramine
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Faraday constant is defined as:
+CH₂=CH₂ → X → Y, where CH₂=CH₂ is treated with (i) O₃ (ii) Zn/H₂O, followed by NH₃. Y is:
 
 ```markdown
-One Faraday is the total electric charge carried by one mole of electrons, approximately 96485 C mol⁻¹.
+Ozonolysis of ethene gives formaldehyde, which reacts with ammonia to form hexamethylenetetramine.
 ```

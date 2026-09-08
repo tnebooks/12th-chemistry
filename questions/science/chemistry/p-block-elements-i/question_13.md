@@ -1,17 +1,17 @@
 ---
 choices:
-  - Proline
-  - Alanine
-  - Glycine
-  - Leucine
+  - C₆H₅CHO
+  - C₆H₅OH
+  - C₆H₅NH₂
+  - C₆H₅CH₂OH
 answers:
-  - Glycine
+  - C₆H₅OH
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Which of the following amino acids are achiral?
+C₆H₅NO₂ → A → B → C, where the reagents are Sn/HCl, then NaNO₂/HCl at 273 K, followed by H₂O at 283 K. C is:
 
 ```markdown
-Glycine has two hydrogen atoms attached to its α-carbon, so it lacks a chiral centre.
+Nitrobenzene is reduced to aniline, diazotized, and hydrolyzed to phenol.
 ```

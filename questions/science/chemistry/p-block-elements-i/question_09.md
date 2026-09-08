@@ -1,17 +1,17 @@
 ---
 choices:
-  - Hydrogenation of oil
-  - Manufacture of ammonia by Haber's process
-  - Hydrolysis of sucrose in presence of dil. HCl
-  - Manufacture of sulphuric acid by Contact process
+  - 0.086 S cm² mol⁻¹
+  - 2.88 S cm² mol⁻¹
+  - 28.8 S cm² mol⁻¹
+  - 11.52 S cm² mol⁻¹
 answers:
-  - Hydrolysis of sucrose in presence of dil. HCl
+  - 11.52 S cm² mol⁻¹
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Which one of the following is an example for homogeneous catalysis?
+The molar conductivity of a 0.5 mol dm⁻³ solution of AgNO₃ with specific conductance 5.76 × 10⁻³ S cm⁻¹ at 298 K is:
 
 ```markdown
-In homogeneous catalysis, catalyst and reactants are in the same phase. Here both sucrose and dilute HCl are in aqueous solution.
+Λm = κ × 1000/C = (5.76 × 10⁻³ × 1000)/0.5 = 11.52 S cm² mol⁻¹.
 ```

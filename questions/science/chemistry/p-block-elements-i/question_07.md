@@ -1,17 +1,17 @@
 ---
 choices:
-  - HPO₄²⁻
-  - HCl
-  - Br⁻
-  - SO₄²⁻
+  - 1/8 g
+  - 1/2 g
+  - 1/16 g
+  - 1/4 g
 answers:
-  - HPO₄²⁻
+  - 1/16 g
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Which of the following can act as Lowry-Bronsted acid as well as base?
+The half-life period of a radioactive element is 140 days. After 560 days 1 g of element will be reduced to:
 
 ```markdown
-HPO₄²⁻ is amphiprotic: it can donate H⁺ to form PO₄³⁻ or accept H⁺ to form H₂PO₄⁻.
+560 days corresponds to 4 half-lives. Remaining mass = 1 × (1/2)^4 = 1/16 g.
 ```
