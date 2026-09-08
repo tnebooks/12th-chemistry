@@ -1,17 +1,17 @@
 ---
 choices:
-  - Dark blue colour
-  - Red colour
-  - No colour
-  - Violet colour
+  - CH₃COCl
+  - AgCl
+  - CH₃Cl
+  - HCl
 answers:
-  - Violet colour
+  - HCl
 tags:
-  - '2021'
+  - '2023'
 ---
 
-On reacting with neutral Ferric Chloride, Phenol gives:
+Which one of the following will cause common-ion-effect when added to the following dissociation?
 
 ```markdown
-Phenol reacts with neutral ferric chloride to form a violet-coloured complex.
+CH₃COOH ⇌ CH₃COO⁻ + H⁺. Adding HCl increases the concentration of the common ion H⁺ and suppresses the ionization of acetic acid.
 ```

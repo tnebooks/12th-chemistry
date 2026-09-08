@@ -1,17 +1,17 @@
 ---
 choices:
-  - Coagulation
-  - Cataphoresis
-  - Tyndall effect
-  - Electrophoresis
+  - Tranquilizer
+  - Analgesic
+  - Antacid
+  - Anaesthetic
 answers:
-  - Tyndall effect
+  - Antacid
 tags:
-  - '2021'
+  - '2023'
 ---
 
-The phenomenon observed when a beam of light is passed through a colloidal solution is:
+Milk of Magnesia is used as ________.
 
 ```markdown
-The scattering of light by colloidal particles, making the path of a light beam visible, is called the Tyndall effect.
+Milk of Magnesia is magnesium hydroxide, Mg(OH)₂. It neutralizes excess hydrochloric acid in the stomach and is therefore used as an antacid.
 ```

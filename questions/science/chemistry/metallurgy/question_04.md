@@ -1,17 +1,17 @@
 ---
 choices:
-  - Cytosine and Thiamine
-  - Cytosine and Adenine
-  - Cytosine and Uracil
-  - Cytosine and Guanine
+  - [CoCl₆]⁴⁻
+  - TiCl₄
+  - [Cu(NH₃)₄]²⁺
+  - [Ni(CN)₄]²⁻
 answers:
-  - Cytosine and Thiamine
+  - [Cu(NH₃)₄]²⁺
 tags:
-  - '2021'
+  - '2023'
 ---
 
-The pyrimidine bases present in DNA are:
+A magnetic moment of 1.73 BM will be shown by one among the following:
 
 ```markdown
-DNA contains the pyrimidine bases cytosine and thymine; the option uses 'Thiamine' as a spelling variant/error.
+A magnetic moment of 1.73 BM corresponds to one unpaired electron. Cu²⁺ is a d⁹ ion with one unpaired electron.
 ```

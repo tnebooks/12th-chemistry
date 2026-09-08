@@ -1,17 +1,17 @@
 ---
 choices:
-  - Zone refining
-  - Liquation
-  - Mond's process
-  - Van Arkel process
+  - Entropy
+  - Internal energy
+  - Activation energy
+  - Enthalpy
 answers:
-  - Van Arkel process
+  - Activation energy
 tags:
-  - '2021'
+  - '2023'
 ---
 
-The following set of reactions are used in refining Zirconium. This method is called as ________.
+The addition of a catalyst during a chemical reaction alters which of the following quantities?
 
 ```markdown
-In the Van Arkel (iodide) process, impure zirconium forms volatile ZrI₄, which decomposes at high temperature to deposit pure zirconium.
+A catalyst provides an alternative reaction pathway with lower activation energy. It does not change the overall enthalpy, entropy, or internal energy of the reaction.
 ```

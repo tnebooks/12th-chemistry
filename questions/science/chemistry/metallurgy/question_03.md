@@ -1,17 +1,17 @@
 ---
 choices:
-  - (1)-(iv), (2)-(iii), (3)-(ii), (4)-(i)
-  - (1)-(iii), (2)-(i), (3)-(ii), (4)-(iv)
-  - (1)-(ii), (2)-(i), (3)-(iv), (4)-(iii)
-  - (1)-(iii), (2)-(iv), (3)-(i), (4)-(ii)
+  - Cu
+  - Al
+  - Zn
+  - Ni
 answers:
-  - (1)-(iii), (2)-(iv), (3)-(i), (4)-(ii)
+  - Al
 tags:
-  - '2021'
+  - '2023'
 ---
 
-Match the following: Emulsion, Gel, Foam, Sol with Whipped Cream, Ink, Cream, Butter.
+The metal extracted by Hall-Heroult process is:
 
 ```markdown
-Emulsion → Cream, Gel → Butter, Foam → Whipped cream, and Sol → Ink.
+The Hall-Heroult process is the electrolytic reduction of alumina dissolved in molten cryolite for the extraction of aluminium.
 ```

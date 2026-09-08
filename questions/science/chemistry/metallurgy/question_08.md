@@ -1,17 +1,17 @@
 ---
 choices:
-  - 6.022 × 10²²
-  - 6.22 × 10²³
-  - 6.022 × 10⁻³⁴
-  - 6.022 × 10²⁴
+  - +4
+  - +2
+  - +6
+  - +3
 answers:
-  - 6.022 × 10²²
+  - +3
 tags:
-  - '2021'
+  - '2023'
 ---
 
-The number of electrons that have a total charge of 9650 Coulombs is:
+The most common oxidation state of Actinoids is:
 
 ```markdown
-Number of electrons = Q/e = 9650/(1.602 × 10⁻¹⁹) ≈ 6.02 × 10²².
+Although actinoids show several oxidation states, +3 is the most common oxidation state.
 ```
