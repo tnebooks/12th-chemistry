@@ -1,17 +1,17 @@
 ---
 choices:
-  - sp²
-  - sp³
-  - sp³d
-  - sp
+  - Assertion is true but Reason is false
+  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion
+  - Both Assertion and Reason are false
+  - Both Assertion and Reason are true but Reason is not the correct explanation of Assertion
 answers:
-  - sp²
+  - Both Assertion and Reason are false
 tags:
-  - '2023'
+  - '2025'
 ---
 
-Carbon atoms in Fullerene with formula C₆₀ have ________ hybridisation.
+Assertion: Bond dissociation energy of Fluorine is greater than Chlorine gas. Reason: Chlorine has more electronic repulsion than Fluorine.
 
 ```markdown
-Each carbon atom in C₆₀ fullerene is approximately sp² hybridised and participates in three sigma bonds with a delocalized π-electron system.
+The F–F bond has lower bond dissociation energy than Cl–Cl because of strong lone-pair repulsions in the small fluorine atoms. Hence both statements are false.
 ```

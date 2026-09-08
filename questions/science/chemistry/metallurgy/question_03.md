@@ -1,17 +1,17 @@
 ---
 choices:
-  - Cu
-  - Al
-  - Zn
-  - Ni
+  - Chloroethene
+  - Ethane
+  - 1,1,2,2-tetrafluoroethane
+  - Prop-2-enenitrile
 answers:
-  - Al
+  - 1,1,2,2-tetrafluoroethane
 tags:
-  - '2023'
+  - '2025'
 ---
 
-The metal extracted by Hall-Heroult process is:
+Non-stick cookwares generally have a coating of a polymer, whose monomer is:
 
 ```markdown
-The Hall-Heroult process is the electrolytic reduction of alumina dissolved in molten cryolite for the extraction of aluminium.
+Non-stick cookware uses PTFE (Teflon), whose monomer is tetrafluoroethene. The option appears to intend the fluorinated monomer.
 ```

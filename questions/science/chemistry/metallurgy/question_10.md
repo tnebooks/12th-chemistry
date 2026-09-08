@@ -1,17 +1,17 @@
 ---
 choices:
-  - Poly propylene
-  - Butan-1-al
-  - Acetic acid
-  - Acetate
+  - 1.00 × 10⁻¹⁴
+  - 1.14 × 10⁻¹⁵
+  - 2.71 × 10⁻¹⁴
+  - 2.95 × 10⁻¹⁵
 answers:
-  - Acetic acid
+  - 2.71 × 10⁻¹⁴
 tags:
-  - '2021'
+  - '2025'
 ---
 
-CH₃CHO + CO → ? (Rh/Ir complex)
+At 25°C, ionic product constant Kw of water is 1.00 × 10⁻¹⁴. Its value at 40°C is:
 
 ```markdown
-Carbonylation of acetaldehyde in the presence of suitable Rh/Ir catalysts gives acetic acid.
+Ionization of water is endothermic, so Kw increases with temperature. At 40°C, Kw is approximately 2.71 × 10⁻¹⁴.
 ```

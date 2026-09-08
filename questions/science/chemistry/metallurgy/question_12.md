@@ -1,17 +1,17 @@
 ---
 choices:
-  - Iodoform test
-  - Tollen's test
-  - Fehling solution test
-  - Victor Meyer test
+  - 6.022 × 10²²
+  - 6.22 × 10²³
+  - 6.022 × 10⁻³⁴
+  - 6.022 × 10²⁴
 answers:
-  - Victor Meyer test
+  - 6.022 × 10²²
 tags:
-  - '2021'
+  - '2025'
 ---
 
-In the following reaction, HC≡CH is treated with H₂SO₄ and HgSO₄ to give product X. Product X will not give:
+The number of electrons that have a total charge of 9650 coulombs is:
 
 ```markdown
-Hydration of ethyne gives ethanal. Ethanal gives iodoform, Tollens', and Fehling's tests; Victor Meyer test applies to alcohol classification.
+Number of electrons = Q/e = 9650/(1.602 × 10⁻¹⁹) ≈ 6.02 × 10²² electrons.
 ```

@@ -1,17 +1,17 @@
 ---
 choices:
-  - CH₃COCl
-  - AgCl
-  - CH₃Cl
-  - HCl
+  - (iii) > (ii) > (i) > (iv)
+  - (i) > (ii) > (iii) > (iv)
+  - (ii) > (i) > (iv) > (iii)
+  - None of these
 answers:
-  - HCl
+  - (iii) > (ii) > (i) > (iv)
 tags:
-  - '2023'
+  - '2025'
 ---
 
-Which one of the following will cause common-ion-effect when added to the following dissociation?
+In an electrical field, new to a colloidal system move towards cathode. The coagulation of the same sol is studied using (i) K₂SO₄, (ii) Na₃PO₄, (iii) K₄[Fe(CN)₆] and (iv) NaCl. Their coagulating power should be:
 
 ```markdown
-CH₃COOH ⇌ CH₃COO⁻ + H⁺. Adding HCl increases the concentration of the common ion H⁺ and suppresses the ionization of acetic acid.
+Particles moving towards the cathode are positively charged, so anions cause coagulation. By the Hardy-Schulze rule, higher anion charge gives greater coagulating power: [Fe(CN)₆]⁴⁻ > PO₄³⁻ > SO₄²⁻ > Cl⁻.
 ```
