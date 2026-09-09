@@ -1,17 +1,17 @@
 ---
 choices:
-  - Al₂O₃·nH₂O
-  - Fe₂O₃·2H₂O
-  - Al₂O₃
-  - None of the above
+  - In < Tl < Ga < Al
+  - Al < Ga < In < Tl
+  - Ga < In < Al < Tl
+  - Tl < In < Ga < Al
 answers:
-  - Al₂O₃·nH₂O
+  - Al < Ga < In < Tl
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Bauxite has the composition:
++1 oxidation state increases in the sequence ________.
 
 ```markdown
-Bauxite is hydrated aluminium oxide, commonly represented as Al₂O₃·nH₂O.
+Due to the inert pair effect, the stability of the +1 oxidation state increases down group 13: Al < Ga < In < Tl.
 ```

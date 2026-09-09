@@ -1,17 +1,17 @@
 ---
 choices:
-  - 35 minutes
-  - 20 minutes
-  - 75 minutes
-  - 30 minutes
+  - XeO₃
+  - XeOF₄
+  - XeO₂
+  - XeO₂F₂
 answers:
-  - 30 minutes
+  - XeO₃
 tags:
-  - '2022'
+  - '2026'
 ---
 
-If 75% of a first order reaction was completed in 60 min, 50% of the same reaction under the same conditions would be completed in:
+The compound XeF₆ on complete hydrolysis produces:
 
 ```markdown
-For a first-order reaction, 75% completion means 25% remains. Thus 60 = 2t₁/₂, so t₁/₂ = 30 minutes. Fifty percent completion occurs in one half-life.
+Complete hydrolysis of XeF₆ produces XeO₃ and HF.
 ```

@@ -1,17 +1,17 @@
 ---
 choices:
-  - K₄[Fe(CN)₆]
-  - [Fe(CN)₃(NH₃)₃]
-  - [Fe(CO)₅]
-  - Both (B) and (C)
+  - Assertion is true but Reason is false.
+  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion.
+  - Both Assertion and Reason are false.
+  - Both Assertion and Reason are true but Reason is not the correct explanation of Assertion.
 answers:
-  - [Fe(CO)₅]
+  - Both Assertion and Reason are false.
 tags:
-  - '2022'
+  - '2026'
 ---
 
-A complex in which the oxidation number of the metal is zero is:
+Assertion: Due to Frenkel defect, density of the crystalline solid decreases. Reason: In Frenkel defect, cation and anion leave the crystal.
 
 ```markdown
-Carbon monoxide is a neutral ligand and Fe(CO)₅ is a neutral complex; therefore the oxidation state of Fe is zero.
+In Frenkel defect, a cation moves to an interstitial site. No ions leave the crystal, so density remains unchanged.
 ```

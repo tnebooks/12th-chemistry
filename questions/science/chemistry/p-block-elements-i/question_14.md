@@ -1,17 +1,17 @@
 ---
 choices:
-  - ZnO
-  - NaCl
-  - KCl
-  - FeO
+  - Enantiomers
+  - Epimers
+  - Conformational isomers
+  - Anomers
 answers:
-  - FeO
+  - Anomers
 tags:
-  - '2022'
+  - '2026'
 ---
 
-The crystal with a metal deficiency defect is:
+α-D-(+) Glucose and β-D-(+) Glucose are:
 
 ```markdown
-FeO commonly exhibits metal deficiency due to cation vacancies and the presence of some Fe³⁺ ions.
+They differ in configuration at the anomeric carbon atom, so they are anomers.
 ```

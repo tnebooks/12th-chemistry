@@ -1,17 +1,17 @@
 ---
 choices:
-  - +5
-  - +4
-  - +3
-  - +2
+  - 1-chloropropane
+  - Ethyl chloride
+  - 2-chloro-2-methyl propane
+  - 2-chloropropane
 answers:
-  - +3
+  - 2-chloropropane
 tags:
-  - '2022'
+  - '2026'
 ---
 
-Which of the following oxidation states is most common among the lanthanoids?
+Propan-2-ol on reaction with anhydrous ZnCl₂ and concentrated HCl gives ________.
 
 ```markdown
-The most common and stable oxidation state of lanthanoid elements is +3.
+Lucas reagent converts propan-2-ol into 2-chloropropane.
 ```

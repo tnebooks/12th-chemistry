@@ -1,17 +1,17 @@
 ---
 choices:
-  - Methanal
-  - Methanoic acid
-  - CO₂
-  - Glyoxal
+  - 0
+  - 3
+  - 15
+  - 4
 answers:
-  - Methanal
+  - 3
 tags:
-  - '2022'
+  - '2026'
 ---
 
-HO-CH₂-CH₂-OH on heating with periodic acid gives:
+How many geometrical isomers are possible for [Pt(Py)(NH₃)(Br)(Cl)]?
 
 ```markdown
-Periodic acid cleaves vicinal diols. Ethylene glycol gives two molecules of methanal.
+For a square-planar complex [Mabcd] with four different monodentate ligands, three geometrical isomers are possible.
 ```

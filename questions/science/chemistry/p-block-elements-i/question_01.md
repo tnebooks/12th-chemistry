@@ -1,17 +1,17 @@
 ---
 choices:
-  - 1s² 2s² 2p⁶ 3s² 3p²
-  - 1s² 2s² 2p⁴
-  - 1s² 2s² 2p⁶ 3s² 3p³
-  - 1s² 2s² 2p³
+  - Sodium
+  - Iron
+  - Silver
+  - Lead
 answers:
-  - 1s² 2s² 2p⁶ 3s² 3p³
+  - Sodium
 tags:
-  - '2022'
+  - '2026'
 ---
 
-An element belongs to group-15 and 3rd period of the periodic table. Its electronic configuration would be:
+Electrochemical cell is used in the extraction of which of the following element?
 
 ```markdown
-The element is phosphorus (Z = 15), which belongs to group 15 and period 3. Its configuration is [Ne]3s²3p³.
+Sodium is extracted by electrolysis of fused sodium chloride using an electrolytic cell.
 ```

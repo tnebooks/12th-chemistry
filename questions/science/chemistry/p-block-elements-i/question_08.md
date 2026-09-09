@@ -1,17 +1,17 @@
 ---
 choices:
-  - Basic
-  - Neutral
-  - Amphoteric
-  - Acidic
+  - pH = 7 - 1/2 pKa - 1/2 log C
+  - pH = 7 - 1/2 pKa + 1/2 log C
+  - pH = 7 + 1/2 pKa + 1/2 log C
+  - pH = 7 + 1/2 pKa - 1/2 log C
 answers:
-  - Basic
+  - pH = 7 + 1/2 pKa + 1/2 log C
 tags:
-  - '2022'
+  - '2026'
 ---
 
-An aqueous solution of borax is:
+The pH of sodium formate solution in terms of Ka and the concentration of the electrolyte is:
 
 ```markdown
-Borax undergoes hydrolysis in water to produce OH⁻ ions, making its aqueous solution basic.
+For a salt of a weak acid and strong base, pH = 7 + 1/2 pKa + 1/2 log C.
 ```

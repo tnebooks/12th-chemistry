@@ -1,17 +1,17 @@
 ---
 choices:
-  - Electrophilic addition
-  - Nucleophilic substitution
-  - Nucleophilic addition
-  - Electrophilic substitution
+  - The magnitude of the charge on the ion alone.
+  - Both magnitude and sign of the charge on the ion.
+  - The sign of charge on the ion alone.
+  - Size of the ion alone.
 answers:
-  - Nucleophilic addition
+  - Both magnitude and sign of the charge on the ion.
 tags:
-  - '2022'
+  - '2026'
 ---
 
-The formation of cyanohydrin from acetone is an example of:
+On which of the following properties does the coagulating power of an ion depend?
 
 ```markdown
-CN⁻ acts as a nucleophile and attacks the electrophilic carbonyl carbon of acetone, followed by protonation to form cyanohydrin.
+Coagulation depends on counter-ions, so both the sign and magnitude of ionic charge are important.
 ```
