@@ -1,17 +1,17 @@
 ---
 choices:
-  - 0.086 S cm² mol⁻¹
-  - 2.88 S cm² mol⁻¹
-  - 28.8 S cm² mol⁻¹
-  - 11.52 S cm² mol⁻¹
+  - Sodium Chloride
+  - Sodium Formate
+  - Ammonium Formate
+  - Ammonium Nitrate
 answers:
-  - 11.52 S cm² mol⁻¹
+  - Sodium Chloride
 tags:
-  - '2026'
+  - '2024'
 ---
 
-The molar conductivity of a 0.5 mol dm⁻³ solution of AgNO₃ with specific conductance 5.76 × 10⁻³ S cm⁻¹ at 298 K is:
+Among the following which is not hydrolysed?
 
 ```markdown
-Λm = κ × 1000/C = (5.76 × 10⁻³ × 1000)/0.5 = 11.52 S cm² mol⁻¹.
+NaCl is a salt of a strong acid and strong base and does not undergo appreciable hydrolysis.
 ```

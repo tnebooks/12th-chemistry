@@ -1,17 +1,17 @@
 ---
 choices:
-  - 1/8 g
-  - 1/2 g
-  - 1/16 g
-  - 1/4 g
+  - Acetate
+  - Oxalate
+  - Acetic acid
+  - Carbon dioxide
 answers:
-  - 1/16 g
+  - Carbon dioxide
 tags:
-  - '2026'
+  - '2024'
 ---
 
-The half-life period of a radioactive element is 140 days. After 560 days 1 g of element will be reduced to:
+In acid medium, potassium permanganate oxidizes oxalic acid to:
 
 ```markdown
-560 days corresponds to 4 half-lives. Remaining mass = 1 × (1/2)^4 = 1/16 g.
+Acidified KMnO₄ oxidizes oxalic acid to carbon dioxide.
 ```

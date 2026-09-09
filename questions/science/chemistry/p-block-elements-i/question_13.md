@@ -1,17 +1,17 @@
 ---
 choices:
-  - C₆H₅CHO
-  - C₆H₅OH
-  - C₆H₅NH₂
-  - C₆H₅CH₂OH
+  - Carbon rod
+  - Pure copper
+  - Platinum electrode
+  - Impure copper
 answers:
-  - C₆H₅OH
+  - Impure copper
 tags:
-  - '2026'
+  - '2024'
 ---
 
-C₆H₅NO₂ → A → B → C, where the reagents are Sn/HCl, then NaNO₂/HCl at 273 K, followed by H₂O at 283 K. C is:
+In the electrolytic refining of copper, which of the following is used as anode?
 
 ```markdown
-Nitrobenzene is reduced to aniline, diazotized, and hydrolyzed to phenol.
+Impure copper is the anode and pure copper is the cathode in electrolytic refining.
 ```

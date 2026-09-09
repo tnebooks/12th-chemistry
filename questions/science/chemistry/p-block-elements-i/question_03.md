@@ -1,17 +1,17 @@
 ---
 choices:
-  - XeO₃
-  - XeOF₄
-  - XeO₂
-  - XeO₂F₂
+  - HBr
+  - HI
+  - HCl
+  - HF
 answers:
-  - XeO₃
+  - HI
 tags:
-  - '2026'
+  - '2024'
 ---
 
-The compound XeF₆ on complete hydrolysis produces:
+Which of the following is the strongest acid among all?
 
 ```markdown
-Complete hydrolysis of XeF₆ produces XeO₃ and HF.
+Hydrogen-halide acid strength increases down the group as the H–X bond weakens, making HI the strongest.
 ```
