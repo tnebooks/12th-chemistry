@@ -1,17 +1,17 @@
 ---
 choices:
-  - The magnitude of the charge on the ion alone.
-  - Both magnitude and sign of the charge on the ion.
-  - The sign of charge on the ion alone.
-  - Size of the ion alone.
+  - (iii) and (iv)
+  - (i) and (iv)
+  - (ii) and (iii)
+  - (i) and (iii)
 answers:
-  - Both magnitude and sign of the charge on the ion.
+  - (i) and (iv)
 tags:
-  - '2026'
+  - '2024'
 ---
 
-On which of the following properties does the coagulating power of an ion depend?
+Among the following cells primary cells are: (i) Leclanche cell, (ii) Nickel-Cadmium cell, (iii) Lead Storage Battery, (iv) Mercury cell.
 
 ```markdown
-Coagulation depends on counter-ions, so both the sign and magnitude of ionic charge are important.
+Leclanche and mercury cells are primary cells, while nickel-cadmium and lead storage batteries are secondary cells.
 ```

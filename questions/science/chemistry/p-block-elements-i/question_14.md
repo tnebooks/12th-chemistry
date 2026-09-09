@@ -1,17 +1,17 @@
 ---
 choices:
-  - Enantiomers
-  - Epimers
-  - Conformational isomers
-  - Anomers
+  - CH₃COOH
+  - H₂S
+  - Al₂O₃
+  - As₂O₃
 answers:
-  - Anomers
+  - Al₂O₃
 tags:
-  - '2026'
+  - '2024'
 ---
 
-α-D-(+) Glucose and β-D-(+) Glucose are:
+Activity of iron catalyst is increased by the ______ compound.
 
 ```markdown
-They differ in configuration at the anomeric carbon atom, so they are anomers.
+Al₂O₃ acts as a promoter and increases the activity of the iron catalyst.
 ```

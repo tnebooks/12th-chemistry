@@ -1,17 +1,17 @@
 ---
 choices:
-  - In < Tl < Ga < Al
-  - Al < Ga < In < Tl
-  - Ga < In < Al < Tl
-  - Tl < In < Ga < Al
+  - Potassium trisoxalatoaluminate (III)
+  - Potassium trioxalatoaluminate (III)
+  - Potassium trisoxalatoaluminate (II)
+  - Potassium trioxalatoaluminate (II)
 answers:
-  - Al < Ga < In < Tl
+  - Potassium trisoxalatoaluminate (III)
 tags:
-  - '2026'
+  - '2024'
 ---
 
-+1 oxidation state increases in the sequence ________.
+IUPAC name of the complex K₃[Al(C₂O₄)₃] is:
 
 ```markdown
-Due to the inert pair effect, the stability of the +1 oxidation state increases down group 13: Al < Ga < In < Tl.
+The complex contains three bidentate oxalato ligands and Al in the +3 oxidation state, so the name is potassium trisoxalatoaluminate(III).
 ```

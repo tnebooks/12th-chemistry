@@ -1,17 +1,17 @@
 ---
 choices:
-  - Enzymes
-  - Antagonists
-  - Molecular targets
-  - Agonists
+  - Na₂Cr₂O₇
+  - KMnO₄
+  - K₂Cr₂O₇
+  - PCC
 answers:
-  - Antagonists
+  - PCC
 tags:
-  - '2026'
+  - '2024'
 ---
 
-Drugs that bind to the receptor site and inhibit its natural function are called ________.
+The oxidising agent used to oxidise primary alcohol to aldehyde stage is:
 
 ```markdown
-Antagonists bind to receptors and block or inhibit the normal biological response.
+PCC is a mild oxidising agent that converts primary alcohols to aldehydes without significant further oxidation.
 ```

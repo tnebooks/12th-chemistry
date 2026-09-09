@@ -1,17 +1,17 @@
 ---
 choices:
-  - Sodium
-  - Iron
-  - Silver
-  - Lead
+  - Assertion is true but Reason is false.
+  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion.
+  - Both Assertion and Reason are false.
+  - Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion.
 answers:
-  - Sodium
+  - Both Assertion and Reason are true and Reason is the correct explanation of Assertion.
 tags:
-  - '2026'
+  - '2024'
 ---
 
-Electrochemical cell is used in the extraction of which of the following element?
+Assertion: Monoclinic sulphur is an example of monoclinic crystal system. Reason: For a monoclinic system, a ≠ b ≠ c and α = γ = 90°, β ≠ 90°.
 
 ```markdown
-Sodium is extracted by electrolysis of fused sodium chloride using an electrolytic cell.
+Monoclinic sulphur belongs to the monoclinic crystal system, whose axial parameters satisfy a ≠ b ≠ c, α = γ = 90°, and β ≠ 90°.
 ```

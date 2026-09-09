@@ -1,17 +1,17 @@
 ---
 choices:
-  - Hexamethylene tetramine
-  - Formaldehyde
-  - Oxime
-  - Diacetone ammonia
+  - Second order
+  - First order
+  - Third order
+  - Zero order
 answers:
-  - Hexamethylene tetramine
+  - First order
 tags:
-  - '2026'
+  - '2024'
 ---
 
-CH₂=CH₂ → X → Y, where CH₂=CH₂ is treated with (i) O₃ (ii) Zn/H₂O, followed by NH₃. Y is:
+The rate constant of a reaction is 5.8 × 10⁻² s⁻¹. The order of the reaction is:
 
 ```markdown
-Ozonolysis of ethene gives formaldehyde, which reacts with ammonia to form hexamethylenetetramine.
+The unit s⁻¹ for the rate constant is characteristic of a first-order reaction.
 ```

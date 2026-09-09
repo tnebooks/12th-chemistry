@@ -1,17 +1,17 @@
 ---
 choices:
-  - 1-chloropropane
-  - Ethyl chloride
-  - 2-chloro-2-methyl propane
-  - 2-chloropropane
+  - Electrophilic addition
+  - Nucleophilic substitution
+  - Nucleophilic addition
+  - Electrophilic substitution
 answers:
-  - 2-chloropropane
+  - Nucleophilic addition
 tags:
-  - '2026'
+  - '2024'
 ---
 
-Propan-2-ol on reaction with anhydrous ZnCl₂ and concentrated HCl gives ________.
+The formation of cyanohydrin from acetone is an example of:
 
 ```markdown
-Lucas reagent converts propan-2-ol into 2-chloropropane.
+CN⁻ attacks the carbonyl carbon of acetone, so cyanohydrin formation is nucleophilic addition.
 ```

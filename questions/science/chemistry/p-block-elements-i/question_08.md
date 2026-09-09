@@ -1,17 +1,17 @@
 ---
 choices:
-  - pH = 7 - 1/2 pKa - 1/2 log C
-  - pH = 7 - 1/2 pKa + 1/2 log C
-  - pH = 7 + 1/2 pKa + 1/2 log C
-  - pH = 7 + 1/2 pKa - 1/2 log C
+  - p-aminoacetophenone
+  - o-aminoacetophenone
+  - Acetanilide
+  - m-aminoacetophenone
 answers:
-  - pH = 7 + 1/2 pKa + 1/2 log C
+  - Acetanilide
 tags:
-  - '2026'
+  - '2024'
 ---
 
-The pH of sodium formate solution in terms of Ka and the concentration of the electrolyte is:
+When aniline reacts with acetic anhydride, the product formed is:
 
 ```markdown
-For a salt of a weak acid and strong base, pH = 7 + 1/2 pKa + 1/2 log C.
+Aniline undergoes acetylation with acetic anhydride to form acetanilide.
 ```
