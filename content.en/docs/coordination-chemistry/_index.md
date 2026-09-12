@@ -9,51 +9,44 @@ summary: "This unit explains the chemistry of coordination compounds, focusing o
 ![Alfred Werner 1866 –1919)](werner.png)
 
 
-Alfred Werner was a Swiss chemist who explainedthe bonding in coordination complexes. Werner proposed his coordination theory in 1893. It must be remembered that this imaginative theory was proposed before the electron had been discovered by J.J. Thompson
+Alfred Werner was a Swiss chemist who explained the bonding in coordination complexes. Werner proposed his coordination theory in 1893. It must be remembered that this imaginative theory was proposed before the electron had been discovered by J.J. Thompson
 in 1896. Werner did not have any modern instrumental techniques at his time and all his studies were made using simple reaction
 chemistry. Complexes must have been a complete mystery without any knowledge of bonding or structure. This theory and his painstaking work over the next 20 years won Alfred Werner the Nobel Prize for Chemistry in 1913.He was the first inorganic chemist to win the Nobel Prize.
 
 
-## Learning Objectives
 
-After studying this unit, students will be able to:
-
-* define important terms in coordination chemistry
-* nomenclate the coordination compounds in accordance with the guidelines of IUPAC
-* describe different types of isomerism in coordination compounds
-* discuss the postulates of Werner's theory of coordination compounds
-* predict the geometry of coordination compounds using valence bond theory
-* apply crystal field theory to explain the colour and magnetic properties of coordination compounds
-* differentiate high spin and low spin coordination compounds
-* explain the stability of coordination compounds in terms of stability constants.
-* explain the applications of coordination compounds in day to day life
 
 
 ## INTRODUCTION
 
 We have already learnt in the previous unit that the transition metals have a tendency to form complexes (coordination compounds). The name is derived from the Latin words 'complexus' and 'coordinate' which mean 'hold' and 'to arrange' respectively. The complexes of transition metals have interesting properties and differ from simple ionic and covalent compounds. For example, chromium(III) chloride hexahydrate, \( \mathrm{CrCl_3.6H_2O} \) exists as purple, pale green or dark green compound. In addition to metals, certain non metals also form coordination compounds but have less tendency than d block elements. Coordination compounds play a vital role in the biological functions, and have wide range of catalytic applications in chemical industries. For example, haemoglobin, the oxygen transporter of human is a coordination compound of iron, and cobalamine, an essential vitamin is a coordination compound of cobalt. Chlorophyll, a pigment present in plants acting as a photo sensitiser in the photosynthesis is also a coordination compound. Various coordination compounds such as Wilkinson's compound, Ziegler Natta compound are used as catalysts in industrial processes. Hence, it is important to understand the chemistry of coordination compounds. In this unit we study the nature, bonding, nomenclature, isomerism and applications of the coordination compounds.
 
-### 5.1 Coordination compounds and double salts
+### 5.1 Coordination compounds and double salts:
 
-When two or more stable compounds in solution are mixed together and allowed to evaporate, in certain cases there is a possibility for the formation of double salts or coordination compounds. For example when an equimolar solution of ferrous sulphate and ammonium sulphate are mixed and allowed to crystallise, a double salt namely Mohr's salt (Ferrous ammonium sulphate, \( \mathrm{FeSO_4.(NH_4)_2SO_4.6H_2O} \) ) is formed. Let us recall the blood red colour formation in the inorganic qualitative analysis of ferric ion, the reaction between ferric chloride and potassium thiocyanate solution gives a blood red coloured coordination compound, potassium ferri thiocyanate \( \mathrm{K_3[Fe(SCN)_6]} \). If we perform a qualitative analysis to identify the constituent ions present in both the compounds, Mohr's salt answers the presence of \( \mathrm{Fe^{2+}} \), \( \mathrm{NH_4^+} \) and \( \mathrm{SO_4^{2-}} \) ions, whereas the potassium ferri thiocyanate will not answer \( \mathrm{Fe^{3+}} \) and \( \mathrm{SCN^-} \) ions. From this we can infer that the double salts lose their identity and dissociates into their constituent simple ions in solutions, whereas the complex ion in coordination compound, does not lose its identity and never dissociate to give simple ions.
+When two or more stable compounds in solution are mixed together and allowed to evaporate, in certain cases there is a possibility for the formation of double salts or coordination compounds. For example when an equimolar solution of ferrous sulphate and ammonium sulphate are mixed and allowed to crystallise, a double salt namely Mohr's salt (Ferrous ammonium sulphate, \( \mathrm{FeSO_4.(NH_4)_2SO_4.6H_2O} \) ) is formed. Let us recall the blood red colour formation in the inorganic qualitative analysis of ferric ion, the reaction between ferric chloride and potassium thiocyanate solution gives a blood red coloured coordination compound, potassium ferrithiocyanate \( \mathrm{K_3[Fe(SCN)_6]} \). If we perform a qualitative analysis to identify the constituent ions present in both the compounds, Mohr's salt answers the presence of \( \mathrm{Fe^{2+}} \), \( \mathrm{NH_4^+} \) and \( \mathrm{SO_4^{2-}} \) ions, whereas the potassium ferrithiocyanate will not answer \( \mathrm{Fe^{3+}} \) and \( \mathrm{SCN^-} \) ions. From this we can infer that the double salts lose their identity and dissociates into their constituent simple ions in solutions, whereas the complex ion in coordination compound, does not lose its identity and never dissociate to give simple ions.
 
-### 5.2 Werner's theory of coordination compounds
+### 5.2 Werner's theory of coordination compounds:
 
 Swiss chemist Alfred Werner was the first one to propose a theory of coordination compounds to explain the observed behaviour of them.
 
 Let us consider the different coloured complexes of cobalt(III) chloride with ammonia which exhibit different properties as shown below.
 
-![](img5.2.1.png)
+|Complex|Colour|No. of moles of AgCl precipitated on reaction of one mole of complex with excess Ag⁺|
+|-------|------|--------|
+|CoCl₃·6NH₃|Yellow|3|
+|CoCl₃·5NH₃|Purple|2|
+|trans - CoCl₃·4NH₃|Green|1|
+|cis - CoCl₃·4NH₃|Violet|1|
 
 In this case, the valences of the elements present in both the reacting molecules, cobalt(III)
 chloride and ammonia are completely satisfied. Yet these substances react to form the above
-mentioned complexes
+mentioned complexes.
 
 **To explain this behaviour Werner postulated his theory as follows**
 
 1.Most of the elements exhibit, two types of valence namely primary valence and secondary valence and each element tend to satisfy both the valences. In modern terminology, the primary valence is referred as the oxidation state of the metal atom and the secondary valence as the coordination number. For example, according to Werner, the primary and secondary valences of cobalt are 3 and 6 respectively.
 
-2.The primary valence of a metal ion is positive in most of the cases and zero in certain cases. They are always satisfied by negative ions. For example in the complex \( \mathrm{CoCl_3.6NH_3} \) the primary valence of Co is \( +3 \) and is satisfied by \( 3\mathrm{Cl^-} \) ions.
+2.The primary valence of a metal ion is positive in most of the cases and zero in certain cases. They are always satisfied by negative ions. For example in the complex \( \mathrm{CoCl_3.6NH_3} \),the primary valence of Co is \( +3 \) and is satisfied by \( 3\mathrm{Cl^-} \) ions.
 
 3.The secondary valence is satisfied by negative ions, neutral molecules, positive ions or the combination of these. For example, in \( \mathrm{CoCl_3.6NH_3} \) the secondary valence of cobalt is 6 and is satisfied by six neutral ammonia molecules, whereas in \( \mathrm{CoCl_3.5NH_3} \) the secondary valence of cobalt is satisfied by five neutral ammonia molecules and a \( \mathrm{Cl^-} \) ion.
 
@@ -65,9 +58,14 @@ mentioned complexes
 
 The following table illustrates the Werner's postulates.
 
-![](img5.2.2.png)
+|Complex|Groups satisfy the secondary valence (non-ionaisable, inner coordination sphere)|No. of ionisable Cl⁻ ions in the complex (outer coordination sphere)|No. of moles of AgCl formed = no. of moles of ionisable Cl⁻|
+|------|-------|------|-----------|
+|CoCl₃·6NH₃|6 NH₃|3 Cl⁻|3 AgCl|
+|CoCl₃·5NH₃|5 NH₃ & 1 Cl⁻|2 Cl⁻|2 AgCl|
+|CoCl₃·4NH₃|4 NH₃ & 2 Cl⁻|1 Cl⁻|1 AgCl|
+|CoCl₃·4NH₃|4 NH₃ & 2 Cl⁻|1 Cl⁻|1 AgCl|
 
-#### 5.2.1 Limitations of Werner's theory
+#### 5.2.1 Limitations of Werner's theory:
 
 Even though, Werner's theory was able to explain a number of properties of coordination compounds, it does not explain their colour and the magnetic properties.
 
@@ -75,27 +73,27 @@ Even though, Werner's theory was able to explain a number of properties of coord
 
 ### 5.3 Definition of important terms pertaining to co-ordination compounds
 
-#### 5.3.1 Coordination entity
+#### 5.3.1 Coordination entity:
 
 Coordination entity is an ion or a neutral molecule, composed of a central atom, usually a metal and the array of other atoms or groups of atoms (ligands) that are attached to it. In the formula, the coordination entity is enclosed in square brackets. For example, in potassium ferrocyanide, \( \mathrm{K_4[Fe(CN)_6]} \), the coordination entity is \( [\mathrm{Fe(CN)_6}]^{4-} \). In nickel tetracarbonyl, the coordination entity is \( [\mathrm{Ni(CO)_4}] \).
 
-#### 5.3.2 Central atom/ion
+#### 5.3.2 Central atom/ion:
 
 The central atom/ion is the one that occupies the central position in a coordination entity and binds other atoms or groups of atoms (ligands) to itself, through a coordinate covalent bond. For example, in \( \mathrm{K_4[Fe(CN)_6]} \), the central metal ion is \( \mathrm{Fe^{2+}} \). In the coordination entity \( [\mathrm{Fe(CN)_6}]^{4-} \), the \( \mathrm{Fe^{2+}} \) accepts an electron pair from each ligand, \( \mathrm{CN^-} \) and thereby forming six coordinate covalent bonds with them. Since, the central metal ion has an ability to accept electron pairs, it is referred to as a Lewis acid.
 
-#### 5.3.3 Ligands
+#### 5.3.3 Ligands:
 
 The ligands are the atoms or groups of atoms bound to the central atom/ion. The atom in a ligand that is bound directly to the central metal atom is known as a donor atom. For example, in \( \mathrm{K_4[Fe(CN)_6]} \), the ligand is \( \mathrm{CN^-} \) ion, but the donor atom is carbon and in \( [\mathrm{Co(NH_3)_6}]Cl_3 \) the ligand is \( \mathrm{NH_3} \) molecule and the donor atom is nitrogen.
 
-#### Coordination sphere
+#### Coordination sphere:
 
 The complex ion of the coordination compound containing the central metal atom/ion and the ligands attached to it, is collectively called coordination sphere and are usually enclosed in square brackets with the net charge. The other ionisable ions, are written outside the bracket are called counter ions. For example, the coordination compound \( \mathrm{K_4[Fe(CN)_6]} \) contains the complex ion \( [\mathrm{Fe(CN)_6}]^{4-} \) and is referred as the coordination sphere. The other associated ion \( \mathrm{K^+} \) is called the counter ion.
 
-#### Coordination polyhedron
+#### Coordination polyhedron:
 
 The three dimensional spacial arrangement of ligand atoms/ions that are directly attached to the central atom is known as the coordination polyhedron (or polygon). For example, in \( \mathrm{K_4[Fe(CN)_6]} \), the coordination polyhedra is octahedral. The coordination polyhedra of \( [\mathrm{Ni(CO)_4}] \) is tetrahedral.
 
-#### Coordination number
+#### Coordination number:
 
 The number of ligand donor atoms bonded to a central metal ion in a complex is called the coordination number of the metal. In other words, the coordination number is equal to the number of \( \sigma \)-bonds between ligands and the central atom.
 
@@ -105,7 +103,7 @@ i. In \( \mathrm{K_4[Fe(CN)_6]} \), the coordination number of \( \mathrm{Fe^{2+
 
 ii. In \( [\mathrm{Ni(en)_3}]Cl_2 \), the coordination number of \( \mathrm{Ni^{2+}} \) is also 6. Here the ligand 'en' represents ethane-1,2-diamine (\( \mathrm{NH_2-CH_2-CH_2-NH_2} \)) and it contains two donor atoms (Nitrogen). Each ligand forms two coordination bonds with nickel. So, totally there are six coordination bonds between them.
 
-#### Oxidation state (number)
+#### Oxidation state (number):
 
 The oxidation state of a central atom in a coordination entity is defined as the charge it would bear if all the ligands were removed along with the electron pairs that were shared with the central atom. In naming a complex, it is represented by a Roman numeral. For example, in the coordination entity \( [\mathrm{Fe(CN)_6}]^{4-} \), the oxidation state of iron is represented as (II). The net charge on the complex ion is equal to the sum of the oxidation state of the central metal and the charge on the ligands attached to it. Using this relation the oxidation number can be calculated as follows
 
@@ -113,19 +111,19 @@ Net charge = (oxidation state of the central metal) + [(No. of ligands) × (char
 
 **Example 1:** 
 
-In \( [\mathrm{Fe(CN)_6}]^{4-} \) let the oxidation number of iron is \( x \)
+In \( [\mathrm{Fe(CN)_6}]^{4-} \) let the oxidation number of iron is \( x \):
 
 The net charge: \( -4 = x + 6(-1) \Rightarrow x = +2 \)
 
 **Example 2:** 
 
-In \( [\mathrm{Co(NH_3)_5Cl}]^{2+} \) let the oxidation number of cobalt is \( x \)
+In \( [\mathrm{Co(NH_3)_5Cl}]^{2+} \) let the oxidation number of cobalt is \( x \):
 
 The net charge: \( +2 = x + 5(0) + 1(-1) \Rightarrow x = +3 \)
 
 >**Evaluate yourself 2:** 
 >
->In the complex, \( [\mathrm{Pt(NO_2)(H_2O)(NH_3)_2}]Br \), identify the following
+>2.In the complex, \( [\mathrm{Pt(NO_2)(H_2O)(NH_3)_2}]Br \), identify the following
 >
 >i. Central metal atom/ion
 >
@@ -137,7 +135,7 @@ The net charge: \( +2 = x + 5(0) + 1(-1) \Rightarrow x = +3 \)
 >
 >v. Coordination number
 
-#### Types of complexes
+#### Types of complexes:
 
 The coordination compounds can be classified into the following types based on (i) the net charge of the complex ion, (ii) kinds of ligands present in the coordination entity.
 
@@ -155,19 +153,19 @@ iii. bears no net charge, is called a **neutral complex**. Examples: \( [\mathrm
 
 A coordination compound in which
 
-i. the central metal ion/atom is coordinated to only one kind of ligands is called a **homoleptic complex**. Examples: \( [\mathrm{Co(NH_3)_6}]^{3+} \), \( [\mathrm{Fe(H_2O)_6}]^{2+} \)
+i. the central metal ion/atom is coordinated to only one kind of ligands is called a **homoleptic complex**. Examples: \( [\mathrm{Co(NH_3)_6}]^{3+} \), \( [\mathrm{Fe(H_2O)_6}]^{2+} \),
 
 ii. the central metal ion/atom is coordinated to more than one kind of ligands is called a **heteroleptic complex**. Examples: \( [\mathrm{Co(NH_3)_5Cl}]^{2+} \), \( [\mathrm{Pt(NH_3)_2Cl_2}] \)
 
 ### 5.4 Nomenclature of coordination compounds
 
-In the earlier days, the compounds were named after their discoverers. For example, \( \mathrm{K[PtCl_3(C_2H_4)]} \) was called Zeise's salt and \( [\mathrm{Pt(NH_3)_4][PtCl_4]} \) is called Magnus's green salt etc. There are numerous coordination compounds that have been synthesised and characterised. The International Union of Pure and Applied Chemistry (IUPAC) has developed an elaborate system of nomenclature to name them systematically. The guidelines for naming coordination compounds based on IUPAC recommendations (2005) are as follows:
+In the earlier days, the compounds were named after their discoverers. For example, \( \mathrm{K[PtCl_3(C_2H_4)]} \) was called Zeise's salt and \( [\mathrm{Pt(NH_3)_4][PtCl_4]} \) is called Magnus's green salt etc... There are numerous coordination compounds that have been synthesised and characterised. The International Union of Pure and Applied Chemistry (IUPAC) has developed an elaborate system of nomenclature to name them systematically. The guidelines for naming coordination compounds based on IUPAC recommendations (2005) are as follows:
 
 1.The cation is named first, followed by the anion regardless of whether the ion is simple or complex. For example
 
 - In \( \mathrm{K_4[Fe(CN)_6]} \), the cation \( \mathrm{K^+} \) is named first followed by \( [\mathrm{Fe(CN)_6}]^{4-} \).
-- In \( [\mathrm{Co(NH_3)_6}]Cl_3 \), the complex cation \( [\mathrm{Co(NH_3)_6}]^{3+} \) is named first followed by the anion \( \mathrm{Cl^-} \).
-- In \( [\mathrm{Pt(NH_3)_4][PtCl_4]} \), the complex cation \( [\mathrm{Pt(NH_3)_4}]^{2+} \) is named first followed by the complex anion \( [\mathrm{PtCl_4}]^{2-} \).
+- In \( [\mathrm{Co(NH_3)_6}]Cl_3 \), the complex cation \( [\mathrm{Co(NH_3)_6}]^{3+} \) is named first followed by the anion \( \mathrm{Cl^-} \)
+- In \( [\mathrm{Pt(NH_3)_4][PtCl_4]} \), the complex cation \( [\mathrm{Pt(NH_3)_4}]^{2+} \) is named first followed by the complex anion \( [\mathrm{PtCl_4}]^{2-} \)
 
 2.The simple ions are named as in other ionic compounds. For example,
 
@@ -183,15 +181,27 @@ In the earlier days, the compounds were named after their discoverers. For examp
 
 i. The name of anionic ligands ends with the letter 'o' and the cationic ligand ends with 'ium'. The neutral ligands are usually called with their molecular names with fewer exceptions namely, \( \mathrm{H_2O} \) (aqua), CO (carbonyl), \( \mathrm{NH_3} \) (ammine) and NO (nitrosyl).
 
-ii. A \( \kappa \)-term is used to denote an ambidentate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanate-\( \kappa S \) and if nitrogen is involved, then it is named thiocyanate-\( \kappa N \).
+ii. A \( \kappa \)-term is used to denote an ambidentate ligand in which more than one coordination mode is possible. For example, the ligand thiocyanate can bind to the central atom/ion, through either the sulfur or the nitrogen atom. In this ligand, if sulphur forms a coordination bond with metal then the ligand is named thiocyanato-\( \kappa S \) and if nitrogen is involved, then it is named thiocyanato-\( \kappa N \).
 
-![](ligand.png)
+![](image-14.png)
 
-iii. If the coordination entity contains more than one ligand of a particular type, the multiples of ligand (2, 3, 4 etc.) is indicated by adding appropriate Greek prefixes (di, tri, tetra, etc.) to the name of the ligand. If the name of a ligand itself contains a Greek prefix (eg. ethylenediamine), use an alternate prefixes (bis, tris, tetrakis etc.) to specify the multiples of such ligands. These numerical prefixes are not taken into account for alphabetising the name of ligands.
+iii. If the coordination entity contains more than one ligand of a particular type, the multiples of ligand (2, 3, 4 etc...) is indicated by adding appropriate Greek prefixes (di, tri, tetra, etc...) to the name of the ligand. If the name of a ligand itself contains a Greek prefix (eg. ethylenediamine), use an alternate prefixes (bis, tris, tetrakis etc...) to specify the multiples of such ligands. These numerical prefixes are not taken into account for alphabetising the name of ligands.
 
 **b. Naming the central metal:** In cationic/neutral complexes, the element name is used as such for naming the central metal atom/ion, whereas, a suffix 'ate' is used along with the element name in anionic complexes. The oxidation state of the metal is written immediately after the metal name using roman numerals in parenthesis.
 
-![](naming.png)
+|Element|Name of the metal in cationic complex|Name of the metal in anionic complex|
+|----|------|--------|
+|Cr|Chromium|Chromate|
+|Zn|Zinc|Zincate|
+|Al|Aluminum|Aluminate|
+|Fe|Iron|Ferrate|
+|Cu|Copper|Cuprate|
+|Co|Cobalt|Cobaltate|
+|Pb|Lead|Plumbate|
+|Ag|Silver|Argentate|
+|Sn|Tin|Stannate|
+|Au|Gold|Aurate|
+|Pt|Platinum|Platinate|
 
 **Naming of coordination compounds using IUPAC guidelines.**
 
@@ -199,17 +209,34 @@ iii. If the coordination entity contains more than one ligand of a particular ty
 
 ![](eg1.png)
 
-**Example 2:**
 
 ![](eg2.png)
 
-**Example 3:**
+
 
 ![](eg3.png)
 
 **More examples with names are given in the list below for better understanding of IUPAC Nomenclature:**
 
-![](image-1.png)
+| No.   | Compound                      | IUPAC Name                                                            |
+| ----- | ----------------------------- | --------------------------------------------------------------------- |
+| i.    | `[Ag(NH₃)₂]Cl`                | Diamminesilver(I) chloride                                            |
+| ii.   | `[Co(en)₂Cl₂]Cl`              | Dichloridobis(ethane-1,2-diamine)cobalt(III) chloride                 |
+| iii.  | `[Cu(NH₃)₄]SO₄`               | Tetraamminecopper(II) sulphate                                        |
+| iv.   | `[Co(CO₃)(NH₃)₄]Cl`           | Tetraamminecarbonatocobalt(III) chloride                              |
+| v.    | `[Cr(NH₃)₃(H₂O)₃]Cl₃`         | Triamminetriaquachromium(III) chloride                                |
+| vi.   | `K₃[Fe(CN)₅NO]`               | Potassiumpentacyanido-κCnitrosylferrate(II)                           |
+| vii.  | `Na₂[Ni(EDTA)]`               | Sodium 2,2′,2″,2‴-(ethane-1,2-diyldinitrilo)tetraacetatonickelate(II) |
+| viii. | `[PdI₂(ONO)₂(H₂O)₂]`          | Diaquadiiodidodinitrito-κO palladium(IV)                              |
+| ix.   | `[Cr(PPh₃)₃(CO)₅]`            | Pentacarbonyltriphenylphosphanechromium(0)                            |
+| x.    | `[Co(NO₂)₃(NH₃)₃]`            | Triamminetrinitro-κOcobalt(III)                                       |
+| xi.   | `[Co(NH₃)₅CN][Co(NH₃)₅(CN)₅]` | Pentaamminecyanido-κCcobalt(III) amminepentacyanido-κCcobaltate(III)  |
+| xii.  | `[Pt(py)₄][PtCl₄]`            | Tetrapyridineplatinum(II) tetrachloridoplatinate(II)                  |
+| xiii. | `[Co(NH₃)₄Cl₂]₃[Cr(CN)₆]`     | Tetraamminedichloridocobalt(III) hexacyanido-κCchromate(III)          |
+| xiv.  | `[Ag(NH₃)₂]⁺`                 | Diamminesilver(I) ion                                                 |
+| xv.   | `[Co(NH₃)₅Cl]²⁺`              | Pentaamminechloridocobalt(III) ion                                    |
+| xvi.  | `[FeF₆]⁴⁻`                    | Hexafluoridoferrate(II) ion                                           |
+
 
 >**Evaluate yourself 3:**
 >
@@ -229,7 +256,7 @@ iii. If the coordination entity contains more than one ligand of a particular ty
 >
 >(i) Diamminesilver(I) dicyanidoargentate(I)
 >
->(ii) Pentaammine nitrito-\( \kappa N \) cobalt(III) ion
+>(ii) Pentaammine nitrito-\( \kappa N \)cobalt(III) ion
 >
 >(iii) Hexafluorido cobaltate(III) ion
 >
@@ -247,14 +274,14 @@ We have already learnt the concept of isomerism in the context of organic compou
 
 The coordination compounds with same formula, but have different connections among their constituent atoms are called structural isomers or constitutional isomers. Four common types of structural isomers are discussed below.
 
-##### Linkage isomers
+##### Linkage isomers:
 
 This type of isomers arises when an ambidentate ligand is bonded to the central metal atom/ion through either of its two different donor atoms. In the below mentioned examples, the nitrite ion is bound to the central metal ion \( \mathrm{Co^{3+}} \) through a nitrogen atom in one complex, and through oxygen atom in other complex.
 
 \( [\mathrm{Co(NH_3)_5(NO_2)]^{2+}} \) 
 ![Figure 5.3 Linkage isomers](image-3.png)
 
-##### Coordination isomers
+##### Coordination isomers:
 
 This type of isomers arises in the coordination compounds having both the cation and anion as complex ions. The interchange of one or more ligands between the cationic and the anionic coordination entities result in different isomers.
 
@@ -265,7 +292,7 @@ For example, in the coordination compound, \( [\mathrm{Co(NH_3)_6}][\mathrm{Cr(C
 1. \( [\mathrm{Cr(NH_3)_5CN}][\mathrm{Co(NH_3)(CN)_5}] \) and \( [\mathrm{Co(NH_3)_5CN}][\mathrm{Cr(NH_3)(CN)_5}] \)
 2. \( [\mathrm{Pt(NH_3)_4}][\mathrm{Pd(Cl)_4}] \) and \( [\mathrm{Pd(NH_3)_4}][\mathrm{Pt(Cl)_4}] \)
 
-##### Ionisation isomers
+##### Ionisation isomers:
 
 This type of isomers arises when an ionisable counter ion (simple ion) itself can act as a ligand. The exchange of such counter ions with one or more ligands in the coordination entity will result in ionisation isomers. These isomers will give different ions in solution. For example, consider the coordination compound \( [\mathrm{Pt(en)_2Cl_2}]Br_2 \). In this compound, both \( \mathrm{Br^-} \) and \( \mathrm{Cl^-} \) have the ability to act as a ligand and the exchange of these two ions result in a different isomer \( [\mathrm{Pt(en)_2Br_2}]Cl_2 \). In solution the first compound gives \( \mathrm{Br^-} \) ions while the later gives \( \mathrm{Cl^-} \) ions and hence these compounds are called ionisation isomers.
 
@@ -276,29 +303,34 @@ This type of isomers arises when an ionisable counter ion (simple ion) itself ca
 
 >**Evaluate yourself 4:** A solution of \( [\mathrm{Co(NH_3)_4l_2}]Cl \) when treated with \( \mathrm{AgNO_3} \) gives a white precipitate. What should be the formula of isomer of the dissolved complex that gives yellow precipitate with \( \mathrm{AgNO_3} \). What are the above isomers called?
 
-##### Solvate isomers
+##### Solvate isomers.
 
-The exchange of free solvent molecules such as water, ammonia, alcohol etc. in the crystal lattice with a ligand in the coordination entity will give different isomers. These type of isomers are called solvate isomers. If the solvent molecule is water, then these isomers are called hydrate isomers. For example, the complex with chemical formula \( \mathrm{CrCl_3.6H_2O} \) has three hydrate isomers as shown below.
+The exchange of free solvent molecules such as water, ammonia, alcohol etc.. in the crystal lattice with a ligand in the coordination entity will give different isomers. These type of isomers are called solvate isomers. If the solvent molecule is water, then these isomers are called hydrate isomers. For example, the complex with chemical formula \( \mathrm{CrCl_3.6H_2O} \) has three hydrate isomers as shown below.
 
-![](image-4.png)
+| Compound               | Observation                                                               |
+| ---------------------- | ------------------------------------------------------------------------- |
+| `[Cr(H₂O)₆]Cl₃`        | a violet colour compound and gives three chloride ions in solution,       |
+| `[Cr(H₂O)₅Cl]Cl₂·H₂O`  | a pale green colour compound and gives two chloride ions in solution and, |
+| `[Cr(H₂O)₄Cl₂]Cl·2H₂O` | dark green colour compound and gives one chloride ion in solution         |
 
-#### 5.5.2 Stereoisomers
+
+#### 5.5.2 Stereoisomers:
 
 Similar to organic compounds, coordination compounds also exhibit stereoisomerism. The stereoisomers of a coordination compound have the same chemical formula and connectivity between the central metal atom and the ligands. But they differ in the spatial arrangement of ligands in three dimensional space. They can be further classified as geometrical isomers and optical isomers.
 
-##### Geometrical isomers
+##### Geometrical isomers:
 
-Geometrical isomers exist in heteroleptic complexes due to different possible three dimensional spatial arrangements of the ligands around the central metal atom. This type of isomerism exists in square planar and octahedral complexes.
+Geometrical isomers exists in heteroleptic complexes due to different possible three dimensional spatial arrangements of the ligands around the central metal atom. This type of isomerism exists in square planar and octahedral complexes.
 
-In square planar complexes of the form \( [\mathrm{MA_2B_2}]^{n\pm} \) and \( [\mathrm{MA_2BC}]^{n\pm} \) (where A, B and C are monodentate ligands and M is the central metal ion/atom), Similar groups (A or B) present either on same side or on the opposite side of the central metal atom (M) give rise to two different geometrical isomers, and they are called, cis and trans isomers respectively.
+In square planar complexes of the form \( [\mathrm{MA_2B_2}]^{n\pm} \) and \( [\mathrm{MA_2BC}]^{n\pm} \) (where A, B and C are mono dentate ligands and M is the central metal ion/atom), Similar groups (A or B) present either on same side or on the opposite side of the central metal atom (M) give rise to two different geometrical isomers, and they are called, cis and trans isomers respectively.
 
 The square planar complex of the type \( [\mathrm{M(xy)_2}]^{n\pm} \) where xy is a bidentate ligand with two different coordinating atoms also shows cis-trans isomerism. Square planar complex of the form \( [\mathrm{MABCD}]^{n\pm} \) also shows geometrical isomerism. In this case, by considering any one of the ligands (A, B, C or D) as a reference, the rest of the ligands can be arranged in three different ways leading to three geometrical isomers.
 
 ![**Figure 5.4 $\text{MA}_2\text{B}_2$, $\text{MA}_2\text{BC}$, $\text{M(xy)}_2$ & $\text{MABCD}$ - isomers**](image-12.png)
 
-##### Octahedral complexes
+##### Octahedral complexes:
 
-Octahedral complexes of the type \( [\mathrm{MA_2B_4}]^{n\pm} \), \( [\mathrm{M(XX)_2B_2}]^{n\pm} \) shows cis-trans isomerism. Here A and B are monodentate ligands and xx is bidentate ligand with two same kind of donor atoms. In the octahedral complex, the position of ligands is indicated by the following numbering scheme.
+Octahedral complexes of the type \( [\mathrm{MA_2B_4}]^{n\pm} \), \( [\mathrm{M(xx)_2B_2}]^{n\pm} \) shows cis-trans isomerism. Here A and B are monodentate ligands and xx is bidentate ligand with two same kind of donor atoms. In the octahedral complex, the position of ligands is indicated by the following numbering scheme.
 
 ![Figure 5.5 Position of ligands in
 octahedral complex](complex.png)
@@ -333,11 +365,11 @@ As the number of different ligands increases, the number of possible isomers als
 
 ##### 5.5.3 Optical Isomerism
 
-Coordination compounds which possess chirality exhibit optical isomerism similar to organic compounds. The pair of two optically active isomers which are mirror images of each other are called enantiomers. Their solutions rotate the plane of the plane polarised light either clockwise or anticlockwise and the corresponding isomers are called 'd' (dextro rotatory) and 'l' (levo rotatory) forms respectively.
-
+Coordination compounds which possess chairality exhibit optical isomerism similar to organic compounds. The pair of two optically active isomers which are mirror images of each other are called enantiomers. Their solutions rotate the plane of the plane polarised light either clockwise or anticlockwise and the corresponding isomers are called 'd' (dextro rotatory) and 'l' (levo rotatory) forms respectively.
 The octahedral complexes of type \( [\mathrm{M(xx)_3}]^{n\pm} \), \( [\mathrm{M(xx)_2AB}]^{n\pm} \) and \( [\mathrm{M(xx)_2B_2}]^{n\pm} \) exhibit optical isomerism.
 
-**Examples:** The optical isomers of \( [\mathrm{Co(en)_3}]^{3+} \) are shown in figure 5.7.
+**Examples:** 
+The optical isomers of \( [\mathrm{Co(en)_3}]^{3+} \) are shown in figure 5.7.
 
 ![Figure 5.7 - Optical isomer](image-6.png)
 
@@ -349,7 +381,7 @@ The coordination complex \( [\mathrm{CoCl_2(en)_2}]^+ \) has three isomers, two 
 
 ### 5.6 Theories of coordination compound
 
-Alfred Werner considered the bonding in coordination compounds as the bonding between a Lewis acid and a Lewis base. His approach is useful in explaining some of the observed properties of coordination compounds. However, properties such as colour, magnetic property etc. of complexes could not be explained on the basis of his approach. Following Werner theory, Linus Pauling proposed the Valence Bond Theory (VBT) which assumes that the bond formed between the central metal atom and the ligand is purely covalent. Bethe and Van Vleck treated the interaction between the metal ion and the ligands as electrostatic and extended the Crystal Field Theory (CFT) to explain the properties of coordination compounds. Further, Ligand field theory and Molecular orbital have been developed to explain the nature of bonding in the coordination compounds. In this portion we learn the elementary treatment of VBT and CFT to simple coordination compounds.
+Alfred Werner considered the bonding in coordination compounds as the bonding between a Lewis acid and a Lewis base. His approach is useful in explaining some of the observed properties of coordination compounds. However, properties such as colour, magnetic property etc... of complexes could not be explained on the basis of his approach. Following Werner theory, Linus Pauling proposed the Valence Bond Theory (VBT) which assumes that the bond formed between the central metal atom and the ligand is purely covalent. Bethe and Van Vleck treated the interaction between the metal ion and the ligands as electrostatic and extended the Crystal Field Theory (CFT) to explain the properties of coordination compounds. Further, Ligand field theory and Molecular orbital have been developed to explain the nature of bonding in the coordination compounds. In this portion we learn the elementary treatment of VBT and CFT to simple coordination compounds.
 
 #### 5.6.1 Valence Bond Theory
 
@@ -369,7 +401,16 @@ According to this theory, the bond formed between the central metal atom and the
 
 6.The hybridised orbitals are directional and their orientation in space gives a definite geometry to the complex ion.
 
-![](image-8.png)
+| Coordination number | Hybridisation | Geometry | Examples |
+|---|---|---|---|
+| 2 | sp | Linear | `[CuCl₂]⁻`, `[Ag(CN)₂]⁻` |
+| 3 | sp² | Trigonal planar | `[HgI₃]⁻` |
+| 4 | sp³ | Tetrahedral | `[Ni(CO)₄]`, `[NiCl₄]²⁻` |
+| 4 | dsp² | Square planar | `[Ni(CN)₄]²⁻`, `[Pt(NH₃)₄]²⁺` |
+| 5 | dsp³ (d x²-y² orbital is involved) | Trigonal bipyramidal | `[Fe(CO)₅]` |
+| 6 | d²sp³ (d z² and d x²-y² orbitals of inner shell are involved) | Octahedral | `[Ti(H₂O)₆]³⁺`, `[Fe(CN)₆]²⁻`, `[Fe(CN)₆]³⁻`, `[Co(NH₃)₆]³⁺` (Inner orbital complexes) |
+| 6 | sp³d² (d z² and d x²-y² orbitals of the outer shell are involved) | Octahedral | `[FeF₆]⁴⁻`, `[CoF₆]⁴⁻`, `[Fe(H₂O)₆]²⁺` (Outer orbital complexes) |
+
 
 7.In the octahedral complexes, if the (n-1) d orbitals are involved in hybridisation, then they are called **inner orbital complexes** or **low spin complexes** or **spin paired complexes**. If the nd orbitals are involved in hybridisation, then such complexes are called **outer orbital** or **high spin** or **spin free complexes**. Here n represents the principal quantum number of the outermost shell.
 

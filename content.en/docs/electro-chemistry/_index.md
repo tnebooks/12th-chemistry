@@ -60,7 +60,7 @@ R \propto \frac{l}{A}
 \]
 
 \[
-R = \rho \frac{l}{A} \qquad \text{(9.2)}
+R = \rho \frac{l}{A} \qquad \text{.....(9.2)}
 \]
 
 Where \( \rho \) (rho) is called the specific resistance or resistivity, which depends on the nature of the electrolyte.
@@ -69,16 +69,16 @@ If \( \frac{l}{A} = 1\ \mathrm{m}^{-1} \), then, \( \rho = R \). Hence the resis
 
 #### Conductivity
 
-It is more convenient to use conductance rather than resistance. The reciprocal of the resistance \( \left(\frac{1}{R}\right) \) gives the conductance of an electrolytic solution. The SI unit of conductance is Siemens (S).
+It is more convenient to use conductance rather than resistance. The reciprocal of the resistance \( \left(\frac{1}{R}\right) \) gives the conductance of an electrolytic solution. The SI unit of conductance is Siemen (S).
 
 \[
-C = \frac{1}{R} \qquad \text{(9.3)}
+C = \frac{1}{R} \qquad \text{.....(9.3)}
 \]
 
 Substitute (R) from (9.2) in (9.3)
 
 \[
-\Rightarrow \text{i.e., } C = \frac{1}{\rho} . \frac{A}{l} \qquad \text{(9.4)}
+\Rightarrow \text{i.e., } C = \frac{1}{\rho} . \frac{A}{l} \qquad \text{.....(9.4)}
 \]
 
 ![Fig 9.2 conductivity of a cube 
@@ -89,7 +89,7 @@ The reciprocal of the specific resistance \( \left(\frac{1}{\rho}\right) \) is c
 Substitute \( \frac{1}{\rho} = \kappa \) in equation (9.4) and rearranging
 
 \[
-\Rightarrow \kappa = C \cdot \left(\frac{l}{A}\right) \qquad \text{(9.5)}
+\Rightarrow \kappa = C \cdot \left(\frac{l}{A}\right) \qquad \text{.....(9.5)}
 \]
 
 > \[\text{Unit of } \kappa\]
@@ -128,7 +128,7 @@ Let us imagine a conductivity cell in which the electrodes are separated by \( 1
 We have just learnt that the conductance of \( 1\ \mathrm{m}^3 \) electrolytic solution is called the specific conductance \( (\kappa) \). Therefore, the conductance of the above mentioned \( V\ \mathrm{m}^3 \) solution \( (\Lambda_{\mathrm{m}}) \) is given by the following expression.
 
 \[
-(\Lambda_{\mathrm{m}}) = \kappa \times V \qquad \text{(9.6)}
+(\Lambda_{\mathrm{m}}) = \kappa \times V \qquad \text{.....(9.6)}
 \]
 
 We know that, molarity \( (M) = \frac{\text{Number of moles of solute } (n)}{\text{Volume of the solution } (V \text{ in } \mathrm{dm}^3)} \).
@@ -142,7 +142,7 @@ Therefore, Volume of the solution containing one mole of solute \( = \frac{1}{M}
 Substitute (9.7) in (9.6)
 
 \[
-(9.6) \Rightarrow \Lambda_{\mathrm{m}} = \frac{\kappa (\mathrm{S\ m}^{-1}) \times 10^{-3}}{M} \mathrm{mol}^{-1}\ \mathrm{m}^3 \qquad \text{(9.8)}
+(9.6) \Rightarrow \Lambda_{\mathrm{m}} = \frac{\kappa (\mathrm{S\ m}^{-1}) \times 10^{-3}}{M} \mathrm{mol}^{-1}\ \mathrm{m}^3 \qquad \text{.....(9.8)}
 \]
 
 The above relation defines the molar conductance in terms of the specific conductance and the concentration of the electrolyte.
@@ -162,7 +162,11 @@ Calculate the molar conductance of \( 0.025\ \mathrm{M} \) aqueous solution of c
 \[
 = 481.6 \times 10^{-5}\ \mathrm{S\ m}^2 \mathrm{mol}^{-1}
 \]
-![](img9.3.png)
+
+>**Evaluate yourself : 1** 
+>
+>
+>Calculate the molar conductance of $0.01\text{ M}$ aqueous $\text{KCl}$ solution at $25^\circ\text{C}$. The specific conductance of $\text{KCl}$ at $25^\circ\text{C}$ is $14.114 \times 10^{-2}\text{ S m}^{-1}$.
 #### 9.1.2 Equivalent conductance \( (\Lambda) \)
 
 Equivalent conductance is defined as the conductance of \( 'V'\ \mathrm{m}^3 \) of electrolytic solution containing one gram equivalent of electrolyte in a conductivity cell in which the electrodes are one metre apart.
@@ -170,12 +174,41 @@ Equivalent conductance is defined as the conductance of \( 'V'\ \mathrm{m}^3 \) 
 The relation between the equivalent conductance and the specific conductance is given below.
 
 \[
-\Lambda = \frac{\kappa (\mathrm{S\ m}^{-1}) \times 10^{-3} (\text{gram equivalent})^{-1}\ \mathrm{m}^3}{N} \qquad \text{(9.9)}
+\Lambda = \frac{\kappa (\mathrm{S\ m}^{-1}) \times 10^{-3} (\text{gram equivalent})^{-1}\ \mathrm{m}^3}{N} \qquad \text{.....(9.9)}
 \]
 
 Where \( \kappa \) is the specific conductance and \( N \) is the concentration of the electrolytic solution expressed in normality.
 
-![](ey2.png)
+>### Evaluate yourself : 2
+>
+>The resistance of 0.15N solution of an electrolyte is $50\ \Omega$. The specific conductance of the solution is $2.4\text{ Sm}^{-1}$. The resistance of 0.5 N solution of the same electrolyte measured using the same conductivity cell is $480\ \Omega$. Find the equivalent conductivity of 0.5 N solution of the electrolyte.
+>
+>Given that
+>
+ >$R_1 = 50\ \Omega$  $R_2 = 480\ \Omega$ 
+ $\kappa_1 = 2.4\text{ Sm}^{-1}$  $\kappa_2 = ?$ 
+ $N_1 = 0.15\text{ N}$  $N_2 = 0.5\text{ N}$ 
+>
+><br>
+>$$\Lambda = \frac{\kappa_2 \text{ (Sm}^{-1}\text{)} \times 10^{-3} \text{ (gram equivalent)}^{-1}\text{ m}^3}{N}$$
+>
+>
+>$$= \frac{0.25 \times 10^{-3}\text{ S (gram equivalent)}^{-1}\text{ m}^2}{0.5}$$
+>
+>$$\Lambda = 5 \times 10^{-4}\text{ Sm}^2\text{ gram equivalent}^{-1}$$
+>
+>
+>$$\text{we know that}$$
+>
+>$$\kappa = \frac{\text{Cell constant}}{R}$$
+>
+>$$\therefore \frac{\kappa_2}{\kappa_1} = \frac{R_1}{R_2}$$
+>
+>$$\kappa_2 = \kappa_1 \times \frac{R_1}{R_2}$$
+>
+>$$= 2.4\text{ Sm}^{-1} \times \frac{50\ \Omega}{480\ \Omega}$$
+>
+>$$= 0.25\text{ Sm}^{-1}$$
 
 #### 9.1.3 Factors affecting electrolytic conductance
 
@@ -205,9 +238,9 @@ Under balanced condition,
 
 \[
 \therefore R = \frac{P}{Q} \times S
+\qquad \text{.....(9.10)}
 \]
-![](img9.4.png)
-<center>Fig 9.3 Schematic diagram of a conductivity cell in a wheatstone bridge circuit</center>
+![Fig 9.3 Schematic diagram of a conductivity cell in a wheatstone bridge circuit](img9.4.png)
 
 The resistance of the electrolytic solution (R) is calculated from the known resistance values P, Q and the measured 'S' value under balanced condition using the above expression (9.10).
 
@@ -230,11 +263,7 @@ Given that
 \[
 \kappa = 1.3\ \mathrm{S\ m}^{-1} \text{ (for } 0.1\ \mathrm{M\ KCl\ solution)}
 \]
-
-\[
-R = 190\ \Omega
-\]
-
+$$R = 190\ \Omega$$
 \[
 \left(\frac{l}{A}\right) = \kappa \cdot R = (1.3\ \mathrm{S\ m}^{-1})(190\ \Omega) = 247\ \mathrm{m}^{-1}
 \]
@@ -259,7 +288,7 @@ Friedrich Kohlrausch studied the molar conductance of different electrolytes at 
 Based on the above such results, Kohlrausch deduced the following empirical relationship between the molar conductance \( (\Lambda_{\mathrm{m}}) \) and the concentration of the electrolyte (C).
 
 \[
-\Lambda_{\mathrm{m}} = \Lambda_{\mathrm{m}}^{*} - k\sqrt{C} \qquad \text{(9.11)}
+\Lambda_{\mathrm{m}} = \Lambda_{\mathrm{m}}^{^\circ} - k\sqrt{C} \qquad \text{.....(9.11)}
 \]
 
 The above equation represents a straight line of the form \( y = mx + c \). Hence, the plot of \( \Lambda_{\mathrm{m}} \) Vs \( \sqrt{C} \) gives a straight line with a negative slope of -k and the y intercept, \( \Lambda_{\mathrm{m}}^{*} \). Where \( \Lambda_{\mathrm{m}}^{*} \) is called the limiting molar conductivity. i.e., the molar conductance approaches a limiting value in very dilute solutions.
@@ -267,8 +296,9 @@ The above equation represents a straight line of the form \( y = mx + c \). Henc
 For strong electrolytes such as KCl, NaCl etc., the plot, \( \Lambda_{\mathrm{m}} \) Vs \( \sqrt{C} \), gives a straight line as shown in the graph (9.4). It is also observed that the plot is not a linear one for weak electrolytes.
 
 For a strong electrolyte, at high concentration, the number of constituent ions of the electrolyte in a given volume is high and hence the attractive force between the oppositely charged ions is also high. Moreover the ions also experience a viscous drag due to greater solvation. These factors attribute for the low molar conductivity at high concentration. When the dilution increases, the ions are far apart and the attractive forces decrease.
-![](img9.6.png)
-<center>Figure 9.4 Variation of molar conductance with concentration</center>
+![Figure 9.4 Variation of molar
+conductance with concentration](img9.6.png)
+
 
 
 At infinite dilution the ions are so far apart, the interaction between them becomes insignificant and hence, the molar conductivity increases and reaches a maximum value at infinite dilution.
@@ -280,13 +310,13 @@ For a weak electrolyte, at high concentration, the plot is almost parallel to co
 We have learnt that at infinite dilution, the interaction between the ions in the electrolyte solution is negligible. Except this condition, electrostatic interaction between the ions alters the properties of the solution from those expected from the free-ions value. The influence of ion-ion interactions on the conductivity of strong electrolytes was studied by Debye and Huckel. They considered that each ion is surrounded by an ionic atmosphere of opposite sign, and derived an expression relating the molar conductance of strong electrolytes with the concentration by assuming complete dissociation. Later, the equation was further developed by Onsager. For a uni-univalent electrolyte the Debye Huckel and Onsager equation is given below.
 
 \[
-\Lambda_{\mathrm{m}} = \Lambda_{\mathrm{m}}^{0} - \left(A + B\Lambda_{\mathrm{m}}^{0}\right)\sqrt{C} \qquad \text{(9.12)}
+\Lambda_{\mathrm{m}} = \Lambda_{\mathrm{m}}^{0} - \left(A + B\Lambda_{\mathrm{m}}^{0}\right)\sqrt{C} \qquad \text{.....(9.12)}
 \]
 
 Where A and B are the constants which depend only on the nature of the solvent and temperature. The expression for A and B are
 
 \[
-A = \frac{82.4}{\sqrt{DT}\eta}; \quad B = \frac{8.20 \times 10^{5}}{\sqrt{DT}}
+A = \frac{82.4}{\sqrt{DT}\eta}; \quad B = \frac{8.20 \times 10^{5}}{\sqrt[3]{DT}}
 \]
 
 Here, D is the dielectric constant of the medium, \( \eta \) the viscosity of the medium and T the temperature in Kelvin.
@@ -304,7 +334,7 @@ For a uni-univalent electrolyte such as NaCl, the Kohlrausch's law is expressed 
 In general, according to Kohlrausch's law, the molar conductivity at infinite dilution for a electrolyte represented by the formula \( \mathrm{A}_x \mathrm{B}_y \), is given below.
 
 \[
-(\Lambda_{\mathrm{m}}^{0})_{\mathrm{A_x B_y}} = x(\lambda_{\mathrm{m}}^{0})_{\mathrm{A}^{y+}} + y(\lambda_{\mathrm{m}}^{0})_{\mathrm{B}^{x-}} \qquad \text{(9.13)}
+(\Lambda_{\mathrm{m}}^{0})_{\mathrm{A_x B_y}} = x(\lambda_{\mathrm{m}}^{0})_{\mathrm{A}^{y+}} + y(\lambda_{\mathrm{m}}^{0})_{\mathrm{B}^{x-}} \qquad \text{.....(9.13)}
 \]
 
 Kohlrausch arrived at the above mentioned relationship based on the experimental observations such as the one as shown in the table. These result show that at infinite dilution each constituent ion of the electrolyte makes a definite contribution towards the molar conductance of the electrolyte irrespective of nature of other ion with which it is associated.
@@ -362,13 +392,13 @@ Equation (1) + Equation (2) - Equation (3) gives,
 The degree of dissociation of weak electrolyte can be calculated from the molar conductivity at a given concentration and the molar conductivity at infinite dilution using the following expression
 
 \[
-\alpha = \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}} \qquad \text{(9.14)}
+\alpha = \frac{\Lambda_{\mathrm{m}}}{\Lambda_{\mathrm{m}}^{\circ}} \qquad \text{....(9.14)}
 \]
 
 Calculation of dissociation constant using \( \Lambda_{\mathrm{m}} \) values. According to Ostwald dilution Law,
 
 \[
-K_a = \frac{\alpha^2 C}{(1 - \alpha)} \qquad \text{(9.15)}
+K_a = \frac{\alpha^2 C}{(1 - \alpha)} \qquad \text{.....(9.15)}
 \]
 
 Substitute \( \alpha \) value in the above expression (9.15)
