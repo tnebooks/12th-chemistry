@@ -37,7 +37,7 @@ $$
 
 Almost all carbohydrates are optically active as they have one or more chiral carbons. The number of optical isomers depends on the number of chiral carbons ( \(2^{n}\) isomers, where n is the total number of chiral carbons). We have already learnt in XI standard to represent an organic compound using Fischer projection formula. Fischer has devised a projection formula to relate the structure of a carbohydrate to one of the two enantiomeric forms of glyceraldehyde (Figure 14.2). Based on these structures, carbohydrates are named as D or L. The carbohydrates are usually named with two prefixes namely D or L and followed by sign either \((+)\) or \((-)\). Carbohydrates are assigned the notation (D/L) by comparing the configuration of the carbon that is attached to \(-CH_2OH\) group with that of glyceraldehyde. For example D-glucose is so named because the H and OH on C5 carbon are in the same configuration as the H and OH on C2 carbon in D-Glyceraldehyde.
 
-The \(+\) and \(-\) sign indicates the dextrorotatory and levorotatory respectively. Dextrorotatory compounds rotate the plane of plane polarised light in clockwise direction while the levorotatory compounds rotate in anticlockwise direction. The D or L isomers can either be dextro or levo rotatory compounds. Dextrorotatory compounds are represented as \(D-(+)\) or \(L-(+)\) and the levorotatory compounds as \(D-(-)\) or \(L-(-)\).
+There \(+\) and \(-\) sign indicates the dextrorotatory and levorotatory respectively. Dextrorotatory compounds rotate the plane of plane polarised light in clockwise direction while the levorotatory compounds rotate in anticlockwise direction. The D or L isomers can either be dextro or levo rotatory compounds. Dextrorotatory compounds are represented as \(D-(+)\) or \(L-(+)\) and the levorotatory compounds as \(D-(-)\) or \(L-(-)\).
 
 ![](2.png)
 
@@ -110,7 +110,7 @@ Glucose is an aldohexose. It is optically active with four asymmetric carbons. I
 
 7. Glucose is a stable compound and does not undergo dehydration easily. It indicates that not more than one hydroxyl group is bonded to a single carbon atom. Thus the five hydroxyl groups are attached to five different carbon atoms and the sixth carbon is an aldehyde group.
 
-8. The exact spatial arrangement of -OH groups was given by Emil Fischer as shown in Figure 14.4. The glucose is referred to as \(D(+)\) glucose as it has D configuration and is dextrorotatory.
+8. The exact spacial arrangement of -OH groups was given by Emil Fischer as shown in Figure 14.4. The glucose is referred to as \(D(+)\) glucose as it has D configuration and is dextrorotatory.
 
 **Cyclic structure of glucose**
 
@@ -168,7 +168,7 @@ Similar to glucose the structure of fructose is deduced from the following facts
 ![](12.png)
 7. On oxidation with nitric acid, it gives glycollic acid and tartaric acids which contain smaller number of carbon atoms than in fructose.
 ![](13.png)
-This shows that a keto group is present in C-2. It also shows that 1O alcoholic groups are present at C- 1 and C- 6. Based on these evidences, the following structure is proposed for fructose (Figure 14-7) 
+This shows that a keto group is present in C-2. It also shows that $1^0$ alcoholic groups are present at C- 1 and C- 6. Based on these evidences, the following structure is proposed for fructose (Figure 14-7) 
 ![](14.png)
 
 #### Cyclic structure of fructose
@@ -181,7 +181,7 @@ saccharide as in sucrose, it usually occurs in furanose form.
 
 #### 14.1.5 Disaccharides
 
-Disaccharides are sugars that yield two molecules of monosaccharides on hydrolysis. This reaction is usually catalysed by dilute acid or enzyme. Disaccharides have general formula \(C_n(H_2O)_{n-1}\). In disaccharides two monosaccharides are linked by oxide linkage called 'glycosidic linkage', which is formed by the reaction of the anomeric carbon of one monosaccharide with a hydroxyl group of another monosaccharide.
+Disaccharides are sugars that yield two molecules of monosaccharides on hydrolysis. This reaction is usually catalysed by dilute acid or enzyme. Disaccharides have general formula \(C_n(H_2O)_{n-1}\). In disaccharides two monosaccharides are linked by oxide linkage called 'glycosidic linkage', which is formed by the reaction of the anomeric carbon of one monosaccharide reacts with a hydroxyl group of another monosaccharide.
 
 Example: Sucrose, Lactose, Maltose
 
@@ -218,7 +218,7 @@ Polysaccharides are classified into two types, namely, homopolysaccharides and h
 
 **STARCH**
 
-Starch is used for energy storage in plants. Potatoes, corn, wheat and rice are the rich sources of starch. It is a polymer of glucose in which glucose molecules are linked by \(\alpha(1,4)\) glycosidic bonds. Starch can be separated into two fractions namely, water soluble amylose and water insoluble amylopectin. Starch contains about \(20\%\) of amylose and about \(80\%\) of amylopectin.
+Starch is used for energy storage in plants. Potatoes, corn, wheat and rice are the rich sources of starch. It is a polymer of glucose in which glucose molecules are linked by \(\alpha(1,4)\) glycosidic bonds. Starch can be separated into two fractions namely, water soluble amylose and water insoluble amylopectin. Starch contains about \(20\%\) of amylose and about \(80\%\) of amylocpectin.
 
 Amylose is composed of unbranched chains up to 4000 \(\alpha\)-D-glucose molecules joined by \(\alpha(1,4)\) glycosidic bonds. Amylopectin contains chains up to 10000 \(\alpha\)-D-glucose molecules linked by \(\alpha(1,4)\) glycosidic bonds. In addition, there is a branching from linear chain. At branch points, new chains of 24 to 30 glucose molecules are linked by \(\alpha(1,6)\) glycosidic bonds. With iodine solution amylose gives blue colour while amylopectin gives a purple colour.
 
@@ -343,7 +343,7 @@ Some proteins are made up of more than one polypeptide chains. For example, the 
 
 Each protein has a unique three-dimensional structure formed by interactions such as disulphide bond, hydrogen bond, hydrophobic and electrostatic interactions. These interactions can be disturbed when the protein is exposed to a higher temperature, by adding certain chemicals such as urea, alteration of pH and ionic strength etc., It leads to the loss of the three-dimensional structure partially or completely. The process of losing its higher order structure without losing the primary structure, is called denaturation. When a protein denatures, its biological function is also lost.
 
-Since the primary structure is intact, this process can be reversed in certain proteins. This can happen spontaneously upon restoring the original conditions or with the help of special enzymes called chaperons (proteins that help proteins to fold correctly).
+Since the primary structure is intact, this process can be reversed in certain proteins. This can happen spontaneously upon restoring the original conditions or with the help of special enzymes called cheperons (proteins that help proteins to fold correctly).
 
 Example: coagulation of egg white by action of heat.
 
@@ -411,7 +411,7 @@ Vitamins are classified into two groups based on their solubility either in wate
 
 **Fat soluble vitamins:** These vitamins are absorbed best when taken with fatty food and are stored in fatty tissues and livers. These vitamins do not dissolve in water. Hence they are called fat-soluble vitamins. Vitamin A, D, E & K are fat-soluble vitamins.
 
-**Water soluble vitamins:** Vitamins B (\(B_1, B_2, B_3, B_5, B_6, B_7, B_9\) and \(B_{12}\)) and C are readily soluble in water. On the contrary to fat soluble vitamins, these can't be stored. The excess vitamins present will be excreted through urine and are not stored in our body. Hence, these vitamins should be supplied regularly to our body. The missing numbers in B vitamins are once considered as vitamins but no longer considered as such, and the numbers that were assigned to them now form the gaps.
+**Water soluble vitamins:** Vitamins B (\(B_1, B_2, B_3, B_5, B_6, B_7, B_9\) and \(B_{12}\)) and C are readily soluble in water. On the contrary to fat soluble vitamins, these can't be stored. The excess vitamins present will be excreted through urine and are not stored in our body. Hence, these two vitamins should be supplied regularly to our body. The missing numbers in B vitamins are once considered as vitamins but no longer considered as such, and the numbers that were assigned to them now form the gaps.
 
 **Table 14.2: Vitamins, their Sources, Functions and their Deficiency disease**
 
@@ -518,9 +518,9 @@ mRNA is present in small quantity and very short lived. They are single stranded
 
 **DNA finger printing**
 
-Traditionally, one of the most accurate methods for placing an individual at the scene of a crime has been a fingerprint. With the advent of recombinant DNA technology, a more powerful tool is now available: DNA fingerprinting (also called DNA typing or DNA profiling). It was first invented by Professor Sir Alec Jeffreys in 1984. The DNA fingerprint is unique for every person and can be extracted from traces of samples from blood, saliva, hair etc... By using this method we can detect the individual specific variation in human DNA.
+Traditionally, one of the most accurate methods for placing an individual at the scene of a crime has been a fingerprint. With the advent of recombinant DNA technology, a more powerful tool is now available: DNA fingerprinting is(also called DNA typing or DNA profiling). It was first invented by Professor Sir Alec Jeffreys in 1984. The DNA fingerprint is unique for every person and can be extracted from traces of samples from blood, saliva, hair etc... By using this method we can detect the individual specific variation in human DNA.
 
-In this method, the extracted DNA is cut at specific points along the strand with restriction enzymes resulting in the formation of DNA fragments of varying lengths which were analysed by technique called gel electrophoresis. This method separates the fragments based on their size. The gel containing the DNA fragments is then transferred to a nylon sheet using a technique called blotting. Then, the fragments will undergo autoradiography in which they were exposed to DNA probes (pieces of synthetic DNA that were made radioactive and that bound to the fragments). A piece of X-ray film was then exposed to the fragments, and a dark mark was produced at any point where a radioactive probe had become attached. The resultant pattern of marks could then be compared with other samples. DNA fingerprinting is based on slight sequence differences (usually single base-pair changes) between individuals. These methods are proving decisive in court cases worldwide.
+In this method, the extracted DNA is cut at specific points along the strand with restriction of enzymes resulting in the formation of DNA fragments of varying lengths which were analysed by technique called gel electrophoresis. This method separates the fragments based on their size. The gel containing the DNA fragments is then transferred to a nylon sheet using a technique called blotting. Then, the fragments will undergo autoradiography in which they were exposed to DNA probes (pieces of synthetic DNA that were made radioactive and that bound to the fragments). A piece of X-ray film was then exposed to the fragments, and a dark mark was produced at any point where a radioactive probe had become attached. The resultant pattern of marks could then be compared with other samples. DNA fingerprinting is based on slight sequence differences (usually single base-pair changes) between individuals. These methods are proving decisive in court cases worldwide.
 
 ![](38.png)
 
@@ -546,7 +546,7 @@ Adenosine \(3',5'\)-cyclic monophosphate (cyclic AMP; cAMP)
 
 ### 14.6 HORMONES
 
-Hormone is an organic substance (e.g. a peptide or a steroid) that is secreted by one tissue. It enters the blood stream and induces a physiological response (e.g. growth and metabolism) in other tissues. It is an intercellular signalling molecule. Virtually every process in a complex organism is regulated by one or more hormones: maintenance of blood pressure, blood volume and electrolyte balance, embryogenesis, hunger, eating behaviour, digestion - to name but a few. Endocrine glands, which are special groups of cells, make hormones. The major endocrine glands are the pituitary, pineal, thymus, thyroid, adrenal glands, and pancreas. In addition, men produce hormones in their testes and women produce them in their ovary. Chemically, hormones may be classified as either protein (e.g. insulin, epinephrine) or steroids (e.g. estrogen, androgen). Hormones are classified according to the distance over which they act as, endocrine, paracrine and autocrine hormones.
+Hormone is an organic substance (e.g. a peptide or a steroid) that is secreted by one tissue. It limits the blood stream and induces a physiological response (e.g. growth and metabolism) in other tissues. It is an intercellular signalling molecule. Virtually every process in a complex organism is regulated by one or more hormones: maintenance of blood pressure, blood volume and electrolyte balance, embryogenesis, hunger, eating behaviour, digestion - to name but a few. Endocrine glands, which are special groups of cells, make hormones. The major endocrine glands are the pituitary, pineal, thymus, thyroid, adrenal glands, and pancreas. In addition, men produce hormones in their testes and women produce them in their ovary. Chemically, hormones may be classified as either protein (e.g. insulin, epinephrine) or steroids (e.g. estrogen, androgen). Hormones are classified according to the distance over which they act as, endocrine, paracrine and autocrine hormones.
 
 **Endocrine hormones** act on cells distant from the site of their release. Example: insulin and epinephrine are synthesized and released in the bloodstream by specialized ductless endocrine glands.
 
