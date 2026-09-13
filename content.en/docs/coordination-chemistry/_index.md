@@ -6,7 +6,7 @@ weight: 5
 summary: "This unit explains the chemistry of coordination compounds, focusing on their nomenclature, structures, and Werner's theory. It describes Valence Bond Theory (VBT) and Crystal Field Theory (CFT) to understand the bonding, magnetic properties, and distinct colors of these complexes. The unit also highlights isomerism, stability, and the vital importance of coordination compounds in biological systems."
 ---
 
-![Alfred Werner 1866 –1919)](werner.png)
+![Alfred Werner (1866 –1919)](werner.png)
 
 
 Alfred Werner was a Swiss chemist who explained the bonding in coordination complexes. Werner proposed his coordination theory in 1893. It must be remembered that this imaginative theory was proposed before the electron had been discovered by J.J. Thompson
