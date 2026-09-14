@@ -1,6 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
 baseURL = 'http://0.0.0.0:1313/12th-chemistry/'
+title = '12th Chemistry'
 theme = 'design-system'
 
 # Needed for mermaid/katex shortcodes
@@ -31,3 +32,9 @@ title = '12th வேதியியல்'
 languageName = 'தமிழ்'
 contentDir = 'content.ta'
 weight = 2
+
+[params]
+  [[params.question_repositories]]
+    githubhandle = "tnedu"
+    name = "Competitive exams"
+    url = "/12th-chemistry_questions"
