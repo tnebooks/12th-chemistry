@@ -1,3 +1,4 @@
+
 ## 12th Chemistry
 
 ```sh
@@ -17,11 +18,11 @@ in Windows `Cmd`
 ```bash
 set QUESTIONS_FOLDER=%cd%\questions
 set PUBLIC_FOLDER=%cd%\public
-cd ..\design-system
+cd ..\design-system\
 npm i
 npm run watch
 ```
 
 ```bash
-hugo server  --themesDir ../ --disableFastRender
+hugoserver  --themesDir ../ --disableFastRender
 ```
